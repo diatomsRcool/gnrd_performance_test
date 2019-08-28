@@ -1,0 +1,3201 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:57:24.50841479-05:00",
+    "language": "eng",
+    "total_words": 5064,
+    "total_candidates": 915,
+    "total_names": 52
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Munidopsis polymorpha",
+      "name": "Munidopsis polymorpha",
+      "odds": 306423614874.48834,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 239,
+      "end": 260,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "107179",
+          "matchedName": "Munidopsis polymorpha Koelbel, 1892",
+          "matchedCanonical": "Munidopsis polymorpha",
+          "currentName": "Munidopsis polymorpha Koelbel, 1892",
+          "classificationPath": "Biota|Animalia|Arthropoda|Crustacea|Multicrustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis|Munidopsis polymorpha",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+          "classificationIDs": "1|2|1065|1066|845959|1071|1086|1089|1130|106670|106671|106685|562642|106836|107179",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4310661",
+            "matchedName": "Munidopsis polymorpha Koelbel, 1892",
+            "matchedCanonical": "Munidopsis polymorpha",
+            "currentName": "Munidopsis polymorpha Koelbel, 1892",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Galatheidae|Munidopsis|Munidopsis polymorpha",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|229|637|9657|2222638|4310661",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "390618",
+            "matchedName": "Munidopsis polymorpha",
+            "matchedCanonical": "Munidopsis polymorpha",
+            "currentName": "Munidopsis polymorpha",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis|Munidopsis polymorpha",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|169204|169205|736321|653857|494458|2976711|111607|390618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Patricia",
+      "name": "Patricia",
+      "odds": 347539.07755497075,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cia": 135.14676571842725
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 318,
+      "end": 326,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45888857",
+          "matchedName": "Patricia",
+          "matchedCanonical": "Patricia",
+          "currentName": "Patricia",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Papilionoidea|Nymphalidae|Patricia",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45841633|45847767|45888857",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45888857",
+            "matchedName": "Patricia",
+            "matchedCanonical": "Patricia",
+            "currentName": "Patricia",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Papilionoidea|Nymphalidae|Patricia",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45841633|45847767|45888857",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1907990",
+            "matchedName": "Patricia Fox, 1940",
+            "matchedCanonical": "Patricia",
+            "currentName": "Patricia Fox, 1940",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Nymphalidae|Patricia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|7017|1907990",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "847031",
+            "matchedName": "Patricia",
+            "matchedCanonical": "Patricia",
+            "currentName": "Patricia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Papilionoidea|Nymphalidae|Danainae|Ithomiini|Melinaeina|Patricia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|tribe|subtribe|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675118|358161|956921|809131|200612|847031",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Alda2§,",
+      "name": "Alda",
+      "odds": 896.7199562933679,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lda": 7.508153651023735
+          }
+        }
+      },
+      "start": 348,
+      "end": 355,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1396748",
+          "matchedName": "Alda Reuter, 1909",
+          "matchedCanonical": "Alda",
+          "currentName": "Alda Reuter, 1909",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Hemiptera|Capsidae|Alda",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|11584|116837|1396748",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4772741",
+            "matchedName": "Alda Reuter, 1909",
+            "matchedCanonical": "Alda",
+            "currentName": "Alda Reuter, 1909",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Alda",
+            "classificationRank": "kingdom|phylum|class|order|genus",
+            "classificationIDs": "1|54|216|809|4772741",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Alda,",
+      "name": "Alda",
+      "odds": 896.7199562933679,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lda": 7.508153651023735
+          }
+        }
+      },
+      "start": 1167,
+      "end": 1172,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1396748",
+          "matchedName": "Alda Reuter, 1909",
+          "matchedCanonical": "Alda",
+          "currentName": "Alda Reuter, 1909",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Hemiptera|Capsidae|Alda",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|11584|116837|1396748",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4772741",
+            "matchedName": "Alda Reuter, 1909",
+            "matchedCanonical": "Alda",
+            "currentName": "Alda Reuter, 1909",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Alda",
+            "classificationRank": "kingdom|phylum|class|order|genus",
+            "classificationIDs": "1|54|216|809|4772741",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Munidopsis polymorpha",
+      "name": "Munidopsis polymorpha",
+      "odds": 306423614874.48834,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1291,
+      "end": 1312,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "107179",
+          "matchedName": "Munidopsis polymorpha Koelbel, 1892",
+          "matchedCanonical": "Munidopsis polymorpha",
+          "currentName": "Munidopsis polymorpha Koelbel, 1892",
+          "classificationPath": "Biota|Animalia|Arthropoda|Crustacea|Multicrustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis|Munidopsis polymorpha",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+          "classificationIDs": "1|2|1065|1066|845959|1071|1086|1089|1130|106670|106671|106685|562642|106836|107179",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4310661",
+            "matchedName": "Munidopsis polymorpha Koelbel, 1892",
+            "matchedCanonical": "Munidopsis polymorpha",
+            "currentName": "Munidopsis polymorpha Koelbel, 1892",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Galatheidae|Munidopsis|Munidopsis polymorpha",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|229|637|9657|2222638|4310661",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "390618",
+            "matchedName": "Munidopsis polymorpha",
+            "matchedCanonical": "Munidopsis polymorpha",
+            "currentName": "Munidopsis polymorpha",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis|Munidopsis polymorpha",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|169204|169205|736321|653857|494458|2976711|111607|390618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Munidopsis polymorpha",
+      "name": "Munidopsis polymorpha",
+      "odds": 306423614874.48834,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          }
+        }
+      },
+      "start": 1697,
+      "end": 1718,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "107179",
+          "matchedName": "Munidopsis polymorpha Koelbel, 1892",
+          "matchedCanonical": "Munidopsis polymorpha",
+          "currentName": "Munidopsis polymorpha Koelbel, 1892",
+          "classificationPath": "Biota|Animalia|Arthropoda|Crustacea|Multicrustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis|Munidopsis polymorpha",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+          "classificationIDs": "1|2|1065|1066|845959|1071|1086|1089|1130|106670|106671|106685|562642|106836|107179",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4310661",
+            "matchedName": "Munidopsis polymorpha Koelbel, 1892",
+            "matchedCanonical": "Munidopsis polymorpha",
+            "currentName": "Munidopsis polymorpha Koelbel, 1892",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Galatheidae|Munidopsis|Munidopsis polymorpha",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|229|637|9657|2222638|4310661",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "390618",
+            "matchedName": "Munidopsis polymorpha",
+            "matchedCanonical": "Munidopsis polymorpha",
+            "currentName": "Munidopsis polymorpha",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis|Munidopsis polymorpha",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|169204|169205|736321|653857|494458|2976711|111607|390618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Anchialine habitats",
+      "name": "Anchialine habitats",
+      "odds": 54.99829335429975,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ine": 0.19400913826934718
+          },
+          "spEnd3": {
+            "ats": 2.5027178836745785
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 3888,
+      "end": 3907,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          }
+        }
+      },
+      "start": 6674,
+      "end": 6678,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Munidopsis polymorpha",
+      "name": "Munidopsis polymorpha",
+      "odds": 306423614874.48834,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          }
+        }
+      },
+      "start": 7116,
+      "end": 7137,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "107179",
+          "matchedName": "Munidopsis polymorpha Koelbel, 1892",
+          "matchedCanonical": "Munidopsis polymorpha",
+          "currentName": "Munidopsis polymorpha Koelbel, 1892",
+          "classificationPath": "Biota|Animalia|Arthropoda|Crustacea|Multicrustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis|Munidopsis polymorpha",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+          "classificationIDs": "1|2|1065|1066|845959|1071|1086|1089|1130|106670|106671|106685|562642|106836|107179",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4310661",
+            "matchedName": "Munidopsis polymorpha Koelbel, 1892",
+            "matchedCanonical": "Munidopsis polymorpha",
+            "currentName": "Munidopsis polymorpha Koelbel, 1892",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Galatheidae|Munidopsis|Munidopsis polymorpha",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|229|637|9657|2222638|4310661",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "390618",
+            "matchedName": "Munidopsis polymorpha",
+            "matchedCanonical": "Munidopsis polymorpha",
+            "currentName": "Munidopsis polymorpha",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis|Munidopsis polymorpha",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|169204|169205|736321|653857|494458|2976711|111607|390618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Munidopsis",
+      "name": "Munidopsis",
+      "odds": 127461.49242330735,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          }
+        }
+      },
+      "start": 7265,
+      "end": 7275,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45864889",
+          "matchedName": "Munidopsis",
+          "matchedCanonical": "Munidopsis",
+          "currentName": "Munidopsis",
+          "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Galatheoidea|Galatheidae|Munidopsis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841301|45841302|45842756|45843576|45864889",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45864889",
+            "matchedName": "Munidopsis",
+            "matchedCanonical": "Munidopsis",
+            "currentName": "Munidopsis",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Galatheoidea|Galatheidae|Munidopsis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841301|45841302|45842756|45843576|45864889",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2222638",
+            "matchedName": "Munidopsis Whiteaves, 1874",
+            "matchedCanonical": "Munidopsis",
+            "currentName": "Munidopsis Whiteaves, 1874",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Galatheidae|Munidopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|229|637|9657|2222638",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "111607",
+            "matchedName": "Munidopsis",
+            "matchedCanonical": "Munidopsis",
+            "currentName": "Munidopsis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|169204|169205|736321|653857|494458|2976711|111607",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 8043,
+      "end": 8047,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 8626,
+      "end": 8639,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          }
+        }
+      },
+      "start": 8742,
+      "end": 8746,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          }
+        }
+      },
+      "start": 9406,
+      "end": 9410,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 9468,
+      "end": 9472,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Munidopsis polymorpha",
+      "name": "Munidopsis polymorpha",
+      "odds": 306423614874.48834,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 9623,
+      "end": 9644,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "107179",
+          "matchedName": "Munidopsis polymorpha Koelbel, 1892",
+          "matchedCanonical": "Munidopsis polymorpha",
+          "currentName": "Munidopsis polymorpha Koelbel, 1892",
+          "classificationPath": "Biota|Animalia|Arthropoda|Crustacea|Multicrustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis|Munidopsis polymorpha",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+          "classificationIDs": "1|2|1065|1066|845959|1071|1086|1089|1130|106670|106671|106685|562642|106836|107179",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4310661",
+            "matchedName": "Munidopsis polymorpha Koelbel, 1892",
+            "matchedCanonical": "Munidopsis polymorpha",
+            "currentName": "Munidopsis polymorpha Koelbel, 1892",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Galatheidae|Munidopsis|Munidopsis polymorpha",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|229|637|9657|2222638|4310661",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "390618",
+            "matchedName": "Munidopsis polymorpha",
+            "matchedCanonical": "Munidopsis polymorpha",
+            "currentName": "Munidopsis polymorpha",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis|Munidopsis polymorpha",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|169204|169205|736321|653857|494458|2976711|111607|390618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha,",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 10129,
+      "end": 10143,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          }
+        }
+      },
+      "start": 10309,
+      "end": 10322,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          }
+        }
+      },
+      "start": 10463,
+      "end": 10467,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 14292,
+      "end": 14296,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 14516,
+      "end": 14529,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          }
+        }
+      },
+      "start": 15349,
+      "end": 15362,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 16782,
+      "end": 16795,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          }
+        }
+      },
+      "start": 17120,
+      "end": 17124,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          }
+        }
+      },
+      "start": 18848,
+      "end": 18852,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 19281,
+      "end": 19294,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 19410,
+      "end": 19414,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 20584,
+      "end": 20588,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 21840,
+      "end": 21853,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          }
+        }
+      },
+      "start": 22107,
+      "end": 22111,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 22360,
+      "end": 22364,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Munidopsis polymorpha",
+      "name": "Munidopsis polymorpha",
+      "odds": 306423614874.48834,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          }
+        }
+      },
+      "start": 22720,
+      "end": 22741,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "107179",
+          "matchedName": "Munidopsis polymorpha Koelbel, 1892",
+          "matchedCanonical": "Munidopsis polymorpha",
+          "currentName": "Munidopsis polymorpha Koelbel, 1892",
+          "classificationPath": "Biota|Animalia|Arthropoda|Crustacea|Multicrustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis|Munidopsis polymorpha",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+          "classificationIDs": "1|2|1065|1066|845959|1071|1086|1089|1130|106670|106671|106685|562642|106836|107179",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4310661",
+            "matchedName": "Munidopsis polymorpha Koelbel, 1892",
+            "matchedCanonical": "Munidopsis polymorpha",
+            "currentName": "Munidopsis polymorpha Koelbel, 1892",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Galatheidae|Munidopsis|Munidopsis polymorpha",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|229|637|9657|2222638|4310661",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "390618",
+            "matchedName": "Munidopsis polymorpha",
+            "matchedCanonical": "Munidopsis polymorpha",
+            "currentName": "Munidopsis polymorpha",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis|Munidopsis polymorpha",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|169204|169205|736321|653857|494458|2976711|111607|390618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "M. polymorpha collection",
+      "name": "M. polymorpha collection",
+      "odds": 17041932.337472536,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "ion": 0.02720345525733238
+          },
+          "ispLen": {
+            "10": 4.627930835174779
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 22804,
+      "end": 22828,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 23435,
+      "end": 23439,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha.",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          }
+        }
+      },
+      "start": 23550,
+      "end": 23564,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha,",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 23684,
+      "end": 23698,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Munidopsis",
+      "name": "Munidopsis",
+      "odds": 127461.49242330735,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 25394,
+      "end": 25404,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45864889",
+          "matchedName": "Munidopsis",
+          "matchedCanonical": "Munidopsis",
+          "currentName": "Munidopsis",
+          "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Galatheoidea|Galatheidae|Munidopsis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841301|45841302|45842756|45843576|45864889",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45864889",
+            "matchedName": "Munidopsis",
+            "matchedCanonical": "Munidopsis",
+            "currentName": "Munidopsis",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Galatheoidea|Galatheidae|Munidopsis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841301|45841302|45842756|45843576|45864889",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2222638",
+            "matchedName": "Munidopsis Whiteaves, 1874",
+            "matchedCanonical": "Munidopsis",
+            "currentName": "Munidopsis Whiteaves, 1874",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Galatheidae|Munidopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|229|637|9657|2222638",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "111607",
+            "matchedName": "Munidopsis",
+            "matchedCanonical": "Munidopsis",
+            "currentName": "Munidopsis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Anomura|Galatheoidea|Munidopsidae|Munidopsis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|169204|169205|736321|653857|494458|2976711|111607",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha,",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 25488,
+      "end": 25502,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          }
+        }
+      },
+      "start": 26742,
+      "end": 26746,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 26793,
+      "end": 26797,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          }
+        }
+      },
+      "start": 26848,
+      "end": 26852,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha.",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          }
+        }
+      },
+      "start": 27598,
+      "end": 27612,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 27788,
+      "end": 27792,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 28438,
+      "end": 28451,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Atla",
+      "name": "Atla",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tla": 2.5027178836745785
+          }
+        }
+      },
+      "start": 29361,
+      "end": 29365,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873024",
+          "matchedName": "Atla",
+          "matchedCanonical": "Atla",
+          "currentName": "Atla",
+          "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873024",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45843129|45850401|45850402|45873024",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3283958",
+            "matchedName": "Atla Savić \u0026 Tibell",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla Savić \u0026 Tibell",
+            "classificationPath": "Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|178|1043|4841|3283958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997236",
+            "matchedName": "Atla",
+            "matchedCanonical": "Atla",
+            "currentName": "Atla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota||Pezizomycotina|Leotiomyceta|Eurotiomycetes|Verrucariales|Verrucariaceae|Atla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|no rank|subphylum|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|1098854|971709|184550|346124|822362|525957|997236",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          }
+        }
+      },
+      "start": 30329,
+      "end": 30342,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 30495,
+      "end": 30508,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 30871,
+      "end": 30884,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha,",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 31125,
+      "end": 31139,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          }
+        }
+      },
+      "start": 31326,
+      "end": 31339,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha.",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 32197,
+      "end": 32211,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. polymorpha.",
+      "name": "M. polymorpha",
+      "odds": 1115601.128292282,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pha": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 32572,
+      "end": 32586,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

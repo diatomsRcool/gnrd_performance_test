@@ -1,0 +1,3200 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:03:57.937615326-05:00",
+    "language": "eng",
+    "total_words": 7950,
+    "total_candidates": 2001,
+    "total_names": 54
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Tursiops truncatus)",
+      "name": "Tursiops truncatus",
+      "odds": 983771274100.3058,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          }
+        }
+      },
+      "start": 338,
+      "end": 358,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchedName": "Tursiops truncatus (Montagu, 1821)",
+          "matchedCanonical": "Tursiops truncatus",
+          "currentName": "Tursiops truncatus (Montagu, 1821)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchedName": "Tursiops truncatus (Montagu, 1821)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440447",
+            "matchedName": "Tursiops truncatus (Gray, 1866)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440446|8882459",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "124230",
+            "matchedName": "Tursiops truncatus",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235|124230",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 33,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "SUSANA",
+      "name": "Susana",
+      "odds": 1100.524184074721,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          }
+        }
+      },
+      "start": 526,
+      "end": 532,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1416272",
+          "matchedName": "Susana Rohwer \u0026 Middleton, 1932",
+          "matchedCanonical": "Susana",
+          "currentName": "Susana Rohwer \u0026 Middleton, 1932",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Hymenoptera|Tenthredinidae|Susana",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10830|104910|1416272",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4681476",
+            "matchedName": "Susana Rohwer \u0026 Middleton, 1932",
+            "matchedCanonical": "Susana",
+            "currentName": "Susana Rohwer \u0026 Middleton, 1932",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Tenthredinidae|Susana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|7918|4681476",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "831257",
+            "matchedName": "Susana",
+            "matchedCanonical": "Susana",
+            "currentName": "Susana",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Tenthredinoidea|Tenthredinidae|Nematinae|Susana",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|789567|597938|934765|831257",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cascadia",
+      "name": "Cascadia",
+      "odds": 8159.812998149116,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "dia": 3.1730887453731267
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 915,
+      "end": 923,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46069454",
+          "matchedName": "Cascadia",
+          "matchedCanonical": "Cascadia",
+          "currentName": "Cascadia",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae|Cascadia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45841855|45850117|46069454",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46069454",
+            "matchedName": "Cascadia",
+            "matchedCanonical": "Cascadia",
+            "currentName": "Cascadia",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae|Cascadia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45841855|45850117|46069454",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7177551",
+            "matchedName": "Cascadia",
+            "matchedCanonical": "Cascadia",
+            "currentName": "Cascadia",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae|Cascadia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|7219248|2402|7177551",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "78737",
+            "matchedName": "Cascadia",
+            "matchedCanonical": "Cascadia",
+            "currentName": "Cascadia",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|Saxifragales|Saxifragaceae|Cascadia",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|648890|1035588|78737",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Moorea,",
+      "name": "Moorea",
+      "odds": 5676.036852409621,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "rea": 7.675001509935374
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1411,
+      "end": 1418,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "707457",
+          "matchedName": "Moorea Ahn, 2004",
+          "matchedCanonical": "Moorea",
+          "currentName": "Ianmoorea Ahn, 2006",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Pterygota|Coleoptera|Staphylinidae|Aleocharinae|Liparocephalini|Ianmoorea",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|subclass|order|family|subfamily|tribe|genus",
+          "classificationIDs": "1|2|1065|1278|1307|151152|118085|118093|391335|707368|707400",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7595502",
+            "matchedName": "Moorea",
+            "matchedCanonical": "Moorea",
+            "currentName": "Moorea",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Moorea",
+            "classificationRank": "kingdom|phylum|class|order|genus",
+            "classificationIDs": "1|54|353|1438|7595502",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1059837",
+            "matchedName": "Moorea",
+            "matchedCanonical": "Moorea",
+            "currentName": "Moorea",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Lyngbya|Moorea",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246933|5247949|878838|1059837",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Punta",
+      "name": "Punta",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 1510,
+      "end": 1515,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907309",
+          "matchedName": "Punta",
+          "matchedCanonical": "Punta",
+          "currentName": "Punta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907309",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1942684",
+            "matchedName": "Punta Evans, 1955",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta Evans, 1955",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6953|1942684",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4234052",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|336117|336118|4234052",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Noumea,",
+      "name": "Noumea",
+      "odds": 11105.289493844912,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mea": 15.01630730204747
+          }
+        }
+      },
+      "start": 1594,
+      "end": 1601,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "206191",
+          "matchedName": "Noumea Risbec, 1928",
+          "matchedCanonical": "Noumea",
+          "currentName": "Verconia Pruvot-Fol, 1931",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Heterobranchia|Euthyneura|Ringipleura|Nudipleura|Nudibranchia|Doridina|Doridoidei|Doridoidea|Chromodorididae|Verconia",
+          "classificationRank": "|Kingdom|phylum|class|subclass|subclass|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+          "classificationIDs": "1|2|51|101|14712|1057247|1057249|411966|1762|1052385|246038|173|23003|533937",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3244374",
+            "matchedName": "Noumea",
+            "matchedCanonical": "Noumea",
+            "currentName": "Noumea",
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Nudibranchia|Chromodorididae|Noumea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|52|225|980|7046|3244374",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "271736",
+            "matchedName": "Noumea",
+            "matchedCanonical": "Noumea",
+            "currentName": "Noumea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Mollusca|Gastropoda|Heterobranchia|Euthyneura|Nudipleura|Nudibranchia|Doridina|Eudoridoidea|Chromodorididae|Noumea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|subclass|no rank|no rank|order|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|802117|409995|178260|178262|1043841|76753|114091|204214|165260|271736",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Tursiops truncatus)",
+      "name": "Tursiops truncatus",
+      "odds": 983771274100.3058,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 1763,
+      "end": 1783,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchedName": "Tursiops truncatus (Montagu, 1821)",
+          "matchedCanonical": "Tursiops truncatus",
+          "currentName": "Tursiops truncatus (Montagu, 1821)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchedName": "Tursiops truncatus (Montagu, 1821)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440447",
+            "matchedName": "Tursiops truncatus (Gray, 1866)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440446|8882459",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "124230",
+            "matchedName": "Tursiops truncatus",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235|124230",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 33,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tursiops aduncus",
+      "name": "Tursiops aduncus",
+      "odds": 119309661600.25446,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 3650,
+      "end": 3666,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ce08b60f4b3302995238d7593d029151",
+          "matchedName": "Tursiops aduncus (Ehrenberg, 1833)",
+          "matchedCanonical": "Tursiops aduncus",
+          "currentName": "Tursiops aduncus (Ehrenberg, 1833)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops aduncus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|ce08b60f4b3302995238d7593d029151",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ce08b60f4b3302995238d7593d029151",
+            "matchedName": "Tursiops aduncus (Ehrenberg, 1833)",
+            "matchedCanonical": "Tursiops aduncus",
+            "currentName": "Tursiops aduncus (Ehrenberg, 1833)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops aduncus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|ce08b60f4b3302995238d7593d029151",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440455",
+            "matchedName": "Tursiops aduncus (Ehrenberg, 1833)",
+            "matchedCanonical": "Tursiops aduncus",
+            "currentName": "Tursiops aduncus (Ehrenberg, 1833)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops aduncus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440446|2440455",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "257323",
+            "matchedName": "Tursiops aduncus",
+            "matchedCanonical": "Tursiops aduncus",
+            "currentName": "Tursiops aduncus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops|Tursiops aduncus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235|257323",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Tursiops truncatus)",
+      "name": "Tursiops truncatus",
+      "odds": 983771274100.3058,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 4823,
+      "end": 4843,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchedName": "Tursiops truncatus (Montagu, 1821)",
+          "matchedCanonical": "Tursiops truncatus",
+          "currentName": "Tursiops truncatus (Montagu, 1821)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchedName": "Tursiops truncatus (Montagu, 1821)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440447",
+            "matchedName": "Tursiops truncatus (Gray, 1866)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440446|8882459",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "124230",
+            "matchedName": "Tursiops truncatus",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235|124230",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 33,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tursiops aduncus,",
+      "name": "Tursiops aduncus",
+      "odds": 119309661600.25446,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 5023,
+      "end": 5040,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ce08b60f4b3302995238d7593d029151",
+          "matchedName": "Tursiops aduncus (Ehrenberg, 1833)",
+          "matchedCanonical": "Tursiops aduncus",
+          "currentName": "Tursiops aduncus (Ehrenberg, 1833)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops aduncus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|ce08b60f4b3302995238d7593d029151",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ce08b60f4b3302995238d7593d029151",
+            "matchedName": "Tursiops aduncus (Ehrenberg, 1833)",
+            "matchedCanonical": "Tursiops aduncus",
+            "currentName": "Tursiops aduncus (Ehrenberg, 1833)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops aduncus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|ce08b60f4b3302995238d7593d029151",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440455",
+            "matchedName": "Tursiops aduncus (Ehrenberg, 1833)",
+            "matchedCanonical": "Tursiops aduncus",
+            "currentName": "Tursiops aduncus (Ehrenberg, 1833)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops aduncus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440446|2440455",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "257323",
+            "matchedName": "Tursiops aduncus",
+            "matchedCanonical": "Tursiops aduncus",
+            "currentName": "Tursiops aduncus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops|Tursiops aduncus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235|257323",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 5164,
+      "end": 5176,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "T. truncatus may",
+      "name": "T. truncatus may",
+      "odds": 14509439160.638689,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "ispLen": {
+            "3": 0.003572759291469777
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 5418,
+      "end": 5434,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 5631,
+      "end": 5643,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 7420,
+      "end": 7432,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. aduncus",
+      "name": "T. aduncus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          }
+        }
+      },
+      "start": 7498,
+      "end": 7508,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 7706,
+      "end": 7718,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. aduncus",
+      "name": "T. aduncus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 7807,
+      "end": 7817,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 7931,
+      "end": 7943,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 10621,
+      "end": 10633,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Tursiops truncatus)",
+      "name": "Tursiops truncatus",
+      "odds": 983771274100.3058,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 11234,
+      "end": 11254,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchedName": "Tursiops truncatus (Montagu, 1821)",
+          "matchedCanonical": "Tursiops truncatus",
+          "currentName": "Tursiops truncatus (Montagu, 1821)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchedName": "Tursiops truncatus (Montagu, 1821)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440447",
+            "matchedName": "Tursiops truncatus (Gray, 1866)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440446|8882459",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "124230",
+            "matchedName": "Tursiops truncatus",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235|124230",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 33,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 12097,
+      "end": 12109,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 14365,
+      "end": 14377,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 14766,
+      "end": 14778,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 15495,
+      "end": 15507,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. aduncus,",
+      "name": "T. aduncus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 18478,
+      "end": 18489,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 18628,
+      "end": 18640,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tursiops truncatus",
+      "name": "Tursiops truncatus",
+      "odds": 983771274100.3058,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 20236,
+      "end": 20254,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchedName": "Tursiops truncatus (Montagu, 1821)",
+          "matchedCanonical": "Tursiops truncatus",
+          "currentName": "Tursiops truncatus (Montagu, 1821)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchedName": "Tursiops truncatus (Montagu, 1821)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440447",
+            "matchedName": "Tursiops truncatus (Gray, 1866)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440446|8882459",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "124230",
+            "matchedName": "Tursiops truncatus",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235|124230",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 33,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Delphininae",
+      "name": "Delphininae",
+      "odds": 10451.207033271166,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nae": 42.54620402246783
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 22646,
+      "end": 22657,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "383345",
+          "matchedName": "Delphininae Le Duc, 1997",
+          "matchedCanonical": "Delphininae",
+          "currentName": "Delphininae Le Duc, 1997",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Mammalia|Theria|Cetartiodactyla|Cetancodonta|Cetacea|Odontoceti|Delphinidae|Delphininae",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|superclass|class|subclass|order|suborder|infraorder|superfamily|family|subfamily",
+          "classificationIDs": "1|2|1821|146419|1828|1831|1837|380416|370511|370545|2688|148723|136980|383345",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5835578",
+            "matchedName": "Delphininae",
+            "matchedCanonical": "Delphininae",
+            "currentName": "Delphininae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Delphininae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|subfamily",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|5835578",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Stenoninae,",
+      "name": "Stenoninae",
+      "odds": 7893.583631673039,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nae": 42.54620402246783
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 22773,
+      "end": 22784,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "383329",
+          "matchedName": "Stenoninae Le Duc, 1997",
+          "matchedCanonical": "Stenoninae",
+          "currentName": "Stenoninae Le Duc, 1997",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Gnathostomata|Tetrapoda|Mammalia|Theria|Cetartiodactyla|Cetancodonta|Cetacea|Odontoceti|Delphinidae|Stenoninae",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|superclass|class|subclass|order|suborder|infraorder|superfamily|family|subfamily",
+          "classificationIDs": "1|2|1821|146419|1828|1831|1837|380416|370511|370545|2688|148723|136980|383329",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5835577",
+            "matchedName": "Stenoninae",
+            "matchedCanonical": "Stenoninae",
+            "currentName": "Stenoninae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Stenoninae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|subfamily",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|5835577",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Steno bredanensis;",
+      "name": "Steno bredanensis",
+      "odds": 57457587247.388214,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 22810,
+      "end": 22829,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d74feb06e2f90b07584650f37dec6553",
+          "matchedName": "Steno bredanensis (G. Cuvier in Lesson, 1828)",
+          "matchedCanonical": "Steno bredanensis",
+          "currentName": "Steno bredanensis (G. Cuvier in Lesson, 1828)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Steno|Steno bredanensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45879408|d74feb06e2f90b07584650f37dec6553",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d74feb06e2f90b07584650f37dec6553",
+            "matchedName": "Steno bredanensis (G. Cuvier in Lesson, 1828)",
+            "matchedCanonical": "Steno bredanensis",
+            "currentName": "Steno bredanensis (G. Cuvier in Lesson, 1828)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Steno|Steno bredanensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45879408|d74feb06e2f90b07584650f37dec6553",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440433",
+            "matchedName": "Steno bredanensis (G. Cuvier in Lesson, 1828)",
+            "matchedCanonical": "Steno bredanensis",
+            "currentName": "Steno bredanensis (G. Cuvier in Lesson, 1828)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Steno|Steno bredanensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440432|2440433",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "593889",
+            "matchedName": "Steno bredanensis",
+            "matchedCanonical": "Steno bredanensis",
+            "currentName": "Steno bredanensis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Steno|Steno bredanensis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|225361|593889",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 29,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial(nlp)",
+      "verbatim": "Zealand populations revealed",
+      "name": "Zealand populations revealed",
+      "start": 26680,
+      "end": 26708,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Steno bredanensis).",
+      "name": "Steno bredanensis",
+      "odds": 57457587247.388214,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 27900,
+      "end": 27920,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d74feb06e2f90b07584650f37dec6553",
+          "matchedName": "Steno bredanensis (G. Cuvier in Lesson, 1828)",
+          "matchedCanonical": "Steno bredanensis",
+          "currentName": "Steno bredanensis (G. Cuvier in Lesson, 1828)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Steno|Steno bredanensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45879408|d74feb06e2f90b07584650f37dec6553",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d74feb06e2f90b07584650f37dec6553",
+            "matchedName": "Steno bredanensis (G. Cuvier in Lesson, 1828)",
+            "matchedCanonical": "Steno bredanensis",
+            "currentName": "Steno bredanensis (G. Cuvier in Lesson, 1828)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Steno|Steno bredanensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45879408|d74feb06e2f90b07584650f37dec6553",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440433",
+            "matchedName": "Steno bredanensis (G. Cuvier in Lesson, 1828)",
+            "matchedCanonical": "Steno bredanensis",
+            "currentName": "Steno bredanensis (G. Cuvier in Lesson, 1828)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Steno|Steno bredanensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440432|2440433",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "593889",
+            "matchedName": "Steno bredanensis",
+            "matchedCanonical": "Steno bredanensis",
+            "currentName": "Steno bredanensis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Steno|Steno bredanensis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|225361|593889",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 29,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tursiops truncatus",
+      "name": "Tursiops truncatus",
+      "odds": 983771274100.3058,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 29324,
+      "end": 29342,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchedName": "Tursiops truncatus (Montagu, 1821)",
+          "matchedCanonical": "Tursiops truncatus",
+          "currentName": "Tursiops truncatus (Montagu, 1821)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchedName": "Tursiops truncatus (Montagu, 1821)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440447",
+            "matchedName": "Tursiops truncatus (Gray, 1866)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440446|8882459",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "124230",
+            "matchedName": "Tursiops truncatus",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235|124230",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 33,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 32636,
+      "end": 32648,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tursiops truncatus",
+      "name": "Tursiops truncatus",
+      "odds": 983771274100.3058,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 33829,
+      "end": 33847,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchedName": "Tursiops truncatus (Montagu, 1821)",
+          "matchedCanonical": "Tursiops truncatus",
+          "currentName": "Tursiops truncatus (Montagu, 1821)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchedName": "Tursiops truncatus (Montagu, 1821)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440447",
+            "matchedName": "Tursiops truncatus (Gray, 1866)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440446|8882459",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "124230",
+            "matchedName": "Tursiops truncatus",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235|124230",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 33,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tursiops truncatus",
+      "name": "Tursiops truncatus",
+      "odds": 983771274100.3058,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 37358,
+      "end": 37376,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchedName": "Tursiops truncatus (Montagu, 1821)",
+          "matchedCanonical": "Tursiops truncatus",
+          "currentName": "Tursiops truncatus (Montagu, 1821)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchedName": "Tursiops truncatus (Montagu, 1821)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440447",
+            "matchedName": "Tursiops truncatus (Gray, 1866)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440446|8882459",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "124230",
+            "matchedName": "Tursiops truncatus",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235|124230",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 33,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 40373,
+      "end": 40385,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 41782,
+      "end": 41794,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tursiops",
+      "name": "Tursiops",
+      "odds": 16936.602220027817,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          }
+        }
+      },
+      "start": 42011,
+      "end": 42019,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45894219",
+          "matchedName": "Tursiops",
+          "matchedCanonical": "Tursiops",
+          "currentName": "Tursiops",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45894219",
+            "matchedName": "Tursiops",
+            "matchedCanonical": "Tursiops",
+            "currentName": "Tursiops",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440446",
+            "matchedName": "Tursiops Gervais, 1855",
+            "matchedCanonical": "Tursiops",
+            "currentName": "Tursiops Gervais, 1855",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|733|5314|2440446",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "124235",
+            "matchedName": "Tursiops",
+            "matchedCanonical": "Tursiops",
+            "currentName": "Tursiops",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 42923,
+      "end": 42935,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tursiops truncatus",
+      "name": "Tursiops truncatus",
+      "odds": 983771274100.3058,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          }
+        }
+      },
+      "start": 44266,
+      "end": 44284,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchedName": "Tursiops truncatus (Montagu, 1821)",
+          "matchedCanonical": "Tursiops truncatus",
+          "currentName": "Tursiops truncatus (Montagu, 1821)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchedName": "Tursiops truncatus (Montagu, 1821)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440447",
+            "matchedName": "Tursiops truncatus (Gray, 1866)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440446|8882459",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "124230",
+            "matchedName": "Tursiops truncatus",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235|124230",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 33,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 45267,
+      "end": 45279,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Delphinus delphis",
+      "name": "Delphinus delphis",
+      "odds": 1035017.4932302953,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "his": 0.08833121942380866
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 45367,
+      "end": 45385,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "53f82736e0e55a75583156a10dc0770e",
+          "matchedName": "Delphinus delphis Linnaeus, 1758",
+          "matchedCanonical": "Delphinus delphis",
+          "currentName": "Delphinus delphis Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Delphinus|Delphinus delphis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45868952|53f82736e0e55a75583156a10dc0770e",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "53f82736e0e55a75583156a10dc0770e",
+            "matchedName": "Delphinus delphis Linnaeus, 1758",
+            "matchedCanonical": "Delphinus delphis",
+            "currentName": "Delphinus delphis Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Delphinus|Delphinus delphis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45868952|53f82736e0e55a75583156a10dc0770e",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8324617",
+            "matchedName": "Delphinus delphis Linnaeus, 1758",
+            "matchedCanonical": "Delphinus delphis",
+            "currentName": "Delphinus delphis Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Delphinus|Delphinus delphis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440326|8324617",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "698438",
+            "matchedName": "Delphinus delphis",
+            "matchedCanonical": "Delphinus delphis",
+            "currentName": "Delphinus delphis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Delphinus|Delphinus delphis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|698409|698438",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 30,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Delphinus capensis),",
+      "name": "Delphinus capensis",
+      "odds": 1014277505.7190069,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 45390,
+      "end": 45410,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "adb751e86a7ef952a39bde8b37e6c514",
+          "matchedName": "Delphinus capensis Gray, 1828",
+          "matchedCanonical": "Delphinus capensis",
+          "currentName": "Delphinus capensis Gray, 1828",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Delphinus|Delphinus capensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45868952|adb751e86a7ef952a39bde8b37e6c514",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "adb751e86a7ef952a39bde8b37e6c514",
+            "matchedName": "Delphinus capensis Gray, 1828",
+            "matchedCanonical": "Delphinus capensis",
+            "currentName": "Delphinus capensis Gray, 1828",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Delphinus|Delphinus capensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45868952|adb751e86a7ef952a39bde8b37e6c514",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7664921",
+            "matchedName": "Delphinus capensis G. Cuvier, 1829",
+            "matchedCanonical": "Delphinus capensis",
+            "currentName": "Cephalorhynchus heavisidii (Gray, 1828)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Cephalorhynchus|Cephalorhynchus heavisidii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440509|5220041",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1094064",
+            "matchedName": "Delphinus capensis",
+            "matchedCanonical": "Delphinus capensis",
+            "currentName": "Delphinus capensis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Delphinus|Delphinus capensis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|698409|1094064",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. aduncus",
+      "name": "T. aduncus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 45603,
+      "end": 45613,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 45656,
+      "end": 45668,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tursiops truncatus",
+      "name": "Tursiops truncatus",
+      "odds": 983771274100.3058,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 45678,
+      "end": 45696,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchedName": "Tursiops truncatus (Montagu, 1821)",
+          "matchedCanonical": "Tursiops truncatus",
+          "currentName": "Tursiops truncatus (Montagu, 1821)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchedName": "Tursiops truncatus (Montagu, 1821)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440447",
+            "matchedName": "Tursiops truncatus (Gray, 1866)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440446|8882459",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "124230",
+            "matchedName": "Tursiops truncatus",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235|124230",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 33,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 46462,
+      "end": 46474,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 46496,
+      "end": 46508,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Stenella longirostris longirostris).",
+      "name": "Stenella longirostris longirostris",
+      "odds": 12206743918624023000,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispEnd3": {
+            "ris": 65.07066497553905
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "ispLen": {
+            "12": 5.998577784680339
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          }
+        }
+      },
+      "start": 46888,
+      "end": 46925,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2960221436504ca064a49aae33e03dc7",
+          "matchedName": "Stenella longirostris longirostris (Gray, 1828)",
+          "matchedCanonical": "Stenella longirostris longirostris",
+          "currentName": "Stenella longirostris longirostris (Gray, 1828)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Stenella||Stenella longirostris longirostris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2960221436504ca064a49aae33e03dc7",
+            "matchedName": "Stenella longirostris longirostris (Gray, 1828)",
+            "matchedCanonical": "Stenella longirostris longirostris",
+            "currentName": "Stenella longirostris longirostris (Gray, 1828)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Stenella||Stenella longirostris longirostris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7059479",
+            "matchedName": "Stenella longirostris subsp. longirostris",
+            "matchedCanonical": "Stenella longirostris ssp. longirostris",
+            "currentName": "Stenella longirostris subsp. longirostris",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Stenella|Stenella longirostris|Stenella longirostris longirostris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|733|5314|2440546|5220060|7059479",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "155492",
+            "matchedName": "Stenella longirostris longirostris",
+            "matchedCanonical": "Stenella longirostris longirostris",
+            "currentName": "Stenella longirostris longirostris",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Stenella|Stenella longirostris|Stenella longirostris longirostris",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124223|124226|155492",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 47253,
+      "end": 47265,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus;",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 47875,
+      "end": 47888,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. truncatus",
+      "name": "T. truncatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 48702,
+      "end": 48714,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tursiops truncatus",
+      "name": "Tursiops truncatus",
+      "odds": 983771274100.3058,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 49602,
+      "end": 49620,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchedName": "Tursiops truncatus (Montagu, 1821)",
+          "matchedCanonical": "Tursiops truncatus",
+          "currentName": "Tursiops truncatus (Montagu, 1821)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchedName": "Tursiops truncatus (Montagu, 1821)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849136|45894219|5a97cc1e1ac71d45d276e12d8cdfd97d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440447",
+            "matchedName": "Tursiops truncatus (Gray, 1866)",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus (Montagu, 1821)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5314|2440446|8882459",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "124230",
+            "matchedName": "Tursiops truncatus",
+            "matchedCanonical": "Tursiops truncatus",
+            "currentName": "Tursiops truncatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Delphinidae|Tursiops|Tursiops truncatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|698406|124235|124230",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 33,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

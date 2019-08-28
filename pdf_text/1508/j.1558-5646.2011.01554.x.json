@@ -1,0 +1,1393 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:00:17.635516321-05:00",
+    "language": "eng",
+    "total_words": 8205,
+    "total_candidates": 1225,
+    "total_names": 22
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Sorex antinorii),",
+      "name": "Sorex antinorii",
+      "odds": 110440630243.21498,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rii": 37.54076825511868
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rex": 97.60599746330857
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 1113,
+      "end": 1131,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ecaa929b6c33d6752dae0583ff15ae56",
+          "matchedName": "Sorex (Sorex) antinorii Bonaparte, 1840",
+          "matchedCanonical": "Sorex antinorii",
+          "currentName": "Sorex (Sorex) antinorii Bonaparte, 1840",
+          "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex|Sorex antinorii",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45853386|45853389|45907800|ecaa929b6c33d6752dae0583ff15ae56",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ecaa929b6c33d6752dae0583ff15ae56",
+            "matchedName": "Sorex (Sorex) antinorii Bonaparte, 1840",
+            "matchedCanonical": "Sorex antinorii",
+            "currentName": "Sorex (Sorex) antinorii Bonaparte, 1840",
+            "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex|Sorex antinorii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45853386|45853389|45907800|ecaa929b6c33d6752dae0583ff15ae56",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435998",
+            "matchedName": "Sorex antinorii Bonaparte, 1840",
+            "matchedCanonical": "Sorex antinorii",
+            "currentName": "Sorex antinorii Bonaparte, 1840",
+            "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex|Sorex antinorii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|803|5534|2435935|2435998",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "64859",
+            "matchedName": "Sorex antinorii",
+            "matchedCanonical": "Sorex antinorii",
+            "currentName": "Sorex antinorii",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Insectivora|Soricidae|Soricinae|Sorex|Sorex antinorii",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|796664|226446|930682|226394|64859",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Vitalis",
+      "name": "Vitalis",
+      "odds": 7407.451085668007,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          }
+        }
+      },
+      "start": 5437,
+      "end": 5445,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1448111",
+          "matchedName": "Vitalis Fairmaire, 1892",
+          "matchedCanonical": "Vitalis",
+          "currentName": "Diastatotropis Lacordaire, 1866",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Anthribidae|Diastatotropis",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|101325|1253676",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8105328",
+            "matchedName": "Vitalis",
+            "matchedCanonical": "Vitalis",
+            "currentName": "Vitalis",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Anthribidae|Vitalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|4206|8105328",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4605997",
+            "matchedName": "Vitalis",
+            "matchedCanonical": "Vitalis",
+            "currentName": "Vitalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Curculionoidea|Anthribidae|Vitalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765492|61017|4605997",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Crocidura russula)",
+      "name": "Crocidura russula",
+      "odds": 1440074739997.5637,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ura": 78.83561333574923
+          }
+        }
+      },
+      "start": 6766,
+      "end": 6785,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "8f9e91369c3c40c674d13412c96d9d95",
+          "matchedName": "Crocidura russula (Hermann, 1780)",
+          "matchedCanonical": "Crocidura russula",
+          "currentName": "Crocidura russula (Hermann, 1780)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Crocidura|Crocidura russula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45853386|45853389|45871508|8f9e91369c3c40c674d13412c96d9d95",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "8f9e91369c3c40c674d13412c96d9d95",
+            "matchedName": "Crocidura russula (Hermann, 1780)",
+            "matchedCanonical": "Crocidura russula",
+            "currentName": "Crocidura russula (Hermann, 1780)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Crocidura|Crocidura russula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45853386|45853389|45871508|8f9e91369c3c40c674d13412c96d9d95",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435654",
+            "matchedName": "Crocidura russula (Hermann, 1780)",
+            "matchedCanonical": "Crocidura russula",
+            "currentName": "Crocidura russula (Hermann, 1780)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Crocidura|Crocidura russula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|803|5534|2435528|2435654",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "809504",
+            "matchedName": "Crocidura russula",
+            "matchedCanonical": "Crocidura russula",
+            "currentName": "Crocidura russula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Insectivora|Soricidae|Crocidurinae|Crocidura|Crocidura russula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|796664|226446|930681|809501|809504",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Microtus arvalis)",
+      "name": "Microtus arvalis",
+      "odds": 1813841204933.0715,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 6989,
+      "end": 7007,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "795ba3747726317d2f8b246e1243aa5b",
+          "matchedName": "Microtus (Microtus) arvalis (Pallas, 1779)",
+          "matchedCanonical": "Microtus arvalis",
+          "currentName": "Microtus (Microtus) arvalis (Pallas, 1779)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Microtus|Microtus arvalis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45876268|795ba3747726317d2f8b246e1243aa5b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "795ba3747726317d2f8b246e1243aa5b",
+            "matchedName": "Microtus (Microtus) arvalis (Pallas, 1779)",
+            "matchedCanonical": "Microtus arvalis",
+            "currentName": "Microtus (Microtus) arvalis (Pallas, 1779)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Microtus|Microtus arvalis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45876268|795ba3747726317d2f8b246e1243aa5b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2438606",
+            "matchedName": "Microtus arvalis (Pallas, 1779)",
+            "matchedCanonical": "Microtus arvalis",
+            "currentName": "Microtus arvalis (Pallas, 1779)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Microtus|Microtus arvalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|3240723|2438591|2438606",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "449577",
+            "matchedName": "Microtus arvalis",
+            "matchedCanonical": "Microtus arvalis",
+            "currentName": "Microtus arvalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Arvicolinae|Microtus|Microtus arvalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|664070|241405|449577",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Ctenodactylus gundi)",
+      "name": "Ctenodactylus gundi",
+      "odds": 100163584509.9903,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ndi": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 7184,
+      "end": 7205,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e134e6a164ecb2d226ef37dfc8db9ff7",
+          "matchedName": "Ctenodactylus gundi (Rothmann, 1776)",
+          "matchedCanonical": "Ctenodactylus gundi",
+          "currentName": "Ctenodactylus gundi (Rothmann, 1776)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Ctenodactylidae|Ctenodactylus|Ctenodactylus gundi",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841587|45932641|e134e6a164ecb2d226ef37dfc8db9ff7",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e134e6a164ecb2d226ef37dfc8db9ff7",
+            "matchedName": "Ctenodactylus gundi (Rothmann, 1776)",
+            "matchedCanonical": "Ctenodactylus gundi",
+            "currentName": "Ctenodactylus gundi (Rothmann, 1776)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Ctenodactylidae|Ctenodactylus|Ctenodactylus gundi",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841587|45932641|e134e6a164ecb2d226ef37dfc8db9ff7",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5219941",
+            "matchedName": "Ctenodactylus gundi (Rothmann, 1776)",
+            "matchedCanonical": "Ctenodactylus gundi",
+            "currentName": "Ctenodactylus gundi (Rothmann, 1776)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Ctenodactylidae|Ctenodactylus|Ctenodactylus gundi",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|5496|2439817|5219941",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "692686",
+            "matchedName": "Ctenodactylus gundi",
+            "matchedCanonical": "Ctenodactylus gundi",
+            "currentName": "Ctenodactylus gundi",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Ctenodactylidae|Ctenodactylus|Ctenodactylus gundi",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|692690|692689|692686",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Gorilla gorilla gorilla)",
+      "name": "Gorilla gorilla gorilla",
+      "odds": 2715796.1717205234,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spEnd3": {
+            "lla": 252.77450625113244
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "ispEnd3": {
+            "lla": 60.06522920818988
+          }
+        }
+      },
+      "start": 7309,
+      "end": 7334,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2ff46486642e094210eec7c719a61178",
+          "matchedName": "Gorilla gorilla gorilla (Savage and Wyman, 1847)",
+          "matchedCanonical": "Gorilla gorilla gorilla",
+          "currentName": "Gorilla gorilla gorilla (Savage and Wyman, 1847)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Gorilla||Gorilla gorilla gorilla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2ff46486642e094210eec7c719a61178",
+            "matchedName": "Gorilla gorilla gorilla (Savage and Wyman, 1847)",
+            "matchedCanonical": "Gorilla gorilla gorilla",
+            "currentName": "Gorilla gorilla gorilla (Savage and Wyman, 1847)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Gorilla||Gorilla gorilla gorilla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4267318",
+            "matchedName": "Gorilla gorilla subsp. gorilla",
+            "matchedCanonical": "Gorilla gorilla ssp. gorilla",
+            "currentName": "Gorilla gorilla subsp. gorilla",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Gorilla|Gorilla gorilla|Gorilla gorilla gorilla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|798|5483|2436440|2436441|4267318",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "417953",
+            "matchedName": "Gorilla gorilla gorilla",
+            "matchedCanonical": "Gorilla gorilla gorilla",
+            "currentName": "Gorilla gorilla gorilla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Primates|Haplorrhini|Simiiformes|Catarrhini|Hominoidea|Hominidae|Homininae|Gorilla|Gorilla gorilla|Gorilla gorilla gorilla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|parvorder|superfamily|family|subfamily|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|913935|702152|386195|842867|386191|770311|312031|417969|417965|417953",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Sorex antinorii.",
+      "name": "Sorex antinorii",
+      "odds": 110440630243.21498,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rex": 97.60599746330857
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rii": 37.54076825511868
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 9746,
+      "end": 9762,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ecaa929b6c33d6752dae0583ff15ae56",
+          "matchedName": "Sorex (Sorex) antinorii Bonaparte, 1840",
+          "matchedCanonical": "Sorex antinorii",
+          "currentName": "Sorex (Sorex) antinorii Bonaparte, 1840",
+          "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex|Sorex antinorii",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45853386|45853389|45907800|ecaa929b6c33d6752dae0583ff15ae56",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ecaa929b6c33d6752dae0583ff15ae56",
+            "matchedName": "Sorex (Sorex) antinorii Bonaparte, 1840",
+            "matchedCanonical": "Sorex antinorii",
+            "currentName": "Sorex (Sorex) antinorii Bonaparte, 1840",
+            "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex|Sorex antinorii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45853386|45853389|45907800|ecaa929b6c33d6752dae0583ff15ae56",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435998",
+            "matchedName": "Sorex antinorii Bonaparte, 1840",
+            "matchedCanonical": "Sorex antinorii",
+            "currentName": "Sorex antinorii Bonaparte, 1840",
+            "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex|Sorex antinorii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|803|5534|2435935|2435998",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "64859",
+            "matchedName": "Sorex antinorii",
+            "matchedCanonical": "Sorex antinorii",
+            "currentName": "Sorex antinorii",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Insectivora|Soricidae|Soricinae|Sorex|Sorex antinorii",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|796664|226446|930682|226394|64859",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. antinorii,",
+      "name": "S. antinorii",
+      "odds": 988556.5385249143,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rii": 37.54076825511868
+          }
+        }
+      },
+      "start": 11086,
+      "end": 11099,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Sorex antinorii",
+      "name": "Sorex antinorii",
+      "odds": 110440630243.21498,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rex": 97.60599746330857
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rii": 37.54076825511868
+          }
+        }
+      },
+      "start": 11212,
+      "end": 11227,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ecaa929b6c33d6752dae0583ff15ae56",
+          "matchedName": "Sorex (Sorex) antinorii Bonaparte, 1840",
+          "matchedCanonical": "Sorex antinorii",
+          "currentName": "Sorex (Sorex) antinorii Bonaparte, 1840",
+          "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex|Sorex antinorii",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45853386|45853389|45907800|ecaa929b6c33d6752dae0583ff15ae56",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ecaa929b6c33d6752dae0583ff15ae56",
+            "matchedName": "Sorex (Sorex) antinorii Bonaparte, 1840",
+            "matchedCanonical": "Sorex antinorii",
+            "currentName": "Sorex (Sorex) antinorii Bonaparte, 1840",
+            "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex|Sorex antinorii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45853386|45853389|45907800|ecaa929b6c33d6752dae0583ff15ae56",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435998",
+            "matchedName": "Sorex antinorii Bonaparte, 1840",
+            "matchedCanonical": "Sorex antinorii",
+            "currentName": "Sorex antinorii Bonaparte, 1840",
+            "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex|Sorex antinorii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|803|5534|2435935|2435998",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "64859",
+            "matchedName": "Sorex antinorii",
+            "matchedCanonical": "Sorex antinorii",
+            "currentName": "Sorex antinorii",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Insectivora|Soricidae|Soricinae|Sorex|Sorex antinorii",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|796664|226446|930682|226394|64859",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. araneus",
+      "name": "S. araneus",
+      "odds": 1880398.7416281558,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 11278,
+      "end": 11288,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. araneus",
+      "name": "S. araneus",
+      "odds": 1880398.7416281558,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          }
+        }
+      },
+      "start": 11373,
+      "end": 11383,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Vitalis",
+      "name": "Vitalis",
+      "odds": 7407.451085668007,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 12920,
+      "end": 12928,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1448111",
+          "matchedName": "Vitalis Fairmaire, 1892",
+          "matchedCanonical": "Vitalis",
+          "currentName": "Diastatotropis Lacordaire, 1866",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Anthribidae|Diastatotropis",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|101325|1253676",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8105328",
+            "matchedName": "Vitalis",
+            "matchedCanonical": "Vitalis",
+            "currentName": "Vitalis",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Anthribidae|Vitalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|4206|8105328",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4605997",
+            "matchedName": "Vitalis",
+            "matchedCanonical": "Vitalis",
+            "currentName": "Vitalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Curculionoidea|Anthribidae|Vitalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765492|61017|4605997",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Sorex",
+      "name": "Sorex",
+      "odds": 51843.35225707666,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rex": 97.60599746330857
+          }
+        }
+      },
+      "start": 19534,
+      "end": 19539,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907800",
+          "matchedName": "Sorex",
+          "matchedCanonical": "Sorex",
+          "currentName": "Sorex",
+          "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45853386|45853389|45907800",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907800",
+            "matchedName": "Sorex",
+            "matchedCanonical": "Sorex",
+            "currentName": "Sorex",
+            "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45853386|45853389|45907800",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435935",
+            "matchedName": "Sorex Linnaeus, 1758",
+            "matchedCanonical": "Sorex",
+            "currentName": "Sorex Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|803|5534|2435935",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "226394",
+            "matchedName": "Sorex",
+            "matchedCanonical": "Sorex",
+            "currentName": "Sorex",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Insectivora|Soricidae|Soricinae|Sorex",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|796664|226446|930682|226394",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Sorex",
+      "name": "Sorex",
+      "odds": 51843.35225707666,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rex": 97.60599746330857
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 19850,
+      "end": 19855,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907800",
+          "matchedName": "Sorex",
+          "matchedCanonical": "Sorex",
+          "currentName": "Sorex",
+          "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45853386|45853389|45907800",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907800",
+            "matchedName": "Sorex",
+            "matchedCanonical": "Sorex",
+            "currentName": "Sorex",
+            "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45853386|45853389|45907800",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435935",
+            "matchedName": "Sorex Linnaeus, 1758",
+            "matchedCanonical": "Sorex",
+            "currentName": "Sorex Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Soricomorpha|Soricidae|Sorex",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|803|5534|2435935",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "226394",
+            "matchedName": "Sorex",
+            "matchedCanonical": "Sorex",
+            "currentName": "Sorex",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Insectivora|Soricidae|Soricinae|Sorex",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|796664|226446|930682|226394",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Autosomal lineages",
+      "name": "Autosomal lineages",
+      "odds": 19.24004794688341,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mal": 0.2502717883674579
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ges": 0.2502717883674579
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 22431,
+      "end": 22449,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. araneus",
+      "name": "S. araneus",
+      "odds": 1880398.7416281558,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 34525,
+      "end": 34535,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. antinorii,",
+      "name": "S. antinorii",
+      "odds": 988556.5385249143,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rii": 37.54076825511868
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 41391,
+      "end": 41404,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Vitalis",
+      "name": "Vitalis",
+      "odds": 7407.451085668007,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          }
+        }
+      },
+      "start": 43313,
+      "end": 43320,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1448111",
+          "matchedName": "Vitalis Fairmaire, 1892",
+          "matchedCanonical": "Vitalis",
+          "currentName": "Diastatotropis Lacordaire, 1866",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Anthribidae|Diastatotropis",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|101325|1253676",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8105328",
+            "matchedName": "Vitalis",
+            "matchedCanonical": "Vitalis",
+            "currentName": "Vitalis",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Anthribidae|Vitalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|4206|8105328",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4605997",
+            "matchedName": "Vitalis",
+            "matchedCanonical": "Vitalis",
+            "currentName": "Vitalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Curculionoidea|Anthribidae|Vitalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765492|61017|4605997",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. antinorii",
+      "name": "S. antinorii",
+      "odds": 988556.5385249143,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rii": 37.54076825511868
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 44033,
+      "end": 44045,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. antinorii",
+      "name": "S. antinorii",
+      "odds": 988556.5385249143,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "rii": 37.54076825511868
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 46827,
+      "end": 46839,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. araneus",
+      "name": "S. araneus",
+      "odds": 1880398.7416281558,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 48302,
+      "end": 48312,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. antinorii.",
+      "name": "S. antinorii",
+      "odds": 988556.5385249143,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rii": 37.54076825511868
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 50566,
+      "end": 50579,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

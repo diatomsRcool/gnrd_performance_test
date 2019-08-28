@@ -1,0 +1,343 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:01:09.755480084-05:00",
+    "language": "eng",
+    "total_words": 2308,
+    "total_candidates": 455,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Anseriformes",
+      "name": "Anseriformes",
+      "odds": 488.15426345029437,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mes": 1.0146153582464508
+          }
+        }
+      },
+      "start": 2313,
+      "end": 2325,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850614",
+          "matchedName": "Anseriformes",
+          "matchedCanonical": "Anseriformes",
+          "currentName": "Anseriformes",
+          "classificationPath": "Animalia|Chordata|Aves|Anseriformes",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841265|45841266|45841267|45850614",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850614",
+            "matchedName": "Anseriformes",
+            "matchedCanonical": "Anseriformes",
+            "currentName": "Anseriformes",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841265|45841266|45841267|45850614",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1108",
+            "matchedName": "Anseriformes",
+            "matchedCanonical": "Anseriformes",
+            "currentName": "Anseriformes",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "1|44|212|1108",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "241841",
+            "matchedName": "Anseriformes",
+            "matchedCanonical": "Anseriformes",
+            "currentName": "Anseriformes",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Anseriformes",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|241841",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Charadriiformes",
+      "name": "Charadriiformes",
+      "odds": 925.3837920097862,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mes": 1.0146153582464508
+          }
+        }
+      },
+      "start": 2330,
+      "end": 2345,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45848682",
+          "matchedName": "Charadriiformes",
+          "matchedCanonical": "Charadriiformes",
+          "currentName": "Charadriiformes",
+          "classificationPath": "Animalia|Chordata|Aves|Charadriiformes",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841265|45841266|45841267|45848682",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45848682",
+            "matchedName": "Charadriiformes",
+            "matchedCanonical": "Charadriiformes",
+            "currentName": "Charadriiformes",
+            "classificationPath": "Animalia|Chordata|Aves|Charadriiformes",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841265|45841266|45841267|45848682",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7192402",
+            "matchedName": "Charadriiformes",
+            "matchedCanonical": "Charadriiformes",
+            "currentName": "Charadriiformes",
+            "classificationPath": "Animalia|Chordata|Aves|Charadriiformes",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "1|44|212|7192402",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "313124",
+            "matchedName": "Charadriiformes",
+            "matchedCanonical": "Charadriiformes",
+            "currentName": "Charadriiformes",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Charadriiformes",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|313124",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Galliformes",
+      "name": "Galliformes",
+      "odds": 283.01821257018486,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mes": 1.0146153582464508
+          }
+        }
+      },
+      "start": 2405,
+      "end": 2416,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45848177",
+          "matchedName": "Galliformes",
+          "matchedCanonical": "Galliformes",
+          "currentName": "Galliformes",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841265|45841266|45841267|45848177",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45848177",
+            "matchedName": "Galliformes",
+            "matchedCanonical": "Galliformes",
+            "currentName": "Galliformes",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841265|45841266|45841267|45848177",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "723",
+            "matchedName": "Galliformes",
+            "matchedCanonical": "Galliformes",
+            "currentName": "Galliformes",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "1|44|212|723",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "837585",
+            "matchedName": "Galliformes",
+            "matchedCanonical": "Galliformes",
+            "currentName": "Galliformes",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Galliformes",
+      "name": "Galliformes",
+      "odds": 283.01821257018486,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mes": 1.0146153582464508
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 2570,
+      "end": 2581,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45848177",
+          "matchedName": "Galliformes",
+          "matchedCanonical": "Galliformes",
+          "currentName": "Galliformes",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841265|45841266|45841267|45848177",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45848177",
+            "matchedName": "Galliformes",
+            "matchedCanonical": "Galliformes",
+            "currentName": "Galliformes",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841265|45841266|45841267|45848177",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "723",
+            "matchedName": "Galliformes",
+            "matchedCanonical": "Galliformes",
+            "currentName": "Galliformes",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "1|44|212|723",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "837585",
+            "matchedName": "Galliformes",
+            "matchedCanonical": "Galliformes",
+            "currentName": "Galliformes",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

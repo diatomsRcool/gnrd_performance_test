@@ -1,0 +1,1131 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:59:16.747965253-05:00",
+    "language": "eng",
+    "total_words": 7320,
+    "total_candidates": 752,
+    "total_names": 21
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Disa ophrydea",
+      "name": "Disa ophrydea",
+      "odds": 2772600304.8440285,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "isa": 12.513589418372893
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dea": 47.55163978981699
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 9263,
+      "end": 9276,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ddb5224e835310ab9eac115e1fde3246",
+          "matchedName": "Disa ophrydea (Lindl.) Bolus",
+          "matchedCanonical": "Disa ophrydea",
+          "currentName": "Disa ophrydea (Lindl.) Bolus",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ophrydea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45849098|45849101|45869662|ddb5224e835310ab9eac115e1fde3246",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ddb5224e835310ab9eac115e1fde3246",
+            "matchedName": "Disa ophrydea (Lindl.) Bolus",
+            "matchedCanonical": "Disa ophrydea",
+            "currentName": "Disa ophrydea (Lindl.) Bolus",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ophrydea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45849098|45849101|45869662|ddb5224e835310ab9eac115e1fde3246",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2783731",
+            "matchedName": "Disa ophrydea (Lindl.) Bolus Bolus (Lindl.)",
+            "matchedCanonical": "Disa ophrydea",
+            "currentName": "Disa ophrydea (Lindl.) Bolus Bolus (Lindl.)",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ophrydea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1169|7689|2783611|2783731",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "452006",
+            "matchedName": "Disa ophrydea",
+            "matchedCanonical": "Disa ophrydea",
+            "currentName": "Disa ophrydea",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae|Asparagales|Orchidaceae|Orchidoideae|Orchideae|Disinae|Disa|Disa ophrydea",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|order|family|subfamily|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|557124|568878|852745|976665|328160|629386|452006",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. ferruginea.",
+      "name": "D. ferruginea",
+      "odds": 2402833.199398761,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nea": 70.0761007428882
+          }
+        }
+      },
+      "start": 9281,
+      "end": 9295,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. ferruginea:",
+      "name": "D. ferruginea",
+      "odds": 2402833.199398761,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nea": 70.0761007428882
+          }
+        }
+      },
+      "start": 9708,
+      "end": 9722,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Disa",
+      "name": "Disa",
+      "odds": 1494.5332604889466,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "isa": 12.513589418372893
+          }
+        }
+      },
+      "start": 11333,
+      "end": 11337,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45869662",
+          "matchedName": "Disa",
+          "matchedCanonical": "Disa",
+          "currentName": "Disa",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45849098|45849101|45869662",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45869662",
+            "matchedName": "Disa",
+            "matchedCanonical": "Disa",
+            "currentName": "Disa",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45849098|45849101|45869662",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2783611",
+            "matchedName": "Disa P. J. Bergius",
+            "matchedCanonical": "Disa",
+            "currentName": "Disa P. J. Bergius",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1169|7689|2783611",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "629386",
+            "matchedName": "Disa",
+            "matchedCanonical": "Disa",
+            "currentName": "Disa",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae|Asparagales|Orchidaceae|Orchidoideae|Orchideae|Disinae|Disa",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|order|family|subfamily|tribe|subtribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|557124|568878|852745|976665|328160|629386",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Disa ophrydea ferruginea",
+      "name": "Disa ophrydea ferruginea",
+      "odds": 142256194503349.3,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "isa": 12.513589418372893
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "ispLen": {
+            "10": 4.627930835174779
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "nea": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dea": 47.55163978981699
+          }
+        }
+      },
+      "start": 11338,
+      "end": 11362,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "03de9126de795333ca6d61f8a76606ed",
+          "matchedName": "Disa ferruginea Sw.",
+          "matchedCanonical": "Disa ferruginea",
+          "currentName": "Disa ferruginea Sw.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ferruginea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45849098|45849101|45869662|03de9126de795333ca6d61f8a76606ed",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "03de9126de795333ca6d61f8a76606ed",
+            "matchedName": "Disa ferruginea Sw.",
+            "matchedCanonical": "Disa ferruginea",
+            "currentName": "Disa ferruginea Sw.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ferruginea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45849098|45849101|45869662|03de9126de795333ca6d61f8a76606ed",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2783699",
+            "matchedName": "Disa ferruginea Sw.",
+            "matchedCanonical": "Disa ferruginea",
+            "currentName": "Disa ferruginea Sw.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ferruginea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1169|7689|2783611|2783699",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "501340",
+            "matchedName": "Disa ferruginea",
+            "matchedCanonical": "Disa ferruginea",
+            "currentName": "Disa ferruginea",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae|Asparagales|Orchidaceae|Orchidoideae|Orchideae|Disinae|Disa|Disa ferruginea",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|order|family|subfamily|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|557124|568878|852745|976665|328160|629386|501340",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Disa ophrydea,",
+      "name": "Disa ophrydea",
+      "odds": 2772600304.8440285,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "isa": 12.513589418372893
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dea": 47.55163978981699
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 22995,
+      "end": 23009,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ddb5224e835310ab9eac115e1fde3246",
+          "matchedName": "Disa ophrydea (Lindl.) Bolus",
+          "matchedCanonical": "Disa ophrydea",
+          "currentName": "Disa ophrydea (Lindl.) Bolus",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ophrydea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45849098|45849101|45869662|ddb5224e835310ab9eac115e1fde3246",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ddb5224e835310ab9eac115e1fde3246",
+            "matchedName": "Disa ophrydea (Lindl.) Bolus",
+            "matchedCanonical": "Disa ophrydea",
+            "currentName": "Disa ophrydea (Lindl.) Bolus",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ophrydea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45849098|45849101|45869662|ddb5224e835310ab9eac115e1fde3246",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2783731",
+            "matchedName": "Disa ophrydea (Lindl.) Bolus Bolus (Lindl.)",
+            "matchedCanonical": "Disa ophrydea",
+            "currentName": "Disa ophrydea (Lindl.) Bolus Bolus (Lindl.)",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ophrydea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1169|7689|2783611|2783731",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "452006",
+            "matchedName": "Disa ophrydea",
+            "matchedCanonical": "Disa ophrydea",
+            "currentName": "Disa ophrydea",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae|Asparagales|Orchidaceae|Orchidoideae|Orchideae|Disinae|Disa|Disa ophrydea",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|order|family|subfamily|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|557124|568878|852745|976665|328160|629386|452006",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. ophrydea",
+      "name": "D. ophrydea",
+      "odds": 860889.4674793014,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dea": 47.55163978981699
+          }
+        }
+      },
+      "start": 31832,
+      "end": 31843,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. ferruginea",
+      "name": "D. ferruginea",
+      "odds": 2402833.199398761,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "nea": 70.0761007428882
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 31848,
+      "end": 31861,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Orchidaceae),",
+      "name": "Orchidaceae",
+      "odds": 13525.09145482151,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 31862,
+      "end": 31876,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45849101",
+          "matchedName": "Orchidaceae",
+          "matchedCanonical": "Orchidaceae",
+          "currentName": "Orchidaceae",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45844426|45849098|45849101",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45849101",
+            "matchedName": "Orchidaceae",
+            "matchedCanonical": "Orchidaceae",
+            "currentName": "Orchidaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45844426|45849098|45849101",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7689",
+            "matchedName": "Orchidaceae",
+            "matchedCanonical": "Orchidaceae",
+            "currentName": "Orchidaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|196|1169|7689",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "568878",
+            "matchedName": "Orchidaceae",
+            "matchedCanonical": "Orchidaceae",
+            "currentName": "Orchidaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae|Asparagales|Orchidaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|557124|568878",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(D. ferruginea)",
+      "name": "D. ferruginea",
+      "odds": 2402833.199398761,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nea": 70.0761007428882
+          }
+        }
+      },
+      "start": 32171,
+      "end": 32186,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(D. ophrydea)",
+      "name": "D. ophrydea",
+      "odds": 860889.4674793014,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dea": 47.55163978981699
+          }
+        }
+      },
+      "start": 32200,
+      "end": 32213,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(D. ophrydea)",
+      "name": "D. ophrydea",
+      "odds": 860889.4674793014,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dea": 47.55163978981699
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 33596,
+      "end": 33609,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(D. ferruginea)",
+      "name": "D. ferruginea",
+      "odds": 2402833.199398761,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "nea": 70.0761007428882
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 33616,
+      "end": 33631,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. ophrydea",
+      "name": "D. ophrydea",
+      "odds": 860889.4674793014,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "dea": 47.55163978981699
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 33867,
+      "end": 33878,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "D. ferruginea data",
+      "name": "D. ferruginea data",
+      "odds": 87369650.17353341,
+      "odds_details": {
+        "Name": {
+          "ispEnd3": {
+            "ata": 370.40224678383765
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nea": 70.0761007428882
+          },
+          "ispLen": {
+            "4": 0.05289125210455401
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          }
+        }
+      },
+      "start": 35515,
+      "end": 35533,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Disa ophrydea",
+      "name": "Disa ophrydea",
+      "odds": 2772600304.8440285,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dea": 47.55163978981699
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "isa": 12.513589418372893
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 37444,
+      "end": 37457,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ddb5224e835310ab9eac115e1fde3246",
+          "matchedName": "Disa ophrydea (Lindl.) Bolus",
+          "matchedCanonical": "Disa ophrydea",
+          "currentName": "Disa ophrydea (Lindl.) Bolus",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ophrydea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45849098|45849101|45869662|ddb5224e835310ab9eac115e1fde3246",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ddb5224e835310ab9eac115e1fde3246",
+            "matchedName": "Disa ophrydea (Lindl.) Bolus",
+            "matchedCanonical": "Disa ophrydea",
+            "currentName": "Disa ophrydea (Lindl.) Bolus",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ophrydea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45849098|45849101|45869662|ddb5224e835310ab9eac115e1fde3246",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2783731",
+            "matchedName": "Disa ophrydea (Lindl.) Bolus Bolus (Lindl.)",
+            "matchedCanonical": "Disa ophrydea",
+            "currentName": "Disa ophrydea (Lindl.) Bolus Bolus (Lindl.)",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ophrydea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1169|7689|2783611|2783731",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "452006",
+            "matchedName": "Disa ophrydea",
+            "matchedCanonical": "Disa ophrydea",
+            "currentName": "Disa ophrydea",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae|Asparagales|Orchidaceae|Orchidoideae|Orchideae|Disinae|Disa|Disa ophrydea",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|order|family|subfamily|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|557124|568878|852745|976665|328160|629386|452006",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. ferruginea",
+      "name": "D. ferruginea",
+      "odds": 2402833.199398761,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nea": 70.0761007428882
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 37468,
+      "end": 37481,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. ferruginea",
+      "name": "D. ferruginea",
+      "odds": 2402833.199398761,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nea": 70.0761007428882
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 37505,
+      "end": 37518,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. ferruginea",
+      "name": "D. ferruginea",
+      "odds": 2402833.199398761,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nea": 70.0761007428882
+          }
+        }
+      },
+      "start": 37886,
+      "end": 37899,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. ophrydea).",
+      "name": "D. ophrydea",
+      "odds": 860889.4674793014,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dea": 47.55163978981699
+          }
+        }
+      },
+      "start": 39378,
+      "end": 39391,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Epilobium obcordatum,",
+      "name": "Epilobium obcordatum",
+      "odds": 490536125.5874222,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tum": 483.02455154919363
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          }
+        }
+      },
+      "start": 40074,
+      "end": 40095,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7ec002cc4035ffd3d1056c649495d4c4",
+          "matchedName": "Epilobium obcordatum A. Gray",
+          "matchedCanonical": "Epilobium obcordatum",
+          "currentName": "Epilobium obcordatum A. Gray",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Onagraceae|Epilobium|Epilobium obcordatum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45848880|45848888|46031032|7ec002cc4035ffd3d1056c649495d4c4",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "7ec002cc4035ffd3d1056c649495d4c4",
+            "matchedName": "Epilobium obcordatum A. Gray",
+            "matchedCanonical": "Epilobium obcordatum",
+            "currentName": "Epilobium obcordatum A. Gray",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Onagraceae|Epilobium|Epilobium obcordatum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45848880|45848888|46031032|7ec002cc4035ffd3d1056c649495d4c4",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3189125",
+            "matchedName": "Epilobium obcordatum A. Gray",
+            "matchedCanonical": "Epilobium obcordatum",
+            "currentName": "Epilobium obcordatum A. Gray",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Onagraceae|Epilobium|Epilobium obcordatum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|690|2430|3189067|3189125",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "857471",
+            "matchedName": "Epilobium obcordatum",
+            "matchedCanonical": "Epilobium obcordatum",
+            "currentName": "Epilobium obcordatum",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Myrtales|Onagraceae|Onagroideae|Epilobieae|Epilobium|Epilobium obcordatum",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|648898|1015483|5740793|5747162|139464|857471",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

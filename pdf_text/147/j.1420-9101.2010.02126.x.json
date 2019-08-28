@@ -1,0 +1,1471 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:00:08.061945676-05:00",
+    "language": "eng",
+    "total_words": 3690,
+    "total_candidates": 515,
+    "total_names": 18
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Gallus gallus;",
+      "name": "Gallus gallus",
+      "odds": 544796437548.91034,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 354,
+      "end": 368,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e9bd1de9ad04b90064cf96a24cf98310",
+          "matchedName": "Gallus gallus (Linnaeus, 1758)",
+          "matchedCanonical": "Gallus gallus",
+          "currentName": "Gallus gallus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|e9bd1de9ad04b90064cf96a24cf98310",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e9bd1de9ad04b90064cf96a24cf98310",
+            "matchedName": "Gallus gallus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|e9bd1de9ad04b90064cf96a24cf98310",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5227769",
+            "matchedName": "Gallus gallus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|723|9331|2473720|5227769",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "153563",
+            "matchedName": "Gallus gallus",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae|Phasianinae|Gallus|Gallus gallus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070|51353|153562|153563",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Phasianidae;",
+      "name": "Phasianidae",
+      "odds": 50411.704513425626,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 369,
+      "end": 381,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45848178",
+          "matchedName": "Phasianidae",
+          "matchedCanonical": "Phasianidae",
+          "currentName": "Phasianidae",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45848178",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9331",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|723|9331",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "728070",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Gallus gallus domesticus",
+      "name": "Gallus gallus domesticus",
+      "odds": 116468085707136340,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "cus": 62.56794709186447
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "ispLen": {
+            "10": 4.627930835174779
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1010,
+      "end": 1034,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 170,
+          "dataSourceTitle": "Arctos",
+          "taxonId": "3183566",
+          "matchedName": "Gallus domesticus",
+          "matchedCanonical": "Gallus domesticus",
+          "currentName": "Gallus domesticus",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus domesticus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Phasianidae,",
+      "name": "Phasianidae",
+      "odds": 50411.704513425626,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1111,
+      "end": 1123,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45848178",
+          "matchedName": "Phasianidae",
+          "matchedCanonical": "Phasianidae",
+          "currentName": "Phasianidae",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45848178",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9331",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|723|9331",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "728070",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "G. gallus,",
+      "name": "G. gallus",
+      "odds": 1576047.2892823599,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 1526,
+      "end": 1536,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Aquarius remigis,",
+      "name": "Aquarius remigis",
+      "odds": 18292.623865953497,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gis": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 4772,
+      "end": 4789,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "93774818c7b02f5d1799b9dbaf0008cd",
+          "matchedName": "Aquarius remigis (Say, 1832)",
+          "matchedCanonical": "Aquarius remigis",
+          "currentName": "Aquarius remigis (Say, 1832)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Gerroidea|Gerridae|Aquarius|Aquarius remigis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841287|45843906|45843961|46089241|93774818c7b02f5d1799b9dbaf0008cd",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "93774818c7b02f5d1799b9dbaf0008cd",
+            "matchedName": "Aquarius remigis (Say, 1832)",
+            "matchedCanonical": "Aquarius remigis",
+            "currentName": "Aquarius remigis (Say, 1832)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Gerroidea|Gerridae|Aquarius|Aquarius remigis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841287|45843906|45843961|46089241|93774818c7b02f5d1799b9dbaf0008cd",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5154117",
+            "matchedName": "Aquarius remigis (Say, 1832)",
+            "matchedCanonical": "Aquarius remigis",
+            "currentName": "Aquarius remigis (Say, 1832)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Gerridae|Aquarius|Aquarius remigis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|809|7881|2020415|5154117",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "436657",
+            "matchedName": "Aquarius remigis",
+            "matchedCanonical": "Aquarius remigis",
+            "currentName": "Aquarius remigis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Neohemiptera|Prosorrhyncha|Heteroptera|Euheteroptera|Neoheteroptera|Gerromorpha|Gerroidea|Gerridae|Gerrinae|Aquarius|Aquarius remigis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|no rank|no rank|suborder|no rank|no rank|no rank|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|563382|815355|815345|815349|815341|291357|671302|436661|227676|436660|436657",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scatophaga",
+      "name": "Scatophaga",
+      "odds": 182421.9524590454,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aga": 32.53533248776952
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 4801,
+      "end": 4811,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "139445",
+          "matchedName": "Scatophaga Fabricius 1803",
+          "matchedCanonical": "Scatophaga",
+          "currentName": "Scatophaga Fabricius 1803",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Bilateria|Eubilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endoneoptera|Panorpida|Antliophora|Diptera|Neodiptera|Brachycera|Eremoneura|Cyclorrhapha|Schizophora|Calyptratae|Scathophagidae|Scatophaga",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|phylum|subphylum|unranked clade|superclass|class|unranked clade|subclass|infraclass|unranked clade|superorder|superorder|order|unranked clade|suborder|unranked clade|suborder|unranked clade|unranked clade|family|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|67103|272902|85324|67124|67134|18891|83659|273389|133899|56637|243461|94228|152573|183860|183721|183862|70527|255571|138707|213801|202899|255565|255566|139444|139445",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7930089",
+            "matchedName": "Scatophaga Fabricius, 1805",
+            "matchedCanonical": "Scatophaga",
+            "currentName": "Scatophaga Meigen, 1803",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Scathophagidae|Scatophaga",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|811|1555553|5054830",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Phasianidae;",
+      "name": "Phasianidae",
+      "odds": 50411.704513425626,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 5739,
+      "end": 5751,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45848178",
+          "matchedName": "Phasianidae",
+          "matchedCanonical": "Phasianidae",
+          "currentName": "Phasianidae",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45848178",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9331",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|723|9331",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "728070",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Phasianidae.",
+      "name": "Phasianidae",
+      "odds": 50411.704513425626,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 5836,
+      "end": 5848,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45848178",
+          "matchedName": "Phasianidae",
+          "matchedCanonical": "Phasianidae",
+          "currentName": "Phasianidae",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45848178",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9331",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|723|9331",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "728070",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Phasianidae)",
+      "name": "Phasianidae",
+      "odds": 50411.704513425626,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 6001,
+      "end": 6013,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45848178",
+          "matchedName": "Phasianidae",
+          "matchedCanonical": "Phasianidae",
+          "currentName": "Phasianidae",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45848178",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9331",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|723|9331",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "728070",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Phasianidae",
+      "name": "Phasianidae",
+      "odds": 50411.704513425626,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 7551,
+      "end": 7562,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45848178",
+          "matchedName": "Phasianidae",
+          "matchedCanonical": "Phasianidae",
+          "currentName": "Phasianidae",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45848178",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9331",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|723|9331",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "728070",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Gallus gallus;",
+      "name": "Gallus gallus",
+      "odds": 544796437548.91034,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 7738,
+      "end": 7753,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e9bd1de9ad04b90064cf96a24cf98310",
+          "matchedName": "Gallus gallus (Linnaeus, 1758)",
+          "matchedCanonical": "Gallus gallus",
+          "currentName": "Gallus gallus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|e9bd1de9ad04b90064cf96a24cf98310",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e9bd1de9ad04b90064cf96a24cf98310",
+            "matchedName": "Gallus gallus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|e9bd1de9ad04b90064cf96a24cf98310",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5227769",
+            "matchedName": "Gallus gallus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|723|9331|2473720|5227769",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "153563",
+            "matchedName": "Gallus gallus",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae|Phasianinae|Gallus|Gallus gallus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070|51353|153562|153563",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Gallus sonneratii),",
+      "name": "Gallus sonneratii",
+      "odds": 1512867116857.418,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tii": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 7825,
+      "end": 7845,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "06d76ea233fea36eebfe1a0a56e30660",
+          "matchedName": "Gallus sonneratii Temminck, 1813",
+          "matchedCanonical": "Gallus sonneratii",
+          "currentName": "Gallus sonneratii Temminck, 1813",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus sonneratii",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|06d76ea233fea36eebfe1a0a56e30660",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "06d76ea233fea36eebfe1a0a56e30660",
+            "matchedName": "Gallus sonneratii Temminck, 1813",
+            "matchedCanonical": "Gallus sonneratii",
+            "currentName": "Gallus sonneratii Temminck, 1813",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus sonneratii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|06d76ea233fea36eebfe1a0a56e30660",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5227765",
+            "matchedName": "Gallus sonneratii Temminck, 1813",
+            "matchedCanonical": "Gallus sonneratii",
+            "currentName": "Gallus sonneratii Temminck, 1813",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus sonneratii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|723|9331|2473720|5227765",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "153560",
+            "matchedName": "Gallus sonneratii",
+            "matchedCanonical": "Gallus sonneratii",
+            "currentName": "Gallus sonneratii",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae|Phasianinae|Gallus|Gallus sonneratii",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070|51353|153562|153560",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Phasianidae",
+      "name": "Phasianidae",
+      "odds": 50411.704513425626,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 12355,
+      "end": 12366,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45848178",
+          "matchedName": "Phasianidae",
+          "matchedCanonical": "Phasianidae",
+          "currentName": "Phasianidae",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45848178",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9331",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|723|9331",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "728070",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Francolinus lathami,",
+      "name": "Francolinus lathami",
+      "odds": 347470645638.55566,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ami": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 12440,
+      "end": 12461,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "c05120fd648d2e28f1c1629dab76fb64",
+          "matchedName": "Francolinus lathami Hartlaub, 1854",
+          "matchedCanonical": "Francolinus lathami",
+          "currentName": "Francolinus lathami Hartlaub, 1854",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Francolinus|Francolinus lathami",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896446|c05120fd648d2e28f1c1629dab76fb64",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "c05120fd648d2e28f1c1629dab76fb64",
+            "matchedName": "Francolinus lathami Hartlaub, 1854",
+            "matchedCanonical": "Francolinus lathami",
+            "currentName": "Francolinus lathami Hartlaub, 1854",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Francolinus|Francolinus lathami",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896446|c05120fd648d2e28f1c1629dab76fb64",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5227884",
+            "matchedName": "Francolinus lathami Hartlaub, 1854",
+            "matchedCanonical": "Francolinus lathami",
+            "currentName": "Francolinus lathami Hartlaub, 1854",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Francolinus|Francolinus lathami",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|723|9331|5227810|5227884",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "867018",
+            "matchedName": "Francolinus lathami",
+            "matchedCanonical": "Francolinus lathami",
+            "currentName": "Francolinus lathami",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae|Perdicinae|Francolinus|Francolinus lathami",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070|136462|204731|867018",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Francolinus nathani",
+      "name": "Francolinus nathani",
+      "odds": 1389882582554.2227,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ani": 50.05435767349157
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 12462,
+      "end": 12481,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7223f250d86be7d62da0a6735db138b6",
+          "matchedName": "Francolinus nahani Dubois, 1905",
+          "matchedCanonical": "Francolinus nahani",
+          "currentName": "Francolinus nahani Dubois, 1905",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Francolinus|Francolinus nahani",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896446|7223f250d86be7d62da0a6735db138b6",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "7223f250d86be7d62da0a6735db138b6",
+            "matchedName": "Francolinus nahani Dubois, 1905",
+            "matchedCanonical": "Francolinus nahani",
+            "currentName": "Francolinus nahani Dubois, 1905",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Francolinus|Francolinus nahani",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896446|7223f250d86be7d62da0a6735db138b6",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5227869",
+            "matchedName": "Francolinus nahani Dubois, 1905",
+            "matchedCanonical": "Francolinus nahani",
+            "currentName": "Francolinus nahani Dubois, 1905",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Francolinus|Francolinus nahani",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|723|9331|5227810|5227869",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "554512",
+            "matchedName": "Francolinus nahani",
+            "matchedCanonical": "Francolinus nahani",
+            "currentName": "Francolinus nahani",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae|Perdicinae|Francolinus|Francolinus nahani",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070|136462|204731|554512",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Francolinus psilolaemus)",
+      "name": "Francolinus psilolaemus",
+      "odds": 13397052706009.945,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "mus": 80.08697227758651
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 12486,
+      "end": 12510,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "664a6329772e95ff16f1da5cb47bd893",
+          "matchedName": "Francolinus psilolaemus G. R. Gray, 1867",
+          "matchedCanonical": "Francolinus psilolaemus",
+          "currentName": "Francolinus psilolaemus G. R. Gray, 1867",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Francolinus|Francolinus psilolaemus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896446|664a6329772e95ff16f1da5cb47bd893",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "664a6329772e95ff16f1da5cb47bd893",
+            "matchedName": "Francolinus psilolaemus G. R. Gray, 1867",
+            "matchedCanonical": "Francolinus psilolaemus",
+            "currentName": "Francolinus psilolaemus G. R. Gray, 1867",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Francolinus|Francolinus psilolaemus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896446|664a6329772e95ff16f1da5cb47bd893",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5227916",
+            "matchedName": "Francolinus psilolaemus G. R. Gray, 1867",
+            "matchedCanonical": "Francolinus psilolaemus",
+            "currentName": "Francolinus psilolaemus G. R. Gray, 1867",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Francolinus|Francolinus psilolaemus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|723|9331|5227810|5227916",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Phasianidae",
+      "name": "Phasianidae",
+      "odds": 50411.704513425626,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 19269,
+      "end": 19280,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45848178",
+          "matchedName": "Phasianidae",
+          "matchedCanonical": "Phasianidae",
+          "currentName": "Phasianidae",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45848178",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9331",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|723|9331",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "728070",
+            "matchedName": "Phasianidae",
+            "matchedCanonical": "Phasianidae",
+            "currentName": "Phasianidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

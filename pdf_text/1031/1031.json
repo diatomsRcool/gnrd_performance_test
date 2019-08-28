@@ -1,0 +1,913 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:57:15.842142186-05:00",
+    "language": "eng",
+    "total_words": 6539,
+    "total_candidates": 1084,
+    "total_names": 12
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Tympanuchus cupido)",
+      "name": "Tympanuchus cupido",
+      "odds": 1653133788.6679354,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 841,
+      "end": 861,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1600e735ae70a51d7d43ae81a61b392c",
+          "matchedName": "Tympanuchus cupido (Linnaeus, 1758)",
+          "matchedCanonical": "Tympanuchus cupido",
+          "currentName": "Tympanuchus cupido (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Tympanuchus|Tympanuchus cupido",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178|46004250|1600e735ae70a51d7d43ae81a61b392c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1600e735ae70a51d7d43ae81a61b392c",
+            "matchedName": "Tympanuchus cupido (Linnaeus, 1758)",
+            "matchedCanonical": "Tympanuchus cupido",
+            "currentName": "Tympanuchus cupido (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Tympanuchus|Tympanuchus cupido",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178|46004250|1600e735ae70a51d7d43ae81a61b392c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2473510",
+            "matchedName": "Tympanuchus cupido (Linnaeus, 1758)",
+            "matchedCanonical": "Tympanuchus cupido",
+            "currentName": "Tympanuchus cupido (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Tympanuchus|Tympanuchus cupido",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|723|9331|2473509|2473510",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "728073",
+            "matchedName": "Tympanuchus cupido",
+            "matchedCanonical": "Tympanuchus cupido",
+            "currentName": "Tympanuchus cupido",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae|Tetraoninae|Tympanuchus|Tympanuchus cupido",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070|999677|728075|728073",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tympanuchus cupido",
+      "name": "Tympanuchus cupido",
+      "odds": 1653133788.6679354,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          }
+        }
+      },
+      "start": 2199,
+      "end": 2217,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1600e735ae70a51d7d43ae81a61b392c",
+          "matchedName": "Tympanuchus cupido (Linnaeus, 1758)",
+          "matchedCanonical": "Tympanuchus cupido",
+          "currentName": "Tympanuchus cupido (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Tympanuchus|Tympanuchus cupido",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178|46004250|1600e735ae70a51d7d43ae81a61b392c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1600e735ae70a51d7d43ae81a61b392c",
+            "matchedName": "Tympanuchus cupido (Linnaeus, 1758)",
+            "matchedCanonical": "Tympanuchus cupido",
+            "currentName": "Tympanuchus cupido (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Tympanuchus|Tympanuchus cupido",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178|46004250|1600e735ae70a51d7d43ae81a61b392c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2473510",
+            "matchedName": "Tympanuchus cupido (Linnaeus, 1758)",
+            "matchedCanonical": "Tympanuchus cupido",
+            "currentName": "Tympanuchus cupido (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Tympanuchus|Tympanuchus cupido",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|723|9331|2473509|2473510",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "728073",
+            "matchedName": "Tympanuchus cupido",
+            "matchedCanonical": "Tympanuchus cupido",
+            "currentName": "Tympanuchus cupido",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae|Tetraoninae|Tympanuchus|Tympanuchus cupido",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070|999677|728075|728073",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Gallus gallus;",
+      "name": "Gallus gallus",
+      "odds": 544796437548.91034,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 4570,
+      "end": 4585,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e9bd1de9ad04b90064cf96a24cf98310",
+          "matchedName": "Gallus gallus (Linnaeus, 1758)",
+          "matchedCanonical": "Gallus gallus",
+          "currentName": "Gallus gallus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|e9bd1de9ad04b90064cf96a24cf98310",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e9bd1de9ad04b90064cf96a24cf98310",
+            "matchedName": "Gallus gallus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|e9bd1de9ad04b90064cf96a24cf98310",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5227769",
+            "matchedName": "Gallus gallus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|723|9331|2473720|5227769",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "153563",
+            "matchedName": "Gallus gallus",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae|Phasianinae|Gallus|Gallus gallus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070|51353|153562|153563",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Tympanuchus cupido pinnatus),",
+      "name": "Tympanuchus cupido pinnatus",
+      "odds": 249143241869344.7,
+      "odds_details": {
+        "Name": {
+          "ispLen": {
+            "8": 1.8125199061624047
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "ispEnd3": {
+            "tus": 112.62230476535605
+          }
+        }
+      },
+      "start": 6117,
+      "end": 6147,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1c105861ce3f28b5f62bbbf27b92ffbf",
+          "matchedName": "Tympanuchus cupido pinnatus (Brewster, 1885)",
+          "matchedCanonical": "Tympanuchus cupido pinnatus",
+          "currentName": "Tympanuchus cupido pinnatus (Brewster, 1885)",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Tympanuchus||Tympanuchus cupido pinnatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1c105861ce3f28b5f62bbbf27b92ffbf",
+            "matchedName": "Tympanuchus cupido pinnatus (Brewster, 1885)",
+            "matchedCanonical": "Tympanuchus cupido pinnatus",
+            "currentName": "Tympanuchus cupido pinnatus (Brewster, 1885)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Tympanuchus||Tympanuchus cupido pinnatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6180016",
+            "matchedName": "Tympanuchus cupido subsp. pinnatus (Brewster, 1885)",
+            "matchedCanonical": "Tympanuchus cupido ssp. pinnatus",
+            "currentName": "Tympanuchus cupido subsp. pinnatus (Brewster, 1885)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Tympanuchus|Tympanuchus cupido|Tympanuchus cupido pinnatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|212|723|9331|2473509|2473510|6180016",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "234824",
+            "matchedName": "Tympanuchus cupido pinnatus",
+            "matchedCanonical": "Tympanuchus cupido pinnatus",
+            "currentName": "Tympanuchus cupido pinnatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae|Tetraoninae|Tympanuchus|Tympanuchus cupido|Tympanuchus cupido pinnatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|subfamily|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070|999677|728075|728073|234824",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "TGF-b genes",
+      "name": "Tgf-b genes",
+      "odds": 1.0740971735332419,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          }
+        }
+      },
+      "start": 8705,
+      "end": 8716,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "ANCOVA",
+      "name": "Ancova",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ova": 0.8342392945581929
+          }
+        }
+      },
+      "start": 25661,
+      "end": 25667,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45945998",
+          "matchedName": "Ancova",
+          "matchedCanonical": "Ancova",
+          "currentName": "Ancova",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45945998",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1873933",
+            "matchedName": "Ancova Ragonot in Romanoff, 1893",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova Ragonot in Romanoff, 1893",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5336|1873933",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3155489",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|691929|3155489",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Salmo salar;",
+      "name": "Salmo salar",
+      "odds": 15573980.637514643,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lmo": 7.508153651023735
+          },
+          "spEnd3": {
+            "lar": 0.41711964727909645
+          }
+        }
+      },
+      "start": 33492,
+      "end": 33505,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3266ba091601ba86cd408decf2706b85",
+          "matchedName": "Salmo salar Linnaeus, 1758",
+          "matchedCanonical": "Salmo salar",
+          "currentName": "Salmo salar Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo salar",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45862011|3266ba091601ba86cd408decf2706b85",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3266ba091601ba86cd408decf2706b85",
+            "matchedName": "Salmo salar Linnaeus, 1758",
+            "matchedCanonical": "Salmo salar",
+            "currentName": "Salmo salar Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo salar",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45862011|3266ba091601ba86cd408decf2706b85",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7595433",
+            "matchedName": "Salmo salar Linnaeus, 1758",
+            "matchedCanonical": "Salmo salar",
+            "currentName": "Salmo salar Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo salar",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1313|8615|2347608|7595433",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "688328",
+            "matchedName": "Salmo salar",
+            "matchedCanonical": "Salmo salar",
+            "currentName": "Salmo salar",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Protacanthopterygii|Salmoniformes|Salmonidae|Salmoninae|Salmo|Salmo salar",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|1024043|216171|739933|936925|982359|688328",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 32,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Cytokine genes",
+      "name": "Cytokine genes",
+      "odds": 1.0088978020148025,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ine": 0.19400913826934718
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 35409,
+      "end": 35423,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Narum",
+      "name": "Narum",
+      "odds": 36334.65713743834,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rum": 68.40762215377181
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 36251,
+      "end": 36257,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145096665",
+          "matchedName": "Narum Adans.",
+          "matchedCanonical": "Narum",
+          "currentName": "Narum Adans.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3648774",
+            "matchedName": "Narum Adans.",
+            "matchedCanonical": "Narum",
+            "currentName": "Uvaria L.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Magnoliales|Annonaceae|Uvaria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|718|9291|3154216",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Narum",
+      "name": "Narum",
+      "odds": 36334.65713743834,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rum": 68.40762215377181
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 37305,
+      "end": 37311,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145096665",
+          "matchedName": "Narum Adans.",
+          "matchedCanonical": "Narum",
+          "currentName": "Narum Adans.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3648774",
+            "matchedName": "Narum Adans.",
+            "matchedCanonical": "Narum",
+            "currentName": "Uvaria L.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Magnoliales|Annonaceae|Uvaria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|718|9291|3154216",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Vitalis",
+      "name": "Vitalis",
+      "odds": 7407.451085668007,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 37765,
+      "end": 37773,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1448111",
+          "matchedName": "Vitalis Fairmaire, 1892",
+          "matchedCanonical": "Vitalis",
+          "currentName": "Diastatotropis Lacordaire, 1866",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Anthribidae|Diastatotropis",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|101325|1253676",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8105328",
+            "matchedName": "Vitalis",
+            "matchedCanonical": "Vitalis",
+            "currentName": "Vitalis",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Anthribidae|Vitalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|4206|8105328",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4605997",
+            "matchedName": "Vitalis",
+            "matchedCanonical": "Vitalis",
+            "currentName": "Vitalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Curculionoidea|Anthribidae|Vitalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765492|61017|4605997",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Lagopus lagopus;",
+      "name": "Lagopus lagopus",
+      "odds": 373330282400.85864,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          }
+        }
+      },
+      "start": 38237,
+      "end": 38254,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "4a0186b2f602e1ce62b066762c9741d9",
+          "matchedName": "Lagopus lagopus (Linnaeus, 1758)",
+          "matchedCanonical": "Lagopus lagopus",
+          "currentName": "Lagopus lagopus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Lagopus|Lagopus lagopus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178|46004235|4a0186b2f602e1ce62b066762c9741d9",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "4a0186b2f602e1ce62b066762c9741d9",
+            "matchedName": "Lagopus lagopus (Linnaeus, 1758)",
+            "matchedCanonical": "Lagopus lagopus",
+            "currentName": "Lagopus lagopus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Lagopus|Lagopus lagopus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178|46004235|4a0186b2f602e1ce62b066762c9741d9",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2473421",
+            "matchedName": "Lagopus lagopus (Linnaeus, 1758)",
+            "matchedCanonical": "Lagopus lagopus",
+            "currentName": "Lagopus lagopus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Lagopus|Lagopus lagopus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|723|9331|2473369|2473421",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "444614",
+            "matchedName": "Lagopus lagopus",
+            "matchedCanonical": "Lagopus lagopus",
+            "currentName": "Lagopus lagopus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae|Tetraoninae|Lagopus|Lagopus lagopus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070|999677|352764|444614",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

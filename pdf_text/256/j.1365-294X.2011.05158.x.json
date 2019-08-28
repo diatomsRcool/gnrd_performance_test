@@ -1,0 +1,918 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:03:06.665726443-05:00",
+    "language": "eng",
+    "total_words": 8547,
+    "total_candidates": 1032,
+    "total_names": 11
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "PAULUS,*",
+      "name": "Paulus",
+      "odds": 160409.7371333154,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 176,
+      "end": 184,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1362184",
+          "matchedName": "Paulus Solowiow, 1924",
+          "matchedCanonical": "Paulus",
+          "currentName": "Paulus Solowiow, 1924",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Thysanoptera|Thripidae|Paulus",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10617|104025|1362184",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4800060",
+            "matchedName": "Paulus Solowiow, 1924",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus Solowiow, 1924",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Thysanoptera|Thripidae|Paulus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1228|4387|4800060",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3437651",
+            "matchedName": "Paulus",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Thysanoptera|Terebrantia|Thripoidea|Thripidae|Paulus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|457399|788831|194392|626752|3437651",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "KATJA",
+      "name": "Katja",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 185,
+      "end": 190,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45945258",
+          "matchedName": "Katja",
+          "matchedCanonical": "Katja",
+          "currentName": "Katja",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Katja",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945258",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45945258",
+            "matchedName": "Katja",
+            "matchedCanonical": "Katja",
+            "currentName": "Katja",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Katja",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945258",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1870323",
+            "matchedName": "Katja Amsel, 1951",
+            "matchedCanonical": "Katja",
+            "currentName": "Katja Amsel, 1951",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyralidae|Katja",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5336|1870323",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3159265",
+            "matchedName": "Katja",
+            "matchedCanonical": "Katja",
+            "currentName": "Katja",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Pyralidae|Katja",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|691929|3159265",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Somateria mollissima",
+      "name": "Somateria mollissima",
+      "odds": 37566328.45135364,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spEnd3": {
+            "ima": 100.10871534698315
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 2552,
+      "end": 2572,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e999b4ec3f0ee05bcd43a62b67baaf64",
+          "matchedName": "Somateria mollissima (Linnaeus, 1758)",
+          "matchedCanonical": "Somateria mollissima",
+          "currentName": "Somateria mollissima (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Somateria|Somateria mollissima",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45850614|45850617|45954900|e999b4ec3f0ee05bcd43a62b67baaf64",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e999b4ec3f0ee05bcd43a62b67baaf64",
+            "matchedName": "Somateria mollissima (Linnaeus, 1758)",
+            "matchedCanonical": "Somateria mollissima",
+            "currentName": "Somateria mollissima (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Somateria|Somateria mollissima",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45850614|45850617|45954900|e999b4ec3f0ee05bcd43a62b67baaf64",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2498352",
+            "matchedName": "Somateria mollissima (Linnaeus, 1758)",
+            "matchedCanonical": "Somateria mollissima",
+            "currentName": "Somateria mollissima (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Somateria|Somateria mollissima",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|1108|2986|2498349|2498352",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "785961",
+            "matchedName": "Somateria mollissima",
+            "matchedCanonical": "Somateria mollissima",
+            "currentName": "Somateria mollissima",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Anseriformes|Anatidae|Somateria|Somateria mollissima",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|241841|765193|430247|785961",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anatidae",
+      "name": "Anatidae",
+      "odds": 17462.85639137561,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 2873,
+      "end": 2881,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850617",
+          "matchedName": "Anatidae",
+          "matchedCanonical": "Anatidae",
+          "currentName": "Anatidae",
+          "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45850614|45850617",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850617",
+            "matchedName": "Anatidae",
+            "matchedCanonical": "Anatidae",
+            "currentName": "Anatidae",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45850614|45850617",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2986",
+            "matchedName": "Anatidae",
+            "matchedCanonical": "Anatidae",
+            "currentName": "Anatidae",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|1108|2986",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "765193",
+            "matchedName": "Anatidae",
+            "matchedCanonical": "Anatidae",
+            "currentName": "Anatidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Anseriformes|Anatidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|241841|765193",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Somateria mollissima),",
+      "name": "Somateria mollissima",
+      "odds": 37566328.45135364,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spEnd3": {
+            "ima": 100.10871534698315
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 7604,
+      "end": 7627,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e999b4ec3f0ee05bcd43a62b67baaf64",
+          "matchedName": "Somateria mollissima (Linnaeus, 1758)",
+          "matchedCanonical": "Somateria mollissima",
+          "currentName": "Somateria mollissima (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Somateria|Somateria mollissima",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45850614|45850617|45954900|e999b4ec3f0ee05bcd43a62b67baaf64",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e999b4ec3f0ee05bcd43a62b67baaf64",
+            "matchedName": "Somateria mollissima (Linnaeus, 1758)",
+            "matchedCanonical": "Somateria mollissima",
+            "currentName": "Somateria mollissima (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Somateria|Somateria mollissima",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45850614|45850617|45954900|e999b4ec3f0ee05bcd43a62b67baaf64",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2498352",
+            "matchedName": "Somateria mollissima (Linnaeus, 1758)",
+            "matchedCanonical": "Somateria mollissima",
+            "currentName": "Somateria mollissima (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Somateria|Somateria mollissima",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|1108|2986|2498349|2498352",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "785961",
+            "matchedName": "Somateria mollissima",
+            "matchedCanonical": "Somateria mollissima",
+            "currentName": "Somateria mollissima",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Anseriformes|Anatidae|Somateria|Somateria mollissima",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|241841|765193|430247|785961",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paulus",
+      "name": "Paulus",
+      "odds": 160409.7371333154,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 11779,
+      "end": 11785,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1362184",
+          "matchedName": "Paulus Solowiow, 1924",
+          "matchedCanonical": "Paulus",
+          "currentName": "Paulus Solowiow, 1924",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Thysanoptera|Thripidae|Paulus",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10617|104025|1362184",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4800060",
+            "matchedName": "Paulus Solowiow, 1924",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus Solowiow, 1924",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Thysanoptera|Thripidae|Paulus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1228|4387|4800060",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3437651",
+            "matchedName": "Paulus",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Thysanoptera|Terebrantia|Thripoidea|Thripidae|Paulus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|457399|788831|194392|626752|3437651",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paulus",
+      "name": "Paulus",
+      "odds": 160409.7371333154,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 11840,
+      "end": 11846,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1362184",
+          "matchedName": "Paulus Solowiow, 1924",
+          "matchedCanonical": "Paulus",
+          "currentName": "Paulus Solowiow, 1924",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Thysanoptera|Thripidae|Paulus",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10617|104025|1362184",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4800060",
+            "matchedName": "Paulus Solowiow, 1924",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus Solowiow, 1924",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Thysanoptera|Thripidae|Paulus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1228|4387|4800060",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3437651",
+            "matchedName": "Paulus",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Thysanoptera|Terebrantia|Thripoidea|Thripidae|Paulus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|457399|788831|194392|626752|3437651",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Paulus",
+      "name": "Paulus",
+      "odds": 160409.7371333154,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 11892,
+      "end": 11899,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1362184",
+          "matchedName": "Paulus Solowiow, 1924",
+          "matchedCanonical": "Paulus",
+          "currentName": "Paulus Solowiow, 1924",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Thysanoptera|Thripidae|Paulus",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10617|104025|1362184",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4800060",
+            "matchedName": "Paulus Solowiow, 1924",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus Solowiow, 1924",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Thysanoptera|Thripidae|Paulus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1228|4387|4800060",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3437651",
+            "matchedName": "Paulus",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Thysanoptera|Terebrantia|Thripoidea|Thripidae|Paulus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|457399|788831|194392|626752|3437651",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Gallinula chloropus),",
+      "name": "Gallinula chloropus",
+      "odds": 285541018202.16266,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 34377,
+      "end": 34399,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "8c1a4e2718730f2ad6171f96fb6c6fa3",
+          "matchedName": "Gallinula chloropus (Linnaeus, 1758)",
+          "matchedCanonical": "Gallinula chloropus",
+          "currentName": "Gallinula chloropus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Gruiformes|Rallidae|Gallinula|Gallinula chloropus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848169|45848170|45961207|8c1a4e2718730f2ad6171f96fb6c6fa3",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "8c1a4e2718730f2ad6171f96fb6c6fa3",
+            "matchedName": "Gallinula chloropus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallinula chloropus",
+            "currentName": "Gallinula chloropus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Gruiformes|Rallidae|Gallinula|Gallinula chloropus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848169|45848170|45961207|8c1a4e2718730f2ad6171f96fb6c6fa3",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5228199",
+            "matchedName": "Gallinula chloropus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallinula chloropus",
+            "currentName": "Gallinula chloropus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Gruiformes|Rallidae|Gallinula|Gallinula chloropus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|1493|9342|7918617|5228199",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1041541",
+            "matchedName": "Gallinula chloropus",
+            "matchedCanonical": "Gallinula chloropus",
+            "currentName": "Gallinula chloropus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Gruiformes|Rallidae|Gallinula|Gallinula chloropus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|967304|414340|1041540|1041541",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Bucephala clangula)",
+      "name": "Bucephala clangula",
+      "odds": 1503664587412.7173,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ala": 52.55707555716615
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          }
+        }
+      },
+      "start": 35934,
+      "end": 35954,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "92e6fa51a4248c8fd3ab06084826ace6",
+          "matchedName": "Bucephala clangula (Linnaeus, 1758)",
+          "matchedCanonical": "Bucephala clangula",
+          "currentName": "Bucephala clangula (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Bucephala|Bucephala clangula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45850614|45850617|46066974|92e6fa51a4248c8fd3ab06084826ace6",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "92e6fa51a4248c8fd3ab06084826ace6",
+            "matchedName": "Bucephala clangula (Linnaeus, 1758)",
+            "matchedCanonical": "Bucephala clangula",
+            "currentName": "Bucephala clangula (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Bucephala|Bucephala clangula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45850614|45850617|46066974|92e6fa51a4248c8fd3ab06084826ace6",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2498326",
+            "matchedName": "Bucephala clangula (Linnaeus, 1758)",
+            "matchedCanonical": "Bucephala clangula",
+            "currentName": "Bucephala clangula (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Bucephala|Bucephala clangula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|1108|2986|2498324|2498326",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "166683",
+            "matchedName": "Bucephala clangula",
+            "matchedCanonical": "Bucephala clangula",
+            "currentName": "Bucephala clangula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Anseriformes|Anatidae|Bucephala|Bucephala clangula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|241841|765193|780951|166683",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 29,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Branta leucopsis).",
+      "name": "Branta leucopsis",
+      "odds": 30252414223.107674,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 35974,
+      "end": 35993,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "898775cafe3c7b335815f149525575d0",
+          "matchedName": "Branta leucopsis (Bechstein, 1803)",
+          "matchedCanonical": "Branta leucopsis",
+          "currentName": "Branta leucopsis (Bechstein, 1803)",
+          "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Branta|Branta leucopsis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45850614|45850617|45954902|898775cafe3c7b335815f149525575d0",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "898775cafe3c7b335815f149525575d0",
+            "matchedName": "Branta leucopsis (Bechstein, 1803)",
+            "matchedCanonical": "Branta leucopsis",
+            "currentName": "Branta leucopsis (Bechstein, 1803)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Branta|Branta leucopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45850614|45850617|45954902|898775cafe3c7b335815f149525575d0",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5232464",
+            "matchedName": "Branta leucopsis (Bechstein, 1803)",
+            "matchedCanonical": "Branta leucopsis",
+            "currentName": "Branta leucopsis (Bechstein, 1803)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Branta|Branta leucopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|1108|2986|2498190|5232464",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "799124",
+            "matchedName": "Branta leucopsis",
+            "matchedCanonical": "Branta leucopsis",
+            "currentName": "Branta leucopsis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Anseriformes|Anatidae|Branta|Branta leucopsis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|241841|765193|714463|799124",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

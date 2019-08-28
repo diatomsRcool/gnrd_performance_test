@@ -1,0 +1,988 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:02:15.726728173-05:00",
+    "language": "eng",
+    "total_words": 7976,
+    "total_candidates": 1199,
+    "total_names": 13
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Helianthus petiolaris",
+      "name": "Helianthus petiolaris",
+      "odds": 174077520.3650372,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          }
+        }
+      },
+      "start": 974,
+      "end": 995,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+          "matchedName": "Helianthus petiolaris hort. ex DC.",
+          "matchedCanonical": "Helianthus petiolaris",
+          "currentName": "Helianthus annuus L.",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+            "matchedName": "Helianthus petiolaris hort. ex DC.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus annuus L.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8708826",
+            "matchedName": "Helianthus petiolaris Hort.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris Hort. ex DC.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|414|3065|3119134|7566229",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "515707",
+            "matchedName": "Helianthus petiolaris",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Asterales|Asteraceae|Asteroideae|Heliantheae alliance|Heliantheae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|no rank|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596121|1042120|46248|1084160|757761|557772|515718|515707",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Helianthus petiolaris,",
+      "name": "Helianthus petiolaris",
+      "odds": 174077520.3650372,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 2257,
+      "end": 2279,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+          "matchedName": "Helianthus petiolaris hort. ex DC.",
+          "matchedCanonical": "Helianthus petiolaris",
+          "currentName": "Helianthus annuus L.",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+            "matchedName": "Helianthus petiolaris hort. ex DC.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus annuus L.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8708826",
+            "matchedName": "Helianthus petiolaris Hort.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris Hort. ex DC.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|414|3065|3119134|7566229",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "515707",
+            "matchedName": "Helianthus petiolaris",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Asterales|Asteraceae|Asteroideae|Heliantheae alliance|Heliantheae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|no rank|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596121|1042120|46248|1084160|757761|557772|515718|515707",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Helianthus petiolaris.",
+      "name": "Helianthus petiolaris",
+      "odds": 174077520.3650372,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          }
+        }
+      },
+      "start": 7450,
+      "end": 7472,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+          "matchedName": "Helianthus petiolaris hort. ex DC.",
+          "matchedCanonical": "Helianthus petiolaris",
+          "currentName": "Helianthus annuus L.",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+            "matchedName": "Helianthus petiolaris hort. ex DC.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus annuus L.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8708826",
+            "matchedName": "Helianthus petiolaris Hort.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris Hort. ex DC.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|414|3065|3119134|7566229",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "515707",
+            "matchedName": "Helianthus petiolaris",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Asterales|Asteraceae|Asteroideae|Heliantheae alliance|Heliantheae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|no rank|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596121|1042120|46248|1084160|757761|557772|515718|515707",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "H. petiolaris,",
+      "name": "H. petiolaris",
+      "odds": 11499273.168551212,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 7830,
+      "end": 7844,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Helianthus anomalus",
+      "name": "Helianthus anomalus",
+      "odds": 72020377.51297277,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          }
+        }
+      },
+      "start": 8087,
+      "end": 8106,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "80ce7109b8304242eff56d3e40c77a89",
+          "matchedName": "Helianthus anomalus Blake",
+          "matchedCanonical": "Helianthus anomalus",
+          "currentName": "Helianthus anomalus Blake",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus anomalus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|80ce7109b8304242eff56d3e40c77a89",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "80ce7109b8304242eff56d3e40c77a89",
+            "matchedName": "Helianthus anomalus Blake",
+            "matchedCanonical": "Helianthus anomalus",
+            "currentName": "Helianthus anomalus Blake",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus anomalus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|80ce7109b8304242eff56d3e40c77a89",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3119246",
+            "matchedName": "Helianthus anomalus S.F.Blake",
+            "matchedCanonical": "Helianthus anomalus",
+            "currentName": "Helianthus anomalus S.F.Blake",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus anomalus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|414|3065|3119134|3119246",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "769538",
+            "matchedName": "Helianthus anomalus",
+            "matchedCanonical": "Helianthus anomalus",
+            "currentName": "Helianthus anomalus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Asterales|Asteraceae|Asteroideae|Heliantheae alliance|Heliantheae|Helianthus|Helianthus anomalus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|no rank|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596121|1042120|46248|1084160|757761|557772|515718|769538",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "H. petiolaris",
+      "name": "H. petiolaris",
+      "odds": 11499273.168551212,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 8150,
+      "end": 8163,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Helianthus petiolaris",
+      "name": "Helianthus petiolaris",
+      "odds": 174077520.3650372,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 10478,
+      "end": 10499,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+          "matchedName": "Helianthus petiolaris hort. ex DC.",
+          "matchedCanonical": "Helianthus petiolaris",
+          "currentName": "Helianthus annuus L.",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+            "matchedName": "Helianthus petiolaris hort. ex DC.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus annuus L.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8708826",
+            "matchedName": "Helianthus petiolaris Hort.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris Hort. ex DC.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|414|3065|3119134|7566229",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "515707",
+            "matchedName": "Helianthus petiolaris",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Asterales|Asteraceae|Asteroideae|Heliantheae alliance|Heliantheae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|no rank|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596121|1042120|46248|1084160|757761|557772|515718|515707",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Helianthus petiolaris",
+      "name": "Helianthus petiolaris",
+      "odds": 174077520.3650372,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          }
+        }
+      },
+      "start": 20437,
+      "end": 20458,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+          "matchedName": "Helianthus petiolaris hort. ex DC.",
+          "matchedCanonical": "Helianthus petiolaris",
+          "currentName": "Helianthus annuus L.",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+            "matchedName": "Helianthus petiolaris hort. ex DC.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus annuus L.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8708826",
+            "matchedName": "Helianthus petiolaris Hort.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris Hort. ex DC.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|414|3065|3119134|7566229",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "515707",
+            "matchedName": "Helianthus petiolaris",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Asterales|Asteraceae|Asteroideae|Heliantheae alliance|Heliantheae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|no rank|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596121|1042120|46248|1084160|757761|557772|515718|515707",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Helianthus petiolaris,",
+      "name": "Helianthus petiolaris",
+      "odds": 174077520.3650372,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 32432,
+      "end": 32454,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+          "matchedName": "Helianthus petiolaris hort. ex DC.",
+          "matchedCanonical": "Helianthus petiolaris",
+          "currentName": "Helianthus annuus L.",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+            "matchedName": "Helianthus petiolaris hort. ex DC.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus annuus L.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8708826",
+            "matchedName": "Helianthus petiolaris Hort.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris Hort. ex DC.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|414|3065|3119134|7566229",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "515707",
+            "matchedName": "Helianthus petiolaris",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Asterales|Asteraceae|Asteroideae|Heliantheae alliance|Heliantheae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|no rank|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596121|1042120|46248|1084160|757761|557772|515718|515707",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Helianthus petiolaris",
+      "name": "Helianthus petiolaris",
+      "odds": 174077520.3650372,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 42734,
+      "end": 42755,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+          "matchedName": "Helianthus petiolaris hort. ex DC.",
+          "matchedCanonical": "Helianthus petiolaris",
+          "currentName": "Helianthus annuus L.",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+            "matchedName": "Helianthus petiolaris hort. ex DC.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus annuus L.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8708826",
+            "matchedName": "Helianthus petiolaris Hort.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris Hort. ex DC.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|414|3065|3119134|7566229",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "515707",
+            "matchedName": "Helianthus petiolaris",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Asterales|Asteraceae|Asteroideae|Heliantheae alliance|Heliantheae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|no rank|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596121|1042120|46248|1084160|757761|557772|515718|515707",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "H. petiolaris",
+      "name": "H. petiolaris",
+      "odds": 11499273.168551212,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          }
+        }
+      },
+      "start": 42955,
+      "end": 42968,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "H. anomalus,",
+      "name": "H. anomalus",
+      "odds": 4757547.057122455,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 49441,
+      "end": 49453,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Phyllis",
+      "name": "Phyllis",
+      "odds": 7407.451085668007,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 50915,
+      "end": 50922,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46000945",
+          "matchedName": "Phyllis",
+          "matchedCanonical": "Phyllis",
+          "currentName": "Phyllis",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Gentianales|Rubiaceae|Phyllis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45844404|45844405|46000945",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46000945",
+            "matchedName": "Phyllis",
+            "matchedCanonical": "Phyllis",
+            "currentName": "Phyllis",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Gentianales|Rubiaceae|Phyllis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45844404|45844405|46000945",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3269507",
+            "matchedName": "Phyllis F. Wilson, 1889",
+            "matchedCanonical": "Phyllis",
+            "currentName": "Neophyllis F. Wilson, 1891",
+            "isSynonym": true,
+            "classificationPath": "Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Sphaerophoraceae|Neophyllis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|95|180|1048|4810|3269506",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "16459",
+            "matchedName": "Phyllis",
+            "matchedCanonical": "Phyllis",
+            "currentName": "Phyllis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Gentianales|Rubiaceae|Rubioideae|Anthospermeae|Phyllis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|524062|1014022|997378|571841|16459",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

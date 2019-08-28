@@ -1,0 +1,893 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:03:22.937765783-05:00",
+    "language": "eng",
+    "total_words": 8314,
+    "total_candidates": 1448,
+    "total_names": 12
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Hordeum vulgare,",
+      "name": "Hordeum vulgare",
+      "odds": 425717141.79382056,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "are": 5.720498019827609
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eum": 2.047678268461019
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 2637,
+      "end": 2653,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "830e2bd84d6e89c0f6e719117b61f7a1",
+          "matchedName": "Hordeum vulgare L.",
+          "matchedCanonical": "Hordeum vulgare",
+          "currentName": "Hordeum vulgare L.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Hordeum|Hordeum vulgare",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46111998|830e2bd84d6e89c0f6e719117b61f7a1",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "830e2bd84d6e89c0f6e719117b61f7a1",
+            "matchedName": "Hordeum vulgare L.",
+            "matchedCanonical": "Hordeum vulgare",
+            "currentName": "Hordeum vulgare L.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Hordeum|Hordeum vulgare",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46111998|830e2bd84d6e89c0f6e719117b61f7a1",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2706056",
+            "matchedName": "Hordeum vulgare L.",
+            "matchedCanonical": "Hordeum vulgare",
+            "currentName": "Hordeum vulgare L.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Hordeum|Hordeum vulgare",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2706050|2706056",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "657948",
+            "matchedName": "Hordeum vulgare",
+            "matchedCanonical": "Hordeum vulgare",
+            "currentName": "Hordeum vulgare",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Pooideae|Triticodae|Triticeae|Hordeinae|Hordeum|Hordeum vulgare",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|17811|641464|5737321|693954|5759321|649371|657948",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Potyviridae",
+      "name": "Potyviridae",
+      "odds": 1523490.8004450614,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 3636,
+      "end": 3647,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45842819",
+          "matchedName": "Potyviridae",
+          "matchedCanonical": "Potyviridae",
+          "currentName": "Potyviridae",
+          "classificationPath": "|Not assigned|Not assigned|Not assigned|Potyviridae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841352|45841353|45841354|45841355|45842819",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45842819",
+            "matchedName": "Potyviridae",
+            "matchedCanonical": "Potyviridae",
+            "currentName": "Potyviridae",
+            "classificationPath": "|Not assigned|Not assigned|Not assigned|Potyviridae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841352|45841353|45841354|45841355|45842819",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1936",
+            "matchedName": "Potyviridae",
+            "matchedCanonical": "Potyviridae",
+            "currentName": "Potyviridae",
+            "classificationPath": "|Potyviridae",
+            "classificationRank": "kingdom|family",
+            "classificationIDs": "8|1936",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cucumis",
+      "name": "Cucumis",
+      "odds": 105895.25143595813,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mis": 72.57881862656278
+          }
+        }
+      },
+      "start": 5436,
+      "end": 5443,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46031285",
+          "matchedName": "Cucumis",
+          "matchedCanonical": "Cucumis",
+          "currentName": "Cucumis",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Cucurbitales|Cucurbitaceae|Cucumis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45844416|45848898|46031285",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46031285",
+            "matchedName": "Cucumis",
+            "matchedCanonical": "Cucumis",
+            "currentName": "Cucumis",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Cucurbitales|Cucurbitaceae|Cucumis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45844416|45848898|46031285",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8022179",
+            "matchedName": "Cucumis Deshayes, 1830",
+            "matchedCanonical": "Cucumis",
+            "currentName": "Marginella Lamarck, 1799",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Neogastropoda|Marginellidae|Marginella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|52|225|982|2689|2303918",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1006254",
+            "matchedName": "Cucumis",
+            "matchedCanonical": "Cucumis",
+            "currentName": "Cucumis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Cucurbitales|Cucurbitaceae|Benincaseae|Cucumis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|11011|1006267|462350|1006254",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Potyviridae",
+      "name": "Potyviridae",
+      "odds": 1523490.8004450614,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 6416,
+      "end": 6427,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45842819",
+          "matchedName": "Potyviridae",
+          "matchedCanonical": "Potyviridae",
+          "currentName": "Potyviridae",
+          "classificationPath": "|Not assigned|Not assigned|Not assigned|Potyviridae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841352|45841353|45841354|45841355|45842819",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45842819",
+            "matchedName": "Potyviridae",
+            "matchedCanonical": "Potyviridae",
+            "currentName": "Potyviridae",
+            "classificationPath": "|Not assigned|Not assigned|Not assigned|Potyviridae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841352|45841353|45841354|45841355|45842819",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1936",
+            "matchedName": "Potyviridae",
+            "matchedCanonical": "Potyviridae",
+            "currentName": "Potyviridae",
+            "classificationPath": "|Potyviridae",
+            "classificationRank": "kingdom|family",
+            "classificationIDs": "8|1936",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Hordeum vulgare subsp. vulgare)",
+      "name": "Hordeum vulgare subsp. vulgare",
+      "odds": 1324587670363964.8,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "are": 5.720498019827609
+          },
+          "ispRank": {
+            "true": 648.7044754484508
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eum": 2.047678268461019
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "are": 5.005435767349157
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 8299,
+      "end": 8331,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145103566",
+          "matchedName": "Hordeum vulgare var. vulgare",
+          "matchedCanonical": "Hordeum vulgare var. vulgare",
+          "currentName": "Hordeum vulgare var. vulgare",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7324734",
+            "matchedName": "Hordeum vulgare var. vulgare",
+            "matchedCanonical": "Hordeum vulgare var. vulgare",
+            "currentName": "Hordeum vulgare subsp. vulgare",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Hordeum|Hordeum vulgare|Hordeum vulgare vulgare",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "6|7707728|196|1369|3073|2706050|2706056|4932619",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "909424",
+            "matchedName": "Hordeum vulgare subsp. vulgare",
+            "matchedCanonical": "Hordeum vulgare ssp. vulgare",
+            "currentName": "Hordeum vulgare subsp. vulgare",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Pooideae|Triticodae|Triticeae|Hordeinae|Hordeum|Hordeum vulgare|Hordeum vulgare vulgare",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|17811|641464|5737321|693954|5759321|649371|657948|909424",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Morex,",
+      "name": "Morex",
+      "odds": 51843.35225707666,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rex": 97.60599746330857
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 12617,
+      "end": 12623,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1127804",
+          "matchedName": "Morex Martens in Moebius, 1880",
+          "matchedCanonical": "Morex",
+          "currentName": "Murex Linnaeus, 1758",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Neogastropoda|Muricidae|Murex",
+          "classificationRank": "|Kingdom|Phylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|175|1298|11123|106541|1028162",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4602027",
+            "matchedName": "Morex Martens in Moebius, 1880",
+            "matchedCanonical": "Morex",
+            "currentName": "Murex Linnaeus, 1758",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Neogastropoda|Muricidae|Murex",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|52|225|982|2304120|2304422",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Morex)",
+      "name": "Morex",
+      "odds": 51843.35225707666,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rex": 97.60599746330857
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 20432,
+      "end": 20438,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1127804",
+          "matchedName": "Morex Martens in Moebius, 1880",
+          "matchedCanonical": "Morex",
+          "currentName": "Murex Linnaeus, 1758",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Neogastropoda|Muricidae|Murex",
+          "classificationRank": "|Kingdom|Phylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|175|1298|11123|106541|1028162",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4602027",
+            "matchedName": "Morex Martens in Moebius, 1880",
+            "matchedCanonical": "Morex",
+            "currentName": "Murex Linnaeus, 1758",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Neogastropoda|Muricidae|Murex",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|52|225|982|2304120|2304422",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Franka)",
+      "name": "Franka",
+      "odds": 28.194671178820585,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 20575,
+      "end": 20582,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "16451-1",
+          "matchedName": "Franka Steud.",
+          "matchedCanonical": "Franka",
+          "currentName": "Franka Steud.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3873672",
+            "matchedName": "Franka Steud.",
+            "matchedCanonical": "Franka",
+            "currentName": "Franka Steud.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Frankeniaceae|Franka",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|422|2380|3873672",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Arabidopsis",
+      "name": "Arabidopsis",
+      "odds": 168760.66793547937,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 27625,
+      "end": 27636,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975866",
+          "matchedName": "Arabidopsis",
+          "matchedCanonical": "Arabidopsis",
+          "currentName": "Arabidopsis",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975866",
+            "matchedName": "Arabidopsis",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052435",
+            "matchedName": "Arabidopsis (DC.) Heynh. Heynh. (DC.)",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis (DC.) Heynh. Heynh. (DC.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309275",
+            "matchedName": "Arabidopsis",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Capsicum annum)",
+      "name": "Capsicum annum",
+      "odds": 25211894.434501972,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "num": 265.2880956695053
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cum": 130.1413299510781
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 35713,
+      "end": 35729,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45957176",
+          "matchedName": "Capsicum",
+          "matchedCanonical": "Capsicum",
+          "currentName": "Capsicum",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae|Capsicum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45848065|45856684|45957176",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45957176",
+            "matchedName": "Capsicum",
+            "matchedCanonical": "Capsicum",
+            "currentName": "Capsicum",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae|Capsicum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45848065|45856684|45957176",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2932937",
+            "matchedName": "Capsicum L.",
+            "matchedCanonical": "Capsicum",
+            "currentName": "Capsicum L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae|Capsicum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1176|7717|2932937",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "473824",
+            "matchedName": "Capsicum",
+            "matchedCanonical": "Capsicum",
+            "currentName": "Capsicum",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Solanales|Solanaceae|Solanoideae|Capsiceae|Capsicum",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|1050255|473827|13867|484910|473824",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Cucumis",
+      "name": "Cucumis",
+      "odds": 105895.25143595813,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mis": 72.57881862656278
+          }
+        }
+      },
+      "start": 35851,
+      "end": 35859,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46031285",
+          "matchedName": "Cucumis",
+          "matchedCanonical": "Cucumis",
+          "currentName": "Cucumis",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Cucurbitales|Cucurbitaceae|Cucumis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45844416|45848898|46031285",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46031285",
+            "matchedName": "Cucumis",
+            "matchedCanonical": "Cucumis",
+            "currentName": "Cucumis",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Cucurbitales|Cucurbitaceae|Cucumis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45844416|45848898|46031285",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8022179",
+            "matchedName": "Cucumis Deshayes, 1830",
+            "matchedCanonical": "Cucumis",
+            "currentName": "Marginella Lamarck, 1799",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Neogastropoda|Marginellidae|Marginella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|52|225|982|2689|2303918",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1006254",
+            "matchedName": "Cucumis",
+            "matchedCanonical": "Cucumis",
+            "currentName": "Cucumis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Cucurbitales|Cucurbitaceae|Benincaseae|Cucumis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|11011|1006267|462350|1006254",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "BaMMV isolates",
+      "name": "Bammv isolates",
+      "odds": 17.558900640565433,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 46845,
+      "end": 46859,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

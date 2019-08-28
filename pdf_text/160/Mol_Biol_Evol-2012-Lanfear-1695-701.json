@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:00:40.52609858-05:00",
+    "language": "eng",
+    "total_words": 5218,
+    "total_candidates": 730,
+    "total_names": 3
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Saxifragales",
+      "name": "Saxifragales",
+      "odds": 488.15426345029437,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "les": 0.5582986048197137
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 24039,
+      "end": 24051,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841855",
+          "matchedName": "Saxifragales",
+          "matchedCanonical": "Saxifragales",
+          "currentName": "Saxifragales",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841433|45841434|45841435|45841855",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841855",
+            "matchedName": "Saxifragales",
+            "matchedCanonical": "Saxifragales",
+            "currentName": "Saxifragales",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841433|45841434|45841435|45841855",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7219248",
+            "matchedName": "Saxifragales",
+            "matchedCanonical": "Saxifragales",
+            "currentName": "Saxifragales",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "6|7707728|220|7219248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "648890",
+            "matchedName": "Saxifragales",
+            "matchedCanonical": "Saxifragales",
+            "currentName": "Saxifragales",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|Saxifragales",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|order",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|648890",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Caterino",
+      "name": "Caterino",
+      "odds": 2962.8300342285283,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ino": 0.8342392945581929
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 24155,
+      "end": 24163,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1283313",
+          "matchedName": "Caterino",
+          "matchedCanonical": "Caterino",
+          "currentName": "Caterino",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Histeridae|Caterino",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|114574|1283313",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4769845",
+            "matchedName": "Caterino",
+            "matchedCanonical": "Caterino",
+            "currentName": "Caterino",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Histeridae|Caterino",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|4733|4769845",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3352489",
+            "matchedName": "Caterino",
+            "matchedCanonical": "Caterino",
+            "currentName": "Caterino",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Histeroidea|Histeridae|Caterino",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|1032407|738371|3352489",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Saxifragales",
+      "name": "Saxifragales",
+      "odds": 488.15426345029437,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "les": 0.5582986048197137
+          }
+        }
+      },
+      "start": 28084,
+      "end": 28096,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841855",
+          "matchedName": "Saxifragales",
+          "matchedCanonical": "Saxifragales",
+          "currentName": "Saxifragales",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841433|45841434|45841435|45841855",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841855",
+            "matchedName": "Saxifragales",
+            "matchedCanonical": "Saxifragales",
+            "currentName": "Saxifragales",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841433|45841434|45841435|45841855",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7219248",
+            "matchedName": "Saxifragales",
+            "matchedCanonical": "Saxifragales",
+            "currentName": "Saxifragales",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "6|7707728|220|7219248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "648890",
+            "matchedName": "Saxifragales",
+            "matchedCanonical": "Saxifragales",
+            "currentName": "Saxifragales",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|Saxifragales",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|order",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|648890",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

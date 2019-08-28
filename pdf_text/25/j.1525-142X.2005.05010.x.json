@@ -1,0 +1,684 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:02:56.58749389-05:00",
+    "language": "eng",
+    "total_words": 7349,
+    "total_candidates": 1237,
+    "total_names": 12
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Drosophila melanogaster",
+      "name": "Drosophila melanogaster",
+      "odds": 37932.09176258759,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ila": 3.754076825511868
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 64,
+      "end": 87,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "8a2c533e11475fef377a33f3fb2128b5",
+          "matchedName": "Drosophila melanogaster Macquart, 1843",
+          "matchedCanonical": "Drosophila melanogaster",
+          "currentName": "Drosophila macquarti Wheeler, 1981",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila|Drosophila macquarti",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841455|45841489|45929178|51197aff03873015b46b45221ba97966",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "8a2c533e11475fef377a33f3fb2128b5",
+            "matchedName": "Drosophila melanogaster Macquart, 1843",
+            "matchedCanonical": "Drosophila melanogaster",
+            "currentName": "Drosophila macquarti Wheeler, 1981",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila|Drosophila macquarti",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841455|45841489|45929178|51197aff03873015b46b45221ba97966",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7821429",
+            "matchedName": "Drosophila melanogaster Macquart, 1843",
+            "matchedCanonical": "Drosophila melanogaster",
+            "currentName": "Drosophila macquarti Wheeler, 1981",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila|Drosophila macquarti",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|811|5547|1522683|5073712",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "505714",
+            "matchedName": "Drosophila melanogaster",
+            "matchedCanonical": "Drosophila melanogaster",
+            "currentName": "Drosophila melanogaster",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Brachycera|Muscomorpha|Eremoneura|Cyclorrhapha|Schizophora|Acalyptratae|Ephydroidea|Drosophilidae|Drosophilinae|Drosophilini|Drosophila|Sophophora|||Drosophila melanogaster",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|no rank|no rank|section|no rank|superfamily|family|subfamily|tribe|genus|subgenus|species group|species subgroup|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|661378|555807|133916|951142|951146|133926|758894|758897|34905|127994|396616|34907|338350|338355|863009|505714",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Drosophila simulans",
+      "name": "Drosophila simulans",
+      "odds": 84633.96011246424,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ila": 3.754076825511868
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ans": 6.781558136408536
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          }
+        }
+      },
+      "start": 1145,
+      "end": 1164,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3dcbfecbf77b90ef1c02c9393cbe2c28",
+          "matchedName": "Drosophila simulans Sturtevant, 1919",
+          "matchedCanonical": "Drosophila simulans",
+          "currentName": "Drosophila simulans Sturtevant, 1919",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila|Drosophila simulans",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841455|45841489|45929178|3dcbfecbf77b90ef1c02c9393cbe2c28",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3dcbfecbf77b90ef1c02c9393cbe2c28",
+            "matchedName": "Drosophila simulans Sturtevant, 1919",
+            "matchedCanonical": "Drosophila simulans",
+            "currentName": "Drosophila simulans Sturtevant, 1919",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila|Drosophila simulans",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841455|45841489|45929178|3dcbfecbf77b90ef1c02c9393cbe2c28",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5075039",
+            "matchedName": "Drosophila simulans Sturtevant, 1919",
+            "matchedCanonical": "Drosophila simulans",
+            "currentName": "Drosophila simulans Sturtevant, 1919",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila|Drosophila simulans",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|811|5547|1522683|5075039",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "660828",
+            "matchedName": "Drosophila simulans",
+            "matchedCanonical": "Drosophila simulans",
+            "currentName": "Drosophila simulans",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Brachycera|Muscomorpha|Eremoneura|Cyclorrhapha|Schizophora|Acalyptratae|Ephydroidea|Drosophilidae|Drosophilinae|Drosophilini|Drosophila|Sophophora|||Drosophila simulans",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|no rank|no rank|section|no rank|superfamily|family|subfamily|tribe|genus|subgenus|species group|species subgroup|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|661378|555807|133916|951142|951146|133926|758894|758897|34905|127994|396616|34907|338350|338355|863009|660828",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. melanogaster",
+      "name": "D. melanogaster",
+      "odds": 55026.70598705043,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          }
+        }
+      },
+      "start": 1169,
+      "end": 1184,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Drosophila melanogaster.",
+      "name": "Drosophila melanogaster",
+      "odds": 37932.09176258759,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ila": 3.754076825511868
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 2408,
+      "end": 2432,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "8a2c533e11475fef377a33f3fb2128b5",
+          "matchedName": "Drosophila melanogaster Macquart, 1843",
+          "matchedCanonical": "Drosophila melanogaster",
+          "currentName": "Drosophila macquarti Wheeler, 1981",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila|Drosophila macquarti",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841455|45841489|45929178|51197aff03873015b46b45221ba97966",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "8a2c533e11475fef377a33f3fb2128b5",
+            "matchedName": "Drosophila melanogaster Macquart, 1843",
+            "matchedCanonical": "Drosophila melanogaster",
+            "currentName": "Drosophila macquarti Wheeler, 1981",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila|Drosophila macquarti",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841455|45841489|45929178|51197aff03873015b46b45221ba97966",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7821429",
+            "matchedName": "Drosophila melanogaster Macquart, 1843",
+            "matchedCanonical": "Drosophila melanogaster",
+            "currentName": "Drosophila macquarti Wheeler, 1981",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila|Drosophila macquarti",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|811|5547|1522683|5073712",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "505714",
+            "matchedName": "Drosophila melanogaster",
+            "matchedCanonical": "Drosophila melanogaster",
+            "currentName": "Drosophila melanogaster",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Brachycera|Muscomorpha|Eremoneura|Cyclorrhapha|Schizophora|Acalyptratae|Ephydroidea|Drosophilidae|Drosophilinae|Drosophilini|Drosophila|Sophophora|||Drosophila melanogaster",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|no rank|no rank|section|no rank|superfamily|family|subfamily|tribe|genus|subgenus|species group|species subgroup|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|661378|555807|133916|951142|951146|133926|758894|758897|34905|127994|396616|34907|338350|338355|863009|505714",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Fontana",
+      "name": "Fontana",
+      "odds": 71.84408046937408,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          }
+        }
+      },
+      "start": 3141,
+      "end": 3148,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 2,
+          "dataSourceTitle": "Wikispecies",
+          "taxonId": "665430",
+          "matchedName": "Taraxacum sect. Fontana",
+          "matchedCanonical": "Taraxacum sect. Fontana",
+          "currentName": "Taraxacum sect. Fontana",
+          "classificationPath": "Taraxacum anatolicum|Taraxacum",
+          "classificationRank": "|",
+          "classificationIDs": "100871|665430",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. melanogaster",
+      "name": "D. melanogaster",
+      "odds": 55026.70598705043,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          }
+        }
+      },
+      "start": 3896,
+      "end": 3911,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Lepidoptera",
+      "name": "Lepidoptera",
+      "odds": 8948.419093846554,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          }
+        }
+      },
+      "start": 4903,
+      "end": 4914,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841616",
+          "matchedName": "Lepidoptera",
+          "matchedCanonical": "Lepidoptera",
+          "currentName": "Lepidoptera",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841265|45841270|45841271|45841616",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841616",
+            "matchedName": "Lepidoptera",
+            "matchedCanonical": "Lepidoptera",
+            "currentName": "Lepidoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841265|45841270|45841271|45841616",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "797",
+            "matchedName": "Lepidoptera",
+            "matchedCanonical": "Lepidoptera",
+            "currentName": "Lepidoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "1|54|216|797",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "965954",
+            "matchedName": "Lepidoptera",
+            "matchedCanonical": "Lepidoptera",
+            "currentName": "Lepidoptera",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. melanogaster",
+      "name": "D. melanogaster",
+      "odds": 55026.70598705043,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 5574,
+      "end": 5589,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. melanogaster:",
+      "name": "D. melanogaster",
+      "odds": 55026.70598705043,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 6145,
+      "end": 6161,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. melanogaster.",
+      "name": "D. melanogaster",
+      "odds": 55026.70598705043,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          }
+        }
+      },
+      "start": 18125,
+      "end": 18141,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. melanogaster.",
+      "name": "D. melanogaster",
+      "odds": 55026.70598705043,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          }
+        }
+      },
+      "start": 34934,
+      "end": 34950,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Homothorax",
+      "name": "Homothorax",
+      "odds": 196454.41034051043,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rax": 35.0380503714441
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 42318,
+      "end": 42328,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1366412",
+          "matchedName": "Homothorax Agassiz, 1845",
+          "matchedCanonical": "Homothorax",
+          "currentName": "Homothorax Agassiz, 1845",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Pisces|Pisces|Pisces|Homothorax",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|148|11905117|1437|10503|116255|1366412",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4817317",
+            "matchedName": "Homothorax Agassiz, 1845",
+            "matchedCanonical": "Homothorax",
+            "currentName": "Homothorax Agassiz, 1845",
+            "classificationPath": "Animalia|Chordata|Homothorax",
+            "classificationRank": "kingdom|phylum|genus",
+            "classificationIDs": "1|44|4817317",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:00:15.934337001-05:00",
+    "language": "eng",
+    "total_words": 3769,
+    "total_candidates": 503,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. punctatus",
+      "name": "P. punctatus",
+      "odds": 26954641.617112663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 383,
+      "end": 395,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pelodytes punctatus",
+      "name": "Pelodytes punctatus",
+      "odds": 254669874637.57758,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 2021,
+      "end": 2040,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "419212ec32df8e5c7a9e2160db6f80e0",
+          "matchedName": "Pelodytes punctatus (Daudin, 1802)",
+          "matchedCanonical": "Pelodytes punctatus",
+          "currentName": "Pelodytes punctatus (Daudin, 1802)",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pelodytidae|Pelodytes|Pelodytes punctatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45846132|45846142|45846155|45979181|419212ec32df8e5c7a9e2160db6f80e0",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "419212ec32df8e5c7a9e2160db6f80e0",
+            "matchedName": "Pelodytes punctatus (Daudin, 1802)",
+            "matchedCanonical": "Pelodytes punctatus",
+            "currentName": "Pelodytes punctatus (Daudin, 1802)",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pelodytidae|Pelodytes|Pelodytes punctatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45846132|45846142|45846155|45979181|419212ec32df8e5c7a9e2160db6f80e0",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2424293",
+            "matchedName": "Pelodytes punctatus (Daudin, 1802)",
+            "matchedCanonical": "Pelodytes punctatus",
+            "currentName": "Pelodytes punctatus (Daudin, 1802)",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pelodytidae|Pelodytes|Pelodytes punctatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3091|2424291|2424293",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "509557",
+            "matchedName": "Pelodytes punctatus",
+            "matchedCanonical": "Pelodytes punctatus",
+            "currentName": "Pelodytes punctatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pelobatoidea|Pelodytidae|Pelodytes|Pelodytes punctatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|485820|509554|509553|509557",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Pelodytes punctatus,",
+      "name": "Pelodytes punctatus",
+      "odds": 254669874637.57758,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 6911,
+      "end": 6932,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "419212ec32df8e5c7a9e2160db6f80e0",
+          "matchedName": "Pelodytes punctatus (Daudin, 1802)",
+          "matchedCanonical": "Pelodytes punctatus",
+          "currentName": "Pelodytes punctatus (Daudin, 1802)",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pelodytidae|Pelodytes|Pelodytes punctatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45846132|45846142|45846155|45979181|419212ec32df8e5c7a9e2160db6f80e0",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "419212ec32df8e5c7a9e2160db6f80e0",
+            "matchedName": "Pelodytes punctatus (Daudin, 1802)",
+            "matchedCanonical": "Pelodytes punctatus",
+            "currentName": "Pelodytes punctatus (Daudin, 1802)",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pelodytidae|Pelodytes|Pelodytes punctatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45846132|45846142|45846155|45979181|419212ec32df8e5c7a9e2160db6f80e0",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2424293",
+            "matchedName": "Pelodytes punctatus (Daudin, 1802)",
+            "matchedCanonical": "Pelodytes punctatus",
+            "currentName": "Pelodytes punctatus (Daudin, 1802)",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pelodytidae|Pelodytes|Pelodytes punctatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3091|2424291|2424293",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "509557",
+            "matchedName": "Pelodytes punctatus",
+            "matchedCanonical": "Pelodytes punctatus",
+            "currentName": "Pelodytes punctatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pelobatoidea|Pelodytidae|Pelodytes|Pelodytes punctatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|485820|509554|509553|509557",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bufo boreas,",
+      "name": "Bufo boreas",
+      "odds": 935.4112183138319,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ufo": 2.5027178836745785
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "eas": 0.20855982363954823
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 18825,
+      "end": 18837,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "74005f8419ce6122e09170731e85a8fd",
+          "matchedName": "Bufo boreas Baird and Girard, 1852",
+          "matchedCanonical": "Bufo boreas",
+          "currentName": "Anaxyrus boreas (Baird and Girard, 1852)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Bufonidae|Anaxyrus|Anaxyrus boreas",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45846132|45846142|45846184|45979009|22ffc603960acdeefa2ebfea5c9ec47b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "74005f8419ce6122e09170731e85a8fd",
+            "matchedName": "Bufo boreas Baird and Girard, 1852",
+            "matchedCanonical": "Bufo boreas",
+            "currentName": "Anaxyrus boreas (Baird and Girard, 1852)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Bufonidae|Anaxyrus|Anaxyrus boreas",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45846132|45846142|45846184|45979009|22ffc603960acdeefa2ebfea5c9ec47b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5217057",
+            "matchedName": "Bufo boreas Baird \u0026 Girard, 1852",
+            "matchedCanonical": "Bufo boreas",
+            "currentName": "Anaxyrus boreas (Baird \u0026 Girard, 1852)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Bufonidae|Anaxyrus|Anaxyrus boreas",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|6727|2422857|2422924",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pelodytes punctatus",
+      "name": "Pelodytes punctatus",
+      "odds": 254669874637.57758,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 21935,
+      "end": 21954,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "419212ec32df8e5c7a9e2160db6f80e0",
+          "matchedName": "Pelodytes punctatus (Daudin, 1802)",
+          "matchedCanonical": "Pelodytes punctatus",
+          "currentName": "Pelodytes punctatus (Daudin, 1802)",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pelodytidae|Pelodytes|Pelodytes punctatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45846132|45846142|45846155|45979181|419212ec32df8e5c7a9e2160db6f80e0",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "419212ec32df8e5c7a9e2160db6f80e0",
+            "matchedName": "Pelodytes punctatus (Daudin, 1802)",
+            "matchedCanonical": "Pelodytes punctatus",
+            "currentName": "Pelodytes punctatus (Daudin, 1802)",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pelodytidae|Pelodytes|Pelodytes punctatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45846132|45846142|45846155|45979181|419212ec32df8e5c7a9e2160db6f80e0",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2424293",
+            "matchedName": "Pelodytes punctatus (Daudin, 1802)",
+            "matchedCanonical": "Pelodytes punctatus",
+            "currentName": "Pelodytes punctatus (Daudin, 1802)",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pelodytidae|Pelodytes|Pelodytes punctatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3091|2424291|2424293",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "509557",
+            "matchedName": "Pelodytes punctatus",
+            "matchedCanonical": "Pelodytes punctatus",
+            "currentName": "Pelodytes punctatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pelobatoidea|Pelodytidae|Pelodytes|Pelodytes punctatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|485820|509554|509553|509557",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Physa acuta",
+      "name": "Physa acuta",
+      "odds": 1624053327.5628963,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ysa": 12.513589418372893
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 22416,
+      "end": 22427,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "72105a2dac85aacd7fb80db04f6f6985",
+          "matchedName": "Physa acuta Draparnaud, 1805",
+          "matchedCanonical": "Physa acuta",
+          "currentName": "Physella acuta (Draparnaud, 1805)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Lymnaeoidea|Physidae|Physella|Physella acuta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841999|45842000|45842094|45845000|45850966|45941698|fb1869850d6c383fb923d2c204a4ac4d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "72105a2dac85aacd7fb80db04f6f6985",
+            "matchedName": "Physa acuta Draparnaud, 1805",
+            "matchedCanonical": "Physa acuta",
+            "currentName": "Physella acuta (Draparnaud, 1805)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Lymnaeoidea|Physidae|Physella|Physella acuta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841999|45842000|45842094|45845000|45850966|45941698|fb1869850d6c383fb923d2c204a4ac4d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8711883",
+            "matchedName": "Physa acuta Draparnaud, 1805",
+            "matchedCanonical": "Physa acuta",
+            "currentName": "Paraplexa cornea Massot, 1845",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Hygrophila|Physidae|Paraplexa|Paraplexa cornea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|52|225|7810165|6798|4599314|7948402",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rana temporaria",
+      "name": "Rana temporaria",
+      "odds": 410834049.32838374,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ria": 31.283973545932234
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 22793,
+      "end": 22808,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2722b8314c6250b8a73cbe019f621cd2",
+          "matchedName": "Rana temporaria Linnaeus, 1758",
+          "matchedCanonical": "Rana temporaria",
+          "currentName": "Rana temporaria Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana|Rana temporaria",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45846132|45846142|45846149|45976701|2722b8314c6250b8a73cbe019f621cd2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2722b8314c6250b8a73cbe019f621cd2",
+            "matchedName": "Rana temporaria Linnaeus, 1758",
+            "matchedCanonical": "Rana temporaria",
+            "currentName": "Rana temporaria Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana|Rana temporaria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45846132|45846142|45846149|45976701|2722b8314c6250b8a73cbe019f621cd2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2426805",
+            "matchedName": "Rana temporaria Linnaeus, 1758",
+            "matchedCanonical": "Rana temporaria",
+            "currentName": "Rana temporaria Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana|Rana temporaria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|6746|2422253|2426805",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "14718",
+            "matchedName": "Rana temporaria",
+            "matchedCanonical": "Rana temporaria",
+            "currentName": "Rana temporaria",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Neobatrachia|Ranoidea|Ranidae|Rana|Rana subgenus|Rana temporaria",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|suborder|superfamily|family|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|535804|911276|364560|364550|6158879|14718",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

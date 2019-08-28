@@ -1,0 +1,3371 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:05:55.133683776-05:00",
+    "language": "eng",
+    "total_words": 7082,
+    "total_candidates": 1497,
+    "total_names": 46
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis getula",
+      "name": "Lampropeltis getula",
+      "odds": 5347471114591.635,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          }
+        }
+      },
+      "start": 198,
+      "end": 217,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+          "matchedCanonical": "Lampropeltis getula",
+          "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8433595",
+            "matchedName": "Lampropeltis getula Crother, 2000",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis californiae (Blainville, 1835)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis californiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8170369",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "547409",
+            "matchedName": "Lampropeltis getula",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|547409",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Lampropeltis getula),",
+      "name": "Lampropeltis getula",
+      "odds": 5347471114591.635,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          }
+        }
+      },
+      "start": 1194,
+      "end": 1216,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+          "matchedCanonical": "Lampropeltis getula",
+          "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8433595",
+            "matchedName": "Lampropeltis getula Crother, 2000",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis californiae (Blainville, 1835)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis californiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8170369",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "547409",
+            "matchedName": "Lampropeltis getula",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|547409",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Fontanella",
+      "name": "Fontanella",
+      "odds": 2322371.779382462,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 5574,
+      "end": 5584,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145230485",
+          "matchedName": "Fontanella Kluk ex Besser",
+          "matchedCanonical": "Fontanella",
+          "currentName": "Fontanella Kluk ex Besser",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7277266",
+            "matchedName": "Fontanella Kluk ex Bess.",
+            "matchedCanonical": "Fontanella",
+            "currentName": "Fontanella Kluk ex Bess.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ranunculales|Ranunculaceae|Fontanella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|399|2410|7277266",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5321978",
+            "matchedName": "Fontanella",
+            "matchedCanonical": "Fontanella",
+            "currentName": "Fontanella",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|||Ranunculales|Ranunculaceae|Fontanella",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|431494|872975|387826|5321978",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Lampropeltis getula)",
+      "name": "Lampropeltis getula",
+      "odds": 5347471114591.635,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 5620,
+      "end": 5641,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+          "matchedCanonical": "Lampropeltis getula",
+          "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8433595",
+            "matchedName": "Lampropeltis getula Crother, 2000",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis californiae (Blainville, 1835)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis californiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8170369",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "547409",
+            "matchedName": "Lampropeltis getula",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|547409",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis getula",
+      "name": "Lampropeltis getula",
+      "odds": 5347471114591.635,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 8692,
+      "end": 8711,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+          "matchedCanonical": "Lampropeltis getula",
+          "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8433595",
+            "matchedName": "Lampropeltis getula Crother, 2000",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis californiae (Blainville, 1835)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis californiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8170369",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "547409",
+            "matchedName": "Lampropeltis getula",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|547409",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. getula",
+      "name": "L. getula",
+      "odds": 1155768.0121403972,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          }
+        }
+      },
+      "start": 8816,
+      "end": 8825,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LAMPROPELTIS",
+      "name": "Lampropeltis",
+      "odds": 2147056.5802161274,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 9137,
+      "end": 9149,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45891832",
+          "matchedName": "Lampropeltis",
+          "matchedCanonical": "Lampropeltis",
+          "currentName": "Lampropeltis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45891832",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Lampropeltis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8690236",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Samgonus Ozdikmen, 2006",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Plethopeltidae|Samgonus",
+            "classificationRank": "kingdom|phylum|family|genus",
+            "classificationIDs": "1|54|4634733|8591438",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "396649",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Lampropeltis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "GETULA",
+      "name": "Getula",
+      "odds": 19537.083368801235,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          }
+        }
+      },
+      "start": 9150,
+      "end": 9156,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46099861",
+          "matchedName": "Getula",
+          "matchedCanonical": "Getula",
+          "currentName": "Getula",
+          "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841342|45841343|45842436|45849783|46099861",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46099861",
+            "matchedName": "Getula",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula",
+            "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841342|45841343|45842436|45849783|46099861",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2502160",
+            "matchedName": "Getula Karling, 1980",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula Karling, 1980",
+            "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|108|5967490|5967598|3033|2502160",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3665050",
+            "matchedName": "Getula",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Platyhelminthes|Rhabditophora|Rhabdocoela|Kalyptorhynchia|Eukalyptorhynchia|Koinocystididae|Getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|555379|3669734|110832|557387|874786|3664934|3665050",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. getula",
+      "name": "L. getula",
+      "odds": 1155768.0121403972,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 10783,
+      "end": 10792,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Arizona elegans,",
+      "name": "Arizona elegans",
+      "odds": 14061.5179236244,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ans": 6.781558136408536
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ona": 2.7529896720420366
+          }
+        }
+      },
+      "start": 11636,
+      "end": 11652,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "fe29dd65bbedbc1335251baa20ca5caa",
+          "matchedName": "Arizona elegans Kennicott, 1859",
+          "matchedCanonical": "Arizona elegans",
+          "currentName": "Arizona elegans Kennicott, 1859",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Arizona|Arizona elegans",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45932926|fe29dd65bbedbc1335251baa20ca5caa",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "fe29dd65bbedbc1335251baa20ca5caa",
+            "matchedName": "Arizona elegans Kennicott, 1859",
+            "matchedCanonical": "Arizona elegans",
+            "currentName": "Arizona elegans Kennicott, 1859",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Arizona|Arizona elegans",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45932926|fe29dd65bbedbc1335251baa20ca5caa",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7539888",
+            "matchedName": "Arizona elegans Conant \u0026 Collins, 1991",
+            "matchedCanonical": "Arizona elegans",
+            "currentName": "Arizona elegans Kennicott, 1859",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Arizona|Arizona elegans",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2455991|5223735",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1032602",
+            "matchedName": "Arizona elegans",
+            "matchedCanonical": "Arizona elegans",
+            "currentName": "Arizona elegans",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Arizona|Arizona elegans",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|1032603|1032602",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis calligaster,",
+      "name": "Lampropeltis calligaster",
+      "odds": 322191178872.198,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          }
+        }
+      },
+      "start": 11653,
+      "end": 11678,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6e3c8de4aa84a4de3530617b72a6960e",
+          "matchedName": "Lampropeltis calligaster (Harlan, 1827)",
+          "matchedCanonical": "Lampropeltis calligaster",
+          "currentName": "Lampropeltis calligaster (Harlan, 1827)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis calligaster",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|6e3c8de4aa84a4de3530617b72a6960e",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6e3c8de4aa84a4de3530617b72a6960e",
+            "matchedName": "Lampropeltis calligaster (Harlan, 1827)",
+            "matchedCanonical": "Lampropeltis calligaster",
+            "currentName": "Lampropeltis calligaster (Harlan, 1827)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis calligaster",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|6e3c8de4aa84a4de3530617b72a6960e",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5224464",
+            "matchedName": "Lampropeltis calligaster (Harlan, 1827)",
+            "matchedCanonical": "Lampropeltis calligaster",
+            "currentName": "Lampropeltis calligaster (Harlan, 1827)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis calligaster",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|5224464",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "300629",
+            "matchedName": "Lampropeltis calligaster",
+            "matchedCanonical": "Lampropeltis calligaster",
+            "currentName": "Lampropeltis calligaster",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis calligaster",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|300629",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis triangulum",
+      "name": "Lampropeltis triangulum",
+      "odds": 25014044541806.473,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "spEnd3": {
+            "lum": 157.67122667149846
+          }
+        }
+      },
+      "start": 11679,
+      "end": 11702,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "9be614b11171c8a10df420e0d4cc1e0c",
+          "matchedName": "Lampropeltis triangulum (Lacépède, 1789)",
+          "matchedCanonical": "Lampropeltis triangulum",
+          "currentName": "Lampropeltis triangulum (Lacépède, 1789)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis triangulum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|9be614b11171c8a10df420e0d4cc1e0c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "9be614b11171c8a10df420e0d4cc1e0c",
+            "matchedName": "Lampropeltis triangulum (Lacépède, 1789)",
+            "matchedCanonical": "Lampropeltis triangulum",
+            "currentName": "Lampropeltis triangulum (Lacépède, 1789)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis triangulum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|9be614b11171c8a10df420e0d4cc1e0c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5224503",
+            "matchedName": "Lampropeltis triangulum (Lacépède, 1789)",
+            "matchedCanonical": "Lampropeltis triangulum",
+            "currentName": "Lampropeltis triangulum (Lacépède, 1789)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis triangulum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|5224503",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "815155",
+            "matchedName": "Lampropeltis triangulum",
+            "matchedCanonical": "Lampropeltis triangulum",
+            "currentName": "Lampropeltis triangulum",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis triangulum",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|815155",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis extenuata",
+      "name": "Lampropeltis extenuata",
+      "odds": 189356244199623.6,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 11707,
+      "end": 11729,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d60fb20f3d0a4327a415b6851ed89198",
+          "matchedName": "Lampropeltis extenuata (Brown, 1890)",
+          "matchedCanonical": "Lampropeltis extenuata",
+          "currentName": "Lampropeltis extenuata (Brown, 1890)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis extenuata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|d60fb20f3d0a4327a415b6851ed89198",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d60fb20f3d0a4327a415b6851ed89198",
+            "matchedName": "Lampropeltis extenuata (Brown, 1890)",
+            "matchedCanonical": "Lampropeltis extenuata",
+            "currentName": "Lampropeltis extenuata (Brown, 1890)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis extenuata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|d60fb20f3d0a4327a415b6851ed89198",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8295545",
+            "matchedName": "Lampropeltis extenuata (Brown, 1890)",
+            "matchedCanonical": "Lampropeltis extenuata",
+            "currentName": "Lampropeltis extenuata (Brown, 1890)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis extenuata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8295545",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "234914",
+            "matchedName": "Lampropeltis extenuata",
+            "matchedCanonical": "Lampropeltis extenuata",
+            "currentName": "Lampropeltis extenuata",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis extenuata",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|234914",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis extenuata",
+      "name": "Lampropeltis extenuata",
+      "odds": 189356244199623.6,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          }
+        }
+      },
+      "start": 12910,
+      "end": 12932,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d60fb20f3d0a4327a415b6851ed89198",
+          "matchedName": "Lampropeltis extenuata (Brown, 1890)",
+          "matchedCanonical": "Lampropeltis extenuata",
+          "currentName": "Lampropeltis extenuata (Brown, 1890)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis extenuata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|d60fb20f3d0a4327a415b6851ed89198",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d60fb20f3d0a4327a415b6851ed89198",
+            "matchedName": "Lampropeltis extenuata (Brown, 1890)",
+            "matchedCanonical": "Lampropeltis extenuata",
+            "currentName": "Lampropeltis extenuata (Brown, 1890)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis extenuata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|d60fb20f3d0a4327a415b6851ed89198",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8295545",
+            "matchedName": "Lampropeltis extenuata (Brown, 1890)",
+            "matchedCanonical": "Lampropeltis extenuata",
+            "currentName": "Lampropeltis extenuata (Brown, 1890)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis extenuata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8295545",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "234914",
+            "matchedName": "Lampropeltis extenuata",
+            "matchedCanonical": "Lampropeltis extenuata",
+            "currentName": "Lampropeltis extenuata",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis extenuata",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|234914",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis extenuata",
+      "name": "Lampropeltis extenuata",
+      "odds": 189356244199623.6,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          }
+        }
+      },
+      "start": 14032,
+      "end": 14054,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d60fb20f3d0a4327a415b6851ed89198",
+          "matchedName": "Lampropeltis extenuata (Brown, 1890)",
+          "matchedCanonical": "Lampropeltis extenuata",
+          "currentName": "Lampropeltis extenuata (Brown, 1890)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis extenuata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|d60fb20f3d0a4327a415b6851ed89198",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d60fb20f3d0a4327a415b6851ed89198",
+            "matchedName": "Lampropeltis extenuata (Brown, 1890)",
+            "matchedCanonical": "Lampropeltis extenuata",
+            "currentName": "Lampropeltis extenuata (Brown, 1890)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis extenuata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|d60fb20f3d0a4327a415b6851ed89198",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8295545",
+            "matchedName": "Lampropeltis extenuata (Brown, 1890)",
+            "matchedCanonical": "Lampropeltis extenuata",
+            "currentName": "Lampropeltis extenuata (Brown, 1890)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis extenuata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8295545",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "234914",
+            "matchedName": "Lampropeltis extenuata",
+            "matchedCanonical": "Lampropeltis extenuata",
+            "currentName": "Lampropeltis extenuata",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis extenuata",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|234914",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis getula",
+      "name": "Lampropeltis getula",
+      "odds": 5347471114591.635,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          }
+        }
+      },
+      "start": 14059,
+      "end": 14078,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+          "matchedCanonical": "Lampropeltis getula",
+          "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8433595",
+            "matchedName": "Lampropeltis getula Crother, 2000",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis californiae (Blainville, 1835)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis californiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8170369",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "547409",
+            "matchedName": "Lampropeltis getula",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|547409",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Stilosoma (Lampropeltis) vetustum",
+      "name": "Stilosoma vetustum",
+      "odds": 2392968586853.4683,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tum": 483.02455154919363
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          }
+        }
+      },
+      "start": 14157,
+      "end": 14190,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "8855801",
+          "matchedName": "Stilosoma vetustum",
+          "matchedCanonical": "Stilosoma vetustum",
+          "currentName": "Stilosoma vetustum",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Stilosoma|Stilosoma vetustum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|44|358|715|6172|2455051|8855801",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8855801",
+            "matchedName": "Stilosoma vetustum",
+            "matchedCanonical": "Stilosoma vetustum",
+            "currentName": "Stilosoma vetustum",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Stilosoma|Stilosoma vetustum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2455051|8855801",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Lampropeltis)",
+      "name": "Lampropeltis",
+      "odds": 2147056.5802161274,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 14167,
+      "end": 14181,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45891832",
+          "matchedName": "Lampropeltis",
+          "matchedCanonical": "Lampropeltis",
+          "currentName": "Lampropeltis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45891832",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Lampropeltis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8690236",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Samgonus Ozdikmen, 2006",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Plethopeltidae|Samgonus",
+            "classificationRank": "kingdom|phylum|family|genus",
+            "classificationIDs": "1|54|4634733|8591438",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "396649",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Lampropeltis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis getula",
+      "name": "Lampropeltis getula",
+      "odds": 5347471114591.635,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 14195,
+      "end": 14214,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+          "matchedCanonical": "Lampropeltis getula",
+          "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8433595",
+            "matchedName": "Lampropeltis getula Crother, 2000",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis californiae (Blainville, 1835)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis californiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8170369",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "547409",
+            "matchedName": "Lampropeltis getula",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|547409",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. getula",
+      "name": "L. getula",
+      "odds": 1155768.0121403972,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 15879,
+      "end": 15888,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. getula",
+      "name": "L. getula",
+      "odds": 1155768.0121403972,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          }
+        }
+      },
+      "start": 17783,
+      "end": 17792,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. getula",
+      "name": "L. getula",
+      "odds": 1155768.0121403972,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          }
+        }
+      },
+      "start": 19810,
+      "end": 19819,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LAMPROPELTIS",
+      "name": "Lampropeltis",
+      "odds": 2147056.5802161274,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          }
+        }
+      },
+      "start": 20216,
+      "end": 20228,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45891832",
+          "matchedName": "Lampropeltis",
+          "matchedCanonical": "Lampropeltis",
+          "currentName": "Lampropeltis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45891832",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Lampropeltis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8690236",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Samgonus Ozdikmen, 2006",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Plethopeltidae|Samgonus",
+            "classificationRank": "kingdom|phylum|family|genus",
+            "classificationIDs": "1|54|4634733|8591438",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "396649",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Lampropeltis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "GETULA",
+      "name": "Getula",
+      "odds": 19537.083368801235,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          }
+        }
+      },
+      "start": 20229,
+      "end": 20235,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46099861",
+          "matchedName": "Getula",
+          "matchedCanonical": "Getula",
+          "currentName": "Getula",
+          "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841342|45841343|45842436|45849783|46099861",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46099861",
+            "matchedName": "Getula",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula",
+            "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841342|45841343|45842436|45849783|46099861",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2502160",
+            "matchedName": "Getula Karling, 1980",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula Karling, 1980",
+            "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|108|5967490|5967598|3033|2502160",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3665050",
+            "matchedName": "Getula",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Platyhelminthes|Rhabditophora|Rhabdocoela|Kalyptorhynchia|Eukalyptorhynchia|Koinocystididae|Getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|555379|3669734|110832|557387|874786|3664934|3665050",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis getula",
+      "name": "Lampropeltis getula",
+      "odds": 5347471114591.635,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 24749,
+      "end": 24768,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+          "matchedCanonical": "Lampropeltis getula",
+          "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8433595",
+            "matchedName": "Lampropeltis getula Crother, 2000",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis californiae (Blainville, 1835)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis californiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8170369",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "547409",
+            "matchedName": "Lampropeltis getula",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|547409",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. getula",
+      "name": "L. getula",
+      "odds": 1155768.0121403972,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          }
+        }
+      },
+      "start": 27123,
+      "end": 27132,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. getula",
+      "name": "L. getula",
+      "odds": 1155768.0121403972,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 28237,
+      "end": 28246,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis extenuata",
+      "name": "Lampropeltis extenuata",
+      "odds": 189356244199623.6,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          }
+        }
+      },
+      "start": 28278,
+      "end": 28300,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d60fb20f3d0a4327a415b6851ed89198",
+          "matchedName": "Lampropeltis extenuata (Brown, 1890)",
+          "matchedCanonical": "Lampropeltis extenuata",
+          "currentName": "Lampropeltis extenuata (Brown, 1890)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis extenuata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|d60fb20f3d0a4327a415b6851ed89198",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d60fb20f3d0a4327a415b6851ed89198",
+            "matchedName": "Lampropeltis extenuata (Brown, 1890)",
+            "matchedCanonical": "Lampropeltis extenuata",
+            "currentName": "Lampropeltis extenuata (Brown, 1890)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis extenuata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|d60fb20f3d0a4327a415b6851ed89198",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8295545",
+            "matchedName": "Lampropeltis extenuata (Brown, 1890)",
+            "matchedCanonical": "Lampropeltis extenuata",
+            "currentName": "Lampropeltis extenuata (Brown, 1890)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis extenuata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8295545",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "234914",
+            "matchedName": "Lampropeltis extenuata",
+            "matchedCanonical": "Lampropeltis extenuata",
+            "currentName": "Lampropeltis extenuata",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis extenuata",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|234914",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. getula",
+      "name": "L. getula",
+      "odds": 1155768.0121403972,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          }
+        }
+      },
+      "start": 28708,
+      "end": 28717,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LAMPROPELTIS",
+      "name": "Lampropeltis",
+      "odds": 2147056.5802161274,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 31305,
+      "end": 31317,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45891832",
+          "matchedName": "Lampropeltis",
+          "matchedCanonical": "Lampropeltis",
+          "currentName": "Lampropeltis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45891832",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Lampropeltis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8690236",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Samgonus Ozdikmen, 2006",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Plethopeltidae|Samgonus",
+            "classificationRank": "kingdom|phylum|family|genus",
+            "classificationIDs": "1|54|4634733|8591438",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "396649",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Lampropeltis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "GETULA",
+      "name": "Getula",
+      "odds": 19537.083368801235,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 31318,
+      "end": 31324,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46099861",
+          "matchedName": "Getula",
+          "matchedCanonical": "Getula",
+          "currentName": "Getula",
+          "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841342|45841343|45842436|45849783|46099861",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46099861",
+            "matchedName": "Getula",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula",
+            "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841342|45841343|45842436|45849783|46099861",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2502160",
+            "matchedName": "Getula Karling, 1980",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula Karling, 1980",
+            "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|108|5967490|5967598|3033|2502160",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3665050",
+            "matchedName": "Getula",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Platyhelminthes|Rhabditophora|Rhabdocoela|Kalyptorhynchia|Eukalyptorhynchia|Koinocystididae|Getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|555379|3669734|110832|557387|874786|3664934|3665050",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis getula",
+      "name": "Lampropeltis getula",
+      "odds": 5347471114591.635,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          }
+        }
+      },
+      "start": 31417,
+      "end": 31436,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+          "matchedCanonical": "Lampropeltis getula",
+          "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8433595",
+            "matchedName": "Lampropeltis getula Crother, 2000",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis californiae (Blainville, 1835)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis californiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8170369",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "547409",
+            "matchedName": "Lampropeltis getula",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|547409",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LAMPROPELTIS",
+      "name": "Lampropeltis",
+      "odds": 2147056.5802161274,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          }
+        }
+      },
+      "start": 33811,
+      "end": 33823,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45891832",
+          "matchedName": "Lampropeltis",
+          "matchedCanonical": "Lampropeltis",
+          "currentName": "Lampropeltis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45891832",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Lampropeltis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8690236",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Samgonus Ozdikmen, 2006",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Plethopeltidae|Samgonus",
+            "classificationRank": "kingdom|phylum|family|genus",
+            "classificationIDs": "1|54|4634733|8591438",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "396649",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Lampropeltis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "GETULA",
+      "name": "Getula",
+      "odds": 19537.083368801235,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          }
+        }
+      },
+      "start": 33824,
+      "end": 33830,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46099861",
+          "matchedName": "Getula",
+          "matchedCanonical": "Getula",
+          "currentName": "Getula",
+          "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841342|45841343|45842436|45849783|46099861",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46099861",
+            "matchedName": "Getula",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula",
+            "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841342|45841343|45842436|45849783|46099861",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2502160",
+            "matchedName": "Getula Karling, 1980",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula Karling, 1980",
+            "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|108|5967490|5967598|3033|2502160",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3665050",
+            "matchedName": "Getula",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Platyhelminthes|Rhabditophora|Rhabdocoela|Kalyptorhynchia|Eukalyptorhynchia|Koinocystididae|Getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|555379|3669734|110832|557387|874786|3664934|3665050",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis getula",
+      "name": "Lampropeltis getula",
+      "odds": 5347471114591.635,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          }
+        }
+      },
+      "start": 34177,
+      "end": 34196,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+          "matchedCanonical": "Lampropeltis getula",
+          "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8433595",
+            "matchedName": "Lampropeltis getula Crother, 2000",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis californiae (Blainville, 1835)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis californiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8170369",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "547409",
+            "matchedName": "Lampropeltis getula",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|547409",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Mojave clades",
+      "name": "Mojave clades",
+      "odds": 2.674837671953202,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ave": 0.7150622524784511
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "des": 40.79430150389563
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "CommonWords": 0.00019373880505299418
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 37501,
+      "end": 37514,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(Moneleima armatum;",
+      "name": "Moneleima armatum",
+      "odds": 23708.61917115151,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ima": 5.005435767349157
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tum": 483.02455154919363
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          }
+        }
+      },
+      "start": 37542,
+      "end": 37561,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Crotalus atrox;",
+      "name": "Crotalus atrox",
+      "odds": 5451597470.8985,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rox": 2.5027178836745785
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          }
+        }
+      },
+      "start": 37618,
+      "end": 37634,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2e23e13fcc046489c98ce60063fca043",
+          "matchedName": "Crotalus atrox Baird \u0026 Girard, 1853",
+          "matchedCanonical": "Crotalus atrox",
+          "currentName": "Crotalus atrox Baird \u0026 Girard, 1853",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Viperidae|Crotalus|Crotalus atrox",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45841702|45891950|2e23e13fcc046489c98ce60063fca043",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2e23e13fcc046489c98ce60063fca043",
+            "matchedName": "Crotalus atrox Baird \u0026 Girard, 1853",
+            "matchedCanonical": "Crotalus atrox",
+            "currentName": "Crotalus atrox Baird \u0026 Girard, 1853",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Viperidae|Crotalus|Crotalus atrox",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45841702|45891950|2e23e13fcc046489c98ce60063fca043",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2444356",
+            "matchedName": "Crotalus atrox Baird \u0026 Girard, 1853",
+            "matchedCanonical": "Crotalus atrox",
+            "currentName": "Crotalus atrox Baird \u0026 Girard, 1853",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Viperidae|Crotalus|Crotalus atrox",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|5024|2444354|2444356",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "600088",
+            "matchedName": "Crotalus atrox",
+            "matchedCanonical": "Crotalus atrox",
+            "currentName": "Crotalus atrox",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Viperidae|Crotalinae|Crotalus|Crotalus atrox",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|262303|652527|27078|600088",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Sceloporus magister;",
+      "name": "Sceloporus magister",
+      "odds": 1114634.6659490499,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 37680,
+      "end": 37701,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6117e6fd6af26da1058a41d01548c534",
+          "matchedName": "Sceloporus magister Hallowell, 1854",
+          "matchedCanonical": "Sceloporus magister",
+          "currentName": "Sceloporus magister Hallowell, 1854",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Phrynosomatidae|Sceloporus|Sceloporus magister",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842045|45933331|6117e6fd6af26da1058a41d01548c534",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6117e6fd6af26da1058a41d01548c534",
+            "matchedName": "Sceloporus magister Hallowell, 1854",
+            "matchedCanonical": "Sceloporus magister",
+            "currentName": "Sceloporus magister Hallowell, 1854",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Phrynosomatidae|Sceloporus|Sceloporus magister",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842045|45933331|6117e6fd6af26da1058a41d01548c534",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2451393",
+            "matchedName": "Sceloporus magister Hallowell, 1854",
+            "matchedCanonical": "Sceloporus magister",
+            "currentName": "Sceloporus magister Hallowell, 1854",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Phrynosomatidae|Sceloporus|Sceloporus magister",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|5016|2451143|2451393",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "342583",
+            "matchedName": "Sceloporus magister",
+            "matchedCanonical": "Sceloporus magister",
+            "currentName": "Sceloporus magister",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Phrynosomatinae|Sceloporus|Sceloporus magister",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|106818|608984|342583",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Mississippi lineages",
+      "name": "Mississippi lineages",
+      "odds": 4.6337675508204965,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ppi": 0.03089775165030344
+          },
+          "spEnd3": {
+            "ges": 0.2502717883674579
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 38190,
+      "end": 38210,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Mississippi lineages",
+      "name": "Mississippi lineages",
+      "odds": 4.6337675508204965,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ppi": 0.03089775165030344
+          },
+          "spEnd3": {
+            "ges": 0.2502717883674579
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 38793,
+      "end": 38813,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lampropeltis getula,",
+      "name": "Lampropeltis getula",
+      "odds": 5347471114591.635,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 40830,
+      "end": 40850,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+          "matchedCanonical": "Lampropeltis getula",
+          "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchedName": "Lampropeltis getula (Linnaeus, 1766)",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula (Linnaeus, 1766)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832|0dc3896a3e70a713714d63ee0ebe9bd2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8433595",
+            "matchedName": "Lampropeltis getula Crother, 2000",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis californiae (Blainville, 1835)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis|Lampropeltis californiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|6172|2459125|8170369",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "547409",
+            "matchedName": "Lampropeltis getula",
+            "matchedCanonical": "Lampropeltis getula",
+            "currentName": "Lampropeltis getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis|Lampropeltis getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649|547409",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LAMPROPELTIS",
+      "name": "Lampropeltis",
+      "odds": 2147056.5802161274,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 41166,
+      "end": 41178,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45891832",
+          "matchedName": "Lampropeltis",
+          "matchedCanonical": "Lampropeltis",
+          "currentName": "Lampropeltis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45891832",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Lampropeltis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Lampropeltis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45843522|45891832",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8690236",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Samgonus Ozdikmen, 2006",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Plethopeltidae|Samgonus",
+            "classificationRank": "kingdom|phylum|family|genus",
+            "classificationIDs": "1|54|4634733|8591438",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "396649",
+            "matchedName": "Lampropeltis",
+            "matchedCanonical": "Lampropeltis",
+            "currentName": "Lampropeltis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Serpentes|Colubroidea|Colubridae|Colubrinae|Lampropeltis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|infraorder|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|186816|929128|764400|465897|396649",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "GETULA",
+      "name": "Getula",
+      "odds": 19537.083368801235,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 41179,
+      "end": 41185,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46099861",
+          "matchedName": "Getula",
+          "matchedCanonical": "Getula",
+          "currentName": "Getula",
+          "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841342|45841343|45842436|45849783|46099861",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46099861",
+            "matchedName": "Getula",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula",
+            "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841342|45841343|45842436|45849783|46099861",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2502160",
+            "matchedName": "Getula Karling, 1980",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula Karling, 1980",
+            "classificationPath": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Koinocystididae|Getula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|108|5967490|5967598|3033|2502160",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3665050",
+            "matchedName": "Getula",
+            "matchedCanonical": "Getula",
+            "currentName": "Getula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Platyhelminthes|Rhabditophora|Rhabdocoela|Kalyptorhynchia|Eukalyptorhynchia|Koinocystididae|Getula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|555379|3669734|110832|557387|874786|3664934|3665050",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. getula,",
+      "name": "L. getula",
+      "odds": 1155768.0121403972,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          }
+        }
+      },
+      "start": 43954,
+      "end": 43964,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Fontanella,",
+      "name": "Fontanella",
+      "odds": 2322371.779382462,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 46275,
+      "end": 46286,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145230485",
+          "matchedName": "Fontanella Kluk ex Besser",
+          "matchedCanonical": "Fontanella",
+          "currentName": "Fontanella Kluk ex Besser",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7277266",
+            "matchedName": "Fontanella Kluk ex Bess.",
+            "matchedCanonical": "Fontanella",
+            "currentName": "Fontanella Kluk ex Bess.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ranunculales|Ranunculaceae|Fontanella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|399|2410|7277266",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5321978",
+            "matchedName": "Fontanella",
+            "matchedCanonical": "Fontanella",
+            "currentName": "Fontanella",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|||Ranunculales|Ranunculaceae|Fontanella",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|431494|872975|387826|5321978",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

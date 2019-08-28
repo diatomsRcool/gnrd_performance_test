@@ -1,0 +1,2265 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:05:41.50604884-05:00",
+    "language": "eng",
+    "total_words": 6446,
+    "total_candidates": 880,
+    "total_names": 44
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Xenopus tropicalis",
+      "name": "Xenopus tropicalis",
+      "odds": 8582699726531.885,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 172,
+      "end": 190,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "8364",
+          "matchedName": "Xenopus tropicalis",
+          "matchedCanonical": "Xenopus tropicalis",
+          "currentName": "Xenopus tropicalis",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+          "classificationRank": "|superkingdom||kingdom||||phylum|subphylum|||||superclass|||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33511|7711|89593|7742|7776|117570|117571|8287|1338369|32523|8292|41666|8342|30319|8352|8360|8353|8363|8364",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8784293",
+            "matchedName": "Xenopus tropicalis (Gray, 1864)",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Silurana tropicalis Gray, 1864",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Silurana|Silurana tropicalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3093|2423995|2423997",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "940184",
+            "matchedName": "Xenopus tropicalis",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Xenopus tropicalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|1013102|465087|940173|465090|940175|940184",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Amanda",
+      "name": "Amanda",
+      "odds": 6478.085538076199,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nda": 8.759512592861025
+          }
+        }
+      },
+      "start": 232,
+      "end": 238,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46100385",
+          "matchedName": "Amanda",
+          "matchedCanonical": "Amanda",
+          "currentName": "Amanda",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Nudibranchia|Aeolidioidea|Facelinidae|Amanda",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841999|45842000|45842302|45845728|45855406|46100385",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46100385",
+            "matchedName": "Amanda",
+            "matchedCanonical": "Amanda",
+            "currentName": "Amanda",
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Nudibranchia|Aeolidioidea|Facelinidae|Amanda",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841999|45842000|45842302|45845728|45855406|46100385",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3229120",
+            "matchedName": "Amanda J.G. Douglas, 1973",
+            "matchedCanonical": "Amanda",
+            "currentName": "Amanda J.G. Douglas, 1973",
+            "classificationPath": "Plantae|Tracheophyta|Amanda",
+            "classificationRank": "kingdom|phylum|genus",
+            "classificationIDs": "6|7707728|3229120",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5326215",
+            "matchedName": "Amanda",
+            "matchedCanonical": "Amanda",
+            "currentName": "Amanda",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Mollusca|Gastropoda|Heterobranchia|Euthyneura|Nudipleura|Nudibranchia|Aeolididina|Aeolidioidea|Facelinidae|Amanda",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|subclass|no rank|no rank|order|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|802117|409995|178260|178262|1043841|76753|662115|896653|742419|5326215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Xenopus tropicalis",
+      "name": "Xenopus tropicalis",
+      "odds": 8582699726531.885,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          }
+        }
+      },
+      "start": 1393,
+      "end": 1411,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "8364",
+          "matchedName": "Xenopus tropicalis",
+          "matchedCanonical": "Xenopus tropicalis",
+          "currentName": "Xenopus tropicalis",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+          "classificationRank": "|superkingdom||kingdom||||phylum|subphylum|||||superclass|||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33511|7711|89593|7742|7776|117570|117571|8287|1338369|32523|8292|41666|8342|30319|8352|8360|8353|8363|8364",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8784293",
+            "matchedName": "Xenopus tropicalis (Gray, 1864)",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Silurana tropicalis Gray, 1864",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Silurana|Silurana tropicalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3093|2423995|2423997",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "940184",
+            "matchedName": "Xenopus tropicalis",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Xenopus tropicalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|1013102|465087|940173|465090|940175|940184",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(X. tropicalis)",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 1412,
+      "end": 1427,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis.",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1775,
+      "end": 1789,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Xenopus tropicalis.",
+      "name": "Xenopus tropicalis",
+      "odds": 8582699726531.885,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 2890,
+      "end": 2909,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "8364",
+          "matchedName": "Xenopus tropicalis",
+          "matchedCanonical": "Xenopus tropicalis",
+          "currentName": "Xenopus tropicalis",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+          "classificationRank": "|superkingdom||kingdom||||phylum|subphylum|||||superclass|||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33511|7711|89593|7742|7776|117570|117571|8287|1338369|32523|8292|41666|8342|30319|8352|8360|8353|8363|8364",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8784293",
+            "matchedName": "Xenopus tropicalis (Gray, 1864)",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Silurana tropicalis Gray, 1864",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Silurana|Silurana tropicalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3093|2423995|2423997",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "940184",
+            "matchedName": "Xenopus tropicalis",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Xenopus tropicalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|1013102|465087|940173|465090|940175|940184",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Xenopus tropicalis",
+      "name": "Xenopus tropicalis",
+      "odds": 8582699726531.885,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          }
+        }
+      },
+      "start": 4013,
+      "end": 4031,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "8364",
+          "matchedName": "Xenopus tropicalis",
+          "matchedCanonical": "Xenopus tropicalis",
+          "currentName": "Xenopus tropicalis",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+          "classificationRank": "|superkingdom||kingdom||||phylum|subphylum|||||superclass|||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33511|7711|89593|7742|7776|117570|117571|8287|1338369|32523|8292|41666|8342|30319|8352|8360|8353|8363|8364",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8784293",
+            "matchedName": "Xenopus tropicalis (Gray, 1864)",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Silurana tropicalis Gray, 1864",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Silurana|Silurana tropicalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3093|2423995|2423997",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "940184",
+            "matchedName": "Xenopus tropicalis",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Xenopus tropicalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|1013102|465087|940173|465090|940175|940184",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(X. tropicalis)",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 4032,
+      "end": 4047,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Xenopus laevis",
+      "name": "Xenopus laevis",
+      "odds": 213073408866.93542,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "vis": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 4251,
+      "end": 4265,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "42c96d87bc825c54d3d4ad99dabc5985",
+          "matchedName": "Xenopus laevis (Daudin, 1802)",
+          "matchedCanonical": "Xenopus laevis",
+          "currentName": "Xenopus laevis (Daudin, 1802)",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus|Xenopus laevis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45846132|45846142|45846152|45979184|42c96d87bc825c54d3d4ad99dabc5985",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "42c96d87bc825c54d3d4ad99dabc5985",
+            "matchedName": "Xenopus laevis (Daudin, 1802)",
+            "matchedCanonical": "Xenopus laevis",
+            "currentName": "Xenopus laevis (Daudin, 1802)",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus|Xenopus laevis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45846132|45846142|45846152|45979184|42c96d87bc825c54d3d4ad99dabc5985",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5217334",
+            "matchedName": "Xenopus laevis (Daudin, 1802)",
+            "matchedCanonical": "Xenopus laevis",
+            "currentName": "Xenopus laevis (Daudin, 1802)",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus|Xenopus laevis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3093|2423976|5217334",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "465096",
+            "matchedName": "Xenopus laevis",
+            "matchedCanonical": "Xenopus laevis",
+            "currentName": "Xenopus laevis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Xenopus subgenus|Xenopus laevis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|1013102|465087|940173|465090|1000363|465096",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(X. laevis),",
+      "name": "X. laevis",
+      "odds": 330219.43204011355,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "vis": 55.05979344084073
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 4266,
+      "end": 4278,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 4397,
+      "end": 4410,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "X. tropicalis genome",
+      "name": "X. tropicalis genome",
+      "odds": 504698129.9645059,
+      "odds_details": {
+        "Name": {
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "ome": 0.07360934951984055
+          }
+        }
+      },
+      "start": 4633,
+      "end": 4653,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. laevis",
+      "name": "X. laevis",
+      "odds": 330219.43204011355,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "vis": 55.05979344084073
+          }
+        }
+      },
+      "start": 4877,
+      "end": 4886,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis,",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 4891,
+      "end": 4905,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 5109,
+      "end": 5122,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 5963,
+      "end": 5976,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "X. tropicalis genome",
+      "name": "X. tropicalis genome",
+      "odds": 504698129.9645059,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "ome": 0.07360934951984055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 7106,
+      "end": 7126,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "X. tropicalis genome",
+      "name": "X. tropicalis genome",
+      "odds": 504698129.9645059,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "ome": 0.07360934951984055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 9500,
+      "end": 9520,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 9714,
+      "end": 9727,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis,",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 10055,
+      "end": 10069,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis,",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 11580,
+      "end": 11594,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Xenopus tropicalis",
+      "name": "Xenopus tropicalis",
+      "odds": 8582699726531.885,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 14367,
+      "end": 14385,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "8364",
+          "matchedName": "Xenopus tropicalis",
+          "matchedCanonical": "Xenopus tropicalis",
+          "currentName": "Xenopus tropicalis",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+          "classificationRank": "|superkingdom||kingdom||||phylum|subphylum|||||superclass|||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33511|7711|89593|7742|7776|117570|117571|8287|1338369|32523|8292|41666|8342|30319|8352|8360|8353|8363|8364",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8784293",
+            "matchedName": "Xenopus tropicalis (Gray, 1864)",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Silurana tropicalis Gray, 1864",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Silurana|Silurana tropicalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3093|2423995|2423997",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "940184",
+            "matchedName": "Xenopus tropicalis",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Xenopus tropicalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|1013102|465087|940173|465090|940175|940184",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Xenopus tropicalis",
+      "name": "Xenopus tropicalis",
+      "odds": 8582699726531.885,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 14486,
+      "end": 14504,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "8364",
+          "matchedName": "Xenopus tropicalis",
+          "matchedCanonical": "Xenopus tropicalis",
+          "currentName": "Xenopus tropicalis",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+          "classificationRank": "|superkingdom||kingdom||||phylum|subphylum|||||superclass|||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33511|7711|89593|7742|7776|117570|117571|8287|1338369|32523|8292|41666|8342|30319|8352|8360|8353|8363|8364",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8784293",
+            "matchedName": "Xenopus tropicalis (Gray, 1864)",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Silurana tropicalis Gray, 1864",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Silurana|Silurana tropicalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3093|2423995|2423997",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "940184",
+            "matchedName": "Xenopus tropicalis",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Xenopus tropicalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|1013102|465087|940173|465090|940175|940184",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 21922,
+      "end": 21935,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Xenopus tropicalis",
+      "name": "Xenopus tropicalis",
+      "odds": 8582699726531.885,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 23751,
+      "end": 23769,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "8364",
+          "matchedName": "Xenopus tropicalis",
+          "matchedCanonical": "Xenopus tropicalis",
+          "currentName": "Xenopus tropicalis",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+          "classificationRank": "|superkingdom||kingdom||||phylum|subphylum|||||superclass|||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33511|7711|89593|7742|7776|117570|117571|8287|1338369|32523|8292|41666|8342|30319|8352|8360|8353|8363|8364",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8784293",
+            "matchedName": "Xenopus tropicalis (Gray, 1864)",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Silurana tropicalis Gray, 1864",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Silurana|Silurana tropicalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3093|2423995|2423997",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "940184",
+            "matchedName": "Xenopus tropicalis",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Xenopus tropicalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|1013102|465087|940173|465090|940175|940184",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis.",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 29651,
+      "end": 29665,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis.",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 29823,
+      "end": 29837,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "CelI cleaves",
+      "name": "Celi cleaves",
+      "odds": 1.5404931238907842,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eli": 2.5027178836745785
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ves": 0.059588521039870924
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 30452,
+      "end": 30464,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Xenopus tropicalis",
+      "name": "Xenopus tropicalis",
+      "odds": 8582699726531.885,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 30485,
+      "end": 30503,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "8364",
+          "matchedName": "Xenopus tropicalis",
+          "matchedCanonical": "Xenopus tropicalis",
+          "currentName": "Xenopus tropicalis",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+          "classificationRank": "|superkingdom||kingdom||||phylum|subphylum|||||superclass|||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33511|7711|89593|7742|7776|117570|117571|8287|1338369|32523|8292|41666|8342|30319|8352|8360|8353|8363|8364",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8784293",
+            "matchedName": "Xenopus tropicalis (Gray, 1864)",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Silurana tropicalis Gray, 1864",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Silurana|Silurana tropicalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3093|2423995|2423997",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "940184",
+            "matchedName": "Xenopus tropicalis",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Xenopus tropicalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|1013102|465087|940173|465090|940175|940184",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Mis-sense (Ser/Asn140)\n     gata6",
+      "name": "Mis-sense gata",
+      "odds": 568.2678827904989,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nse": 0.20855982363954823
+          }
+        }
+      },
+      "start": 30765,
+      "end": 30798,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Xenopus tropicalis",
+      "name": "Xenopus tropicalis",
+      "odds": 8582699726531.885,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 31798,
+      "end": 31816,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "8364",
+          "matchedName": "Xenopus tropicalis",
+          "matchedCanonical": "Xenopus tropicalis",
+          "currentName": "Xenopus tropicalis",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+          "classificationRank": "|superkingdom||kingdom||||phylum|subphylum|||||superclass|||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33511|7711|89593|7742|7776|117570|117571|8287|1338369|32523|8292|41666|8342|30319|8352|8360|8353|8363|8364",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8784293",
+            "matchedName": "Xenopus tropicalis (Gray, 1864)",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Silurana tropicalis Gray, 1864",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Silurana|Silurana tropicalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3093|2423995|2423997",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "940184",
+            "matchedName": "Xenopus tropicalis",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Xenopus tropicalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|1013102|465087|940173|465090|940175|940184",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Xenopus tropicalis",
+      "name": "Xenopus tropicalis",
+      "odds": 8582699726531.885,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 36418,
+      "end": 36436,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "8364",
+          "matchedName": "Xenopus tropicalis",
+          "matchedCanonical": "Xenopus tropicalis",
+          "currentName": "Xenopus tropicalis",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+          "classificationRank": "|superkingdom||kingdom||||phylum|subphylum|||||superclass|||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33511|7711|89593|7742|7776|117570|117571|8287|1338369|32523|8292|41666|8342|30319|8352|8360|8353|8363|8364",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8784293",
+            "matchedName": "Xenopus tropicalis (Gray, 1864)",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Silurana tropicalis Gray, 1864",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Silurana|Silurana tropicalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3093|2423995|2423997",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "940184",
+            "matchedName": "Xenopus tropicalis",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Xenopus tropicalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|1013102|465087|940173|465090|940175|940184",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "X. tropicalis strain",
+      "name": "X. tropicalis strain",
+      "odds": 192972814.39819342,
+      "odds_details": {
+        "Name": {
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "ain": 0.1925167602826599
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          }
+        }
+      },
+      "start": 36455,
+      "end": 36475,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Mus musculus domesticus",
+      "name": "Mus musculus domesticus",
+      "odds": 2640699574.1833973,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "ispLen": {
+            "10": 4.627930835174779
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "ispEnd3": {
+            "cus": 62.56794709186447
+          }
+        }
+      },
+      "start": 37602,
+      "end": 37625,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "8fb9683c27c3f939a62710d716994ad3",
+          "matchedName": "Mus (Mus) musculus domesticus Schwarz and Schwarz, 1943",
+          "matchedCanonical": "Mus musculus domesticus",
+          "currentName": "Mus (Mus) musculus domesticus Schwarz and Schwarz, 1943",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muridae|Mus|Mus|Mus musculus domesticus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "8fb9683c27c3f939a62710d716994ad3",
+            "matchedName": "Mus (Mus) musculus domesticus Schwarz and Schwarz, 1943",
+            "matchedCanonical": "Mus musculus domesticus",
+            "currentName": "Mus (Mus) musculus domesticus Schwarz and Schwarz, 1943",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muridae|Mus|Mus|Mus musculus domesticus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4264886",
+            "matchedName": "Mus musculus subsp. domesticus Schwarz \u0026 Schwarz, 1943",
+            "matchedCanonical": "Mus musculus ssp. domesticus",
+            "currentName": "Mus musculus subsp. domesticus Schwarz \u0026 Schwarz, 1943",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muridae|Mus|Mus musculus|Mus musculus domesticus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|1459|5510|2311167|7429082|4264886",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "542499",
+            "matchedName": "Mus musculus domesticus",
+            "matchedCanonical": "Mus musculus domesticus",
+            "currentName": "Mus musculus domesticus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Muridae|Murinae|Mus|Mus subgenus|Mus musculus|Mus musculus domesticus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|subgenus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|816256|889045|1068778|164652|542509|542499",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 38057,
+      "end": 38070,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 38205,
+      "end": 38218,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis,",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 38302,
+      "end": 38316,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis,",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 39268,
+      "end": 39282,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 39426,
+      "end": 39439,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 42115,
+      "end": 42128,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X. tropicalis",
+      "name": "X. tropicalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 42591,
+      "end": 42604,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "X. tropicalis used",
+      "name": "X. tropicalis used",
+      "odds": 6570543331.226222,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "ispEnd3": {
+            "sed": 0.07360934951984055
+          },
+          "ispLen": {
+            "4": 0.05289125210455401
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 42919,
+      "end": 42937,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "X. tropicalis genome",
+      "name": "X. tropicalis genome",
+      "odds": 504698129.9645059,
+      "odds_details": {
+        "Name": {
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "ome": 0.07360934951984055
+          }
+        }
+      },
+      "start": 43894,
+      "end": 43914,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Xenopus tropicalis",
+      "name": "Xenopus tropicalis",
+      "odds": 8582699726531.885,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 44649,
+      "end": 44667,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "8364",
+          "matchedName": "Xenopus tropicalis",
+          "matchedCanonical": "Xenopus tropicalis",
+          "currentName": "Xenopus tropicalis",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+          "classificationRank": "|superkingdom||kingdom||||phylum|subphylum|||||superclass|||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33511|7711|89593|7742|7776|117570|117571|8287|1338369|32523|8292|41666|8342|30319|8352|8360|8353|8363|8364",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8784293",
+            "matchedName": "Xenopus tropicalis (Gray, 1864)",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Silurana tropicalis Gray, 1864",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Pipidae|Silurana|Silurana tropicalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3093|2423995|2423997",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "940184",
+            "matchedName": "Xenopus tropicalis",
+            "matchedCanonical": "Xenopus tropicalis",
+            "currentName": "Xenopus tropicalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Silurana|Xenopus tropicalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|1013102|465087|940173|465090|940175|940184",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

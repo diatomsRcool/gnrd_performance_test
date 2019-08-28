@@ -1,0 +1,2151 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:57:12.50038745-05:00",
+    "language": "eng",
+    "total_words": 6680,
+    "total_candidates": 952,
+    "total_names": 32
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Boechera stricta,",
+      "name": "Boechera stricta",
+      "odds": 303677696786.58276,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          }
+        }
+      },
+      "start": 680,
+      "end": 697,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+          "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+          "matchedCanonical": "Boechera stricta",
+          "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043392",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205|3043392",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "238618",
+            "matchedName": "Boechera stricta",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera|Boechera stricta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400|238618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Arabidopsis.",
+      "name": "Arabidopsis",
+      "odds": 168760.66793547937,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 717,
+      "end": 729,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975866",
+          "matchedName": "Arabidopsis",
+          "matchedCanonical": "Arabidopsis",
+          "currentName": "Arabidopsis",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975866",
+            "matchedName": "Arabidopsis",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052435",
+            "matchedName": "Arabidopsis (DC.) Heynh. Heynh. (DC.)",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis (DC.) Heynh. Heynh. (DC.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309275",
+            "matchedName": "Arabidopsis",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Boechera stricta.",
+      "name": "Boechera stricta",
+      "odds": 303677696786.58276,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          }
+        }
+      },
+      "start": 6091,
+      "end": 6108,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+          "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+          "matchedCanonical": "Boechera stricta",
+          "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043392",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205|3043392",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "238618",
+            "matchedName": "Boechera stricta",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera|Boechera stricta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400|238618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. stricta.",
+      "name": "B. stricta",
+      "odds": 1504318.9933025246,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 6976,
+      "end": 6987,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. stricta",
+      "name": "B. stricta",
+      "odds": 1504318.9933025246,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 7614,
+      "end": 7624,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Boechera stricta",
+      "name": "Boechera stricta",
+      "odds": 303677696786.58276,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 9600,
+      "end": 9616,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+          "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+          "matchedCanonical": "Boechera stricta",
+          "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043392",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205|3043392",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "238618",
+            "matchedName": "Boechera stricta",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera|Boechera stricta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400|238618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Brassicaceae)",
+      "name": "Brassicaceae",
+      "odds": 23328.290420846934,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 9617,
+      "end": 9631,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45846125",
+          "matchedName": "Brassicaceae",
+          "matchedCanonical": "Brassicaceae",
+          "currentName": "Brassicaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45846125",
+            "matchedName": "Brassicaceae",
+            "matchedCanonical": "Brassicaceae",
+            "currentName": "Brassicaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3112",
+            "matchedName": "Brassicaceae",
+            "matchedCanonical": "Brassicaceae",
+            "currentName": "Brassicaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|7225535|3112",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309271",
+            "matchedName": "Brassicaceae",
+            "matchedCanonical": "Brassicaceae",
+            "currentName": "Brassicaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Arabidopsis thaliana",
+      "name": "Arabidopsis thaliana",
+      "odds": 1592854327927.0417,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          }
+        }
+      },
+      "start": 9692,
+      "end": 9712,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+          "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+          "matchedCanonical": "Arabidopsis thaliana",
+          "currentName": "Arabidopsis thaliana (L.) Heynh.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052436",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435|3052436",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309263",
+            "matchedName": "Arabidopsis thaliana",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275|309263",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Oyama",
+      "name": "Oyama",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ama": 0.1726012333568675
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 9734,
+      "end": 9739,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145584780",
+          "matchedName": "Magnolia sect. Oyama Nakai",
+          "matchedCanonical": "Magnolia sect. Oyama",
+          "currentName": "Magnolia sect. Oyama Nakai",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. stricta",
+      "name": "B. stricta",
+      "odds": 1504318.9933025246,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 9964,
+      "end": 9974,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Boechera stricta",
+      "name": "Boechera stricta",
+      "odds": 303677696786.58276,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 10470,
+      "end": 10486,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+          "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+          "matchedCanonical": "Boechera stricta",
+          "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043392",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205|3043392",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "238618",
+            "matchedName": "Boechera stricta",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera|Boechera stricta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400|238618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Boechera stricta.",
+      "name": "Boechera stricta",
+      "odds": 303677696786.58276,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 12591,
+      "end": 12608,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+          "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+          "matchedCanonical": "Boechera stricta",
+          "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043392",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205|3043392",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "238618",
+            "matchedName": "Boechera stricta",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera|Boechera stricta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400|238618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Boechera stricta.",
+      "name": "Boechera stricta",
+      "odds": 303677696786.58276,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 13448,
+      "end": 13465,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+          "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+          "matchedCanonical": "Boechera stricta",
+          "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043392",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205|3043392",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "238618",
+            "matchedName": "Boechera stricta",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera|Boechera stricta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400|238618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. stricta.",
+      "name": "B. stricta",
+      "odds": 1504318.9933025246,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          }
+        }
+      },
+      "start": 14860,
+      "end": 14871,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Boechera stricta collection",
+      "name": "Boechera stricta collection",
+      "odds": 4638983082563.315,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "ispLen": {
+            "10": 4.627930835174779
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "ion": 0.02720345525733238
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 16208,
+      "end": 16235,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+          "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+          "matchedCanonical": "Boechera stricta",
+          "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043392",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205|3043392",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "238618",
+            "matchedName": "Boechera stricta",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera|Boechera stricta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400|238618",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Boechera stricta",
+      "name": "Boechera stricta",
+      "odds": 303677696786.58276,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 17327,
+      "end": 17343,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+          "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+          "matchedCanonical": "Boechera stricta",
+          "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043392",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205|3043392",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "238618",
+            "matchedName": "Boechera stricta",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera|Boechera stricta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400|238618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. stricta",
+      "name": "B. stricta",
+      "odds": 1504318.9933025246,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 18361,
+      "end": 18371,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Boechera genetic",
+      "name": "Boechera genetic",
+      "odds": 565018.0399264587,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "tic": 0.2275198076067799
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          }
+        }
+      },
+      "start": 20276,
+      "end": 20292,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975919",
+          "matchedName": "Boechera",
+          "matchedCanonical": "Boechera",
+          "currentName": "Boechera",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975919",
+            "matchedName": "Boechera",
+            "matchedCanonical": "Boechera",
+            "currentName": "Boechera",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043205",
+            "matchedName": "Boechera Á. Löve \u0026 D. Löve",
+            "matchedCanonical": "Boechera",
+            "currentName": "Boechera Á. Löve \u0026 D. Löve",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "951400",
+            "matchedName": "Boechera",
+            "matchedCanonical": "Boechera",
+            "currentName": "Boechera",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. stricta",
+      "name": "B. stricta",
+      "odds": 1504318.9933025246,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 22250,
+      "end": 22260,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Boechera stricta",
+      "name": "Boechera stricta",
+      "odds": 303677696786.58276,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 23563,
+      "end": 23579,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+          "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+          "matchedCanonical": "Boechera stricta",
+          "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043392",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205|3043392",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "238618",
+            "matchedName": "Boechera stricta",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera|Boechera stricta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400|238618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Boechera stricta",
+      "name": "Boechera stricta",
+      "odds": 303677696786.58276,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 24322,
+      "end": 24338,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+          "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+          "matchedCanonical": "Boechera stricta",
+          "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043392",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205|3043392",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "238618",
+            "matchedName": "Boechera stricta",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera|Boechera stricta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400|238618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "North–South hybrids",
+      "name": "North�south hybrids",
+      "odds": 3.8809629022530596,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uth": 0.019104716669271594
+          },
+          "spEnd3": {
+            "ids": 0.8342392945581929
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          }
+        }
+      },
+      "start": 24658,
+      "end": 24677,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Boechera stricta",
+      "name": "Boechera stricta",
+      "odds": 303677696786.58276,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 31721,
+      "end": 31737,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+          "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+          "matchedCanonical": "Boechera stricta",
+          "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043392",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205|3043392",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "238618",
+            "matchedName": "Boechera stricta",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera|Boechera stricta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400|238618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. stricta",
+      "name": "B. stricta",
+      "odds": 1504318.9933025246,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 32392,
+      "end": 32402,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. stricta,",
+      "name": "B. stricta",
+      "odds": 1504318.9933025246,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 37312,
+      "end": 37323,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. stricta",
+      "name": "B. stricta",
+      "odds": 1504318.9933025246,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          }
+        }
+      },
+      "start": 37645,
+      "end": 37655,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. stricta",
+      "name": "B. stricta",
+      "odds": 1504318.9933025246,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          }
+        }
+      },
+      "start": 40051,
+      "end": 40061,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. stricta",
+      "name": "B. stricta",
+      "odds": 1504318.9933025246,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          }
+        }
+      },
+      "start": 40945,
+      "end": 40955,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Arabidopsis thaliana,",
+      "name": "Arabidopsis thaliana",
+      "odds": 1592854327927.0417,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 40963,
+      "end": 40984,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+          "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+          "matchedCanonical": "Arabidopsis thaliana",
+          "currentName": "Arabidopsis thaliana (L.) Heynh.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052436",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435|3052436",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309263",
+            "matchedName": "Arabidopsis thaliana",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275|309263",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Boechera stricta.",
+      "name": "Boechera stricta",
+      "odds": 303677696786.58276,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 41629,
+      "end": 41646,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+          "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+          "matchedCanonical": "Boechera stricta",
+          "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043392",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205|3043392",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "238618",
+            "matchedName": "Boechera stricta",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera|Boechera stricta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400|238618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. stricta,",
+      "name": "B. stricta",
+      "odds": 1504318.9933025246,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 45064,
+      "end": 45075,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Boechera stricta,",
+      "name": "Boechera stricta",
+      "odds": 303677696786.58276,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cta": 130.1413299510781
+          }
+        }
+      },
+      "start": 45913,
+      "end": 45930,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+          "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+          "matchedCanonical": "Boechera stricta",
+          "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1ef5de1f923e0d2add5747fc12a49da2",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975919|1ef5de1f923e0d2add5747fc12a49da2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3043392",
+            "matchedName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta (Graham) Al-Shehbaz Al-Shehbaz (Graham)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Boechera|Boechera stricta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3043205|3043392",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "238618",
+            "matchedName": "Boechera stricta",
+            "matchedCanonical": "Boechera stricta",
+            "currentName": "Boechera stricta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Boechereae|Boechera|Boechera stricta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504664|951400|238618",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:59:26.868143409-05:00",
+    "language": "eng",
+    "total_words": 7019,
+    "total_candidates": 1116,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Procyon lotor,",
+      "name": "Procyon lotor",
+      "odds": 4610.342608138053,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "yon": 1.0725933787176767
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tor": 14.18206800748928
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 771,
+      "end": 785,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "14b81ecc6b8b77c9ae06b5f4d59826d5",
+          "matchedName": "Procyon lotor (Linnaeus, 1758)",
+          "matchedCanonical": "Procyon lotor",
+          "currentName": "Procyon lotor (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Procyonidae|Procyon|Procyon lotor",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45849142|46004223|14b81ecc6b8b77c9ae06b5f4d59826d5",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "14b81ecc6b8b77c9ae06b5f4d59826d5",
+            "matchedName": "Procyon lotor (Linnaeus, 1758)",
+            "matchedCanonical": "Procyon lotor",
+            "currentName": "Procyon lotor (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Procyonidae|Procyon|Procyon lotor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45849142|46004223|14b81ecc6b8b77c9ae06b5f4d59826d5",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5218786",
+            "matchedName": "Procyon lotor (Linnaeus, 1758)",
+            "matchedCanonical": "Procyon lotor",
+            "currentName": "Procyon lotor (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Procyonidae|Procyon|Procyon lotor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|5311|2433592|5218786",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "348040",
+            "matchedName": "Procyon lotor",
+            "matchedCanonical": "Procyon lotor",
+            "currentName": "Procyon lotor",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Caniformia|Procyonidae|Procyon|Procyon lotor",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827263|872571|348029|348040",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Procyon lotor),",
+      "name": "Procyon lotor",
+      "odds": 4610.342608138053,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "yon": 1.0725933787176767
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tor": 14.18206800748928
+          }
+        }
+      },
+      "start": 1453,
+      "end": 1469,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "14b81ecc6b8b77c9ae06b5f4d59826d5",
+          "matchedName": "Procyon lotor (Linnaeus, 1758)",
+          "matchedCanonical": "Procyon lotor",
+          "currentName": "Procyon lotor (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Procyonidae|Procyon|Procyon lotor",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45849142|46004223|14b81ecc6b8b77c9ae06b5f4d59826d5",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "14b81ecc6b8b77c9ae06b5f4d59826d5",
+            "matchedName": "Procyon lotor (Linnaeus, 1758)",
+            "matchedCanonical": "Procyon lotor",
+            "currentName": "Procyon lotor (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Procyonidae|Procyon|Procyon lotor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45849142|46004223|14b81ecc6b8b77c9ae06b5f4d59826d5",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5218786",
+            "matchedName": "Procyon lotor (Linnaeus, 1758)",
+            "matchedCanonical": "Procyon lotor",
+            "currentName": "Procyon lotor (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Procyonidae|Procyon|Procyon lotor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|5311|2433592|5218786",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "348040",
+            "matchedName": "Procyon lotor",
+            "matchedCanonical": "Procyon lotor",
+            "currentName": "Procyon lotor",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Caniformia|Procyonidae|Procyon|Procyon lotor",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827263|872571|348029|348040",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Odocoileus virginianus)",
+      "name": "Odocoileus virginianus",
+      "odds": 36821929668932.46,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eus": 127.6386120674035
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 4119,
+      "end": 4143,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "49c19661f2a48ff49d60d571f9f827ca",
+          "matchedName": "Odocoileus virginianus (Zimmermann, 1780)",
+          "matchedCanonical": "Odocoileus virginianus",
+          "currentName": "Odocoileus virginianus (Zimmermann, 1780)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Cervidae|Odocoileus|Odocoileus virginianus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45850563|45850570|45897664|49c19661f2a48ff49d60d571f9f827ca",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "49c19661f2a48ff49d60d571f9f827ca",
+            "matchedName": "Odocoileus virginianus (Zimmermann, 1780)",
+            "matchedCanonical": "Odocoileus virginianus",
+            "currentName": "Odocoileus virginianus (Zimmermann, 1780)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Cervidae|Odocoileus|Odocoileus virginianus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45850563|45850570|45897664|49c19661f2a48ff49d60d571f9f827ca",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440965",
+            "matchedName": "Odocoileus virginianus (Zimmermann, 1780)",
+            "matchedCanonical": "Odocoileus virginianus",
+            "currentName": "Odocoileus virginianus (Zimmermann, 1780)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Cervidae|Odocoileus|Odocoileus virginianus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|731|5298|2440964|2440965",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "410145",
+            "matchedName": "Odocoileus virginianus",
+            "matchedCanonical": "Odocoileus virginianus",
+            "currentName": "Odocoileus virginianus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Ruminantia|Pecora|Cervidae|Odocoileinae|Odocoileus|Odocoileus virginianus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|986971|403912|460505|194507|410156|410145",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Mephitis mephitis)",
+      "name": "Mephitis mephitis",
+      "odds": 32617.801498809822,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "spEnd3": {
+            "tis": 110.11958688168146
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 5789,
+      "end": 5808,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a0856c50ba56219cf5adef9e4b42ac81",
+          "matchedName": "Mephitis mephitis (Schreber, 1776)",
+          "matchedCanonical": "Mephitis mephitis",
+          "currentName": "Mephitis mephitis (Schreber, 1776)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mephitidae|Mephitis|Mephitis mephitis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850235|45976322|a0856c50ba56219cf5adef9e4b42ac81",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a0856c50ba56219cf5adef9e4b42ac81",
+            "matchedName": "Mephitis mephitis (Schreber, 1776)",
+            "matchedCanonical": "Mephitis mephitis",
+            "currentName": "Mephitis mephitis (Schreber, 1776)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mephitidae|Mephitis|Mephitis mephitis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850235|45976322|a0856c50ba56219cf5adef9e4b42ac81",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5219380",
+            "matchedName": "Mephitis mephitis (Schreber, 1776)",
+            "matchedCanonical": "Mephitis mephitis",
+            "currentName": "Mephitis mephitis (Schreber, 1776)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mephitidae|Mephitis|Mephitis mephitis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9679|5219379|5219380",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "231602",
+            "matchedName": "Mephitis mephitis",
+            "matchedCanonical": "Mephitis mephitis",
+            "currentName": "Mephitis mephitis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Caniformia|Mephitidae|Mephitis|Mephitis mephitis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827263|445986|231606|231602",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Procyon lotor),",
+      "name": "Procyon lotor",
+      "odds": 4610.342608138053,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "yon": 1.0725933787176767
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tor": 14.18206800748928
+          }
+        }
+      },
+      "start": 6631,
+      "end": 6647,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "14b81ecc6b8b77c9ae06b5f4d59826d5",
+          "matchedName": "Procyon lotor (Linnaeus, 1758)",
+          "matchedCanonical": "Procyon lotor",
+          "currentName": "Procyon lotor (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Procyonidae|Procyon|Procyon lotor",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45849142|46004223|14b81ecc6b8b77c9ae06b5f4d59826d5",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "14b81ecc6b8b77c9ae06b5f4d59826d5",
+            "matchedName": "Procyon lotor (Linnaeus, 1758)",
+            "matchedCanonical": "Procyon lotor",
+            "currentName": "Procyon lotor (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Procyonidae|Procyon|Procyon lotor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45849142|46004223|14b81ecc6b8b77c9ae06b5f4d59826d5",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5218786",
+            "matchedName": "Procyon lotor (Linnaeus, 1758)",
+            "matchedCanonical": "Procyon lotor",
+            "currentName": "Procyon lotor (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Procyonidae|Procyon|Procyon lotor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|5311|2433592|5218786",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "348040",
+            "matchedName": "Procyon lotor",
+            "matchedCanonical": "Procyon lotor",
+            "currentName": "Procyon lotor",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Caniformia|Procyonidae|Procyon|Procyon lotor",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827263|872571|348029|348040",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Meles meles)",
+      "name": "Meles meles",
+      "odds": 2389875.240445218,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "les": 0.10010871534698314
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "les": 0.5582986048197137
+          }
+        }
+      },
+      "start": 34479,
+      "end": 34492,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "423f1dbd6d3e388a3382399597913189",
+          "matchedName": "Meles meles (Linnaeus, 1758)",
+          "matchedCanonical": "Meles meles",
+          "currentName": "Meles meles (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mustelidae|Meles|Meles meles",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850234|45943533|423f1dbd6d3e388a3382399597913189",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "423f1dbd6d3e388a3382399597913189",
+            "matchedName": "Meles meles (Linnaeus, 1758)",
+            "matchedCanonical": "Meles meles",
+            "currentName": "Meles meles (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mustelidae|Meles|Meles meles",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850234|45943533|423f1dbd6d3e388a3382399597913189",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2433875",
+            "matchedName": "Meles meles (Linnaeus, 1758)",
+            "matchedCanonical": "Meles meles",
+            "currentName": "Meles meles (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mustelidae|Meles|Meles meles",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|5307|2433867|2433875",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "923113",
+            "matchedName": "Meles meles",
+            "matchedCanonical": "Meles meles",
+            "currentName": "Meles meles",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Caniformia|Mustelidae|Melinae|Meles|Meles meles",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827263|348043|693052|923115|923113",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Mephitis mephitis)",
+      "name": "Mephitis mephitis",
+      "odds": 32617.801498809822,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "tis": 110.11958688168146
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 42303,
+      "end": 42322,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a0856c50ba56219cf5adef9e4b42ac81",
+          "matchedName": "Mephitis mephitis (Schreber, 1776)",
+          "matchedCanonical": "Mephitis mephitis",
+          "currentName": "Mephitis mephitis (Schreber, 1776)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mephitidae|Mephitis|Mephitis mephitis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850235|45976322|a0856c50ba56219cf5adef9e4b42ac81",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a0856c50ba56219cf5adef9e4b42ac81",
+            "matchedName": "Mephitis mephitis (Schreber, 1776)",
+            "matchedCanonical": "Mephitis mephitis",
+            "currentName": "Mephitis mephitis (Schreber, 1776)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mephitidae|Mephitis|Mephitis mephitis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850235|45976322|a0856c50ba56219cf5adef9e4b42ac81",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5219380",
+            "matchedName": "Mephitis mephitis (Schreber, 1776)",
+            "matchedCanonical": "Mephitis mephitis",
+            "currentName": "Mephitis mephitis (Schreber, 1776)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mephitidae|Mephitis|Mephitis mephitis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9679|5219379|5219380",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "231602",
+            "matchedName": "Mephitis mephitis",
+            "matchedCanonical": "Mephitis mephitis",
+            "currentName": "Mephitis mephitis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Caniformia|Mephitidae|Mephitis|Mephitis mephitis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827263|445986|231606|231602",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

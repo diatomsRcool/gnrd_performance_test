@@ -1,0 +1,660 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:57:40.703508673-05:00",
+    "language": "eng",
+    "total_words": 4042,
+    "total_candidates": 556,
+    "total_names": 9
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X-linked genes",
+      "name": "X-linked genes",
+      "odds": 5.200259178586357,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ked": 1.2513589418372892
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 2727,
+      "end": 2741,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Poecilia reticulata)",
+      "name": "Poecilia reticulata",
+      "odds": 2780412043807.8804,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 3139,
+      "end": 3160,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1a2112979142994cc7c0ac7710256715",
+          "matchedName": "Poecilia reticulata Peters, 1859",
+          "matchedCanonical": "Poecilia reticulata",
+          "currentName": "Poecilia reticulata Peters, 1859",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|Poecilia reticulata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45849047|45849051|45863748|1a2112979142994cc7c0ac7710256715",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1a2112979142994cc7c0ac7710256715",
+            "matchedName": "Poecilia reticulata Peters, 1859",
+            "matchedCanonical": "Poecilia reticulata",
+            "currentName": "Poecilia reticulata Peters, 1859",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|Poecilia reticulata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45849047|45849051|45863748|1a2112979142994cc7c0ac7710256715",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2350050",
+            "matchedName": "Poecilia reticulata Peters, 1859",
+            "matchedCanonical": "Poecilia reticulata",
+            "currentName": "Poecilia reticulata Peters, 1859",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|Poecilia reticulata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|547|7659|2347767|2350050",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "312452",
+            "matchedName": "Poecilia reticulata",
+            "matchedCanonical": "Poecilia reticulata",
+            "currentName": "Poecilia reticulata",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Neoteleostei|Eurypterygia|Ctenosquamata|Acanthomorphata|Euacanthomorphacea|Percomorphaceae|Ovalentaria|Atherinomorphae|Cyprinodontiformes|Cyprinodontoidei|Poeciliidae|Poeciliinae|Poecilia|Poecilia reticulata",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|no rank|order|no rank|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|108736|108735|108734|108720|108719|5551466|5553750|976556|338836|312448|583631|399706|312449|312452",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 28,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Yarra",
+      "name": "Yarra",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rra": 0.4416560971190433
+          }
+        }
+      },
+      "start": 10169,
+      "end": 10175,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "298096",
+          "matchedName": "Yarra Castelnau, 1872",
+          "matchedCanonical": "Yarra",
+          "currentName": "Geotria Gray, 1851",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Agnatha|Petromyzonti|Petromyzontiformes|Geotriidae|Geotria",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|class|order|family|genus",
+          "classificationIDs": "1|2|1821|146419|1829|843662|10201|714647|234558",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2421324",
+            "matchedName": "Yarra Castelnau, 1872",
+            "matchedCanonical": "Yarra",
+            "currentName": "Geotria Gray, 1851",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Cephalaspidomorphi|Petromyzontiformes|Geotriidae|Geotria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|239|771|4815461|2421279",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5091777",
+            "matchedName": "Yarra",
+            "matchedCanonical": "Yarra",
+            "currentName": "Yarra",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Peracarida|Amphipoda|Gammaridea|Stenothoidae|Thaumatelsoninae|Yarra",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|737016|737019|941215|166906|5755434|5091777",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paria),",
+      "name": "Paria",
+      "odds": 9748.322646629798,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 10180,
+      "end": 10187,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45874299",
+          "matchedName": "Paria",
+          "matchedCanonical": "Paria",
+          "currentName": "Paria",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Chrysomelidae|Paria",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841413|45850590|45874299",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45874299",
+            "matchedName": "Paria",
+            "matchedCanonical": "Paria",
+            "currentName": "Paria",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Chrysomelidae|Paria",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841413|45850590|45874299",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1049052",
+            "matchedName": "Paria",
+            "matchedCanonical": "Paria",
+            "currentName": "Septaria Férussac, 1807",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Cycloneritimorpha|Neritidae|Septaria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|52|225|7794038|2658|3245171",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1091261",
+            "matchedName": "Paria",
+            "matchedCanonical": "Paria",
+            "currentName": "Paria",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Chrysomeloidea|Chrysomelidae|Eumolpinae|Paria",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765489|567698|593807|1091261",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paria",
+      "name": "Paria",
+      "odds": 9748.322646629798,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 10419,
+      "end": 10424,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45874299",
+          "matchedName": "Paria",
+          "matchedCanonical": "Paria",
+          "currentName": "Paria",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Chrysomelidae|Paria",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841413|45850590|45874299",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45874299",
+            "matchedName": "Paria",
+            "matchedCanonical": "Paria",
+            "currentName": "Paria",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Chrysomelidae|Paria",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841413|45850590|45874299",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1049052",
+            "matchedName": "Paria",
+            "matchedCanonical": "Paria",
+            "currentName": "Septaria Férussac, 1807",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Cycloneritimorpha|Neritidae|Septaria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|52|225|7794038|2658|3245171",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1091261",
+            "matchedName": "Paria",
+            "matchedCanonical": "Paria",
+            "currentName": "Paria",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Chrysomeloidea|Chrysomelidae|Eumolpinae|Paria",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765489|567698|593807|1091261",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Yarra",
+      "name": "Yarra",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rra": 0.4416560971190433
+          }
+        }
+      },
+      "start": 11524,
+      "end": 11529,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "298096",
+          "matchedName": "Yarra Castelnau, 1872",
+          "matchedCanonical": "Yarra",
+          "currentName": "Geotria Gray, 1851",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Agnatha|Petromyzonti|Petromyzontiformes|Geotriidae|Geotria",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|class|order|family|genus",
+          "classificationIDs": "1|2|1821|146419|1829|843662|10201|714647|234558",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2421324",
+            "matchedName": "Yarra Castelnau, 1872",
+            "matchedCanonical": "Yarra",
+            "currentName": "Geotria Gray, 1851",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Cephalaspidomorphi|Petromyzontiformes|Geotriidae|Geotria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|239|771|4815461|2421279",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5091777",
+            "matchedName": "Yarra",
+            "matchedCanonical": "Yarra",
+            "currentName": "Yarra",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Peracarida|Amphipoda|Gammaridea|Stenothoidae|Thaumatelsoninae|Yarra",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|737016|737019|941215|166906|5755434|5091777",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Yarra",
+      "name": "Yarra",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "rra": 0.4416560971190433
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 11540,
+      "end": 11545,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "298096",
+          "matchedName": "Yarra Castelnau, 1872",
+          "matchedCanonical": "Yarra",
+          "currentName": "Geotria Gray, 1851",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Agnatha|Petromyzonti|Petromyzontiformes|Geotriidae|Geotria",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|class|order|family|genus",
+          "classificationIDs": "1|2|1821|146419|1829|843662|10201|714647|234558",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2421324",
+            "matchedName": "Yarra Castelnau, 1872",
+            "matchedCanonical": "Yarra",
+            "currentName": "Geotria Gray, 1851",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Cephalaspidomorphi|Petromyzontiformes|Geotriidae|Geotria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|239|771|4815461|2421279",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5091777",
+            "matchedName": "Yarra",
+            "matchedCanonical": "Yarra",
+            "currentName": "Yarra",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Peracarida|Amphipoda|Gammaridea|Stenothoidae|Thaumatelsoninae|Yarra",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|737016|737019|941215|166906|5755434|5091777",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paria",
+      "name": "Paria",
+      "odds": 9748.322646629798,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 11553,
+      "end": 11558,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45874299",
+          "matchedName": "Paria",
+          "matchedCanonical": "Paria",
+          "currentName": "Paria",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Chrysomelidae|Paria",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841413|45850590|45874299",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45874299",
+            "matchedName": "Paria",
+            "matchedCanonical": "Paria",
+            "currentName": "Paria",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Chrysomelidae|Paria",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841413|45850590|45874299",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1049052",
+            "matchedName": "Paria",
+            "matchedCanonical": "Paria",
+            "currentName": "Septaria Férussac, 1807",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Cycloneritimorpha|Neritidae|Septaria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|52|225|7794038|2658|3245171",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1091261",
+            "matchedName": "Paria",
+            "matchedCanonical": "Paria",
+            "currentName": "Paria",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Chrysomeloidea|Chrysomelidae|Eumolpinae|Paria",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765489|567698|593807|1091261",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Y-linked genes",
+      "name": "Y-linked genes",
+      "odds": 5.200259178586357,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ked": 1.2513589418372892
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 23614,
+      "end": 23628,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

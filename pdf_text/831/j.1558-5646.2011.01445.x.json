@@ -1,0 +1,424 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:07:41.931088837-05:00",
+    "language": "eng",
+    "total_words": 8743,
+    "total_candidates": 1334,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Mus musculus),",
+      "name": "Mus musculus",
+      "odds": 12352.256945903333,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          }
+        }
+      },
+      "start": 756,
+      "end": 771,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5f6ab51900f4bd06a67e6edf454d72dc",
+          "matchedName": "Mus (Mus) musculus Linnaeus, 1758",
+          "matchedCanonical": "Mus musculus",
+          "currentName": "Mus (Mus) musculus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Muridae|Mus|Mus musculus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45853370|45871098|5f6ab51900f4bd06a67e6edf454d72dc",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5f6ab51900f4bd06a67e6edf454d72dc",
+            "matchedName": "Mus (Mus) musculus Linnaeus, 1758",
+            "matchedCanonical": "Mus musculus",
+            "currentName": "Mus (Mus) musculus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Muridae|Mus|Mus musculus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45853370|45871098|5f6ab51900f4bd06a67e6edf454d72dc",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7429082",
+            "matchedName": "Mus musculus Linnaeus, 1758",
+            "matchedCanonical": "Mus musculus",
+            "currentName": "Mus musculus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muridae|Mus|Mus musculus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|5510|2311167|7429082",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "542509",
+            "matchedName": "Mus musculus",
+            "matchedCanonical": "Mus musculus",
+            "currentName": "Mus musculus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Muridae|Murinae|Mus|Mus subgenus|Mus musculus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|816256|889045|1068778|164652|542509",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 29,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Brea,",
+      "name": "Brea",
+      "odds": 916.6470664332205,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rea": 7.675001509935374
+          }
+        }
+      },
+      "start": 11128,
+      "end": 11133,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45992503",
+          "matchedName": "Brea",
+          "matchedCanonical": "Brea",
+          "currentName": "Brea",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Platystomatidae|Brea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841455|45844974|45992503",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45992503",
+            "matchedName": "Brea",
+            "matchedCanonical": "Brea",
+            "currentName": "Brea",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Platystomatidae|Brea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841455|45844974|45992503",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1678534",
+            "matchedName": "Brea Walker, 1859",
+            "matchedCanonical": "Brea",
+            "currentName": "Brea Walker, 1859",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Platystomatidae|Brea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|811|9504|1678534",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4407577",
+            "matchedName": "Brea",
+            "matchedCanonical": "Brea",
+            "currentName": "Brea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Brachycera|Muscomorpha|Eremoneura|Cyclorrhapha|Schizophora|Acalyptratae|Tephritoidea|Platystomatidae|Brea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|no rank|no rank|section|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|661378|555807|133916|951142|951146|133926|758894|184528|430300|4407577",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "“HD”—predominantly domesticus hybrids",
+      "name": "Hd��predominantly domesticus hybrids",
+      "odds": 20088392.75448942,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "tly": 0.1472186990396811
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "uniLen": {
+            "21": 7.508153651023735
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 12296,
+      "end": 12333,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "“HM”—predominantly musculus hybrids",
+      "name": "Hm��predominantly musculus hybrids",
+      "odds": 9855626.745127175,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "21": 7.508153651023735
+          },
+          "uniEnd3": {
+            "tly": 0.1472186990396811
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 12358,
+      "end": 12393,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. musculus",
+      "name": "M. musculus",
+      "odds": 4757547.057122455,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 14958,
+      "end": 14969,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Leja,",
+      "name": "Leja",
+      "odds": 1793.4399125867358,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eja": 15.01630730204747
+          }
+        }
+      },
+      "start": 18730,
+      "end": 18736,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1317258",
+          "matchedName": "Leja Dejean, 1821",
+          "matchedCanonical": "Leja",
+          "currentName": "Bembidion Latreille, 1802",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Carabidae|Bembidion",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|100616|1024128",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4719465",
+            "matchedName": "Leja",
+            "matchedCanonical": "Leja",
+            "currentName": "Leja",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Mycetophilidae|Leja",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|811|5565|4719465",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Predominantly domesticus hybrids",
+      "name": "Predominantly domesticus hybrids",
+      "odds": 24040970.03257183,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniEnd3": {
+            "tly": 0.1472186990396811
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 31628,
+      "end": 31660,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

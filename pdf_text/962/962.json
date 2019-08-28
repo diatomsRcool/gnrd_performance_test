@@ -1,0 +1,1952 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:08:34.128392666-05:00",
+    "language": "eng",
+    "total_words": 10249,
+    "total_candidates": 1341,
+    "total_names": 42
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Arabidopsis thaliana.",
+      "name": "Arabidopsis thaliana",
+      "odds": 1592854327927.0417,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 842,
+      "end": 863,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+          "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+          "matchedCanonical": "Arabidopsis thaliana",
+          "currentName": "Arabidopsis thaliana (L.) Heynh.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052436",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435|3052436",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309263",
+            "matchedName": "Arabidopsis thaliana",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275|309263",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 1072,
+      "end": 1083,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Arabidopsis thaliana.",
+      "name": "Arabidopsis thaliana",
+      "odds": 1592854327927.0417,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 7118,
+      "end": 7139,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+          "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+          "matchedCanonical": "Arabidopsis thaliana",
+          "currentName": "Arabidopsis thaliana (L.) Heynh.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052436",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435|3052436",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309263",
+            "matchedName": "Arabidopsis thaliana",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275|309263",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          }
+        }
+      },
+      "start": 7140,
+      "end": 7151,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Poa annua,",
+      "name": "Poa annua",
+      "odds": 47.103234684644924,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nua": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          }
+        }
+      },
+      "start": 9978,
+      "end": 9988,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "462fd6b0e033f891ba836ab7ec0d30d3",
+          "matchedName": "Poa annua Cham. \u0026 Schltdl., nom. nud.",
+          "matchedCanonical": "Poa annua",
+          "currentName": "Poa infirma Kunth",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Poa|Poa infirma",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45959033|acecf232225c28ce7150f205cd357e77",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "462fd6b0e033f891ba836ab7ec0d30d3",
+            "matchedName": "Poa annua Cham. \u0026 Schltdl., nom. nud.",
+            "matchedCanonical": "Poa annua",
+            "currentName": "Poa infirma Kunth",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Poa|Poa infirma",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45959033|acecf232225c28ce7150f205cd357e77",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8422205",
+            "matchedName": "Poa annua Cham. \u0026 Schltdl.",
+            "matchedCanonical": "Poa annua",
+            "currentName": "Poa infirma Kunth",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Poa|Poa infirma",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2704173|2704194",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "510850",
+            "matchedName": "Poa annua",
+            "matchedCanonical": "Poa annua",
+            "currentName": "Poa annua",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Pooideae|Poodae|Poeae|Poeae|Poinae|Poa|Poa annua",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|no rank|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|17811|641464|5737322|415737|5759324|837414|985636|510850",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 31,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. annua",
+      "name": "P. annua",
+      "odds": 18142.097961231528,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nua": 10.010871534698314
+          }
+        }
+      },
+      "start": 10071,
+      "end": 10079,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          }
+        }
+      },
+      "start": 10110,
+      "end": 10121,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana:",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 10349,
+      "end": 10361,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Arabidopsis thaliana",
+      "name": "Arabidopsis thaliana",
+      "odds": 1592854327927.0417,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          }
+        }
+      },
+      "start": 29867,
+      "end": 29887,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+          "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+          "matchedCanonical": "Arabidopsis thaliana",
+          "currentName": "Arabidopsis thaliana (L.) Heynh.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052436",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435|3052436",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309263",
+            "matchedName": "Arabidopsis thaliana",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275|309263",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 33593,
+      "end": 33604,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. annua",
+      "name": "P. annua",
+      "odds": 18142.097961231528,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nua": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 36772,
+      "end": 36780,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          }
+        }
+      },
+      "start": 36875,
+      "end": 36886,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. annua",
+      "name": "P. annua",
+      "odds": 18142.097961231528,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nua": 10.010871534698314
+          }
+        }
+      },
+      "start": 36891,
+      "end": 36899,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          }
+        }
+      },
+      "start": 39805,
+      "end": 39816,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 40712,
+      "end": 40723,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Arabidopsis thaliana",
+      "name": "Arabidopsis thaliana",
+      "odds": 1592854327927.0417,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 41791,
+      "end": 41811,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+          "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+          "matchedCanonical": "Arabidopsis thaliana",
+          "currentName": "Arabidopsis thaliana (L.) Heynh.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052436",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435|3052436",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309263",
+            "matchedName": "Arabidopsis thaliana",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275|309263",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 42421,
+      "end": 42432,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 43197,
+      "end": 43208,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Arabidopsis thaliana",
+      "name": "Arabidopsis thaliana",
+      "odds": 1592854327927.0417,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          }
+        }
+      },
+      "start": 44462,
+      "end": 44482,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+          "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+          "matchedCanonical": "Arabidopsis thaliana",
+          "currentName": "Arabidopsis thaliana (L.) Heynh.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052436",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435|3052436",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309263",
+            "matchedName": "Arabidopsis thaliana",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275|309263",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana,",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 45301,
+      "end": 45313,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 47679,
+      "end": 47690,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 48503,
+      "end": 48514,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          }
+        }
+      },
+      "start": 50654,
+      "end": 50665,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. annua",
+      "name": "P. annua",
+      "odds": 18142.097961231528,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nua": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 50670,
+      "end": 50678,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 51009,
+      "end": 51020,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 54488,
+      "end": 54499,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Poa annua",
+      "name": "Poa annua",
+      "odds": 47.103234684644924,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spEnd3": {
+            "nua": 10.010871534698314
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 55755,
+      "end": 55764,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "462fd6b0e033f891ba836ab7ec0d30d3",
+          "matchedName": "Poa annua Cham. \u0026 Schltdl., nom. nud.",
+          "matchedCanonical": "Poa annua",
+          "currentName": "Poa infirma Kunth",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Poa|Poa infirma",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45959033|acecf232225c28ce7150f205cd357e77",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "462fd6b0e033f891ba836ab7ec0d30d3",
+            "matchedName": "Poa annua Cham. \u0026 Schltdl., nom. nud.",
+            "matchedCanonical": "Poa annua",
+            "currentName": "Poa infirma Kunth",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Poa|Poa infirma",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45959033|acecf232225c28ce7150f205cd357e77",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8422205",
+            "matchedName": "Poa annua Cham. \u0026 Schltdl.",
+            "matchedCanonical": "Poa annua",
+            "currentName": "Poa infirma Kunth",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Poa|Poa infirma",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2704173|2704194",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "510850",
+            "matchedName": "Poa annua",
+            "matchedCanonical": "Poa annua",
+            "currentName": "Poa annua",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Pooideae|Poodae|Poeae|Poeae|Poinae|Poa|Poa annua",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|no rank|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|17811|641464|5737322|415737|5759324|837414|985636|510850",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 31,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. annua",
+      "name": "P. annua",
+      "odds": 18142.097961231528,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nua": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 55875,
+      "end": 55883,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 55980,
+      "end": 55991,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. annua",
+      "name": "P. annua",
+      "odds": 18142.097961231528,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nua": 10.010871534698314
+          }
+        }
+      },
+      "start": 56031,
+      "end": 56039,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. annua",
+      "name": "P. annua",
+      "odds": 18142.097961231528,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "nua": 10.010871534698314
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 56129,
+      "end": 56137,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          }
+        }
+      },
+      "start": 56173,
+      "end": 56184,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. annua",
+      "name": "P. annua",
+      "odds": 18142.097961231528,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nua": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 56192,
+      "end": 56200,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 57650,
+      "end": 57661,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(ANCOVA).",
+      "name": "Ancova",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ova": 0.8342392945581929
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 61610,
+      "end": 61619,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45945998",
+          "matchedName": "Ancova",
+          "matchedCanonical": "Ancova",
+          "currentName": "Ancova",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45945998",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1873933",
+            "matchedName": "Ancova Ragonot in Romanoff, 1893",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova Ragonot in Romanoff, 1893",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5336|1873933",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3155489",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|691929|3155489",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. annua",
+      "name": "P. annua",
+      "odds": 18142.097961231528,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "nua": 10.010871534698314
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 64986,
+      "end": 64994,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. annua",
+      "name": "P. annua",
+      "odds": 18142.097961231528,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nua": 10.010871534698314
+          }
+        }
+      },
+      "start": 65120,
+      "end": 65128,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. annua",
+      "name": "P. annua",
+      "odds": 18142.097961231528,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nua": 10.010871534698314
+          }
+        }
+      },
+      "start": 65201,
+      "end": 65209,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          }
+        }
+      },
+      "start": 65247,
+      "end": 65258,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          }
+        }
+      },
+      "start": 66454,
+      "end": 66465,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. annua",
+      "name": "P. annua",
+      "odds": 18142.097961231528,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nua": 10.010871534698314
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 71311,
+      "end": 71319,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Arabidopsis thaliana",
+      "name": "Arabidopsis thaliana",
+      "odds": 1592854327927.0417,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 71411,
+      "end": 71431,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+          "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+          "matchedCanonical": "Arabidopsis thaliana",
+          "currentName": "Arabidopsis thaliana (L.) Heynh.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052436",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435|3052436",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309263",
+            "matchedName": "Arabidopsis thaliana",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275|309263",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

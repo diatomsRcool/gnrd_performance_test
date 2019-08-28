@@ -1,0 +1,1991 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:58:34.822184732-05:00",
+    "language": "eng",
+    "total_words": 8720,
+    "total_candidates": 1386,
+    "total_names": 37
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X-linked genes,",
+      "name": "X-linked genes",
+      "odds": 5.200259178586357,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ked": 1.2513589418372892
+          }
+        }
+      },
+      "start": 415,
+      "end": 430,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bombyx mori",
+      "name": "Bombyx mori",
+      "odds": 16485093.572836922,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "byx": 2.5027178836745785
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 2423,
+      "end": 2434,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "672e63f0b0571acb1c4299a65a1d256a",
+          "matchedName": "Bombyx mori Linnaeus, 1758",
+          "matchedCanonical": "Bombyx mori",
+          "currentName": "Bombyx mori Linnaeus, 1758",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx|Bombyx mori",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782|672e63f0b0571acb1c4299a65a1d256a",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "672e63f0b0571acb1c4299a65a1d256a",
+            "matchedName": "Bombyx mori Linnaeus, 1758",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx|Bombyx mori",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782|672e63f0b0571acb1c4299a65a1d256a",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1868664",
+            "matchedName": "Bombyx mori Linnaeus, 1758",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycidae|Bombyx|Bombyx mori",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|797|8832|1868660|1868664",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "440274",
+            "matchedName": "Bombyx mori",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Bombycoidea|Bombycidae|Bombycinae|Bombyx|Bombyx mori",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|596647|965952|13943|440273|440274",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Bombyx mori)",
+      "name": "Bombyx mori",
+      "odds": 16485093.572836922,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "byx": 2.5027178836745785
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          }
+        }
+      },
+      "start": 3339,
+      "end": 3352,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "672e63f0b0571acb1c4299a65a1d256a",
+          "matchedName": "Bombyx mori Linnaeus, 1758",
+          "matchedCanonical": "Bombyx mori",
+          "currentName": "Bombyx mori Linnaeus, 1758",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx|Bombyx mori",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782|672e63f0b0571acb1c4299a65a1d256a",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "672e63f0b0571acb1c4299a65a1d256a",
+            "matchedName": "Bombyx mori Linnaeus, 1758",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx|Bombyx mori",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782|672e63f0b0571acb1c4299a65a1d256a",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1868664",
+            "matchedName": "Bombyx mori Linnaeus, 1758",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycidae|Bombyx|Bombyx mori",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|797|8832|1868660|1868664",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "440274",
+            "matchedName": "Bombyx mori",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Bombycoidea|Bombycidae|Bombycinae|Bombyx|Bombyx mori",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|596647|965952|13943|440273|440274",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Caenorhabditis",
+      "name": "Caenorhabditis",
+      "odds": 4413394.081555371,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 7518,
+      "end": 7532,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45922916",
+          "matchedName": "Caenorhabditis",
+          "matchedCanonical": "Caenorhabditis",
+          "currentName": "Caenorhabditis",
+          "classificationPath": "Animalia|Nematoda|Secernentea|Rhabditida|Rhabditidae|Caenorhabditis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45845796|45845878|45845900|45845913|45922916",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45922916",
+            "matchedName": "Caenorhabditis",
+            "matchedCanonical": "Caenorhabditis",
+            "currentName": "Caenorhabditis",
+            "classificationPath": "Animalia|Nematoda|Secernentea|Rhabditida|Rhabditidae|Caenorhabditis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45845796|45845878|45845900|45845913|45922916",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2283681",
+            "matchedName": "Caenorhabditis Osche, 1952",
+            "matchedCanonical": "Caenorhabditis",
+            "currentName": "Caenorhabditis Osche, 1952",
+            "classificationPath": "Animalia|Nematoda|Secernentea|Rhabditida|Rhabditidae|Caenorhabditis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|5967481|250|440|6474|2283681",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "395055",
+            "matchedName": "Caenorhabditis",
+            "matchedCanonical": "Caenorhabditis",
+            "currentName": "Caenorhabditis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Nematoda|Chromadorea|Rhabditida|Rhabditoidea|Rhabditidae|Peloderinae|Caenorhabditis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|order|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|395057|931693|395056|277594|920943|699231|395055",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Z-linked genes.",
+      "name": "Z-linked genes",
+      "odds": 5.200259178586357,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ked": 1.2513589418372892
+          },
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 9100,
+      "end": 9115,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bombyx mori,",
+      "name": "Bombyx mori",
+      "odds": 16485093.572836922,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "byx": 2.5027178836745785
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          }
+        }
+      },
+      "start": 9581,
+      "end": 9593,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "672e63f0b0571acb1c4299a65a1d256a",
+          "matchedName": "Bombyx mori Linnaeus, 1758",
+          "matchedCanonical": "Bombyx mori",
+          "currentName": "Bombyx mori Linnaeus, 1758",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx|Bombyx mori",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782|672e63f0b0571acb1c4299a65a1d256a",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "672e63f0b0571acb1c4299a65a1d256a",
+            "matchedName": "Bombyx mori Linnaeus, 1758",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx|Bombyx mori",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782|672e63f0b0571acb1c4299a65a1d256a",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1868664",
+            "matchedName": "Bombyx mori Linnaeus, 1758",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycidae|Bombyx|Bombyx mori",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|797|8832|1868660|1868664",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "440274",
+            "matchedName": "Bombyx mori",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Bombycoidea|Bombycidae|Bombycinae|Bombyx|Bombyx mori",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|596647|965952|13943|440273|440274",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Lepidoptera",
+      "name": "Lepidoptera",
+      "odds": 8948.419093846554,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 9660,
+      "end": 9671,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841616",
+          "matchedName": "Lepidoptera",
+          "matchedCanonical": "Lepidoptera",
+          "currentName": "Lepidoptera",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841265|45841270|45841271|45841616",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841616",
+            "matchedName": "Lepidoptera",
+            "matchedCanonical": "Lepidoptera",
+            "currentName": "Lepidoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841265|45841270|45841271|45841616",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "797",
+            "matchedName": "Lepidoptera",
+            "matchedCanonical": "Lepidoptera",
+            "currentName": "Lepidoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "1|54|216|797",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "965954",
+            "matchedName": "Lepidoptera",
+            "matchedCanonical": "Lepidoptera",
+            "currentName": "Lepidoptera",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori,",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 9827,
+      "end": 9835,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori.",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          }
+        }
+      },
+      "start": 10272,
+      "end": 10280,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori.",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 10750,
+      "end": 10758,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          }
+        }
+      },
+      "start": 11077,
+      "end": 11084,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Z-linked genes",
+      "name": "Z-linked genes",
+      "odds": 5.200259178586357,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ked": 1.2513589418372892
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 11193,
+      "end": 11207,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 11590,
+      "end": 11597,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bombyx mori",
+      "name": "Bombyx mori",
+      "odds": 16485093.572836922,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "byx": 2.5027178836745785
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          }
+        }
+      },
+      "start": 16862,
+      "end": 16873,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "672e63f0b0571acb1c4299a65a1d256a",
+          "matchedName": "Bombyx mori Linnaeus, 1758",
+          "matchedCanonical": "Bombyx mori",
+          "currentName": "Bombyx mori Linnaeus, 1758",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx|Bombyx mori",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782|672e63f0b0571acb1c4299a65a1d256a",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "672e63f0b0571acb1c4299a65a1d256a",
+            "matchedName": "Bombyx mori Linnaeus, 1758",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx|Bombyx mori",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782|672e63f0b0571acb1c4299a65a1d256a",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1868664",
+            "matchedName": "Bombyx mori Linnaeus, 1758",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycidae|Bombyx|Bombyx mori",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|797|8832|1868660|1868664",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "440274",
+            "matchedName": "Bombyx mori",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Bombycoidea|Bombycidae|Bombycinae|Bombyx|Bombyx mori",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|596647|965952|13943|440273|440274",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "B. mori genome",
+      "name": "B. mori genome",
+      "odds": 156824.1347477605,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "ome": 0.07360934951984055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 20046,
+      "end": 20060,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "B. mori larva",
+      "name": "B. mori larva",
+      "odds": 26581.54100952644,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "rva": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          }
+        }
+      },
+      "start": 25898,
+      "end": 25911,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 27809,
+      "end": 27816,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          }
+        }
+      },
+      "start": 28673,
+      "end": 28680,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Z-linked genes",
+      "name": "Z-linked genes",
+      "odds": 5.200259178586357,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ked": 1.2513589418372892
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 30056,
+      "end": 30070,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 31723,
+      "end": 31730,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 32167,
+      "end": 32174,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bombyx mori",
+      "name": "Bombyx mori",
+      "odds": 16485093.572836922,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "byx": 2.5027178836745785
+          }
+        }
+      },
+      "start": 33364,
+      "end": 33375,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "672e63f0b0571acb1c4299a65a1d256a",
+          "matchedName": "Bombyx mori Linnaeus, 1758",
+          "matchedCanonical": "Bombyx mori",
+          "currentName": "Bombyx mori Linnaeus, 1758",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx|Bombyx mori",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782|672e63f0b0571acb1c4299a65a1d256a",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "672e63f0b0571acb1c4299a65a1d256a",
+            "matchedName": "Bombyx mori Linnaeus, 1758",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx|Bombyx mori",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782|672e63f0b0571acb1c4299a65a1d256a",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1868664",
+            "matchedName": "Bombyx mori Linnaeus, 1758",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycidae|Bombyx|Bombyx mori",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|797|8832|1868660|1868664",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "440274",
+            "matchedName": "Bombyx mori",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Bombycoidea|Bombycidae|Bombycinae|Bombyx|Bombyx mori",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|596647|965952|13943|440273|440274",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          }
+        }
+      },
+      "start": 38498,
+      "end": 38505,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          }
+        }
+      },
+      "start": 39843,
+      "end": 39850,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Z-linked genes",
+      "name": "Z-linked genes",
+      "odds": 5.200259178586357,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ked": 1.2513589418372892
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          }
+        }
+      },
+      "start": 42580,
+      "end": 42594,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bombyx mori",
+      "name": "Bombyx mori",
+      "odds": 16485093.572836922,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "byx": 2.5027178836745785
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 43045,
+      "end": 43056,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "672e63f0b0571acb1c4299a65a1d256a",
+          "matchedName": "Bombyx mori Linnaeus, 1758",
+          "matchedCanonical": "Bombyx mori",
+          "currentName": "Bombyx mori Linnaeus, 1758",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx|Bombyx mori",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782|672e63f0b0571acb1c4299a65a1d256a",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "672e63f0b0571acb1c4299a65a1d256a",
+            "matchedName": "Bombyx mori Linnaeus, 1758",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx|Bombyx mori",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782|672e63f0b0571acb1c4299a65a1d256a",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1868664",
+            "matchedName": "Bombyx mori Linnaeus, 1758",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycidae|Bombyx|Bombyx mori",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|797|8832|1868660|1868664",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "440274",
+            "matchedName": "Bombyx mori",
+            "matchedCanonical": "Bombyx mori",
+            "currentName": "Bombyx mori",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Bombycoidea|Bombycidae|Bombycinae|Bombyx|Bombyx mori",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|596647|965952|13943|440273|440274",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Lepidoptera",
+      "name": "Lepidoptera",
+      "odds": 8948.419093846554,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 44684,
+      "end": 44695,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841616",
+          "matchedName": "Lepidoptera",
+          "matchedCanonical": "Lepidoptera",
+          "currentName": "Lepidoptera",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841265|45841270|45841271|45841616",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841616",
+            "matchedName": "Lepidoptera",
+            "matchedCanonical": "Lepidoptera",
+            "currentName": "Lepidoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841265|45841270|45841271|45841616",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "797",
+            "matchedName": "Lepidoptera",
+            "matchedCanonical": "Lepidoptera",
+            "currentName": "Lepidoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "1|54|216|797",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "965954",
+            "matchedName": "Lepidoptera",
+            "matchedCanonical": "Lepidoptera",
+            "currentName": "Lepidoptera",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Bombyx",
+      "name": "Bombyx",
+      "odds": 1850.8815823074851,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "byx": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 44794,
+      "end": 44800,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45917782",
+          "matchedName": "Bombyx",
+          "matchedCanonical": "Bombyx",
+          "currentName": "Bombyx",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45917782",
+            "matchedName": "Bombyx",
+            "matchedCanonical": "Bombyx",
+            "currentName": "Bombyx",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Bombycoidea|Bombycidae|Bombyx",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847770|45847802|45917782",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9047283",
+            "matchedName": "Bombyx Boisduval, 1828",
+            "matchedCanonical": "Bombyx",
+            "currentName": "Gastropacha Ochsenheimer, 1810",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Lasiocampidae|Gastropacha",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|3530|1732496",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "440273",
+            "matchedName": "Bombyx",
+            "matchedCanonical": "Bombyx",
+            "currentName": "Bombyx",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Bombycoidea|Bombycidae|Bombycinae|Bombyx",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|596647|965952|13943|440273",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "B. mori may",
+      "name": "B. mori may",
+      "odds": 2224823.4789733402,
+      "odds_details": {
+        "Name": {
+          "ispLen": {
+            "3": 0.003572759291469777
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          }
+        }
+      },
+      "start": 45498,
+      "end": 45509,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Caenorhabditis,",
+      "name": "Caenorhabditis",
+      "odds": 4413394.081555371,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          }
+        }
+      },
+      "start": 46050,
+      "end": 46065,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45922916",
+          "matchedName": "Caenorhabditis",
+          "matchedCanonical": "Caenorhabditis",
+          "currentName": "Caenorhabditis",
+          "classificationPath": "Animalia|Nematoda|Secernentea|Rhabditida|Rhabditidae|Caenorhabditis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45845796|45845878|45845900|45845913|45922916",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45922916",
+            "matchedName": "Caenorhabditis",
+            "matchedCanonical": "Caenorhabditis",
+            "currentName": "Caenorhabditis",
+            "classificationPath": "Animalia|Nematoda|Secernentea|Rhabditida|Rhabditidae|Caenorhabditis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45845796|45845878|45845900|45845913|45922916",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2283681",
+            "matchedName": "Caenorhabditis Osche, 1952",
+            "matchedCanonical": "Caenorhabditis",
+            "currentName": "Caenorhabditis Osche, 1952",
+            "classificationPath": "Animalia|Nematoda|Secernentea|Rhabditida|Rhabditidae|Caenorhabditis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|5967481|250|440|6474|2283681",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "395055",
+            "matchedName": "Caenorhabditis",
+            "matchedCanonical": "Caenorhabditis",
+            "currentName": "Caenorhabditis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Nematoda|Chromadorea|Rhabditida|Rhabditoidea|Rhabditidae|Peloderinae|Caenorhabditis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|order|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|395057|931693|395056|277594|920943|699231|395055",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          }
+        }
+      },
+      "start": 47312,
+      "end": 47319,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          }
+        }
+      },
+      "start": 48019,
+      "end": 48026,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Z-linked genes",
+      "name": "Z-linked genes",
+      "odds": 5.200259178586357,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ked": 1.2513589418372892
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 48702,
+      "end": 48716,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          }
+        }
+      },
+      "start": 53478,
+      "end": 53485,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          }
+        }
+      },
+      "start": 53619,
+      "end": 53626,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. mori,",
+      "name": "B. mori",
+      "odds": 4133.124573122673,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ori": 10.010871534698314
+          }
+        }
+      },
+      "start": 55287,
+      "end": 55295,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Mita",
+      "name": "Mita",
+      "odds": 2391.253216782314,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ita": 20.021743069396628
+          }
+        }
+      },
+      "start": 56945,
+      "end": 56949,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46105256",
+          "matchedName": "Mita",
+          "matchedCanonical": "Mita",
+          "currentName": "Mita",
+          "classificationPath": "Chromista|Radiozoa|Polycystina|Paleo radiozoa|Archaeodictyomitracea|Archaeodictyomitridae|Mita",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841310|45841536|45841537|45842097|45842098|45851332|46105256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46105256",
+            "matchedName": "Mita",
+            "matchedCanonical": "Mita",
+            "currentName": "Mita",
+            "classificationPath": "Chromista|Radiozoa|Polycystina|Paleo radiozoa|Archaeodictyomitracea|Archaeodictyomitridae|Mita",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841310|45841536|45841537|45842097|45842098|45851332|46105256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3258101",
+            "matchedName": "Mita Nicéville, 1890",
+            "matchedCanonical": "Mita",
+            "currentName": "Mota Nicéville, 1890",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Lycaenidae|Mota",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5473|1929766",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6386511",
+            "matchedName": "Mita",
+            "matchedCanonical": "Mita",
+            "currentName": "Mita",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Polycystinea|Nassellaria|Archaeodictyomitridae|Mita",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|566633|137460|4019677|6386511",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

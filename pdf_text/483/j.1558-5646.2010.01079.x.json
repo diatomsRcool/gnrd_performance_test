@@ -1,0 +1,926 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:05:34.861625797-05:00",
+    "language": "eng",
+    "total_words": 9465,
+    "total_candidates": 1163,
+    "total_names": 18
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Physa acuta).",
+      "name": "Physa acuta",
+      "odds": 1624053327.5628963,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ysa": 12.513589418372893
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 651,
+      "end": 665,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "72105a2dac85aacd7fb80db04f6f6985",
+          "matchedName": "Physa acuta Draparnaud, 1805",
+          "matchedCanonical": "Physa acuta",
+          "currentName": "Physella acuta (Draparnaud, 1805)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Lymnaeoidea|Physidae|Physella|Physella acuta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841999|45842000|45842094|45845000|45850966|45941698|fb1869850d6c383fb923d2c204a4ac4d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "72105a2dac85aacd7fb80db04f6f6985",
+            "matchedName": "Physa acuta Draparnaud, 1805",
+            "matchedCanonical": "Physa acuta",
+            "currentName": "Physella acuta (Draparnaud, 1805)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Lymnaeoidea|Physidae|Physella|Physella acuta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841999|45842000|45842094|45845000|45850966|45941698|fb1869850d6c383fb923d2c204a4ac4d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8711883",
+            "matchedName": "Physa acuta Draparnaud, 1805",
+            "matchedCanonical": "Physa acuta",
+            "currentName": "Paraplexa cornea Massot, 1845",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Hygrophila|Physidae|Paraplexa|Paraplexa cornea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|52|225|7810165|6798|4599314|7948402",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Physa acuta,",
+      "name": "Physa acuta",
+      "odds": 1624053327.5628963,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ysa": 12.513589418372893
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          }
+        }
+      },
+      "start": 6262,
+      "end": 6274,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "72105a2dac85aacd7fb80db04f6f6985",
+          "matchedName": "Physa acuta Draparnaud, 1805",
+          "matchedCanonical": "Physa acuta",
+          "currentName": "Physella acuta (Draparnaud, 1805)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Lymnaeoidea|Physidae|Physella|Physella acuta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841999|45842000|45842094|45845000|45850966|45941698|fb1869850d6c383fb923d2c204a4ac4d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "72105a2dac85aacd7fb80db04f6f6985",
+            "matchedName": "Physa acuta Draparnaud, 1805",
+            "matchedCanonical": "Physa acuta",
+            "currentName": "Physella acuta (Draparnaud, 1805)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Lymnaeoidea|Physidae|Physella|Physella acuta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841999|45842000|45842094|45845000|45850966|45941698|fb1869850d6c383fb923d2c204a4ac4d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8711883",
+            "matchedName": "Physa acuta Draparnaud, 1805",
+            "matchedCanonical": "Physa acuta",
+            "currentName": "Paraplexa cornea Massot, 1845",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Hygrophila|Physidae|Paraplexa|Paraplexa cornea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|52|225|7810165|6798|4599314|7948402",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. acuta",
+      "name": "P. acuta",
+      "odds": 113388.11225769707,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 6744,
+      "end": 6752,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. acuta",
+      "name": "P. acuta",
+      "odds": 113388.11225769707,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          }
+        }
+      },
+      "start": 7186,
+      "end": 7194,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. acuta,",
+      "name": "P. acuta",
+      "odds": 113388.11225769707,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          }
+        }
+      },
+      "start": 9852,
+      "end": 9861,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. acuta",
+      "name": "P. acuta",
+      "odds": 113388.11225769707,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "uta": 62.56794709186447
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 12138,
+      "end": 12146,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Physa acuta",
+      "name": "Physa acuta",
+      "odds": 1624053327.5628963,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ysa": 12.513589418372893
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 12441,
+      "end": 12452,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "72105a2dac85aacd7fb80db04f6f6985",
+          "matchedName": "Physa acuta Draparnaud, 1805",
+          "matchedCanonical": "Physa acuta",
+          "currentName": "Physella acuta (Draparnaud, 1805)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Lymnaeoidea|Physidae|Physella|Physella acuta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841999|45842000|45842094|45845000|45850966|45941698|fb1869850d6c383fb923d2c204a4ac4d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "72105a2dac85aacd7fb80db04f6f6985",
+            "matchedName": "Physa acuta Draparnaud, 1805",
+            "matchedCanonical": "Physa acuta",
+            "currentName": "Physella acuta (Draparnaud, 1805)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Lymnaeoidea|Physidae|Physella|Physella acuta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841999|45842000|45842094|45845000|45850966|45941698|fb1869850d6c383fb923d2c204a4ac4d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8711883",
+            "matchedName": "Physa acuta Draparnaud, 1805",
+            "matchedCanonical": "Physa acuta",
+            "currentName": "Paraplexa cornea Massot, 1845",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Hygrophila|Physidae|Paraplexa|Paraplexa cornea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|52|225|7810165|6798|4599314|7948402",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. acuta",
+      "name": "P. acuta",
+      "odds": 113388.11225769707,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "uta": 62.56794709186447
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 14461,
+      "end": 14469,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Procambarus acutus;",
+      "name": "Procambarus acutus",
+      "odds": 6882109144628.582,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 17040,
+      "end": 17060,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d0bd0617fcafd2b44e4c57d5ca5e0b1c",
+          "matchedName": "Procambarus (Ortmannicus) acutus (Girard, 1852)",
+          "matchedCanonical": "Procambarus acutus",
+          "currentName": "Procambarus (Ortmannicus) acutus (Girard, 1852)",
+          "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Astacoidea|Cambaridae|Procambarus|Procambarus acutus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841301|45841302|45843595|45843596|45871455|d0bd0617fcafd2b44e4c57d5ca5e0b1c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d0bd0617fcafd2b44e4c57d5ca5e0b1c",
+            "matchedName": "Procambarus (Ortmannicus) acutus (Girard, 1852)",
+            "matchedCanonical": "Procambarus acutus",
+            "currentName": "Procambarus (Ortmannicus) acutus (Girard, 1852)",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Astacoidea|Cambaridae|Procambarus|Procambarus acutus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841301|45841302|45843595|45843596|45871455|d0bd0617fcafd2b44e4c57d5ca5e0b1c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2227289",
+            "matchedName": "Procambarus acutus (Girard, 1852)",
+            "matchedCanonical": "Procambarus acutus",
+            "currentName": "Procambarus acutus (Girard, 1852)",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Cambaridae|Procambarus|Procambarus acutus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|229|637|4479|2227127|2227289",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "77968",
+            "matchedName": "Procambarus acutus",
+            "matchedCanonical": "Procambarus acutus",
+            "currentName": "Procambarus acutus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Macrura|Astacidea|Astacoidea|Cambaridae|Cambarinae|Procambarus|Procambarus acutus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|169204|169205|5730400|601427|79861|79860|348187|79859|77968",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. acuta",
+      "name": "P. acuta",
+      "odds": 113388.11225769707,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          }
+        }
+      },
+      "start": 17102,
+      "end": 17110,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. acuta",
+      "name": "P. acuta",
+      "odds": 113388.11225769707,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          }
+        }
+      },
+      "start": 17282,
+      "end": 17290,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(ANCOVA)",
+      "name": "Ancova",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ova": 0.8342392945581929
+          }
+        }
+      },
+      "start": 19412,
+      "end": 19420,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45945998",
+          "matchedName": "Ancova",
+          "matchedCanonical": "Ancova",
+          "currentName": "Ancova",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45945998",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1873933",
+            "matchedName": "Ancova Ragonot in Romanoff, 1893",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova Ragonot in Romanoff, 1893",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5336|1873933",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3155489",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|691929|3155489",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. acuta",
+      "name": "P. acuta",
+      "odds": 113388.11225769707,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          }
+        }
+      },
+      "start": 23043,
+      "end": 23051,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Physa acuta",
+      "name": "Physa acuta",
+      "odds": 1624053327.5628963,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ysa": 12.513589418372893
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 40088,
+      "end": 40099,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "72105a2dac85aacd7fb80db04f6f6985",
+          "matchedName": "Physa acuta Draparnaud, 1805",
+          "matchedCanonical": "Physa acuta",
+          "currentName": "Physella acuta (Draparnaud, 1805)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Lymnaeoidea|Physidae|Physella|Physella acuta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841999|45842000|45842094|45845000|45850966|45941698|fb1869850d6c383fb923d2c204a4ac4d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "72105a2dac85aacd7fb80db04f6f6985",
+            "matchedName": "Physa acuta Draparnaud, 1805",
+            "matchedCanonical": "Physa acuta",
+            "currentName": "Physella acuta (Draparnaud, 1805)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Not assigned|Lymnaeoidea|Physidae|Physella|Physella acuta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841999|45842000|45842094|45845000|45850966|45941698|fb1869850d6c383fb923d2c204a4ac4d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8711883",
+            "matchedName": "Physa acuta Draparnaud, 1805",
+            "matchedCanonical": "Physa acuta",
+            "currentName": "Paraplexa cornea Massot, 1845",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Hygrophila|Physidae|Paraplexa|Paraplexa cornea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|52|225|7810165|6798|4599314|7948402",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. acuta",
+      "name": "P. acuta",
+      "odds": 113388.11225769707,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          }
+        }
+      },
+      "start": 51766,
+      "end": 51774,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. acuta.",
+      "name": "P. acuta",
+      "odds": 113388.11225769707,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          }
+        }
+      },
+      "start": 54331,
+      "end": 54340,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. acuta",
+      "name": "P. acuta",
+      "odds": 113388.11225769707,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          }
+        }
+      },
+      "start": 57665,
+      "end": 57673,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. acuta",
+      "name": "P. acuta",
+      "odds": 113388.11225769707,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 58003,
+      "end": 58011,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

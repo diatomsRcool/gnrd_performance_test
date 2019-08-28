@@ -1,0 +1,508 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:07:07.238032315-05:00",
+    "language": "eng",
+    "total_words": 1875,
+    "total_candidates": 352,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Felis silvestris",
+      "name": "Felis silvestris",
+      "odds": 66822612616.75751,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 248,
+      "end": 265,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "831a91e848fe73787ed3c97aa0d5b349",
+          "matchedName": "Felis silvestris Schreber, 1777",
+          "matchedCanonical": "Felis silvestris",
+          "currentName": "Felis silvestris Schreber, 1777",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis silvestris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|831a91e848fe73787ed3c97aa0d5b349",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "831a91e848fe73787ed3c97aa0d5b349",
+            "matchedName": "Felis silvestris Schreber, 1777",
+            "matchedCanonical": "Felis silvestris",
+            "currentName": "Felis silvestris Schreber, 1777",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis silvestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|831a91e848fe73787ed3c97aa0d5b349",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7964291",
+            "matchedName": "Felis silvestris Schreber, 1777",
+            "matchedCanonical": "Felis silvestris",
+            "currentName": "Felis silvestris Schreber, 1777",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis silvestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435022|7964291",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "563163",
+            "matchedName": "Felis silvestris",
+            "matchedCanonical": "Felis silvestris",
+            "currentName": "Felis silvestris",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Felis|Felis silvestris",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|563165|563163",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Felis silvestris catus)",
+      "name": "Felis silvestris catus",
+      "odds": 1661502262600411.5,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "tus": 112.62230476535605
+          }
+        }
+      },
+      "start": 286,
+      "end": 310,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f2f6a853436bfab907efa771b6ae38f1",
+          "matchedName": "Felis catus Linnaeus, 1758",
+          "matchedCanonical": "Felis catus",
+          "currentName": "Felis catus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|f2f6a853436bfab907efa771b6ae38f1",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f2f6a853436bfab907efa771b6ae38f1",
+            "matchedName": "Felis catus Linnaeus, 1758",
+            "matchedCanonical": "Felis catus",
+            "currentName": "Felis catus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|f2f6a853436bfab907efa771b6ae38f1",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435035",
+            "matchedName": "Felis catus Linnaeus, 1758",
+            "matchedCanonical": "Felis catus",
+            "currentName": "Felis catus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435022|2435035",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "563166",
+            "matchedName": "Felis catus",
+            "matchedCanonical": "Felis catus",
+            "currentName": "Felis catus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Felis|Felis catus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|563165|563166",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Felis silvestris",
+      "name": "Felis silvestris",
+      "odds": 66822612616.75751,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1022,
+      "end": 1039,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "831a91e848fe73787ed3c97aa0d5b349",
+          "matchedName": "Felis silvestris Schreber, 1777",
+          "matchedCanonical": "Felis silvestris",
+          "currentName": "Felis silvestris Schreber, 1777",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis silvestris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|831a91e848fe73787ed3c97aa0d5b349",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "831a91e848fe73787ed3c97aa0d5b349",
+            "matchedName": "Felis silvestris Schreber, 1777",
+            "matchedCanonical": "Felis silvestris",
+            "currentName": "Felis silvestris Schreber, 1777",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis silvestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|831a91e848fe73787ed3c97aa0d5b349",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7964291",
+            "matchedName": "Felis silvestris Schreber, 1777",
+            "matchedCanonical": "Felis silvestris",
+            "currentName": "Felis silvestris Schreber, 1777",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis silvestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435022|7964291",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "563163",
+            "matchedName": "Felis silvestris",
+            "matchedCanonical": "Felis silvestris",
+            "currentName": "Felis silvestris",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Felis|Felis silvestris",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|563165|563163",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "F. silvestris",
+      "name": "F. silvestris",
+      "odds": 11499273.168551212,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          }
+        }
+      },
+      "start": 2037,
+      "end": 2050,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Felis silvestris",
+      "name": "Felis silvestris",
+      "odds": 66822612616.75751,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          }
+        }
+      },
+      "start": 2404,
+      "end": 2421,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "831a91e848fe73787ed3c97aa0d5b349",
+          "matchedName": "Felis silvestris Schreber, 1777",
+          "matchedCanonical": "Felis silvestris",
+          "currentName": "Felis silvestris Schreber, 1777",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis silvestris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|831a91e848fe73787ed3c97aa0d5b349",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "831a91e848fe73787ed3c97aa0d5b349",
+            "matchedName": "Felis silvestris Schreber, 1777",
+            "matchedCanonical": "Felis silvestris",
+            "currentName": "Felis silvestris Schreber, 1777",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis silvestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|831a91e848fe73787ed3c97aa0d5b349",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7964291",
+            "matchedName": "Felis silvestris Schreber, 1777",
+            "matchedCanonical": "Felis silvestris",
+            "currentName": "Felis silvestris Schreber, 1777",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis silvestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435022|7964291",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "563163",
+            "matchedName": "Felis silvestris",
+            "matchedCanonical": "Felis silvestris",
+            "currentName": "Felis silvestris",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Felis|Felis silvestris",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|563165|563163",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(F. silvestris catus)",
+      "name": "F. silvestris catus",
+      "odds": 285922199680.9011,
+      "odds_details": {
+        "Name": {
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "tus": 112.62230476535605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          }
+        }
+      },
+      "start": 10036,
+      "end": 10057,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "F. silvestris lybica,",
+      "name": "F. silvestris lybica",
+      "odds": 1199729919357.6296,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "ica": 205.22286646131545
+          }
+        }
+      },
+      "start": 10085,
+      "end": 10106,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

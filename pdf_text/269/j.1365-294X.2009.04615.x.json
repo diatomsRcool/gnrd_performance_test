@@ -1,0 +1,606 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:03:26.252200505-05:00",
+    "language": "eng",
+    "total_words": 7446,
+    "total_candidates": 1266,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Trinomial",
+      "verbatim": "(Canis lupus lupus)",
+      "name": "Canis lupus lupus",
+      "odds": 10521070.571076972,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "ispEnd3": {
+            "pus": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniEnd3": {
+            "nis": 65.07066497553905
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          }
+        }
+      },
+      "start": 4672,
+      "end": 4691,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "25f544b0fe79786e8d3db49037f04169",
+          "matchedName": "Canis lupus lupus Linnaeus, 1758",
+          "matchedCanonical": "Canis lupus lupus",
+          "currentName": "Canis lupus lupus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Canidae|Canis||Canis lupus lupus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "25f544b0fe79786e8d3db49037f04169",
+            "matchedName": "Canis lupus lupus Linnaeus, 1758",
+            "matchedCanonical": "Canis lupus lupus",
+            "currentName": "Canis lupus lupus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Canidae|Canis||Canis lupus lupus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7193871",
+            "matchedName": "Canis lupus subsp. lupus",
+            "matchedCanonical": "Canis lupus ssp. lupus",
+            "currentName": "Canis lupus subsp. lupus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Canidae|Canis|Canis lupus|Canis lupus lupus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9701|5219142|5219173|7193871",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "883675",
+            "matchedName": "Canis lupus lupus",
+            "matchedCanonical": "Canis lupus lupus",
+            "currentName": "Canis lupus lupus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Caniformia|Canidae|Canis|Canis lupus|Canis lupus lupus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827263|770319|372706|247341|883675",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial(nlp)",
+      "verbatim": "(C. lupus familiaris)",
+      "name": "C. lupus familiaris",
+      "odds": 4883466.215457027,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "ispLen": {
+            "10": 4.627930835174779
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "ris": 65.07066497553905
+          }
+        }
+      },
+      "start": 4743,
+      "end": 4764,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Salmo salar)",
+      "name": "Salmo salar",
+      "odds": 15573980.637514643,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lmo": 7.508153651023735
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lar": 0.41711964727909645
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 5424,
+      "end": 5437,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3266ba091601ba86cd408decf2706b85",
+          "matchedName": "Salmo salar Linnaeus, 1758",
+          "matchedCanonical": "Salmo salar",
+          "currentName": "Salmo salar Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo salar",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45862011|3266ba091601ba86cd408decf2706b85",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3266ba091601ba86cd408decf2706b85",
+            "matchedName": "Salmo salar Linnaeus, 1758",
+            "matchedCanonical": "Salmo salar",
+            "currentName": "Salmo salar Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo salar",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45862011|3266ba091601ba86cd408decf2706b85",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7595433",
+            "matchedName": "Salmo salar Linnaeus, 1758",
+            "matchedCanonical": "Salmo salar",
+            "currentName": "Salmo salar Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo salar",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1313|8615|2347608|7595433",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "688328",
+            "matchedName": "Salmo salar",
+            "matchedCanonical": "Salmo salar",
+            "currentName": "Salmo salar",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Protacanthopterygii|Salmoniformes|Salmonidae|Salmoninae|Salmo|Salmo salar",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|1024043|216171|739933|936925|982359|688328",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 32,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Salmo trutta)",
+      "name": "Salmo trutta",
+      "odds": 128992350.43709661,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lmo": 7.508153651023735
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tta": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 7276,
+      "end": 7290,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0bf60cf23b96233570f3eaf68c75ee7f",
+          "matchedName": "Salmo trutta (non Linnaeus, 1758)",
+          "matchedCanonical": "Salmo trutta",
+          "currentName": "Salmo macrostigma (Duméril, 1858)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo macrostigma",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45862011|0909d84d2750016742284669abf8341f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0bf60cf23b96233570f3eaf68c75ee7f",
+            "matchedName": "Salmo trutta (non Linnaeus, 1758)",
+            "matchedCanonical": "Salmo trutta",
+            "currentName": "Salmo macrostigma (Duméril, 1858)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo macrostigma",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45862011|0909d84d2750016742284669abf8341f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8215487",
+            "matchedName": "Salmo trutta Linnaeus, 1758",
+            "matchedCanonical": "Salmo trutta",
+            "currentName": "Salmo trutta Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo trutta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1313|8615|2347608|8215487",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "688332",
+            "matchedName": "Salmo trutta",
+            "matchedCanonical": "Salmo trutta",
+            "currentName": "Salmo trutta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Protacanthopterygii|Salmoniformes|Salmonidae|Salmoninae|Salmo|Salmo trutta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|1024043|216171|739933|936925|982359|688332",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Salmo",
+      "name": "Salmo",
+      "odds": 3987.9501736212815,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lmo": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 11833,
+      "end": 11838,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45862011",
+          "matchedName": "Salmo",
+          "matchedCanonical": "Salmo",
+          "currentName": "Salmo",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45862011",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45862011",
+            "matchedName": "Salmo",
+            "matchedCanonical": "Salmo",
+            "currentName": "Salmo",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45862011",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2347608",
+            "matchedName": "Salmo Linnaeus, 1758",
+            "matchedCanonical": "Salmo",
+            "currentName": "Salmo Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|204|1313|8615|2347608",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "982359",
+            "matchedName": "Salmo",
+            "matchedCanonical": "Salmo",
+            "currentName": "Salmo",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Protacanthopterygii|Salmoniformes|Salmonidae|Salmoninae|Salmo",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|order|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|1024043|216171|739933|936925|982359",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Oncorhynchus mykiss)",
+      "name": "Oncorhynchus mykiss",
+      "odds": 518904.1994694916,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iss": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          }
+        }
+      },
+      "start": 12608,
+      "end": 12629,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d11b35db644cc45d76ccd8ad31452045",
+          "matchedName": "Oncorhynchus mykiss (Walbaum, 1792)",
+          "matchedCanonical": "Oncorhynchus mykiss",
+          "currentName": "Oncorhynchus mykiss (Walbaum, 1792)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus mykiss",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45863491|d11b35db644cc45d76ccd8ad31452045",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d11b35db644cc45d76ccd8ad31452045",
+            "matchedName": "Oncorhynchus mykiss (Walbaum, 1792)",
+            "matchedCanonical": "Oncorhynchus mykiss",
+            "currentName": "Oncorhynchus mykiss (Walbaum, 1792)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus mykiss",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45863491|d11b35db644cc45d76ccd8ad31452045",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5204019",
+            "matchedName": "Oncorhynchus mykiss (Walbaum, 1792)",
+            "matchedCanonical": "Oncorhynchus mykiss",
+            "currentName": "Oncorhynchus mykiss (Walbaum, 1792)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus mykiss",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1313|8615|2351426|5204019",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "165368",
+            "matchedName": "Oncorhynchus mykiss",
+            "matchedCanonical": "Oncorhynchus mykiss",
+            "currentName": "Oncorhynchus mykiss",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Protacanthopterygii|Salmoniformes|Salmonidae|Salmoninae|Oncorhynchus|Oncorhynchus mykiss",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|1024043|216171|739933|936925|739931|165368",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 28,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Salvelinus alpinus)",
+      "name": "Salvelinus alpinus",
+      "odds": 7190787382299.169,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 12669,
+      "end": 12689,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2b256e111056ab998c15402950cf0b1b",
+          "matchedName": "Salvelinus alpinus (Linnaeus, 1758)",
+          "matchedCanonical": "Salvelinus alpinus",
+          "currentName": "Salvelinus alpinus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salvelinus|Salvelinus alpinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45863828|2b256e111056ab998c15402950cf0b1b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2b256e111056ab998c15402950cf0b1b",
+            "matchedName": "Salvelinus alpinus (Linnaeus, 1758)",
+            "matchedCanonical": "Salvelinus alpinus",
+            "currentName": "Salvelinus alpinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salvelinus|Salvelinus alpinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45863828|2b256e111056ab998c15402950cf0b1b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4284021",
+            "matchedName": "Salvelinus alpinus (Linnaeus, 1758)",
+            "matchedCanonical": "Salvelinus alpinus",
+            "currentName": "Salvelinus alpinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salvelinus|Salvelinus alpinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1313|8615|2351241|4284021",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "688324",
+            "matchedName": "Salvelinus alpinus",
+            "matchedCanonical": "Salvelinus alpinus",
+            "currentName": "Salvelinus alpinus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Protacanthopterygii|Salmoniformes|Salmonidae|Salmoninae|Salvelinus|Salvelinus alpinus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|1024043|216171|739933|936925|688331|688324",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:58:41.769722613-05:00",
+    "language": "eng",
+    "total_words": 6264,
+    "total_candidates": 965,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Sylvia atricapilla",
+      "name": "Sylvia atricapilla",
+      "odds": 218422605367.91956,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "via": 7.786233415876468
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lla": 252.77450625113244
+          }
+        }
+      },
+      "start": 3735,
+      "end": 3753,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "4134d00c993b71067bfeb807a0d09c4b",
+          "matchedName": "Sylvia atricapilla (Linnaeus, 1758)",
+          "matchedCanonical": "Sylvia atricapilla",
+          "currentName": "Sylvia atricapilla (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Sylviidae|Sylvia|Sylvia atricapilla",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45841775|45841789|45895359|4134d00c993b71067bfeb807a0d09c4b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "4134d00c993b71067bfeb807a0d09c4b",
+            "matchedName": "Sylvia atricapilla (Linnaeus, 1758)",
+            "matchedCanonical": "Sylvia atricapilla",
+            "currentName": "Sylvia atricapilla (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Sylviidae|Sylvia|Sylvia atricapilla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45841775|45841789|45895359|4134d00c993b71067bfeb807a0d09c4b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2492956",
+            "matchedName": "Sylvia atricapilla (Linnaeus, 1758)",
+            "matchedCanonical": "Sylvia atricapilla",
+            "currentName": "Sylvia atricapilla (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Sylviidae|Sylvia|Sylvia atricapilla",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|729|5285|2492941|2492956",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "726312",
+            "matchedName": "Sylvia atricapilla",
+            "matchedCanonical": "Sylvia atricapilla",
+            "currentName": "Sylvia atricapilla",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Passeriformes|Sylviidae|Sylviinae|Sylvia|Sylvia atricapilla",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|1041547|259942|328523|463177|726312",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Geospiza fortis",
+      "name": "Geospiza fortis",
+      "odds": 50.55995669083635,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "iza": 31.283973545932234
+          },
+          "spEnd3": {
+            "tis": 110.11958688168146
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 3808,
+      "end": 3823,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "bdce3d15863ee1c521230265f6c3adf0",
+          "matchedName": "Geospiza fortis Gould, 1837",
+          "matchedCanonical": "Geospiza fortis",
+          "currentName": "Geospiza fortis Gould, 1837",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Thraupidae|Geospiza|Geospiza fortis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45841775|45841786|45961232|bdce3d15863ee1c521230265f6c3adf0",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "bdce3d15863ee1c521230265f6c3adf0",
+            "matchedName": "Geospiza fortis Gould, 1837",
+            "matchedCanonical": "Geospiza fortis",
+            "currentName": "Geospiza fortis Gould, 1837",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Thraupidae|Geospiza|Geospiza fortis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45841775|45841786|45961232|bdce3d15863ee1c521230265f6c3adf0",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5231030",
+            "matchedName": "Geospiza fortis Gould, 1837",
+            "matchedCanonical": "Geospiza fortis",
+            "currentName": "Geospiza fortis Gould, 1837",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Thraupidae|Geospiza|Geospiza fortis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|729|9352|5231020|5231030",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "589951",
+            "matchedName": "Geospiza fortis",
+            "matchedCanonical": "Geospiza fortis",
+            "currentName": "Geospiza fortis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Passeriformes|Thraupidae|Geospiza|Geospiza fortis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|1041547|445866|589948|589951",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Acrocephalus arundinaceus)",
+      "name": "Acrocephalus arundinaceus",
+      "odds": 53573970825508.9,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 4294,
+      "end": 4321,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "246b509e1f2c8e458fa21727049844e2",
+          "matchedName": "Acrocephalus arundinaceus (Linnaeus, 1758)",
+          "matchedCanonical": "Acrocephalus arundinaceus",
+          "currentName": "Acrocephalus arundinaceus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Acrocephalidae|Acrocephalus|Acrocephalus arundinaceus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45841775|45848156|45939012|246b509e1f2c8e458fa21727049844e2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "246b509e1f2c8e458fa21727049844e2",
+            "matchedName": "Acrocephalus arundinaceus (Linnaeus, 1758)",
+            "matchedCanonical": "Acrocephalus arundinaceus",
+            "currentName": "Acrocephalus arundinaceus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Acrocephalidae|Acrocephalus|Acrocephalus arundinaceus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45841775|45848156|45939012|246b509e1f2c8e458fa21727049844e2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2493128",
+            "matchedName": "Acrocephalus arundinaceus (Linnaeus, 1758)",
+            "matchedCanonical": "Acrocephalus arundinaceus",
+            "currentName": "Acrocephalus arundinaceus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Acrocephalidae|Acrocephalus|Acrocephalus arundinaceus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|729|6101019|2493112|2493128",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "800677",
+            "matchedName": "Acrocephalus arundinaceus",
+            "matchedCanonical": "Acrocephalus arundinaceus",
+            "currentName": "Acrocephalus arundinaceus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Passeriformes|Sylviidae|Acrocephalinae|Acrocephalus|Acrocephalus arundinaceus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|1041547|259942|1051167|800679|800677",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Tarka",
+      "name": "Tarka",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 4431,
+      "end": 4437,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "40328",
+          "matchedName": "Tarka McKenna 1990",
+          "matchedCanonical": "Tarka",
+          "currentName": "Tarka McKenna 1990",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Synapsida|Therapsida|Cynodontia|Epicynodontia|Eucynodontia|Probainognathia|Mammaliamorpha|Mammaliaformes|Mammalia|Theriamorpha|Theriiformes|Trechnotheria|Cladotheria|Boreosphenida|Theria|Eutheria|Placentalia|Euarchontoglires|Euarchonta|Primates|Omomyidae|Tarkadectinae|Tarka",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|infraorder|unranked clade|infraorder|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|subclass|infraclass|unranked clade|unranked clade|unranked clade|order|family|subfamily|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|38882|38935|39168|67366|39183|67452|67455|67456|36651|108999|137608|64369|57710|67561|39860|182911|91965|137728|92586|40700|40793|146441|40328",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4827142",
+            "matchedName": "Tarka McKenna, 1990",
+            "matchedCanonical": "Tarka",
+            "currentName": "Tarka McKenna, 1990",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Anaptomorphidae|Tarka",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|798|3239601|4827142",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4941727",
+            "matchedName": "Tarka",
+            "matchedCanonical": "Tarka",
+            "currentName": "Tarka",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Primates|Anaptomorphidae|Tarka",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|913935|4941706|4941727",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Taeniopygia guttata),",
+      "name": "Taeniopygia guttata",
+      "odds": 1514240497835.3901,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "gia": 5.2688797551043764
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 6093,
+      "end": 6115,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "06ff618268d51f635be7a84662273262",
+          "matchedName": "Taeniopygia guttata (Vieillot, 1817)",
+          "matchedCanonical": "Taeniopygia guttata",
+          "currentName": "Taeniopygia guttata (Vieillot, 1817)",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Estrildidae|Taeniopygia|Taeniopygia guttata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45841775|45845187|45958894|06ff618268d51f635be7a84662273262",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "06ff618268d51f635be7a84662273262",
+            "matchedName": "Taeniopygia guttata (Vieillot, 1817)",
+            "matchedCanonical": "Taeniopygia guttata",
+            "currentName": "Taeniopygia guttata (Vieillot, 1817)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Estrildidae|Taeniopygia|Taeniopygia guttata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45841775|45845187|45958894|06ff618268d51f635be7a84662273262",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2493633",
+            "matchedName": "Taeniopygia guttata (Vieillot, 1817)",
+            "matchedCanonical": "Taeniopygia guttata",
+            "currentName": "Taeniopygia guttata (Vieillot, 1817)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Estrildidae|Taeniopygia|Taeniopygia guttata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|729|5709|2493632|2493633",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "708327",
+            "matchedName": "Taeniopygia guttata",
+            "matchedCanonical": "Taeniopygia guttata",
+            "currentName": "Taeniopygia guttata",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Passeriformes|Passeroidea|Estrildidae|Estrildinae|Taeniopygia|Taeniopygia guttata",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|1041547|176458|507124|306765|708325|708327",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Tarka",
+      "name": "Tarka",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 33438,
+      "end": 33444,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "40328",
+          "matchedName": "Tarka McKenna 1990",
+          "matchedCanonical": "Tarka",
+          "currentName": "Tarka McKenna 1990",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Synapsida|Therapsida|Cynodontia|Epicynodontia|Eucynodontia|Probainognathia|Mammaliamorpha|Mammaliaformes|Mammalia|Theriamorpha|Theriiformes|Trechnotheria|Cladotheria|Boreosphenida|Theria|Eutheria|Placentalia|Euarchontoglires|Euarchonta|Primates|Omomyidae|Tarkadectinae|Tarka",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|infraorder|unranked clade|infraorder|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|subclass|infraclass|unranked clade|unranked clade|unranked clade|order|family|subfamily|genus",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|38882|38935|39168|67366|39183|67452|67455|67456|36651|108999|137608|64369|57710|67561|39860|182911|91965|137728|92586|40700|40793|146441|40328",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4827142",
+            "matchedName": "Tarka McKenna, 1990",
+            "matchedCanonical": "Tarka",
+            "currentName": "Tarka McKenna, 1990",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Anaptomorphidae|Tarka",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|798|3239601|4827142",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4941727",
+            "matchedName": "Tarka",
+            "matchedCanonical": "Tarka",
+            "currentName": "Tarka",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Primates|Anaptomorphidae|Tarka",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|913935|4941706|4941727",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Dario",
+      "name": "Dario",
+      "odds": 664.6583622702136,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rio": 1.2513589418372895
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 38652,
+      "end": 38657,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45989054",
+          "matchedName": "Dario",
+          "matchedCanonical": "Dario",
+          "currentName": "Dario",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Badidae|Dario",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841293|45842955|45847204|45989054",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45989054",
+            "matchedName": "Dario",
+            "matchedCanonical": "Dario",
+            "currentName": "Dario",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Badidae|Dario",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841293|45842955|45847204|45989054",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2389478",
+            "matchedName": "Dario Kullander \u0026 Britz, 2002",
+            "matchedCanonical": "Dario",
+            "currentName": "Dario Kullander \u0026 Britz, 2002",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Badidae|Dario",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|204|587|4250|2389478",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "196686",
+            "matchedName": "Dario",
+            "matchedCanonical": "Dario",
+            "currentName": "Dario",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Neoteleostei|Eurypterygia|Ctenosquamata|Acanthomorphata|Euacanthomorphacea|Percomorphaceae|Anabantaria|Anabantiformes|Nandoidei|Badidae|Dario",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|no rank|order|no rank|no rank|no rank|order|suborder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|108736|108735|108734|108720|108719|5551466|5553754|5554917|5846152|5558400|196686",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

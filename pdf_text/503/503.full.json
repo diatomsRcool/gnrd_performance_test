@@ -1,0 +1,776 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:05:45.059534327-05:00",
+    "language": "eng",
+    "total_words": 6275,
+    "total_candidates": 734,
+    "total_names": 9
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Chaoborus americanus",
+      "name": "Chaoborus americanus",
+      "odds": 6756026578211.681,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          }
+        }
+      },
+      "start": 13720,
+      "end": 13740,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5dbeb214237206446fda16aaf06120cb",
+          "matchedName": "Chaoborus americanus (Johannsen, 1903)",
+          "matchedCanonical": "Chaoborus americanus",
+          "currentName": "Chaoborus americanus (Johannsen, 1903)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Chaoboridae|Chaoborus|Chaoborus americanus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841455|45841467|45929800|5dbeb214237206446fda16aaf06120cb",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5dbeb214237206446fda16aaf06120cb",
+            "matchedName": "Chaoborus americanus (Johannsen, 1903)",
+            "matchedCanonical": "Chaoborus americanus",
+            "currentName": "Chaoborus americanus (Johannsen, 1903)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Chaoboridae|Chaoborus|Chaoborus americanus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841455|45841467|45929800|5dbeb214237206446fda16aaf06120cb",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1679411",
+            "matchedName": "Chaoborus americanus (Johannsen, 1903)",
+            "matchedCanonical": "Chaoborus americanus",
+            "currentName": "Chaoborus americanus (Johannsen, 1903)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Chaoboridae|Chaoborus|Chaoborus americanus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|811|3342|1679383|1679411",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "447520",
+            "matchedName": "Chaoborus americanus",
+            "matchedCanonical": "Chaoborus americanus",
+            "currentName": "Chaoborus americanus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Nematocera|Culicomorpha|Culicoidea|Chaoboridae|Chaoborinae|Chaoborus|Chaoborus americanus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|661378|661363|860946|722897|390635|311836|800080|447520",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Daphnia pulex",
+      "name": "Daphnia pulex",
+      "odds": 645312330.1028897,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "spEnd3": {
+            "lex": 40.043486138793256
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 13762,
+      "end": 13775,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1274b0b445ebb1c66cc1c92f024359f4",
+          "matchedName": "Daphnia (Daphnia) pulex Leydig 1860",
+          "matchedCanonical": "Daphnia pulex",
+          "currentName": "Daphnia (Daphnia) pulex Leydig 1860",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia|Daphnia pulex",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975|1274b0b445ebb1c66cc1c92f024359f4",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1274b0b445ebb1c66cc1c92f024359f4",
+            "matchedName": "Daphnia (Daphnia) pulex Leydig 1860",
+            "matchedCanonical": "Daphnia pulex",
+            "currentName": "Daphnia (Daphnia) pulex Leydig 1860",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia|Daphnia pulex",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975|1274b0b445ebb1c66cc1c92f024359f4",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8524683",
+            "matchedName": "Daphnia pulex De Geer",
+            "matchedCanonical": "Daphnia pulex",
+            "currentName": "Daphnia pulex De Geer",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia|Daphnia pulex",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|281|545|7513|2234785|8524683",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5521220",
+            "matchedName": "Daphnia pulex group sp. AEDNA674-12",
+            "matchedCanonical": "Daphnia pulex",
+            "currentName": "Daphnia pulex group sp. AEDNA674-12",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia|Daphnia pulex",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084|5521220",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Daphnia",
+      "name": "Daphnia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          }
+        }
+      },
+      "start": 14023,
+      "end": 14030,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856975",
+          "matchedName": "Daphnia",
+          "matchedCanonical": "Daphnia",
+          "currentName": "Daphnia",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856975",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234785",
+            "matchedName": "Daphnia O.F. Müller, 1785",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia O.F. Müller, 1785",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|281|545|7513|2234785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "59084",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chaoborus",
+      "name": "Chaoborus",
+      "odds": 266667.99904335785,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 14058,
+      "end": 14067,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45929800",
+          "matchedName": "Chaoborus",
+          "matchedCanonical": "Chaoborus",
+          "currentName": "Chaoborus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Chaoboridae|Chaoborus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841455|45841467|45929800",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45929800",
+            "matchedName": "Chaoborus",
+            "matchedCanonical": "Chaoborus",
+            "currentName": "Chaoborus",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Chaoboridae|Chaoborus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841455|45841467|45929800",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1679383",
+            "matchedName": "Chaoborus Lichtenstein, 1800",
+            "matchedCanonical": "Chaoborus",
+            "currentName": "Chaoborus Lichtenstein, 1800",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Chaoboridae|Chaoborus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|811|3342|1679383",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "800080",
+            "matchedName": "Chaoborus",
+            "matchedCanonical": "Chaoborus",
+            "currentName": "Chaoborus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Nematocera|Culicomorpha|Culicoidea|Chaoboridae|Chaoborinae|Chaoborus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|661378|661363|860946|722897|390635|311836|800080",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Daphnia",
+      "name": "Daphnia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 14098,
+      "end": 14105,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856975",
+          "matchedName": "Daphnia",
+          "matchedCanonical": "Daphnia",
+          "currentName": "Daphnia",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856975",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234785",
+            "matchedName": "Daphnia O.F. Müller, 1785",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia O.F. Müller, 1785",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|281|545|7513|2234785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "59084",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Daphnia",
+      "name": "Daphnia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 14202,
+      "end": 14209,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856975",
+          "matchedName": "Daphnia",
+          "matchedCanonical": "Daphnia",
+          "currentName": "Daphnia",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856975",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234785",
+            "matchedName": "Daphnia O.F. Müller, 1785",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia O.F. Müller, 1785",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|281|545|7513|2234785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "59084",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Daphnia",
+      "name": "Daphnia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          }
+        }
+      },
+      "start": 14404,
+      "end": 14411,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856975",
+          "matchedName": "Daphnia",
+          "matchedCanonical": "Daphnia",
+          "currentName": "Daphnia",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856975",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234785",
+            "matchedName": "Daphnia O.F. Müller, 1785",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia O.F. Müller, 1785",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|281|545|7513|2234785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "59084",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Daphnia",
+      "name": "Daphnia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 15494,
+      "end": 15501,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856975",
+          "matchedName": "Daphnia",
+          "matchedCanonical": "Daphnia",
+          "currentName": "Daphnia",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856975",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234785",
+            "matchedName": "Daphnia O.F. Müller, 1785",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia O.F. Müller, 1785",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|281|545|7513|2234785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "59084",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chaoborus",
+      "name": "Chaoborus",
+      "odds": 266667.99904335785,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 15573,
+      "end": 15582,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45929800",
+          "matchedName": "Chaoborus",
+          "matchedCanonical": "Chaoborus",
+          "currentName": "Chaoborus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Chaoboridae|Chaoborus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841455|45841467|45929800",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45929800",
+            "matchedName": "Chaoborus",
+            "matchedCanonical": "Chaoborus",
+            "currentName": "Chaoborus",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Chaoboridae|Chaoborus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841455|45841467|45929800",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1679383",
+            "matchedName": "Chaoborus Lichtenstein, 1800",
+            "matchedCanonical": "Chaoborus",
+            "currentName": "Chaoborus Lichtenstein, 1800",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Chaoboridae|Chaoborus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|811|3342|1679383",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "800080",
+            "matchedName": "Chaoborus",
+            "matchedCanonical": "Chaoborus",
+            "currentName": "Chaoborus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Nematocera|Culicomorpha|Culicoidea|Chaoboridae|Chaoborinae|Chaoborus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|661378|661363|860946|722897|390635|311836|800080",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

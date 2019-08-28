@@ -1,0 +1,593 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:06:01.663922933-05:00",
+    "language": "eng",
+    "total_words": 5143,
+    "total_candidates": 672,
+    "total_names": 13
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Escherichia coli,",
+      "name": "Escherichia coli",
+      "odds": 338087507.1687548,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          }
+        }
+      },
+      "start": 2447,
+      "end": 2464,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "matchedCanonical": "Escherichia coli",
+          "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6110934",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1395|4899|3221780|6110934",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5241575",
+            "matchedName": "Escherichia coli #1/H766",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli #1/H766",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichiashigella|Escherichia coli|Escherichia coli",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|no rank|species|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|768012|424023|5248878|474506|5241575",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Escherichia coli,",
+      "name": "Escherichia coli",
+      "odds": 338087507.1687548,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          }
+        }
+      },
+      "start": 3964,
+      "end": 3981,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "matchedCanonical": "Escherichia coli",
+          "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6110934",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1395|4899|3221780|6110934",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5241575",
+            "matchedName": "Escherichia coli #1/H766",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli #1/H766",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichiashigella|Escherichia coli|Escherichia coli",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|no rank|species|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|768012|424023|5248878|474506|5241575",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. coli",
+      "name": "E. coli",
+      "odds": 3099.8434298420043,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          }
+        }
+      },
+      "start": 4097,
+      "end": 4104,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. coli",
+      "name": "E. coli",
+      "odds": 3099.8434298420043,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          }
+        }
+      },
+      "start": 4633,
+      "end": 4640,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. coli",
+      "name": "E. coli",
+      "odds": 3099.8434298420043,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 4885,
+      "end": 4892,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. coli",
+      "name": "E. coli",
+      "odds": 3099.8434298420043,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          }
+        }
+      },
+      "start": 4971,
+      "end": 4978,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. coli",
+      "name": "E. coli",
+      "odds": 3099.8434298420043,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          }
+        }
+      },
+      "start": 9865,
+      "end": 9872,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "E. coli protein",
+      "name": "E. coli protein",
+      "odds": 4593.288342916961,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 12401,
+      "end": 12416,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. coli",
+      "name": "E. coli",
+      "odds": 3099.8434298420043,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          }
+        }
+      },
+      "start": 12695,
+      "end": 12702,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "LamB-dependent isolates,",
+      "name": "Lamb-dependent isolates",
+      "odds": 11.110218080984623,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ent": 0.012768968794258055
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 16391,
+      "end": 16415,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "LamB-dependent isolates",
+      "name": "Lamb-dependent isolates",
+      "odds": 11.110218080984623,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ent": 0.012768968794258055
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 20075,
+      "end": 20098,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. coli",
+      "name": "E. coli",
+      "odds": 3099.8434298420043,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          }
+        }
+      },
+      "start": 27688,
+      "end": 27695,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. coli",
+      "name": "E. coli",
+      "odds": 3099.8434298420043,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 28404,
+      "end": 28411,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

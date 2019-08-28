@@ -1,0 +1,1561 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:57:37.538667745-05:00",
+    "language": "eng",
+    "total_words": 7354,
+    "total_candidates": 925,
+    "total_names": 33
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Rhizoglyphus echinopus,",
+      "name": "Rhizoglyphus echinopus",
+      "odds": 626646916138.9751,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 3659,
+      "end": 3682,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "84d612df0c96c090dcc2caddddbdf02d",
+          "matchedName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+          "matchedCanonical": "Rhizoglyphus echinopus",
+          "currentName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Rhizoglyphus|Rhizoglyphus echinopus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841316|45846543|45846544|45974853|84d612df0c96c090dcc2caddddbdf02d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "84d612df0c96c090dcc2caddddbdf02d",
+            "matchedName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+            "matchedCanonical": "Rhizoglyphus echinopus",
+            "currentName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Rhizoglyphus|Rhizoglyphus echinopus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841316|45846543|45846544|45974853|84d612df0c96c090dcc2caddddbdf02d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2181950",
+            "matchedName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+            "matchedCanonical": "Rhizoglyphus echinopus",
+            "currentName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Rhizoglyphus|Rhizoglyphus echinopus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|367|374|6102|2181947|2181950",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "976181",
+            "matchedName": "Rhizoglyphus echinopus",
+            "matchedCanonical": "Rhizoglyphus echinopus",
+            "currentName": "Rhizoglyphus echinopus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Acariformes|Sarcoptiformes|Astigmata|Acaroidea|Acaridae|Rhizoglyphinae|Rhizoglyphus|Rhizoglyphus echinopus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|621064|87288|587951|35508|986382|873875|522074|976181",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus.",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          }
+        }
+      },
+      "start": 3997,
+      "end": 4010,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rhizoglyphus echinopus",
+      "name": "Rhizoglyphus echinopus",
+      "odds": 626646916138.9751,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 9836,
+      "end": 9858,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "84d612df0c96c090dcc2caddddbdf02d",
+          "matchedName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+          "matchedCanonical": "Rhizoglyphus echinopus",
+          "currentName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Rhizoglyphus|Rhizoglyphus echinopus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841316|45846543|45846544|45974853|84d612df0c96c090dcc2caddddbdf02d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "84d612df0c96c090dcc2caddddbdf02d",
+            "matchedName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+            "matchedCanonical": "Rhizoglyphus echinopus",
+            "currentName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Rhizoglyphus|Rhizoglyphus echinopus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841316|45846543|45846544|45974853|84d612df0c96c090dcc2caddddbdf02d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2181950",
+            "matchedName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+            "matchedCanonical": "Rhizoglyphus echinopus",
+            "currentName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Rhizoglyphus|Rhizoglyphus echinopus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|367|374|6102|2181947|2181950",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "976181",
+            "matchedName": "Rhizoglyphus echinopus",
+            "matchedCanonical": "Rhizoglyphus echinopus",
+            "currentName": "Rhizoglyphus echinopus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Acariformes|Sarcoptiformes|Astigmata|Acaroidea|Acaridae|Rhizoglyphinae|Rhizoglyphus|Rhizoglyphus echinopus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|621064|87288|587951|35508|986382|873875|522074|976181",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus:",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 9907,
+      "end": 9920,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          }
+        }
+      },
+      "start": 10260,
+      "end": 10272,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus,",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 11609,
+      "end": 11622,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. robini,",
+      "name": "R. robini",
+      "odds": 330219.43204011355,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ini": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 11873,
+      "end": 11883,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus,",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          }
+        }
+      },
+      "start": 11906,
+      "end": 11919,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          }
+        }
+      },
+      "start": 12222,
+      "end": 12234,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus.",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          }
+        }
+      },
+      "start": 12761,
+      "end": 12774,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. robini,",
+      "name": "R. robini",
+      "odds": 330219.43204011355,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ini": 55.05979344084073
+          }
+        }
+      },
+      "start": 13678,
+      "end": 13688,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          }
+        }
+      },
+      "start": 13993,
+      "end": 14005,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Wolbachia",
+      "name": "Wolbachia",
+      "odds": 25944.30039953851,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 14980,
+      "end": 14989,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46044992",
+          "matchedName": "Wolbachia",
+          "matchedCanonical": "Wolbachia",
+          "currentName": "Wolbachia",
+          "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Anaplasmataceae|Wolbachia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45841360|45849475|45849476|46044992",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46044992",
+            "matchedName": "Wolbachia",
+            "matchedCanonical": "Wolbachia",
+            "currentName": "Wolbachia",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Anaplasmataceae|Wolbachia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45841360|45849475|45849476|46044992",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3221437",
+            "matchedName": "Wolbachia Hertig, 1936",
+            "matchedCanonical": "Wolbachia",
+            "currentName": "Wolbachia Hertig, 1936",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Anaplasmataceae|Wolbachia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|197|646|7819|3221437",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "379969",
+            "matchedName": "Wolbachia",
+            "matchedCanonical": "Wolbachia",
+            "currentName": "Wolbachia",
+            "classificationPath": "||Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Anaplasmataceae|Wolbachia",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683449|571642|904940|379969",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          }
+        }
+      },
+      "start": 18676,
+      "end": 18688,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus.",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 26055,
+      "end": 26068,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rhizoglyphus echinopus.",
+      "name": "Rhizoglyphus echinopus",
+      "odds": 626646916138.9751,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 28073,
+      "end": 28096,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "84d612df0c96c090dcc2caddddbdf02d",
+          "matchedName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+          "matchedCanonical": "Rhizoglyphus echinopus",
+          "currentName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Rhizoglyphus|Rhizoglyphus echinopus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841316|45846543|45846544|45974853|84d612df0c96c090dcc2caddddbdf02d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "84d612df0c96c090dcc2caddddbdf02d",
+            "matchedName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+            "matchedCanonical": "Rhizoglyphus echinopus",
+            "currentName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Rhizoglyphus|Rhizoglyphus echinopus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841316|45846543|45846544|45974853|84d612df0c96c090dcc2caddddbdf02d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2181950",
+            "matchedName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+            "matchedCanonical": "Rhizoglyphus echinopus",
+            "currentName": "Rhizoglyphus echinopus (Fumouze \u0026 Robin, 1868)",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Rhizoglyphus|Rhizoglyphus echinopus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|367|374|6102|2181947|2181950",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "976181",
+            "matchedName": "Rhizoglyphus echinopus",
+            "matchedCanonical": "Rhizoglyphus echinopus",
+            "currentName": "Rhizoglyphus echinopus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Acariformes|Sarcoptiformes|Astigmata|Acaroidea|Acaridae|Rhizoglyphinae|Rhizoglyphus|Rhizoglyphus echinopus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|621064|87288|587951|35508|986382|873875|522074|976181",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 29494,
+      "end": 29506,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 31690,
+      "end": 31702,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          }
+        }
+      },
+      "start": 32009,
+      "end": 32021,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          }
+        }
+      },
+      "start": 33618,
+      "end": 33630,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus.",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 34313,
+      "end": 34326,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus,",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          }
+        }
+      },
+      "start": 39279,
+      "end": 39292,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Daphnia pulex",
+      "name": "Daphnia pulex",
+      "odds": 645312330.1028897,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lex": 40.043486138793256
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          }
+        }
+      },
+      "start": 40154,
+      "end": 40167,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1274b0b445ebb1c66cc1c92f024359f4",
+          "matchedName": "Daphnia (Daphnia) pulex Leydig 1860",
+          "matchedCanonical": "Daphnia pulex",
+          "currentName": "Daphnia (Daphnia) pulex Leydig 1860",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia|Daphnia pulex",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975|1274b0b445ebb1c66cc1c92f024359f4",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1274b0b445ebb1c66cc1c92f024359f4",
+            "matchedName": "Daphnia (Daphnia) pulex Leydig 1860",
+            "matchedCanonical": "Daphnia pulex",
+            "currentName": "Daphnia (Daphnia) pulex Leydig 1860",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia|Daphnia pulex",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975|1274b0b445ebb1c66cc1c92f024359f4",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8524683",
+            "matchedName": "Daphnia pulex De Geer",
+            "matchedCanonical": "Daphnia pulex",
+            "currentName": "Daphnia pulex De Geer",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia|Daphnia pulex",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|281|545|7513|2234785|8524683",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5521220",
+            "matchedName": "Daphnia pulex group sp. AEDNA674-12",
+            "matchedCanonical": "Daphnia pulex",
+            "currentName": "Daphnia pulex group sp. AEDNA674-12",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia|Daphnia pulex",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084|5521220",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. pulex",
+      "name": "D. pulex",
+      "odds": 72568.39184492611,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lex": 40.043486138793256
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 40312,
+      "end": 40320,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 43021,
+      "end": 43033,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. robini",
+      "name": "R. robini",
+      "odds": 330219.43204011355,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ini": 55.05979344084073
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 43498,
+      "end": 43507,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Sancassania berlesei,",
+      "name": "Sancassania berlesei",
+      "odds": 4100093392.770589,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "spEnd3": {
+            "sei": 5.005435767349157
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 43697,
+      "end": 43718,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "10297185",
+          "matchedName": "Sancassania berlesei (Michael, 1903)",
+          "matchedCanonical": "Sancassania berlesei",
+          "currentName": "Sancassania berlesei (Michael, 1903)",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Sancassania|Sancassania berlesei",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "11|235|1136|10929|104372|1009333|10297185",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. robini",
+      "name": "R. robini",
+      "odds": 330219.43204011355,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ini": 55.05979344084073
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 44275,
+      "end": 44284,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. berlesei",
+      "name": "S. berlesei",
+      "odds": 90619.94394518963,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sei": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 44300,
+      "end": 44311,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "R. echinopus",
+      "name": "R. echinopus",
+      "odds": 1318075.3846998857,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          }
+        }
+      },
+      "start": 44316,
+      "end": 44328,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rhizoglyphus means",
+      "name": "Rhizoglyphus means",
+      "odds": 1414791.4404741614,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "ans": 6.781558136408536
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 44626,
+      "end": 44644,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45974853",
+          "matchedName": "Rhizoglyphus",
+          "matchedCanonical": "Rhizoglyphus",
+          "currentName": "Rhizoglyphus",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Rhizoglyphus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45846543|45846544|45974853",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45974853",
+            "matchedName": "Rhizoglyphus",
+            "matchedCanonical": "Rhizoglyphus",
+            "currentName": "Rhizoglyphus",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Rhizoglyphus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45846543|45846544|45974853",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2181947",
+            "matchedName": "Rhizoglyphus Claparède",
+            "matchedCanonical": "Rhizoglyphus",
+            "currentName": "Rhizoglyphus Claparède",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Rhizoglyphus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|374|6102|2181947",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "522074",
+            "matchedName": "Rhizoglyphus",
+            "matchedCanonical": "Rhizoglyphus",
+            "currentName": "Rhizoglyphus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Acariformes|Sarcoptiformes|Astigmata|Acaroidea|Acaridae|Rhizoglyphinae|Rhizoglyphus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|order|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|621064|87288|587951|35508|986382|873875|522074",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Marisa",
+      "name": "Marisa",
+      "odds": 9254.407911537426,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "isa": 12.513589418372893
+          }
+        }
+      },
+      "start": 45025,
+      "end": 45031,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46075014",
+          "matchedName": "Marisa",
+          "matchedCanonical": "Marisa",
+          "currentName": "Marisa",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Architaenioglossa|Ampullarioidea|Ampullariidae|Marisa",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841999|45842000|45842281|45845699|45845700|46075014",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46075014",
+            "matchedName": "Marisa",
+            "matchedCanonical": "Marisa",
+            "currentName": "Marisa",
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Architaenioglossa|Ampullarioidea|Ampullariidae|Marisa",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841999|45842000|45842281|45845699|45845700|46075014",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2292585",
+            "matchedName": "Marisa Gray, 1824",
+            "matchedCanonical": "Marisa",
+            "currentName": "Marisa Gray, 1824",
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Ampullariidae|Marisa",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "1|52|225|6801|2292585",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "370525",
+            "matchedName": "Marisa",
+            "matchedCanonical": "Marisa",
+            "currentName": "Marisa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Mollusca|Gastropoda|Caenogastropoda|Architaenioglossa|Ampullarioidea|Ampullariidae|Marisa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|subclass|order|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|802117|409995|272321|895733|560991|821758|370525",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Sancassania berlesei.",
+      "name": "Sancassania berlesei",
+      "odds": 4100093392.770589,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sei": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 46311,
+      "end": 46332,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "10297185",
+          "matchedName": "Sancassania berlesei (Michael, 1903)",
+          "matchedCanonical": "Sancassania berlesei",
+          "currentName": "Sancassania berlesei (Michael, 1903)",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Astigmata|Acaridae|Sancassania|Sancassania berlesei",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "11|235|1136|10929|104372|1009333|10297185",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

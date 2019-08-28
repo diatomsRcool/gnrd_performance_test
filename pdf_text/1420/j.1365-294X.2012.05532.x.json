@@ -1,0 +1,2610 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:59:46.527851383-05:00",
+    "language": "eng",
+    "total_words": 8571,
+    "total_candidates": 1331,
+    "total_names": 40
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "INIA,",
+      "name": "Inia",
+      "odds": 337.78881822433107,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          }
+        }
+      },
+      "start": 370,
+      "end": 375,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46005372",
+          "matchedName": "Inia",
+          "matchedCanonical": "Inia",
+          "currentName": "Inia",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Iniidae|Inia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849133|46005372",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46005372",
+            "matchedName": "Inia",
+            "matchedCanonical": "Inia",
+            "currentName": "Inia",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Iniidae|Inia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849133|46005372",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440313",
+            "matchedName": "Inia d'Orbigny, 1834",
+            "matchedCanonical": "Inia",
+            "currentName": "Inia d'Orbigny, 1834",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Iniidae|Inia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|733|9683|2440313",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "698410",
+            "matchedName": "Inia",
+            "matchedCanonical": "Inia",
+            "currentName": "Inia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Iniidae|Inia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|935329|698410",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Taxus",
+      "name": "Taxus",
+      "odds": 6646.5836227021355,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 854,
+      "end": 859,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45878662",
+          "matchedName": "Taxus",
+          "matchedCanonical": "Taxus",
+          "currentName": "Taxus",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45878662",
+            "matchedName": "Taxus",
+            "matchedCanonical": "Taxus",
+            "currentName": "Taxus",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3240108",
+            "matchedName": "Taxus Geoffroy \u0026 Cuvier, 1795",
+            "matchedCanonical": "Taxus",
+            "currentName": "Meles Brisson, 1762",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mustelidae|Meles",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|732|5307|2433867",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "684213",
+            "matchedName": "Taxus",
+            "matchedCanonical": "Taxus",
+            "currentName": "Taxus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Taxus baccata",
+      "name": "Taxus baccata",
+      "odds": 257312542508.8547,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          }
+        }
+      },
+      "start": 1052,
+      "end": 1065,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+          "matchedName": "Taxus baccata L.",
+          "matchedCanonical": "Taxus baccata",
+          "currentName": "Taxus baccata L.",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+            "matchedName": "Taxus baccata L.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata L.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8343790",
+            "matchedName": "Taxus baccata Hook.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata Hook.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|4863|2684902|8343790",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "684215",
+            "matchedName": "Taxus baccata",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213|684215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Taxus baccata",
+      "name": "Taxus baccata",
+      "odds": 257312542508.8547,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 2270,
+      "end": 2283,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+          "matchedName": "Taxus baccata L.",
+          "matchedCanonical": "Taxus baccata",
+          "currentName": "Taxus baccata L.",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+            "matchedName": "Taxus baccata L.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata L.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8343790",
+            "matchedName": "Taxus baccata Hook.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata Hook.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|4863|2684902|8343790",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "684215",
+            "matchedName": "Taxus baccata",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213|684215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Taxus",
+      "name": "Taxus",
+      "odds": 6646.5836227021355,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          }
+        }
+      },
+      "start": 3686,
+      "end": 3691,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45878662",
+          "matchedName": "Taxus",
+          "matchedCanonical": "Taxus",
+          "currentName": "Taxus",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45878662",
+            "matchedName": "Taxus",
+            "matchedCanonical": "Taxus",
+            "currentName": "Taxus",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3240108",
+            "matchedName": "Taxus Geoffroy \u0026 Cuvier, 1795",
+            "matchedCanonical": "Taxus",
+            "currentName": "Meles Brisson, 1762",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mustelidae|Meles",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|732|5307|2433867",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "684213",
+            "matchedName": "Taxus",
+            "matchedCanonical": "Taxus",
+            "currentName": "Taxus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Taxus baccata",
+      "name": "Taxus baccata",
+      "odds": 257312542508.8547,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 4050,
+      "end": 4063,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+          "matchedName": "Taxus baccata L.",
+          "matchedCanonical": "Taxus baccata",
+          "currentName": "Taxus baccata L.",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+            "matchedName": "Taxus baccata L.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata L.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8343790",
+            "matchedName": "Taxus baccata Hook.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata Hook.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|4863|2684902|8343790",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "684215",
+            "matchedName": "Taxus baccata",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213|684215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(T. baccata",
+      "name": "T. baccata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 5163,
+      "end": 5174,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. baccata",
+      "name": "T. baccata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 8763,
+      "end": 8773,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Taxus baccata",
+      "name": "Taxus baccata",
+      "odds": 257312542508.8547,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 9852,
+      "end": 9865,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+          "matchedName": "Taxus baccata L.",
+          "matchedCanonical": "Taxus baccata",
+          "currentName": "Taxus baccata L.",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+            "matchedName": "Taxus baccata L.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata L.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8343790",
+            "matchedName": "Taxus baccata Hook.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata Hook.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|4863|2684902|8343790",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "684215",
+            "matchedName": "Taxus baccata",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213|684215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Taxus cuspidata)",
+      "name": "Taxus cuspidata",
+      "odds": 586184883598.6027,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 11262,
+      "end": 11279,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e22d58af3e7399864c449fe9002695d6",
+          "matchedName": "Taxus cuspidata Siebold \u0026 Zucc.",
+          "matchedCanonical": "Taxus cuspidata",
+          "currentName": "Taxus cuspidata Siebold \u0026 Zucc.",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus cuspidata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|e22d58af3e7399864c449fe9002695d6",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e22d58af3e7399864c449fe9002695d6",
+            "matchedName": "Taxus cuspidata Siebold \u0026 Zucc.",
+            "matchedCanonical": "Taxus cuspidata",
+            "currentName": "Taxus cuspidata Siebold \u0026 Zucc.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus cuspidata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|e22d58af3e7399864c449fe9002695d6",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5284524",
+            "matchedName": "Taxus cuspidata Siebold \u0026 Zucc.",
+            "matchedCanonical": "Taxus cuspidata",
+            "currentName": "Taxus cuspidata Siebold \u0026 Zucc.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus cuspidata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|4863|2684902|5284524",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "883830",
+            "matchedName": "Taxus cuspidata",
+            "matchedCanonical": "Taxus cuspidata",
+            "currentName": "Taxus cuspidata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus|Taxus cuspidata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213|883830",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. baccata",
+      "name": "T. baccata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 11576,
+      "end": 11586,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Taxus",
+      "name": "Taxus",
+      "odds": 6646.5836227021355,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 11656,
+      "end": 11661,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45878662",
+          "matchedName": "Taxus",
+          "matchedCanonical": "Taxus",
+          "currentName": "Taxus",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45878662",
+            "matchedName": "Taxus",
+            "matchedCanonical": "Taxus",
+            "currentName": "Taxus",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3240108",
+            "matchedName": "Taxus Geoffroy \u0026 Cuvier, 1795",
+            "matchedCanonical": "Taxus",
+            "currentName": "Meles Brisson, 1762",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mustelidae|Meles",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|732|5307|2433867",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "684213",
+            "matchedName": "Taxus",
+            "matchedCanonical": "Taxus",
+            "currentName": "Taxus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. baccata",
+      "name": "T. baccata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 12767,
+      "end": 12777,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Taxus baccata",
+      "name": "Taxus baccata",
+      "odds": 257312542508.8547,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 15019,
+      "end": 15032,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+          "matchedName": "Taxus baccata L.",
+          "matchedCanonical": "Taxus baccata",
+          "currentName": "Taxus baccata L.",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+            "matchedName": "Taxus baccata L.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata L.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8343790",
+            "matchedName": "Taxus baccata Hook.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata Hook.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|4863|2684902|8343790",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "684215",
+            "matchedName": "Taxus baccata",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213|684215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Taxus baccata",
+      "name": "Taxus baccata",
+      "odds": 257312542508.8547,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 15166,
+      "end": 15179,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+          "matchedName": "Taxus baccata L.",
+          "matchedCanonical": "Taxus baccata",
+          "currentName": "Taxus baccata L.",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+            "matchedName": "Taxus baccata L.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata L.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8343790",
+            "matchedName": "Taxus baccata Hook.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata Hook.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|4863|2684902|8343790",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "684215",
+            "matchedName": "Taxus baccata",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213|684215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(T. baccata)",
+      "name": "T. baccata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 16015,
+      "end": 16027,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(T. cuspidata)",
+      "name": "T. cuspidata",
+      "odds": 40926240.69493145,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 16037,
+      "end": 16051,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(T. wallichiana)",
+      "name": "T. wallichiana",
+      "odds": 16847074.996111695,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          }
+        }
+      },
+      "start": 16061,
+      "end": 16077,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(T. cuspidata)",
+      "name": "T. cuspidata",
+      "odds": 40926240.69493145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 16087,
+      "end": 16101,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(T. cuspidata)",
+      "name": "T. cuspidata",
+      "odds": 40926240.69493145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 16132,
+      "end": 16146,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(T. baccata)",
+      "name": "T. baccata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 16178,
+      "end": 16190,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Egea",
+      "name": "Egea",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "gea": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 18033,
+      "end": 18038,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46119987",
+          "matchedName": "Egea",
+          "matchedCanonical": "Egea",
+          "currentName": "Egea",
+          "classificationPath": "Animalia|Mollusca|Cephalopoda|Oegopsida|Cranchiidae|Egea",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841999|45845366|45845367|45856196|46119987",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46119987",
+            "matchedName": "Egea",
+            "matchedCanonical": "Egea",
+            "currentName": "Egea",
+            "classificationPath": "Animalia|Mollusca|Cephalopoda|Oegopsida|Cranchiidae|Egea",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841999|45845366|45845367|45856196|46119987",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3258141",
+            "matchedName": "Egea Duponchel, 1845",
+            "matchedCanonical": "Egea",
+            "currentName": "Egea Duponchel, 1845",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Egea",
+            "classificationRank": "kingdom|phylum|class|order|genus",
+            "classificationIDs": "1|54|216|797|3258141",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2868597",
+            "matchedName": "Egea",
+            "matchedCanonical": "Egea",
+            "currentName": "Egea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Mollusca|Cephalopoda|Coleoidea|Neocoleoidea|Decapodiformes|Teuthida|Oegopsina|Cranchiidae|Egea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|subclass|infraclass|superorder|order|suborder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|802117|7368|7371|329546|854107|380472|43352|94948|2868597",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. baccata.",
+      "name": "T. baccata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 27758,
+      "end": 27769,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Taxus baccata;",
+      "name": "Taxus baccata",
+      "odds": 257312542508.8547,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 31556,
+      "end": 31570,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+          "matchedName": "Taxus baccata L.",
+          "matchedCanonical": "Taxus baccata",
+          "currentName": "Taxus baccata L.",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+            "matchedName": "Taxus baccata L.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata L.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8343790",
+            "matchedName": "Taxus baccata Hook.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata Hook.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|4863|2684902|8343790",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "684215",
+            "matchedName": "Taxus baccata",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213|684215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Capsella,",
+      "name": "Capsella",
+      "odds": 1065142.9136175492,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 33497,
+      "end": 33506,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975971",
+          "matchedName": "Capsella",
+          "matchedCanonical": "Capsella",
+          "currentName": "Capsella",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Capsella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975971",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975971",
+            "matchedName": "Capsella",
+            "matchedCanonical": "Capsella",
+            "currentName": "Capsella",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Capsella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975971",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7234768",
+            "matchedName": "Capsella Deshayes, 1855",
+            "matchedCanonical": "Capsella",
+            "currentName": "Capsella Deshayes, 1855",
+            "classificationPath": "Animalia|Mollusca|Capsella",
+            "classificationRank": "kingdom|phylum|genus",
+            "classificationIDs": "1|52|7234768",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "347163",
+            "matchedName": "Capsella",
+            "matchedCanonical": "Capsella",
+            "currentName": "Capsella",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Mollusca|Bivalvia|Heteroconchia|Euheterodonta|Veneroida|Tellinoidea|Donacidae|Capsella",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|subclass|infraclass|order|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|802117|1025545|80126|1034370|721798|491996|779631|347163",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Taxus baccata",
+      "name": "Taxus baccata",
+      "odds": 257312542508.8547,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          }
+        }
+      },
+      "start": 36904,
+      "end": 36917,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+          "matchedName": "Taxus baccata L.",
+          "matchedCanonical": "Taxus baccata",
+          "currentName": "Taxus baccata L.",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2e017482d9c5a15b40df5331cb0735e2",
+            "matchedName": "Taxus baccata L.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata L.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662|2e017482d9c5a15b40df5331cb0735e2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8343790",
+            "matchedName": "Taxus baccata Hook.",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata Hook.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|4863|2684902|8343790",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "684215",
+            "matchedName": "Taxus baccata",
+            "matchedCanonical": "Taxus baccata",
+            "currentName": "Taxus baccata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus|Taxus baccata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213|684215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Taxus",
+      "name": "Taxus",
+      "odds": 6646.5836227021355,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          }
+        }
+      },
+      "start": 39730,
+      "end": 39735,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45878662",
+          "matchedName": "Taxus",
+          "matchedCanonical": "Taxus",
+          "currentName": "Taxus",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45878662",
+            "matchedName": "Taxus",
+            "matchedCanonical": "Taxus",
+            "currentName": "Taxus",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3240108",
+            "matchedName": "Taxus Geoffroy \u0026 Cuvier, 1795",
+            "matchedCanonical": "Taxus",
+            "currentName": "Meles Brisson, 1762",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mustelidae|Meles",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|732|5307|2433867",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "684213",
+            "matchedName": "Taxus",
+            "matchedCanonical": "Taxus",
+            "currentName": "Taxus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(T. baccata",
+      "name": "T. baccata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 39831,
+      "end": 39842,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pinus",
+      "name": "Pinus",
+      "odds": 79759.00347242563,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 44217,
+      "end": 44222,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45869825",
+          "matchedName": "Pinus",
+          "matchedCanonical": "Pinus",
+          "currentName": "Pinus",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45869825",
+            "matchedName": "Pinus",
+            "matchedCanonical": "Pinus",
+            "currentName": "Pinus",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2684241",
+            "matchedName": "Pinus L.",
+            "matchedCanonical": "Pinus",
+            "currentName": "Pinus L.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|194|640|3925|2684241",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771683",
+            "matchedName": "Pinus",
+            "matchedCanonical": "Pinus",
+            "currentName": "Pinus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pinus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|771683",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Arabidopsis",
+      "name": "Arabidopsis",
+      "odds": 168760.66793547937,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          }
+        }
+      },
+      "start": 44730,
+      "end": 44741,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975866",
+          "matchedName": "Arabidopsis",
+          "matchedCanonical": "Arabidopsis",
+          "currentName": "Arabidopsis",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975866",
+            "matchedName": "Arabidopsis",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052435",
+            "matchedName": "Arabidopsis (DC.) Heynh. Heynh. (DC.)",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis (DC.) Heynh. Heynh. (DC.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309275",
+            "matchedName": "Arabidopsis",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. baccata",
+      "name": "T. baccata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 47215,
+      "end": 47225,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. cuspidata",
+      "name": "T. cuspidata",
+      "odds": 40926240.69493145,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 47230,
+      "end": 47242,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. baccata",
+      "name": "T. baccata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 48035,
+      "end": 48045,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Taxus",
+      "name": "Taxus",
+      "odds": 6646.5836227021355,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "xus": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 49354,
+      "end": 49359,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45878662",
+          "matchedName": "Taxus",
+          "matchedCanonical": "Taxus",
+          "currentName": "Taxus",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45878662",
+            "matchedName": "Taxus",
+            "matchedCanonical": "Taxus",
+            "currentName": "Taxus",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Taxaceae|Taxus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45842557|45878662",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3240108",
+            "matchedName": "Taxus Geoffroy \u0026 Cuvier, 1795",
+            "matchedCanonical": "Taxus",
+            "currentName": "Meles Brisson, 1762",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Mustelidae|Meles",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|732|5307|2433867",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "684213",
+            "matchedName": "Taxus",
+            "matchedCanonical": "Taxus",
+            "currentName": "Taxus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Taxaceae|Taxus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|807158|684213",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pinus taeda.",
+      "name": "Pinus taeda",
+      "odds": 311479612.75029284,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 50356,
+      "end": 50368,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0f4b6d220f0e55add2027992729e47a8",
+          "matchedName": "Pinus taeda Blanco",
+          "matchedCanonical": "Pinus taeda",
+          "currentName": "Pinus kesiya var. langbianensis (A. Chev.) Gaussen ex N.-S. Bui",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus||Pinus kesiya langbianensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0f4b6d220f0e55add2027992729e47a8",
+            "matchedName": "Pinus taeda Blanco",
+            "matchedCanonical": "Pinus taeda",
+            "currentName": "Pinus kesiya var. langbianensis (A. Chev.) Gaussen ex N.-S. Bui",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus||Pinus kesiya langbianensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7428605",
+            "matchedName": "Pinus taeda Blanco",
+            "matchedCanonical": "Pinus taeda",
+            "currentName": "Pinus kesiya var. langbianensis (A. Chev.) Gaussen ex N.-S. Bui Gaussen ex N.-S. Bui (A. Chev.)",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus kesiya|Pinus kesiya langbianensis ex",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|variety",
+            "classificationIDs": "6|7707728|194|640|3925|2684241|5285824|5285825",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1075736",
+            "matchedName": "Pinus taeda",
+            "matchedCanonical": "Pinus taeda",
+            "currentName": "Pinus taeda",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pinus|Pinus subgenus|Pinus taeda",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|771683|531304|1075736",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Populus tremula.",
+      "name": "Populus tremula",
+      "odds": 1519120376761.2175,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          }
+        }
+      },
+      "start": 50550,
+      "end": 50566,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "111b32d94f328e8ba5e4fed690a63e9e",
+          "matchedName": "Populus tremula L.",
+          "matchedCanonical": "Populus tremula",
+          "currentName": "Populus tremula L.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Salicaceae|Populus|Populus tremula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45842582|45848942|46034336|111b32d94f328e8ba5e4fed690a63e9e",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "111b32d94f328e8ba5e4fed690a63e9e",
+            "matchedName": "Populus tremula L.",
+            "matchedCanonical": "Populus tremula",
+            "currentName": "Populus tremula L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Salicaceae|Populus|Populus tremula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45842582|45848942|46034336|111b32d94f328e8ba5e4fed690a63e9e",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3040249",
+            "matchedName": "Populus tremula L.",
+            "matchedCanonical": "Populus tremula",
+            "currentName": "Populus tremula L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Salicaceae|Populus|Populus tremula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|1414|6664|3040183|3040249",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "839584",
+            "matchedName": "Populus tremula",
+            "matchedCanonical": "Populus tremula",
+            "currentName": "Populus tremula",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Malpighiales|Salicaceae|Saliceae|Populus|Populus tremula",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|429482|530183|509390|530178|839584",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Eucalyptus globulus",
+      "name": "Eucalyptus globulus",
+      "odds": 305114262.27562946,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 53507,
+      "end": 53526,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0f4a6b94be0265628b5f93d353194487",
+          "matchedName": "Eucalyptus globulus",
+          "matchedCanonical": "Eucalyptus globulus",
+          "currentName": "Eucalyptus globulus",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Myrtaceae|Eucalyptus|Eucalyptus globulus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45848880|45848885|46029866|0f4a6b94be0265628b5f93d353194487",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0f4a6b94be0265628b5f93d353194487",
+            "matchedName": "Eucalyptus globulus",
+            "matchedCanonical": "Eucalyptus globulus",
+            "currentName": "Eucalyptus globulus",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Myrtaceae|Eucalyptus|Eucalyptus globulus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45848880|45848885|46029866|0f4a6b94be0265628b5f93d353194487",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3176787",
+            "matchedName": "Eucalyptus globulus Labill.",
+            "matchedCanonical": "Eucalyptus globulus",
+            "currentName": "Eucalyptus globulus Labill.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Myrtaceae|Eucalyptus|Eucalyptus globulus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|690|5014|3176176|3176787",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "847929",
+            "matchedName": "Eucalyptus globulus",
+            "matchedCanonical": "Eucalyptus globulus",
+            "currentName": "Eucalyptus globulus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Myrtales|Myrtaceae|Myrtoideae|Eucalypteae|Eucalyptus|Eucalyptus globulus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|no rank|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|648898|1015492|5740779|5747117|1015498|847929",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. cuspidata",
+      "name": "T. cuspidata",
+      "odds": 40926240.69493145,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 55729,
+      "end": 55741,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Nuria",
+      "name": "Nuria",
+      "odds": 9748.322646629798,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 55887,
+      "end": 55892,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "297255",
+          "matchedName": "Nuria Valenciennes in Cuvier \u0026 Valenciennes, 1842",
+          "matchedCanonical": "Nuria",
+          "currentName": "Esomus Swainson, 1839",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Gnathostomata|Pisces|Actinopterygii|Cypriniformes|Cyprinidae|Danioninae|Esomus",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|superclass|class|order|family|subfamily|genus",
+          "classificationIDs": "1|2|1821|146419|1828|11676|10194|154156|154163|267074|269113",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8616842",
+            "matchedName": "Nuria",
+            "matchedCanonical": "Nuria",
+            "currentName": "Zygospira Hall, 1862",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Brachiopoda|Rhynchonellata|Atrypidae|Zygospira",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "1|110|210|3252448|4864932",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Serra",
+      "name": "Serra",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rra": 0.4416560971190433
+          }
+        }
+      },
+      "start": 56127,
+      "end": 56132,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145368950",
+          "matchedName": "Serra Cav.",
+          "matchedCanonical": "Serra",
+          "currentName": "Serra Cav.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3233942",
+            "matchedName": "Serra Cavanilles, 1786",
+            "matchedCanonical": "Serra",
+            "currentName": "Hibiscus L.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Malvales|Malvaceae|Hibiscus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|941|6685|3152542",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

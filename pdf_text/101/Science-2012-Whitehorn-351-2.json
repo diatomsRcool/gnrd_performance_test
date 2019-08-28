@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:57:09.194149787-05:00",
+    "language": "eng",
+    "total_words": 1894,
+    "total_candidates": 224,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Felix",
+      "name": "Felix",
+      "odds": 9305.21707178299,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lix": 17.51902518572205
+          }
+        }
+      },
+      "start": 1759,
+      "end": 1764,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1331757",
+          "matchedName": "Felix Voigt, 1818",
+          "matchedCanonical": "Felix",
+          "currentName": "Felis Linnaeus, 1758",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Mammalia|Carnivora|Felidae|Felis",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|148|11905117|1310|12116|104889|1012185",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4833927",
+            "matchedName": "Felix Voigt, 1818",
+            "matchedCanonical": "Felix",
+            "currentName": "Felis Linnaeus, 1758",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|732|9703|2435022",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bombus terrestris",
+      "name": "Bombus terrestris",
+      "odds": 142991512695.25394,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "bus": 7.802591049103098
+          }
+        }
+      },
+      "start": 2104,
+      "end": 2121,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "953110adc1a0df6865cfa737c8a95cf3",
+          "matchedName": "Bombus terrestris (Linnaeus, 1758)",
+          "matchedCanonical": "Bombus terrestris",
+          "currentName": "Bombus terrestris (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Bombus|Bombus terrestris",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45843860|45843902|45918097|953110adc1a0df6865cfa737c8a95cf3",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "953110adc1a0df6865cfa737c8a95cf3",
+            "matchedName": "Bombus terrestris (Linnaeus, 1758)",
+            "matchedCanonical": "Bombus terrestris",
+            "currentName": "Bombus terrestris (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Bombus|Bombus terrestris",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45843860|45843902|45918097|953110adc1a0df6865cfa737c8a95cf3",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1340503",
+            "matchedName": "Bombus terrestris (Linnaeus, 1758)",
+            "matchedCanonical": "Bombus terrestris",
+            "currentName": "Bombus terrestris (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Bombus|Bombus terrestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1457|4334|1340278|1340503",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5901391",
+            "matchedName": "Bombus terrestris",
+            "matchedCanonical": "Bombus terrestris",
+            "currentName": "Bombus terrestris",
+            "classificationPath": "||Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Bombus terrestris",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|683449|800600|810820|489855|5901391",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bombus terrestris",
+      "name": "Bombus terrestris",
+      "odds": 142991512695.25394,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "bus": 7.802591049103098
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 2804,
+      "end": 2821,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "953110adc1a0df6865cfa737c8a95cf3",
+          "matchedName": "Bombus terrestris (Linnaeus, 1758)",
+          "matchedCanonical": "Bombus terrestris",
+          "currentName": "Bombus terrestris (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Bombus|Bombus terrestris",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45843860|45843902|45918097|953110adc1a0df6865cfa737c8a95cf3",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "953110adc1a0df6865cfa737c8a95cf3",
+            "matchedName": "Bombus terrestris (Linnaeus, 1758)",
+            "matchedCanonical": "Bombus terrestris",
+            "currentName": "Bombus terrestris (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Bombus|Bombus terrestris",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45843860|45843902|45918097|953110adc1a0df6865cfa737c8a95cf3",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1340503",
+            "matchedName": "Bombus terrestris (Linnaeus, 1758)",
+            "matchedCanonical": "Bombus terrestris",
+            "currentName": "Bombus terrestris (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Bombus|Bombus terrestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1457|4334|1340278|1340503",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5901391",
+            "matchedName": "Bombus terrestris",
+            "matchedCanonical": "Bombus terrestris",
+            "currentName": "Bombus terrestris",
+            "classificationPath": "||Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Bombus terrestris",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|683449|800600|810820|489855|5901391",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bombus lucorum,",
+      "name": "Bombus lucorum",
+      "odds": 46045419559.06389,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "bus": 7.802591049103098
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 10148,
+      "end": 10163,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "c520838a240bf3eefd5fd5ce48c63eff",
+          "matchedName": "Bombus lucorum (Linnaeus, 1761)",
+          "matchedCanonical": "Bombus lucorum",
+          "currentName": "Bombus lucorum (Linnaeus, 1761)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Bombus|Bombus lucorum",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45843860|45843902|45918097|c520838a240bf3eefd5fd5ce48c63eff",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "c520838a240bf3eefd5fd5ce48c63eff",
+            "matchedName": "Bombus lucorum (Linnaeus, 1761)",
+            "matchedCanonical": "Bombus lucorum",
+            "currentName": "Bombus lucorum (Linnaeus, 1761)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Bombus|Bombus lucorum",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45843860|45843902|45918097|c520838a240bf3eefd5fd5ce48c63eff",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1340298",
+            "matchedName": "Bombus lucorum (Linnaeus, 1761)",
+            "matchedCanonical": "Bombus lucorum",
+            "currentName": "Bombus lucorum (Linnaeus, 1761)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Bombus|Bombus lucorum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1457|4334|1340278|1340298",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "161192",
+            "matchedName": "Bombus lucorum",
+            "matchedCanonical": "Bombus lucorum",
+            "currentName": "Bombus lucorum",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Aculeata|Apoidea|Apidae|Bombinae|Bombini|Bombus|Bombus subgenus|Bombus lucorum",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|suborder|superfamily|family|subfamily|tribe|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|206138|419526|52848|849848|181523|61351|67333|161192",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

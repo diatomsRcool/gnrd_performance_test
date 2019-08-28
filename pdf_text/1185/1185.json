@@ -1,0 +1,3652 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:58:14.040989676-05:00",
+    "language": "eng",
+    "total_words": 5736,
+    "total_candidates": 693,
+    "total_names": 70
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Schizachyrium scoparium",
+      "name": "Schizachyrium scoparium",
+      "odds": 7221193090990.917,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1297,
+      "end": 1321,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "11db1ad401a20fc08df48682042c3d1c",
+          "matchedName": "Schizachyrium scoparium (Michx.) Nash",
+          "matchedCanonical": "Schizachyrium scoparium",
+          "currentName": "Schizachyrium scoparium (Michx.) Nash",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium|Schizachyrium scoparium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586|11db1ad401a20fc08df48682042c3d1c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "11db1ad401a20fc08df48682042c3d1c",
+            "matchedName": "Schizachyrium scoparium (Michx.) Nash",
+            "matchedCanonical": "Schizachyrium scoparium",
+            "currentName": "Schizachyrium scoparium (Michx.) Nash",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium|Schizachyrium scoparium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586|11db1ad401a20fc08df48682042c3d1c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2704432",
+            "matchedName": "Schizachyrium scoparium (Michx.) Nash Nash (Michx.)",
+            "matchedCanonical": "Schizachyrium scoparium",
+            "currentName": "Schizachyrium scoparium (Michx.) Nash Nash (Michx.)",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium|Schizachyrium scoparium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2704427|2704432",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "338458",
+            "matchedName": "Schizachyrium scoparium",
+            "matchedCanonical": "Schizachyrium scoparium",
+            "currentName": "Schizachyrium scoparium",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Andropogoninae|Schizachyrium|Schizachyrium scoparium",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759519|338457|338458",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum)",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 1326,
+      "end": 1337,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1953,
+      "end": 1965,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum.",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          }
+        }
+      },
+      "start": 2017,
+      "end": 2028,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          }
+        }
+      },
+      "start": 2091,
+      "end": 2101,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tyson",
+      "name": "Tyson",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "son": 0.02383540841594837
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 3726,
+      "end": 3731,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46041099",
+          "matchedName": "Tyson",
+          "matchedCanonical": "Tyson",
+          "currentName": "Tyson",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Xenisthmidae|Tyson",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841293|45842955|45842960|46041099",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46041099",
+            "matchedName": "Tyson",
+            "matchedCanonical": "Tyson",
+            "currentName": "Tyson",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Xenisthmidae|Tyson",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841293|45842955|45842960|46041099",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2395089",
+            "matchedName": "Tyson Springer, 1983",
+            "matchedCanonical": "Tyson",
+            "currentName": "Tyson Springer, 1983",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Xenisthmidae|Tyson",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|204|587|5076|2395089",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3638256",
+            "matchedName": "Tyson",
+            "matchedCanonical": "Tyson",
+            "currentName": "Tyson",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Neoteleostei|Eurypterygia|Ctenosquamata|Acanthomorphata|Euacanthomorphacea|Percomorphaceae|Gobiaria|Gobiiformes|Gobioidei|Xenisthmidae|Tyson",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|no rank|order|no rank|no rank|no rank|order|suborder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|108736|108735|108734|108720|108719|5551466|5553755|5554918|781784|130455|3638256",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Pinus palustris",
+      "name": "Pinus palustris",
+      "odds": 1517850713086.2366,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 9107,
+      "end": 9123,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2eab93218d18f811c1173a9506759c48",
+          "matchedName": "Pinus palustris Mill.",
+          "matchedCanonical": "Pinus palustris",
+          "currentName": "Pinus palustris Mill.",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus palustris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825|2eab93218d18f811c1173a9506759c48",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2eab93218d18f811c1173a9506759c48",
+            "matchedName": "Pinus palustris Mill.",
+            "matchedCanonical": "Pinus palustris",
+            "currentName": "Pinus palustris Mill.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus palustris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825|2eab93218d18f811c1173a9506759c48",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5285816",
+            "matchedName": "Pinus palustris Mill.",
+            "matchedCanonical": "Pinus palustris",
+            "currentName": "Pinus palustris Mill.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus palustris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|3925|2684241|5285816",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "351667",
+            "matchedName": "Pinus palustris",
+            "matchedCanonical": "Pinus palustris",
+            "currentName": "Pinus palustris",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pinus|Pinus subgenus|Pinus palustris",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|771683|531304|351667",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Schizachyrium scoparium",
+      "name": "Schizachyrium scoparium",
+      "odds": 7221193090990.917,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 9572,
+      "end": 9595,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "11db1ad401a20fc08df48682042c3d1c",
+          "matchedName": "Schizachyrium scoparium (Michx.) Nash",
+          "matchedCanonical": "Schizachyrium scoparium",
+          "currentName": "Schizachyrium scoparium (Michx.) Nash",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium|Schizachyrium scoparium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586|11db1ad401a20fc08df48682042c3d1c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "11db1ad401a20fc08df48682042c3d1c",
+            "matchedName": "Schizachyrium scoparium (Michx.) Nash",
+            "matchedCanonical": "Schizachyrium scoparium",
+            "currentName": "Schizachyrium scoparium (Michx.) Nash",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium|Schizachyrium scoparium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586|11db1ad401a20fc08df48682042c3d1c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2704432",
+            "matchedName": "Schizachyrium scoparium (Michx.) Nash Nash (Michx.)",
+            "matchedCanonical": "Schizachyrium scoparium",
+            "currentName": "Schizachyrium scoparium (Michx.) Nash Nash (Michx.)",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium|Schizachyrium scoparium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2704427|2704432",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "338458",
+            "matchedName": "Schizachyrium scoparium",
+            "matchedCanonical": "Schizachyrium scoparium",
+            "currentName": "Schizachyrium scoparium",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Andropogoninae|Schizachyrium|Schizachyrium scoparium",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759519|338457|338458",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          }
+        }
+      },
+      "start": 9614,
+      "end": 9624,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Schizachyrium",
+      "name": "Schizachyrium",
+      "odds": 782259.8850862472,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          }
+        }
+      },
+      "start": 13321,
+      "end": 13334,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46112586",
+          "matchedName": "Schizachyrium",
+          "matchedCanonical": "Schizachyrium",
+          "currentName": "Schizachyrium",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46112586",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2704427",
+            "matchedName": "Schizachyrium Nees",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium Nees",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1369|3073|2704427",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "338457",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Andropogoninae|Schizachyrium",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759519|338457",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          }
+        }
+      },
+      "start": 13335,
+      "end": 13348,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum).",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 13353,
+      "end": 13365,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          }
+        }
+      },
+      "start": 13417,
+      "end": 13429,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 13434,
+      "end": 13444,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Schizachyrium",
+      "name": "Schizachyrium",
+      "odds": 782259.8850862472,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 14081,
+      "end": 14094,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46112586",
+          "matchedName": "Schizachyrium",
+          "matchedCanonical": "Schizachyrium",
+          "currentName": "Schizachyrium",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46112586",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2704427",
+            "matchedName": "Schizachyrium Nees",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium Nees",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1369|3073|2704427",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "338457",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Andropogoninae|Schizachyrium",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759519|338457",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 14798,
+      "end": 14810,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 14927,
+      "end": 14937,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(ANCOVA)",
+      "name": "Ancova",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ova": 0.8342392945581929
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 15624,
+      "end": 15632,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45945998",
+          "matchedName": "Ancova",
+          "matchedCanonical": "Ancova",
+          "currentName": "Ancova",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45945998",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1873933",
+            "matchedName": "Ancova Ragonot in Romanoff, 1893",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova Ragonot in Romanoff, 1893",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5336|1873933",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3155489",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|691929|3155489",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Schizachyrium",
+      "name": "Schizachyrium",
+      "odds": 782259.8850862472,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 15771,
+      "end": 15784,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46112586",
+          "matchedName": "Schizachyrium",
+          "matchedCanonical": "Schizachyrium",
+          "currentName": "Schizachyrium",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46112586",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2704427",
+            "matchedName": "Schizachyrium Nees",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium Nees",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1369|3073|2704427",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "338457",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Andropogoninae|Schizachyrium",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759519|338457",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "ANCOVA",
+      "name": "Ancova",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ova": 0.8342392945581929
+          }
+        }
+      },
+      "start": 16999,
+      "end": 17005,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45945998",
+          "matchedName": "Ancova",
+          "matchedCanonical": "Ancova",
+          "currentName": "Ancova",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45945998",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1873933",
+            "matchedName": "Ancova Ragonot in Romanoff, 1893",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova Ragonot in Romanoff, 1893",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5336|1873933",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3155489",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|691929|3155489",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Schizachyrium",
+      "name": "Schizachyrium",
+      "odds": 782259.8850862472,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          }
+        }
+      },
+      "start": 17612,
+      "end": 17625,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46112586",
+          "matchedName": "Schizachyrium",
+          "matchedCanonical": "Schizachyrium",
+          "currentName": "Schizachyrium",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46112586",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2704427",
+            "matchedName": "Schizachyrium Nees",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium Nees",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1369|3073|2704427",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "338457",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Andropogoninae|Schizachyrium",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759519|338457",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Schizachyrium scoparium",
+      "name": "Schizachyrium scoparium",
+      "odds": 7221193090990.917,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 17719,
+      "end": 17742,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "11db1ad401a20fc08df48682042c3d1c",
+          "matchedName": "Schizachyrium scoparium (Michx.) Nash",
+          "matchedCanonical": "Schizachyrium scoparium",
+          "currentName": "Schizachyrium scoparium (Michx.) Nash",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium|Schizachyrium scoparium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586|11db1ad401a20fc08df48682042c3d1c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "11db1ad401a20fc08df48682042c3d1c",
+            "matchedName": "Schizachyrium scoparium (Michx.) Nash",
+            "matchedCanonical": "Schizachyrium scoparium",
+            "currentName": "Schizachyrium scoparium (Michx.) Nash",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium|Schizachyrium scoparium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586|11db1ad401a20fc08df48682042c3d1c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2704432",
+            "matchedName": "Schizachyrium scoparium (Michx.) Nash Nash (Michx.)",
+            "matchedCanonical": "Schizachyrium scoparium",
+            "currentName": "Schizachyrium scoparium (Michx.) Nash Nash (Michx.)",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium|Schizachyrium scoparium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2704427|2704432",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "338458",
+            "matchedName": "Schizachyrium scoparium",
+            "matchedCanonical": "Schizachyrium scoparium",
+            "currentName": "Schizachyrium scoparium",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Andropogoninae|Schizachyrium|Schizachyrium scoparium",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759519|338457|338458",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 17757,
+      "end": 17767,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          }
+        }
+      },
+      "start": 19644,
+      "end": 19656,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 19665,
+      "end": 19675,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          }
+        }
+      },
+      "start": 19758,
+      "end": 19770,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Schizachyrium",
+      "name": "Schizachyrium",
+      "odds": 782259.8850862472,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          }
+        }
+      },
+      "start": 20271,
+      "end": 20284,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46112586",
+          "matchedName": "Schizachyrium",
+          "matchedCanonical": "Schizachyrium",
+          "currentName": "Schizachyrium",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46112586",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2704427",
+            "matchedName": "Schizachyrium Nees",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium Nees",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1369|3073|2704427",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "338457",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Andropogoninae|Schizachyrium",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759519|338457",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          }
+        }
+      },
+      "start": 20500,
+      "end": 20512,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 20584,
+      "end": 20594,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          }
+        }
+      },
+      "start": 20678,
+      "end": 20690,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 20745,
+      "end": 20755,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Andropogon",
+      "name": "Andropogon",
+      "odds": 12074.440502655956,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "gon": 2.153501434789754
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 20939,
+      "end": 20949,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45868387",
+          "matchedName": "Andropogon",
+          "matchedCanonical": "Andropogon",
+          "currentName": "Andropogon",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Andropogon",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45868387",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45868387",
+            "matchedName": "Andropogon",
+            "matchedCanonical": "Andropogon",
+            "currentName": "Andropogon",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Andropogon",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45868387",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9017380",
+            "matchedName": "Andropogon",
+            "matchedCanonical": "Andropogon",
+            "currentName": "Hyparrhenia nyassae (Rendle) Stapf Stapf (Rendle)",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Hyparrhenia|Hyparrhenia nyassae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2703241|4109473",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1040674",
+            "matchedName": "Andropogon",
+            "matchedCanonical": "Andropogon",
+            "currentName": "Andropogon",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Andropogoninae|Andropogon",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759519|1040674",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Aristida",
+      "name": "Aristida",
+      "odds": 6435.90884361057,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ida": 2.502717883674579
+          }
+        }
+      },
+      "start": 21046,
+      "end": 21054,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45868249",
+          "matchedName": "Aristida",
+          "matchedCanonical": "Aristida",
+          "currentName": "Aristida",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Aristida",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45868249",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45868249",
+            "matchedName": "Aristida",
+            "matchedCanonical": "Aristida",
+            "currentName": "Aristida",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Aristida",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45868249",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2706249",
+            "matchedName": "Aristida L.",
+            "matchedCanonical": "Aristida",
+            "currentName": "Aristida L.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Aristida",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1369|3073|2706249",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "256659",
+            "matchedName": "Aristida",
+            "matchedCanonical": "Aristida",
+            "currentName": "Aristida",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Aristidoideae|Aristideae|Aristida",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|124523|1001520|256659",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. purpurea",
+      "name": "A. purpurea",
+      "odds": 95950.52888314196,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rea": 5.29987316542852
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 21060,
+      "end": 21071,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "ANCOVA",
+      "name": "Ancova",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ova": 0.8342392945581929
+          }
+        }
+      },
+      "start": 21345,
+      "end": 21351,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45945998",
+          "matchedName": "Ancova",
+          "matchedCanonical": "Ancova",
+          "currentName": "Ancova",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45945998",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1873933",
+            "matchedName": "Ancova Ragonot in Romanoff, 1893",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova Ragonot in Romanoff, 1893",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5336|1873933",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3155489",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|691929|3155489",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          }
+        }
+      },
+      "start": 22230,
+      "end": 22240,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          }
+        }
+      },
+      "start": 22314,
+      "end": 22326,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "ANCOVA",
+      "name": "Ancova",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ova": 0.8342392945581929
+          }
+        }
+      },
+      "start": 23090,
+      "end": 23096,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45945998",
+          "matchedName": "Ancova",
+          "matchedCanonical": "Ancova",
+          "currentName": "Ancova",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45945998",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1873933",
+            "matchedName": "Ancova Ragonot in Romanoff, 1893",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova Ragonot in Romanoff, 1893",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5336|1873933",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3155489",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|691929|3155489",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          }
+        }
+      },
+      "start": 23900,
+      "end": 23910,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 23958,
+      "end": 23970,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          }
+        }
+      },
+      "start": 24177,
+      "end": 24189,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          }
+        }
+      },
+      "start": 24257,
+      "end": 24267,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Schizachyrium",
+      "name": "Schizachyrium",
+      "odds": 782259.8850862472,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 25094,
+      "end": 25107,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46112586",
+          "matchedName": "Schizachyrium",
+          "matchedCanonical": "Schizachyrium",
+          "currentName": "Schizachyrium",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46112586",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2704427",
+            "matchedName": "Schizachyrium Nees",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium Nees",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1369|3073|2704427",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "338457",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Andropogoninae|Schizachyrium",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759519|338457",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          }
+        }
+      },
+      "start": 25897,
+      "end": 25907,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          }
+        }
+      },
+      "start": 26950,
+      "end": 26962,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 27551,
+      "end": 27563,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 27725,
+      "end": 27737,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Schizachyrium",
+      "name": "Schizachyrium",
+      "odds": 782259.8850862472,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          }
+        }
+      },
+      "start": 28140,
+      "end": 28153,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46112586",
+          "matchedName": "Schizachyrium",
+          "matchedCanonical": "Schizachyrium",
+          "currentName": "Schizachyrium",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46112586",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2704427",
+            "matchedName": "Schizachyrium Nees",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium Nees",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1369|3073|2704427",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "338457",
+            "matchedName": "Schizachyrium",
+            "matchedCanonical": "Schizachyrium",
+            "currentName": "Schizachyrium",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Andropogoninae|Schizachyrium",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759519|338457",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          }
+        }
+      },
+      "start": 28257,
+      "end": 28269,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 28274,
+      "end": 28284,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          }
+        }
+      },
+      "start": 32028,
+      "end": 32040,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 33510,
+      "end": 33522,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum.",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 33631,
+      "end": 33642,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          }
+        }
+      },
+      "start": 33670,
+      "end": 33680,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 33795,
+      "end": 33807,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Schizachyrium scoparium",
+      "name": "Schizachyrium scoparium",
+      "odds": 7221193090990.917,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 34148,
+      "end": 34171,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "11db1ad401a20fc08df48682042c3d1c",
+          "matchedName": "Schizachyrium scoparium (Michx.) Nash",
+          "matchedCanonical": "Schizachyrium scoparium",
+          "currentName": "Schizachyrium scoparium (Michx.) Nash",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium|Schizachyrium scoparium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586|11db1ad401a20fc08df48682042c3d1c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "11db1ad401a20fc08df48682042c3d1c",
+            "matchedName": "Schizachyrium scoparium (Michx.) Nash",
+            "matchedCanonical": "Schizachyrium scoparium",
+            "currentName": "Schizachyrium scoparium (Michx.) Nash",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium|Schizachyrium scoparium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112586|11db1ad401a20fc08df48682042c3d1c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2704432",
+            "matchedName": "Schizachyrium scoparium (Michx.) Nash Nash (Michx.)",
+            "matchedCanonical": "Schizachyrium scoparium",
+            "currentName": "Schizachyrium scoparium (Michx.) Nash Nash (Michx.)",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Schizachyrium|Schizachyrium scoparium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2704427|2704432",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "338458",
+            "matchedName": "Schizachyrium scoparium",
+            "matchedCanonical": "Schizachyrium scoparium",
+            "currentName": "Schizachyrium scoparium",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Andropogoninae|Schizachyrium|Schizachyrium scoparium",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759519|338457|338458",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 34183,
+      "end": 34193,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 34359,
+      "end": 34369,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 34923,
+      "end": 34933,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium,",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          }
+        }
+      },
+      "start": 34971,
+      "end": 34984,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum.",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 35079,
+      "end": 35090,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. tenerum",
+      "name": "S. tenerum",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 35165,
+      "end": 35175,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ium": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 35275,
+      "end": 35287,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. scoparium",
+      "name": "S. scoparium",
+      "odds": 4283745.000274628,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ium": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 36039,
+      "end": 36051,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "ANCOVA",
+      "name": "Ancova",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ova": 0.8342392945581929
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 37142,
+      "end": 37148,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45945998",
+          "matchedName": "Ancova",
+          "matchedCanonical": "Ancova",
+          "currentName": "Ancova",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45945998",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1873933",
+            "matchedName": "Ancova Ragonot in Romanoff, 1893",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova Ragonot in Romanoff, 1893",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5336|1873933",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3155489",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|691929|3155489",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "ANCOVA",
+      "name": "Ancova",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ova": 0.8342392945581929
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 37201,
+      "end": 37207,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45945998",
+          "matchedName": "Ancova",
+          "matchedCanonical": "Ancova",
+          "currentName": "Ancova",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45945998",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945998",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1873933",
+            "matchedName": "Ancova Ragonot in Romanoff, 1893",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova Ragonot in Romanoff, 1893",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyralidae|Ancova",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5336|1873933",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3155489",
+            "matchedName": "Ancova",
+            "matchedCanonical": "Ancova",
+            "currentName": "Ancova",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Pyralidae|Ancova",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|691929|3155489",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Natalia",
+      "name": "Natalia",
+      "odds": 13736.822435863207,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          }
+        }
+      },
+      "start": 37336,
+      "end": 37343,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "999036",
+          "matchedName": "Natalia Godwin-Austen, 1897",
+          "matchedCanonical": "Natalia",
+          "currentName": "Maizania Bourguignat, 1889",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Caenogastropoda|Architaenioglossa|Cyclophoroidea|Maizaniidae|Maizania",
+          "classificationRank": "|Kingdom|phylum|class|subclass|order|superfamily|family|genus",
+          "classificationIDs": "1|2|51|101|224570|489327|153654|833799|995295",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3269084",
+            "matchedName": "Natalia E.M. Fries, 1847",
+            "matchedCanonical": "Natalia",
+            "currentName": "Levieuxia E.M. Fries, 1848",
+            "isSynonym": true,
+            "classificationPath": "Fungi|Ascomycota|Levieuxia",
+            "classificationRank": "kingdom|phylum|genus",
+            "classificationIDs": "5|95|7245172",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5330874",
+            "matchedName": "Natalia",
+            "matchedCanonical": "Natalia",
+            "currentName": "Natalia",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Geraniales|Melianthaceae|Natalia",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|648900|733787|5330874",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Bruna,",
+      "name": "Bruna",
+      "odds": 1329.316724540427,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "una": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 37366,
+      "end": 37372,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907405",
+          "matchedName": "Bruna",
+          "matchedCanonical": "Bruna",
+          "currentName": "Bruna",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Bruna",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907405",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907405",
+            "matchedName": "Bruna",
+            "matchedCanonical": "Bruna",
+            "currentName": "Bruna",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Bruna",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907405",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1948039",
+            "matchedName": "Bruna Evans, 1955",
+            "matchedCanonical": "Bruna",
+            "currentName": "Bruna Evans, 1955",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperiidae|Bruna",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6953|1948039",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4233620",
+            "matchedName": "Bruna",
+            "matchedCanonical": "Bruna",
+            "currentName": "Bruna",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Hesperioidea|Hesperiidae|Bruna",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|336117|336118|4233620",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Melissa",
+      "name": "Melissa",
+      "odds": 20692.17556794584,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ssa": 14.18206800748928
+          }
+        }
+      },
+      "start": 37373,
+      "end": 37380,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45880052",
+          "matchedName": "Melissa",
+          "matchedCanonical": "Melissa",
+          "currentName": "Melissa",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Lamiaceae|Melissa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45841436|45842930|45880052",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45880052",
+            "matchedName": "Melissa",
+            "matchedCanonical": "Melissa",
+            "currentName": "Melissa",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Lamiaceae|Melissa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45841436|45842930|45880052",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2927330",
+            "matchedName": "Melissa L.",
+            "matchedCanonical": "Melissa",
+            "currentName": "Melissa L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Lamiaceae|Melissa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|408|2497|2927330",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "314678",
+            "matchedName": "Melissa",
+            "matchedCanonical": "Melissa",
+            "currentName": "Melissa",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Lamiales|Core||Lamiaceae|Nepetoideae|Mentheae|Melissa",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|no rank|no rank|family|subfamily|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|23736|5263556|5264061|544714|394658|498490|314678",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Vieira",
+      "name": "Vieira",
+      "odds": 11568.009889421783,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ira": 15.641986772966117
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 37449,
+      "end": 37455,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45965097",
+          "matchedName": "Vieira",
+          "matchedCanonical": "Vieira",
+          "currentName": "Vieira",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841688|45841696|45965097",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45965097",
+            "matchedName": "Vieira",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841688|45841696|45965097",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2105587",
+            "matchedName": "Vieira Navás, 1913",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira Navás, 1913",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1501|9265|2105587",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3014942",
+            "matchedName": "Vieira",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Neuropterida|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|779644|81974|337148|3014942",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

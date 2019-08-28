@@ -1,0 +1,3022 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:58:11.014712534-05:00",
+    "language": "eng",
+    "total_words": 4145,
+    "total_candidates": 592,
+    "total_names": 40
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Poecilus cupreus",
+      "name": "Poecilus cupreus",
+      "odds": 2260196598220.75,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1187,
+      "end": 1203,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+          "matchedName": "Poecilus cupreus (Letzner, 1852)",
+          "matchedCanonical": "Poecilus cupreus",
+          "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9111506",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus lepidus subsp. lepidus",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus lepidus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|54|216|1470|3792|7927877|5753725|8726808",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "91529",
+            "matchedName": "Poecilus cupreus",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus cupreus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Adephaga|Caraboidea|Carabidae|Harpalinae|Pterostichini|Poecilus|Poecilus cupreus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|413458|829184|413454|610083|1046691|121426|91529",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Coleoptera:",
+      "name": "Coleoptera",
+      "odds": 6758.558534308289,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          }
+        }
+      },
+      "start": 1204,
+      "end": 1216,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841412",
+          "matchedName": "Coleoptera",
+          "matchedCanonical": "Coleoptera",
+          "currentName": "Coleoptera",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841265|45841270|45841271|45841412",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841412",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841265|45841270|45841271|45841412",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1470",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "1|54|216|1470",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "865243",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Carabidae)",
+      "name": "Carabidae",
+      "odds": 25841.532722479667,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1217,
+      "end": 1227,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844321",
+          "matchedName": "Carabidae",
+          "matchedCanonical": "Carabidae",
+          "currentName": "Carabidae",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Caraboidea|Carabidae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844007|45844321",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844321",
+            "matchedName": "Carabidae",
+            "matchedCanonical": "Carabidae",
+            "currentName": "Carabidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Caraboidea|Carabidae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844007|45844321",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3792",
+            "matchedName": "Carabidae",
+            "matchedCanonical": "Carabidae",
+            "currentName": "Carabidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|54|216|1470|3792",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "413454",
+            "matchedName": "Carabidae",
+            "matchedCanonical": "Carabidae",
+            "currentName": "Carabidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Adephaga|Caraboidea|Carabidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|413458|829184|413454",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Amphimallon solstitiale",
+      "name": "Amphimallon solstitiale",
+      "odds": 98849781250.94145,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ale": 18.77038412755934
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          }
+        }
+      },
+      "start": 1252,
+      "end": 1275,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "matchedCanonical": "Amphimallon solstitiale",
+          "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1063891",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|5593|1063786|1063891",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "508095",
+            "matchedName": "Amphimallon solstitiale",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Scarabaeiformia|Scarabaeoidea|Scarabaeidae|Melolonthinae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|809779|504360|340559|6256426|881343|508095",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Coleoptera:",
+      "name": "Coleoptera",
+      "odds": 6758.558534308289,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1276,
+      "end": 1288,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841412",
+          "matchedName": "Coleoptera",
+          "matchedCanonical": "Coleoptera",
+          "currentName": "Coleoptera",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841265|45841270|45841271|45841412",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841412",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841265|45841270|45841271|45841412",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1470",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "1|54|216|1470",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "865243",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scarabaeidae),",
+      "name": "Scarabaeidae",
+      "odds": 86950.9006595204,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1289,
+      "end": 1303,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841449",
+          "matchedName": "Scarabaeidae",
+          "matchedCanonical": "Scarabaeidae",
+          "currentName": "Scarabaeidae",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Scarabaeidae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45841449",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841449",
+            "matchedName": "Scarabaeidae",
+            "matchedCanonical": "Scarabaeidae",
+            "currentName": "Scarabaeidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Scarabaeidae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45841449",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5840",
+            "matchedName": "Scarabaeidae",
+            "matchedCanonical": "Scarabaeidae",
+            "currentName": "Scarabaeidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|54|216|1470|5840",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "340559",
+            "matchedName": "Scarabaeidae",
+            "matchedCanonical": "Scarabaeidae",
+            "currentName": "Scarabaeidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Scarabaeiformia|Scarabaeoidea|Scarabaeidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|809779|504360|340559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Amphimallon solstitiale,",
+      "name": "Amphimallon solstitiale",
+      "odds": 98849781250.94145,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ale": 18.77038412755934
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1835,
+      "end": 1859,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "matchedCanonical": "Amphimallon solstitiale",
+          "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1063891",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|5593|1063786|1063891",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "508095",
+            "matchedName": "Amphimallon solstitiale",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Scarabaeiformia|Scarabaeoidea|Scarabaeidae|Melolonthinae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|809779|504360|340559|6256426|881343|508095",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Carabidae,",
+      "name": "Carabidae",
+      "odds": 25841.532722479667,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 1860,
+      "end": 1870,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844321",
+          "matchedName": "Carabidae",
+          "matchedCanonical": "Carabidae",
+          "currentName": "Carabidae",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Caraboidea|Carabidae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844007|45844321",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844321",
+            "matchedName": "Carabidae",
+            "matchedCanonical": "Carabidae",
+            "currentName": "Carabidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Caraboidea|Carabidae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844007|45844321",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3792",
+            "matchedName": "Carabidae",
+            "matchedCanonical": "Carabidae",
+            "currentName": "Carabidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|54|216|1470|3792",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "413454",
+            "matchedName": "Carabidae",
+            "matchedCanonical": "Carabidae",
+            "currentName": "Carabidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Adephaga|Caraboidea|Carabidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|413458|829184|413454",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Poecilus cupreus,",
+      "name": "Poecilus cupreus",
+      "odds": 2260196598220.75,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          }
+        }
+      },
+      "start": 1929,
+      "end": 1946,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+          "matchedName": "Poecilus cupreus (Letzner, 1852)",
+          "matchedCanonical": "Poecilus cupreus",
+          "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9111506",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus lepidus subsp. lepidus",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus lepidus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|54|216|1470|3792|7927877|5753725|8726808",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "91529",
+            "matchedName": "Poecilus cupreus",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus cupreus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Adephaga|Caraboidea|Carabidae|Harpalinae|Pterostichini|Poecilus|Poecilus cupreus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|413458|829184|413454|610083|1046691|121426|91529",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scarabaeidae,",
+      "name": "Scarabaeidae",
+      "odds": 86950.9006595204,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1963,
+      "end": 1976,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841449",
+          "matchedName": "Scarabaeidae",
+          "matchedCanonical": "Scarabaeidae",
+          "currentName": "Scarabaeidae",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Scarabaeidae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45841449",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841449",
+            "matchedName": "Scarabaeidae",
+            "matchedCanonical": "Scarabaeidae",
+            "currentName": "Scarabaeidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Scarabaeidae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45841449",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5840",
+            "matchedName": "Scarabaeidae",
+            "matchedCanonical": "Scarabaeidae",
+            "currentName": "Scarabaeidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|54|216|1470|5840",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "340559",
+            "matchedName": "Scarabaeidae",
+            "matchedCanonical": "Scarabaeidae",
+            "currentName": "Scarabaeidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Scarabaeiformia|Scarabaeoidea|Scarabaeidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|809779|504360|340559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Poecilus cupreus",
+      "name": "Poecilus cupreus",
+      "odds": 2260196598220.75,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 5242,
+      "end": 5258,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+          "matchedName": "Poecilus cupreus (Letzner, 1852)",
+          "matchedCanonical": "Poecilus cupreus",
+          "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9111506",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus lepidus subsp. lepidus",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus lepidus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|54|216|1470|3792|7927877|5753725|8726808",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "91529",
+            "matchedName": "Poecilus cupreus",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus cupreus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Adephaga|Caraboidea|Carabidae|Harpalinae|Pterostichini|Poecilus|Poecilus cupreus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|413458|829184|413454|610083|1046691|121426|91529",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Poecilus cupreus",
+      "name": "Poecilus cupreus",
+      "odds": 2260196598220.75,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 5931,
+      "end": 5947,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+          "matchedName": "Poecilus cupreus (Letzner, 1852)",
+          "matchedCanonical": "Poecilus cupreus",
+          "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9111506",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus lepidus subsp. lepidus",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus lepidus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|54|216|1470|3792|7927877|5753725|8726808",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "91529",
+            "matchedName": "Poecilus cupreus",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus cupreus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Adephaga|Caraboidea|Carabidae|Harpalinae|Pterostichini|Poecilus|Poecilus cupreus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|413458|829184|413454|610083|1046691|121426|91529",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Tenebrio molitor",
+      "name": "Tenebrio molitor",
+      "odds": 1136785271.29446,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rio": 1.2513589418372895
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tor": 14.18206800748928
+          }
+        }
+      },
+      "start": 6427,
+      "end": 6444,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "dac79a0fd6b2370030300b9b4cb5493b",
+          "matchedName": "Tenebrio molitor Linnaeus, 1758",
+          "matchedCanonical": "Tenebrio molitor",
+          "currentName": "Tenebrio molitor Linnaeus, 1758",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Tenebrionidae|Tenebrio|Tenebrio molitor",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844014|45853596|45914351|dac79a0fd6b2370030300b9b4cb5493b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "dac79a0fd6b2370030300b9b4cb5493b",
+            "matchedName": "Tenebrio molitor Linnaeus, 1758",
+            "matchedCanonical": "Tenebrio molitor",
+            "currentName": "Tenebrio molitor Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Tenebrionidae|Tenebrio|Tenebrio molitor",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844014|45853596|45914351|dac79a0fd6b2370030300b9b4cb5493b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1045843",
+            "matchedName": "Tenebrio molitor Linnaeus, 1758",
+            "matchedCanonical": "Tenebrio molitor",
+            "currentName": "Tenebrio molitor Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionidae|Tenebrio|Tenebrio molitor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7857|1043835|1045843",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1093470",
+            "matchedName": "Tenebrio molitor",
+            "matchedCanonical": "Tenebrio molitor",
+            "currentName": "Tenebrio molitor",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrioninae|Tenebrio|Tenebrio molitor",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765496|1093476|189298|915307|1093470",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Coleoptera:",
+      "name": "Coleoptera",
+      "odds": 6758.558534308289,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          }
+        }
+      },
+      "start": 6455,
+      "end": 6466,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841412",
+          "matchedName": "Coleoptera",
+          "matchedCanonical": "Coleoptera",
+          "currentName": "Coleoptera",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841265|45841270|45841271|45841412",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841412",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841265|45841270|45841271|45841412",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1470",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "1|54|216|1470",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "865243",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tenebrionidae)",
+      "name": "Tenebrionidae",
+      "odds": 106949.83145035784,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 6467,
+      "end": 6481,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45853596",
+          "matchedName": "Tenebrionidae",
+          "matchedCanonical": "Tenebrionidae",
+          "currentName": "Tenebrionidae",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Tenebrionidae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844014|45853596",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45853596",
+            "matchedName": "Tenebrionidae",
+            "matchedCanonical": "Tenebrionidae",
+            "currentName": "Tenebrionidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Tenebrionidae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844014|45853596",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7857",
+            "matchedName": "Tenebrionidae",
+            "matchedCanonical": "Tenebrionidae",
+            "currentName": "Tenebrionidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|54|216|1470|7857",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1093476",
+            "matchedName": "Tenebrionidae",
+            "matchedCanonical": "Tenebrionidae",
+            "currentName": "Tenebrionidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765496|1093476",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Amphimallon solstitiale",
+      "name": "Amphimallon solstitiale",
+      "odds": 98849781250.94145,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ale": 18.77038412755934
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 6815,
+      "end": 6838,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "matchedCanonical": "Amphimallon solstitiale",
+          "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1063891",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|5593|1063786|1063891",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "508095",
+            "matchedName": "Amphimallon solstitiale",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Scarabaeiformia|Scarabaeoidea|Scarabaeidae|Melolonthinae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|809779|504360|340559|6256426|881343|508095",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Coleoptera:",
+      "name": "Coleoptera",
+      "odds": 6758.558534308289,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          }
+        }
+      },
+      "start": 6848,
+      "end": 6860,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841412",
+          "matchedName": "Coleoptera",
+          "matchedCanonical": "Coleoptera",
+          "currentName": "Coleoptera",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841265|45841270|45841271|45841412",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841412",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841265|45841270|45841271|45841412",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1470",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "1|54|216|1470",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "865243",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scarabaeidae),",
+      "name": "Scarabaeidae",
+      "odds": 86950.9006595204,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 6861,
+      "end": 6875,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841449",
+          "matchedName": "Scarabaeidae",
+          "matchedCanonical": "Scarabaeidae",
+          "currentName": "Scarabaeidae",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Scarabaeidae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45841449",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841449",
+            "matchedName": "Scarabaeidae",
+            "matchedCanonical": "Scarabaeidae",
+            "currentName": "Scarabaeidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Scarabaeidae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45841449",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5840",
+            "matchedName": "Scarabaeidae",
+            "matchedCanonical": "Scarabaeidae",
+            "currentName": "Scarabaeidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|54|216|1470|5840",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "340559",
+            "matchedName": "Scarabaeidae",
+            "matchedCanonical": "Scarabaeidae",
+            "currentName": "Scarabaeidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Scarabaeiformia|Scarabaeoidea|Scarabaeidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|809779|504360|340559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "DNA-barcoded larvae",
+      "name": "Dna-barcoded larvae",
+      "odds": 643.3826900652971,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ded": 2.5027178836745785
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "vae": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          }
+        }
+      },
+      "start": 7120,
+      "end": 7139,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. cupreus",
+      "name": "P. cupreus",
+      "odds": 1880398.7416281558,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 7414,
+      "end": 7424,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. cupreus",
+      "name": "P. cupreus",
+      "odds": 1880398.7416281558,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          }
+        }
+      },
+      "start": 7617,
+      "end": 7627,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. solstitiale",
+      "name": "A. solstitiale",
+      "odds": 1307100.6462500452,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ale": 18.77038412755934
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 9642,
+      "end": 9656,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. solstitiale",
+      "name": "A. solstitiale",
+      "odds": 1307100.6462500452,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ale": 18.77038412755934
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 10673,
+      "end": 10687,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. solstitiale",
+      "name": "A. solstitiale",
+      "odds": 1307100.6462500452,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ale": 18.77038412755934
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 11141,
+      "end": 11155,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. cupreus",
+      "name": "P. cupreus",
+      "odds": 1880398.7416281558,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 11212,
+      "end": 11222,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "°Canda",
+      "name": "Canda",
+      "odds": 4652.608535891495,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nda": 8.759512592861025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 11714,
+      "end": 11720,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46023023",
+          "matchedName": "Canda",
+          "matchedCanonical": "Canda",
+          "currentName": "Canda",
+          "classificationPath": "Animalia|Bryozoa|Gymnolaemata|Cheilostomatida|Buguloidea|Candidae|Canda",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45843536|45843537|45843538|45845176|45856341|46023023",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46023023",
+            "matchedName": "Canda",
+            "matchedCanonical": "Canda",
+            "currentName": "Canda",
+            "classificationPath": "Animalia|Bryozoa|Gymnolaemata|Cheilostomatida|Buguloidea|Candidae|Canda",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45843536|45843537|45843538|45845176|45856341|46023023",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1008050",
+            "matchedName": "Canda Lamouroux, 1816",
+            "matchedCanonical": "Canda",
+            "currentName": "Canda Lamouroux, 1816",
+            "classificationPath": "Animalia|Bryozoa|Gymnolaemata|Cheilostomatida|Candidae|Canda",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|53|252|467|2107|1008050",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2936296",
+            "matchedName": "Canda",
+            "matchedCanonical": "Canda",
+            "currentName": "Canda",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Bryozoa|Gymnolaemata|Cheilostomatida|Neocheilostomatina|Flustrina|Buguloidea|Candidae|Canda",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|442934|622391|622392|375421|165380|165365|848801|2936296",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Poecilus cupreus",
+      "name": "Poecilus cupreus",
+      "odds": 2260196598220.75,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 14330,
+      "end": 14346,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+          "matchedName": "Poecilus cupreus (Letzner, 1852)",
+          "matchedCanonical": "Poecilus cupreus",
+          "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9111506",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus lepidus subsp. lepidus",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus lepidus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|54|216|1470|3792|7927877|5753725|8726808",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "91529",
+            "matchedName": "Poecilus cupreus",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus cupreus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Adephaga|Caraboidea|Carabidae|Harpalinae|Pterostichini|Poecilus|Poecilus cupreus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|413458|829184|413454|610083|1046691|121426|91529",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Amphimallon solstitiale",
+      "name": "Amphimallon solstitiale",
+      "odds": 98849781250.94145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ale": 18.77038412755934
+          }
+        }
+      },
+      "start": 14366,
+      "end": 14389,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "matchedCanonical": "Amphimallon solstitiale",
+          "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1063891",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|5593|1063786|1063891",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "508095",
+            "matchedName": "Amphimallon solstitiale",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Scarabaeiformia|Scarabaeoidea|Scarabaeidae|Melolonthinae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|809779|504360|340559|6256426|881343|508095",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Poecilus cupreus",
+      "name": "Poecilus cupreus",
+      "odds": 2260196598220.75,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 15278,
+      "end": 15294,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+          "matchedName": "Poecilus cupreus (Letzner, 1852)",
+          "matchedCanonical": "Poecilus cupreus",
+          "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9111506",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus lepidus subsp. lepidus",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus lepidus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|54|216|1470|3792|7927877|5753725|8726808",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "91529",
+            "matchedName": "Poecilus cupreus",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus cupreus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Adephaga|Caraboidea|Carabidae|Harpalinae|Pterostichini|Poecilus|Poecilus cupreus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|413458|829184|413454|610083|1046691|121426|91529",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Amphimallon solstitiale",
+      "name": "Amphimallon solstitiale",
+      "odds": 98849781250.94145,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ale": 18.77038412755934
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 15314,
+      "end": 15337,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "matchedCanonical": "Amphimallon solstitiale",
+          "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1063891",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|5593|1063786|1063891",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "508095",
+            "matchedName": "Amphimallon solstitiale",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Scarabaeiformia|Scarabaeoidea|Scarabaeidae|Melolonthinae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|809779|504360|340559|6256426|881343|508095",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. cupreus",
+      "name": "P. cupreus",
+      "odds": 1880398.7416281558,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          }
+        }
+      },
+      "start": 16675,
+      "end": 16685,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Amphimallon solstitiale",
+      "name": "Amphimallon solstitiale",
+      "odds": 98849781250.94145,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ale": 18.77038412755934
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 18205,
+      "end": 18228,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "matchedCanonical": "Amphimallon solstitiale",
+          "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1063891",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|5593|1063786|1063891",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "508095",
+            "matchedName": "Amphimallon solstitiale",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Scarabaeiformia|Scarabaeoidea|Scarabaeidae|Melolonthinae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|809779|504360|340559|6256426|881343|508095",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Poecilus cupreus",
+      "name": "Poecilus cupreus",
+      "odds": 2260196598220.75,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 18248,
+      "end": 18264,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+          "matchedName": "Poecilus cupreus (Letzner, 1852)",
+          "matchedCanonical": "Poecilus cupreus",
+          "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed12ca93af6899bb559dd8979ca093ab",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus (Poecilus) lepidus lepidus (Leske, 1785)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9111506",
+            "matchedName": "Poecilus cupreus (Letzner, 1852)",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus lepidus subsp. lepidus",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Poecilus|Poecilus lepidus|Poecilus lepidus lepidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|54|216|1470|3792|7927877|5753725|8726808",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "91529",
+            "matchedName": "Poecilus cupreus",
+            "matchedCanonical": "Poecilus cupreus",
+            "currentName": "Poecilus cupreus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Adephaga|Caraboidea|Carabidae|Harpalinae|Pterostichini|Poecilus|Poecilus cupreus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|413458|829184|413454|610083|1046691|121426|91529",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pterostichus melanarius",
+      "name": "Pterostichus melanarius",
+      "odds": 3141513822095.737,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ius": 192.70927704294255
+          }
+        }
+      },
+      "start": 19886,
+      "end": 19909,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "c341af6b6fd5f29d47b51002402767d3",
+          "matchedName": "Pterostichus (Petrophilus) melanarius (Illiger, 1798)",
+          "matchedCanonical": "Pterostichus melanarius",
+          "currentName": "Pterostichus (Petrophilus) melanarius (Illiger, 1798)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Caraboidea|Carabidae|Pterostichus|Pterostichus melanarius",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844007|45844321|45870731|c341af6b6fd5f29d47b51002402767d3",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "c341af6b6fd5f29d47b51002402767d3",
+            "matchedName": "Pterostichus (Petrophilus) melanarius (Illiger, 1798)",
+            "matchedCanonical": "Pterostichus melanarius",
+            "currentName": "Pterostichus (Petrophilus) melanarius (Illiger, 1798)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Caraboidea|Carabidae|Pterostichus|Pterostichus melanarius",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844007|45844321|45870731|c341af6b6fd5f29d47b51002402767d3",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7856746",
+            "matchedName": "Pterostichus melanarius (Illiger, 1798)",
+            "matchedCanonical": "Pterostichus melanarius",
+            "currentName": "Pterostichus melanarius (Illiger, 1798)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Pterostichus|Pterostichus melanarius",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|3792|7367006|7856746",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1046677",
+            "matchedName": "Pterostichus melanarius",
+            "matchedCanonical": "Pterostichus melanarius",
+            "currentName": "Pterostichus melanarius",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Adephaga|Caraboidea|Carabidae|Harpalinae|Pterostichini|Pterostichus|Morphnosoma|Pterostichus melanarius",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|subfamily|tribe|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|413458|829184|413454|610083|1046691|413475|836427|1046677",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Leptinotarsa decemlineata",
+      "name": "Leptinotarsa decemlineata",
+      "odds": 5905817020587.164,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "rsa": 2.5027178836745785
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 24462,
+      "end": 24487,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "50a2954453062bc185ccd41aa8a485e4",
+          "matchedName": "Leptinotarsa decemlineata (Say, 1824)",
+          "matchedCanonical": "Leptinotarsa decemlineata",
+          "currentName": "Leptinotarsa decemlineata (Say, 1824)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Chrysomelidae|Leptinotarsa|Leptinotarsa decemlineata",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841413|45850590|45874512|50a2954453062bc185ccd41aa8a485e4",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "50a2954453062bc185ccd41aa8a485e4",
+            "matchedName": "Leptinotarsa decemlineata (Say, 1824)",
+            "matchedCanonical": "Leptinotarsa decemlineata",
+            "currentName": "Leptinotarsa decemlineata (Say, 1824)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Chrysomelidae|Leptinotarsa|Leptinotarsa decemlineata",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841413|45850590|45874512|50a2954453062bc185ccd41aa8a485e4",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1047536",
+            "matchedName": "Leptinotarsa decemlineata (Say, 1824)",
+            "matchedCanonical": "Leptinotarsa decemlineata",
+            "currentName": "Leptinotarsa decemlineata (Say, 1824)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomelidae|Leptinotarsa|Leptinotarsa decemlineata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7780|7587586|1047536",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "185597",
+            "matchedName": "Leptinotarsa decemlineata",
+            "matchedCanonical": "Leptinotarsa decemlineata",
+            "currentName": "Leptinotarsa decemlineata",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Chrysomeloidea|Chrysomelidae|Chrysomelinae|Doryphorini|Leptinotarsa|Leptinotarsa decemlineata",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765489|567698|759930|185579|30409|185597",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. melanarius",
+      "name": "P. melanarius",
+      "odds": 6607791.298346593,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ius": 192.70927704294255
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 25271,
+      "end": 25284,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. cupreus",
+      "name": "P. cupreus",
+      "odds": 1880398.7416281558,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          }
+        }
+      },
+      "start": 25324,
+      "end": 25334,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Harpalus rufipes",
+      "name": "Harpalus rufipes",
+      "odds": 521583830358.6346,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pes": 37.54076825511868
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 25404,
+      "end": 25420,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3fb41b03bcdaf240b574b9d600163550",
+          "matchedName": "Harpalus rufipes Motschulsky, 1844",
+          "matchedCanonical": "Harpalus rufipes",
+          "currentName": "Harpalus (Harpalus) rubripes (Duftschmid, 1812)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Caraboidea|Carabidae|Harpalus|Harpalus rubripes",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844007|45844321|45896360|8c63ce1d4467657a61f514b3b35d61dc",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3fb41b03bcdaf240b574b9d600163550",
+            "matchedName": "Harpalus rufipes Motschulsky, 1844",
+            "matchedCanonical": "Harpalus rufipes",
+            "currentName": "Harpalus (Harpalus) rubripes (Duftschmid, 1812)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Caraboidea|Carabidae|Harpalus|Harpalus rubripes",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844007|45844321|45896360|8c63ce1d4467657a61f514b3b35d61dc",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8055174",
+            "matchedName": "Harpalus rufipes Motschulsky, 1844",
+            "matchedCanonical": "Harpalus rufipes",
+            "currentName": "Clivina tranquebarica Bonelli, 1813",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Carabidae|Clivina|Clivina tranquebarica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|3792|1036880|7697896",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "326464",
+            "matchedName": "Harpalus rufipes",
+            "matchedCanonical": "Harpalus rufipes",
+            "currentName": "Harpalus rufipes",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Adephaga|Caraboidea|Carabidae|Harpalinae|Harpalini|Harpalus|Harpalus rufipes",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|413458|829184|413454|610083|470119|413463|326464",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Corinna",
+      "name": "Corinna",
+      "odds": 3651.560394343384,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nna": 2.502717883674579
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 25893,
+      "end": 25900,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45962882",
+          "matchedName": "Corinna",
+          "matchedCanonical": "Corinna",
+          "currentName": "Corinna",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Corinnidae|Corinna",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45841317|45850549|45962882",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45962882",
+            "matchedName": "Corinna",
+            "matchedCanonical": "Corinna",
+            "currentName": "Corinna",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Corinnidae|Corinna",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45841317|45850549|45962882",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3259453",
+            "matchedName": "Corinna Dominique \u0026 Thomas, 2005",
+            "matchedCanonical": "Corinna",
+            "currentName": "Corinna Dominique \u0026 Thomas, 2005",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Ephemeroptera|Baetidae|Corinna",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1225|7865|3259453",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3554329",
+            "matchedName": "Corinna",
+            "matchedCanonical": "Corinna",
+            "currentName": "Corinna",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae||Dionycha|Corinnidae|Corinna",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|no rank|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|1043561|610260|904269|3554329",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Amphimallon solstitiale",
+      "name": "Amphimallon solstitiale",
+      "odds": 98849781250.94145,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ale": 18.77038412755934
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 26776,
+      "end": 26799,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "matchedCanonical": "Amphimallon solstitiale",
+          "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45844398|46001202|1490a8c2726f374c4e27f7b73bf6dc8b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1063891",
+            "matchedName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Melolonthidae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|5593|1063786|1063891",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "508095",
+            "matchedName": "Amphimallon solstitiale",
+            "matchedCanonical": "Amphimallon solstitiale",
+            "currentName": "Amphimallon solstitiale",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Scarabaeiformia|Scarabaeoidea|Scarabaeidae|Melolonthinae|Amphimallon|Amphimallon solstitiale",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|809779|504360|340559|6256426|881343|508095",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

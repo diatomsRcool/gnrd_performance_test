@@ -1,0 +1,2959 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:05:58.551796595-05:00",
+    "language": "eng",
+    "total_words": 6447,
+    "total_candidates": 984,
+    "total_names": 40
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Consuegra,1*",
+      "name": "Consuegra",
+      "odds": 145.0779034706588,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 189,
+      "end": 201,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "20032-1",
+          "matchedName": "Consuegra Spreng.",
+          "matchedCanonical": "Consuegra",
+          "currentName": "Consuegra Spreng.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3790641",
+            "matchedName": "Consuegra Spreng.",
+            "matchedCanonical": "Consuegra",
+            "currentName": "Consuegra Spreng.",
+            "classificationPath": "Plantae||Consuegra",
+            "classificationRank": "kingdom|family|genus",
+            "classificationIDs": "6|7356645|3790641",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Osorno,",
+      "name": "Osorno",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 423,
+      "end": 430,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1261702",
+          "matchedName": "Osorno Candèze, 1882",
+          "matchedCanonical": "Osorno",
+          "currentName": "Osorno Candèze, 1882",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Elateridae|Osorno",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|100180|1261702",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4764929",
+            "matchedName": "Osorno Candèze, 1882",
+            "matchedCanonical": "Osorno",
+            "currentName": "Osorno Candèze, 1882",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Elateridae|Osorno",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|7825|4764929",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4654179",
+            "matchedName": "Osorno",
+            "matchedCanonical": "Osorno",
+            "currentName": "Osorno",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Elateriformia|Elateroidea|Elateridae|Osorno",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684688|885622|506408|4654179",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Oncorhynchus mykiss,",
+      "name": "Oncorhynchus mykiss",
+      "odds": 518904.1994694916,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "iss": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 569,
+      "end": 589,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d11b35db644cc45d76ccd8ad31452045",
+          "matchedName": "Oncorhynchus mykiss (Walbaum, 1792)",
+          "matchedCanonical": "Oncorhynchus mykiss",
+          "currentName": "Oncorhynchus mykiss (Walbaum, 1792)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus mykiss",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45863491|d11b35db644cc45d76ccd8ad31452045",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d11b35db644cc45d76ccd8ad31452045",
+            "matchedName": "Oncorhynchus mykiss (Walbaum, 1792)",
+            "matchedCanonical": "Oncorhynchus mykiss",
+            "currentName": "Oncorhynchus mykiss (Walbaum, 1792)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus mykiss",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45863491|d11b35db644cc45d76ccd8ad31452045",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5204019",
+            "matchedName": "Oncorhynchus mykiss (Walbaum, 1792)",
+            "matchedCanonical": "Oncorhynchus mykiss",
+            "currentName": "Oncorhynchus mykiss (Walbaum, 1792)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus mykiss",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1313|8615|2351426|5204019",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "165368",
+            "matchedName": "Oncorhynchus mykiss",
+            "matchedCanonical": "Oncorhynchus mykiss",
+            "currentName": "Oncorhynchus mykiss",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Protacanthopterygii|Salmoniformes|Salmonidae|Salmoninae|Oncorhynchus|Oncorhynchus mykiss",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|1024043|216171|739933|936925|739931|165368",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 28,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Consuegra",
+      "name": "Consuegra",
+      "odds": 145.0779034706588,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 4167,
+      "end": 4176,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "20032-1",
+          "matchedName": "Consuegra Spreng.",
+          "matchedCanonical": "Consuegra",
+          "currentName": "Consuegra Spreng.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3790641",
+            "matchedName": "Consuegra Spreng.",
+            "matchedCanonical": "Consuegra",
+            "currentName": "Consuegra Spreng.",
+            "classificationPath": "Plantae||Consuegra",
+            "classificationRank": "kingdom|family|genus",
+            "classificationIDs": "6|7356645|3790641",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Oncorhynchus mykiss)",
+      "name": "Oncorhynchus mykiss",
+      "odds": 518904.1994694916,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iss": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 4354,
+      "end": 4375,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d11b35db644cc45d76ccd8ad31452045",
+          "matchedName": "Oncorhynchus mykiss (Walbaum, 1792)",
+          "matchedCanonical": "Oncorhynchus mykiss",
+          "currentName": "Oncorhynchus mykiss (Walbaum, 1792)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus mykiss",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45863491|d11b35db644cc45d76ccd8ad31452045",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d11b35db644cc45d76ccd8ad31452045",
+            "matchedName": "Oncorhynchus mykiss (Walbaum, 1792)",
+            "matchedCanonical": "Oncorhynchus mykiss",
+            "currentName": "Oncorhynchus mykiss (Walbaum, 1792)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus mykiss",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45863491|d11b35db644cc45d76ccd8ad31452045",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5204019",
+            "matchedName": "Oncorhynchus mykiss (Walbaum, 1792)",
+            "matchedCanonical": "Oncorhynchus mykiss",
+            "currentName": "Oncorhynchus mykiss (Walbaum, 1792)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus mykiss",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1313|8615|2351426|5204019",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "165368",
+            "matchedName": "Oncorhynchus mykiss",
+            "matchedCanonical": "Oncorhynchus mykiss",
+            "currentName": "Oncorhynchus mykiss",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Protacanthopterygii|Salmoniformes|Salmonidae|Salmoninae|Oncorhynchus|Oncorhynchus mykiss",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|1024043|216171|739933|936925|739931|165368",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 28,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 9313,
+      "end": 9319,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Consuegra",
+      "name": "Consuegra",
+      "odds": 145.0779034706588,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 9724,
+      "end": 9733,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "20032-1",
+          "matchedName": "Consuegra Spreng.",
+          "matchedCanonical": "Consuegra",
+          "currentName": "Consuegra Spreng.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3790641",
+            "matchedName": "Consuegra Spreng.",
+            "matchedCanonical": "Consuegra",
+            "currentName": "Consuegra Spreng.",
+            "classificationPath": "Plantae||Consuegra",
+            "classificationRank": "kingdom|family|genus",
+            "classificationIDs": "6|7356645|3790641",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloé",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          }
+        }
+      },
+      "start": 9786,
+      "end": 9793,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Llanquihue",
+      "name": "Llanquihue",
+      "odds": 6459.971493618489,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 9921,
+      "end": 9931,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1474604",
+          "matchedName": "Llanquihue Arias, 2008",
+          "matchedCanonical": "Llanquihue",
+          "currentName": "Llanquihue Arias, 2008",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Elateridae|Llanquihue",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|100180|1474604",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9039928",
+            "matchedName": "Llanquihue Arias, 2008",
+            "matchedCanonical": "Llanquihue",
+            "currentName": "Llanquihue Arias, 2008",
+            "classificationPath": "|Llanquihue",
+            "classificationRank": "kingdom|genus",
+            "classificationIDs": "0|9039928",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 10454,
+      "end": 10461,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloé",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 10933,
+      "end": 10940,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Consuegra",
+      "name": "Consuegra",
+      "odds": 145.0779034706588,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 10949,
+      "end": 10958,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "20032-1",
+          "matchedName": "Consuegra Spreng.",
+          "matchedCanonical": "Consuegra",
+          "currentName": "Consuegra Spreng.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3790641",
+            "matchedName": "Consuegra Spreng.",
+            "matchedCanonical": "Consuegra",
+            "currentName": "Consuegra Spreng.",
+            "classificationPath": "Plantae||Consuegra",
+            "classificationRank": "kingdom|family|genus",
+            "classificationIDs": "6|7356645|3790641",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 12257,
+      "end": 12263,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Consuegra",
+      "name": "Consuegra",
+      "odds": 145.0779034706588,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 16289,
+      "end": 16298,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "20032-1",
+          "matchedName": "Consuegra Spreng.",
+          "matchedCanonical": "Consuegra",
+          "currentName": "Consuegra Spreng.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3790641",
+            "matchedName": "Consuegra Spreng.",
+            "matchedCanonical": "Consuegra",
+            "currentName": "Consuegra Spreng.",
+            "classificationPath": "Plantae||Consuegra",
+            "classificationRank": "kingdom|family|genus",
+            "classificationIDs": "6|7356645|3790641",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 21498,
+      "end": 21504,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Consuegra",
+      "name": "Consuegra",
+      "odds": 145.0779034706588,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 21689,
+      "end": 21698,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "20032-1",
+          "matchedName": "Consuegra Spreng.",
+          "matchedCanonical": "Consuegra",
+          "currentName": "Consuegra Spreng.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3790641",
+            "matchedName": "Consuegra Spreng.",
+            "matchedCanonical": "Consuegra",
+            "currentName": "Consuegra Spreng.",
+            "classificationPath": "Plantae||Consuegra",
+            "classificationRank": "kingdom|family|genus",
+            "classificationIDs": "6|7356645|3790641",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          }
+        }
+      },
+      "start": 22408,
+      "end": 22414,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 22415,
+      "end": 22421,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 22422,
+      "end": 22428,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 22429,
+      "end": 22435,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          }
+        }
+      },
+      "start": 22436,
+      "end": 22442,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 22533,
+      "end": 22539,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          }
+        }
+      },
+      "start": 22540,
+      "end": 22546,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Llanquihue",
+      "name": "Llanquihue",
+      "odds": 6459.971493618489,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 22668,
+      "end": 22678,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1474604",
+          "matchedName": "Llanquihue Arias, 2008",
+          "matchedCanonical": "Llanquihue",
+          "currentName": "Llanquihue Arias, 2008",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Elateridae|Llanquihue",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|100180|1474604",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9039928",
+            "matchedName": "Llanquihue Arias, 2008",
+            "matchedCanonical": "Llanquihue",
+            "currentName": "Llanquihue Arias, 2008",
+            "classificationPath": "|Llanquihue",
+            "classificationRank": "kingdom|genus",
+            "classificationIDs": "0|9039928",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          }
+        }
+      },
+      "start": 23920,
+      "end": 23926,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Consuegra",
+      "name": "Consuegra",
+      "odds": 145.0779034706588,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 26486,
+      "end": 26495,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "20032-1",
+          "matchedName": "Consuegra Spreng.",
+          "matchedCanonical": "Consuegra",
+          "currentName": "Consuegra Spreng.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3790641",
+            "matchedName": "Consuegra Spreng.",
+            "matchedCanonical": "Consuegra",
+            "currentName": "Consuegra Spreng.",
+            "classificationPath": "Plantae||Consuegra",
+            "classificationRank": "kingdom|family|genus",
+            "classificationIDs": "6|7356645|3790641",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          }
+        }
+      },
+      "start": 27361,
+      "end": 27367,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Llanquihue",
+      "name": "Llanquihue",
+      "odds": 6459.971493618489,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 27486,
+      "end": 27496,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1474604",
+          "matchedName": "Llanquihue Arias, 2008",
+          "matchedCanonical": "Llanquihue",
+          "currentName": "Llanquihue Arias, 2008",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Elateridae|Llanquihue",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|100180|1474604",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9039928",
+            "matchedName": "Llanquihue Arias, 2008",
+            "matchedCanonical": "Llanquihue",
+            "currentName": "Llanquihue Arias, 2008",
+            "classificationPath": "|Llanquihue",
+            "classificationRank": "kingdom|genus",
+            "classificationIDs": "0|9039928",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 28129,
+      "end": 28135,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Consuegra",
+      "name": "Consuegra",
+      "odds": 145.0779034706588,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 30899,
+      "end": 30908,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "20032-1",
+          "matchedName": "Consuegra Spreng.",
+          "matchedCanonical": "Consuegra",
+          "currentName": "Consuegra Spreng.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3790641",
+            "matchedName": "Consuegra Spreng.",
+            "matchedCanonical": "Consuegra",
+            "currentName": "Consuegra Spreng.",
+            "classificationPath": "Plantae||Consuegra",
+            "classificationRank": "kingdom|family|genus",
+            "classificationIDs": "6|7356645|3790641",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 31330,
+      "end": 31336,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 31558,
+      "end": 31564,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          }
+        }
+      },
+      "start": 35654,
+      "end": 35660,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloe",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          }
+        }
+      },
+      "start": 35794,
+      "end": 35800,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiloé",
+      "name": "Chiloe",
+      "odds": 12956.171076152397,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "loe": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 35889,
+      "end": 35896,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45938908",
+          "matchedName": "Chiloe",
+          "matchedCanonical": "Chiloe",
+          "currentName": "Chiloe",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45938908",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45841570|45841573|45938908",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1390772",
+            "matchedName": "Chiloe Gibson \u0026 Huber, 2000",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe Gibson \u0026 Huber, 2000",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Rotoitidae|Chiloe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|5513|1390772",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "947215",
+            "matchedName": "Chiloe",
+            "matchedCanonical": "Chiloe",
+            "currentName": "Chiloe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Chaldicoidea|Chalcidoidea|Rotoitidae|Chiloe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|84294|1073707|63317|947215",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Consuegra",
+      "name": "Consuegra",
+      "odds": 145.0779034706588,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 36070,
+      "end": 36079,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "20032-1",
+          "matchedName": "Consuegra Spreng.",
+          "matchedCanonical": "Consuegra",
+          "currentName": "Consuegra Spreng.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3790641",
+            "matchedName": "Consuegra Spreng.",
+            "matchedCanonical": "Consuegra",
+            "currentName": "Consuegra Spreng.",
+            "classificationPath": "Plantae||Consuegra",
+            "classificationRank": "kingdom|family|genus",
+            "classificationIDs": "6|7356645|3790641",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Patricia",
+      "name": "Patricia",
+      "odds": 347539.07755497075,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "cia": 135.14676571842725
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 41181,
+      "end": 41189,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45888857",
+          "matchedName": "Patricia",
+          "matchedCanonical": "Patricia",
+          "currentName": "Patricia",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Papilionoidea|Nymphalidae|Patricia",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45841633|45847767|45888857",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45888857",
+            "matchedName": "Patricia",
+            "matchedCanonical": "Patricia",
+            "currentName": "Patricia",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Papilionoidea|Nymphalidae|Patricia",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45841633|45847767|45888857",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1907990",
+            "matchedName": "Patricia Fox, 1940",
+            "matchedCanonical": "Patricia",
+            "currentName": "Patricia Fox, 1940",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Nymphalidae|Patricia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|7017|1907990",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "847031",
+            "matchedName": "Patricia",
+            "matchedCanonical": "Patricia",
+            "currentName": "Patricia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Papilionoidea|Nymphalidae|Danainae|Ithomiini|Melinaeina|Patricia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|tribe|subtribe|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675118|358161|956921|809131|200612|847031",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anita",
+      "name": "Anita",
+      "odds": 10634.533796323416,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ita": 20.021743069396628
+          }
+        }
+      },
+      "start": 41215,
+      "end": 41220,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45918046",
+          "matchedName": "Anita",
+          "matchedCanonical": "Anita",
+          "currentName": "Anita",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Noctuoidea|Notodontidae|Anita",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847794|45847804|45918046",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45918046",
+            "matchedName": "Anita",
+            "matchedCanonical": "Anita",
+            "currentName": "Anita",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Noctuoidea|Notodontidae|Anita",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847794|45847804|45918046",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1824000",
+            "matchedName": "Anita Schaus, 1901",
+            "matchedCanonical": "Anita",
+            "currentName": "Anita Schaus, 1901",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Notodontidae|Anita",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|7016|1824000",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "180712",
+            "matchedName": "Anita",
+            "matchedCanonical": "Anita",
+            "currentName": "Anita",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Noctuoidea|Notodontidae|Nystaleinae|Anita",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675124|675121|265971|180712",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cerda,",
+      "name": "Cerda",
+      "odds": 2658.633449080854,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rda": 5.005435767349157
+          }
+        }
+      },
+      "start": 41221,
+      "end": 41227,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1316130",
+          "matchedName": "Cerda Cameron, 1904",
+          "matchedCanonical": "Cerda",
+          "currentName": "Cerda Cameron, 1904",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Hymenoptera|Hymenoptera|Cerda",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10830|105021|1316130",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4674791",
+            "matchedName": "Cerda Cameron, 1904",
+            "matchedCanonical": "Cerda",
+            "currentName": "Cerda Cameron, 1904",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Cerda",
+            "classificationRank": "kingdom|phylum|class|order|genus",
+            "classificationIDs": "1|54|216|1457|4674791",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Orellana",
+      "name": "Orellana",
+      "odds": 3826.756609714393,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 41236,
+      "end": 41244,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45861810",
+          "matchedName": "Orellana",
+          "matchedCanonical": "Orellana",
+          "currentName": "Orellana",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cicadoidea|Cicadidae|Orellana",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841287|45843972|45843973|45861810",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45861810",
+            "matchedName": "Orellana",
+            "matchedCanonical": "Orellana",
+            "currentName": "Orellana",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cicadoidea|Cicadidae|Orellana",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841287|45843972|45843973|45861810",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3266321",
+            "matchedName": "Orellana Distant, 1905",
+            "matchedCanonical": "Orellana",
+            "currentName": "Orellana Distant, 1905",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cicadidae|Orellana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|809|6049|3266321",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6299134",
+            "matchedName": "Orellana",
+            "matchedCanonical": "Orellana",
+            "currentName": "Orellana",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Clypeorrhyncha|Cicadoidea|Cicadidae|Orellana",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|genus|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|866089|866087|290567|6299134",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

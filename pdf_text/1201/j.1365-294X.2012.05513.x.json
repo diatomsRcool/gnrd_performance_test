@@ -1,0 +1,1282 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:58:21.728280828-05:00",
+    "language": "eng",
+    "total_words": 9217,
+    "total_candidates": 1089,
+    "total_names": 16
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Pinus taeda;",
+      "name": "Pinus taeda",
+      "odds": 311479612.75029284,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 5074,
+      "end": 5087,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0f4b6d220f0e55add2027992729e47a8",
+          "matchedName": "Pinus taeda Blanco",
+          "matchedCanonical": "Pinus taeda",
+          "currentName": "Pinus kesiya var. langbianensis (A. Chev.) Gaussen ex N.-S. Bui",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus||Pinus kesiya langbianensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0f4b6d220f0e55add2027992729e47a8",
+            "matchedName": "Pinus taeda Blanco",
+            "matchedCanonical": "Pinus taeda",
+            "currentName": "Pinus kesiya var. langbianensis (A. Chev.) Gaussen ex N.-S. Bui",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus||Pinus kesiya langbianensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7428605",
+            "matchedName": "Pinus taeda Blanco",
+            "matchedCanonical": "Pinus taeda",
+            "currentName": "Pinus kesiya var. langbianensis (A. Chev.) Gaussen ex N.-S. Bui Gaussen ex N.-S. Bui (A. Chev.)",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus kesiya|Pinus kesiya langbianensis ex",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|variety",
+            "classificationIDs": "6|7707728|194|640|3925|2684241|5285824|5285825",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1075736",
+            "matchedName": "Pinus taeda",
+            "matchedCanonical": "Pinus taeda",
+            "currentName": "Pinus taeda",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pinus|Pinus subgenus|Pinus taeda",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|771683|531304|1075736",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Quesada",
+      "name": "Quesada",
+      "odds": 1681.0295283937664,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ada": 0.16872255395558958
+          }
+        }
+      },
+      "start": 5144,
+      "end": 5151,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45978651",
+          "matchedName": "Quesada",
+          "matchedCanonical": "Quesada",
+          "currentName": "Quesada",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cicadoidea|Cicadidae|Quesada",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841287|45843972|45843973|45978651",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45978651",
+            "matchedName": "Quesada",
+            "matchedCanonical": "Quesada",
+            "currentName": "Quesada",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cicadoidea|Cicadidae|Quesada",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841287|45843972|45843973|45978651",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4778808",
+            "matchedName": "Quesada Distant, 1905",
+            "matchedCanonical": "Quesada",
+            "currentName": "Quesada Distant, 1905",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cicadidae|Quesada",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|809|6049|4778808",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3461455",
+            "matchedName": "Quesada",
+            "matchedCanonical": "Quesada",
+            "currentName": "Quesada",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Clypeorrhyncha|Cicadoidea|Cicadidae|Cicadinae|Hyantiini|Quesada",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|genus|superfamily|family|subfamily|tribe|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|866089|866087|290567|118082|5819349|3461455",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Pseudotsuga menziesii",
+      "name": "Pseudotsuga menziesii",
+      "odds": 166230639113.58835,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uga": 2.5027178836745785
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sii": 157.67122667149846
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 5178,
+      "end": 5200,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "af32b916a06e60a0f20d75a632181f7d",
+          "matchedName": "Pseudotsuga menziesii (Mirb.) Franco",
+          "matchedCanonical": "Pseudotsuga menziesii",
+          "currentName": "Pseudotsuga menziesii (Mirb.) Franco",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pseudotsuga|Pseudotsuga menziesii",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45878652|af32b916a06e60a0f20d75a632181f7d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "af32b916a06e60a0f20d75a632181f7d",
+            "matchedName": "Pseudotsuga menziesii (Mirb.) Franco",
+            "matchedCanonical": "Pseudotsuga menziesii",
+            "currentName": "Pseudotsuga menziesii (Mirb.) Franco",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pseudotsuga|Pseudotsuga menziesii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45878652|af32b916a06e60a0f20d75a632181f7d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2685796",
+            "matchedName": "Pseudotsuga menziesii (Mirb.) Franco Franco (Mirb.)",
+            "matchedCanonical": "Pseudotsuga menziesii",
+            "currentName": "Pseudotsuga menziesii (Mirb.) Franco Franco (Mirb.)",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pseudotsuga|Pseudotsuga menziesii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|3925|2685775|2685796",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1075713",
+            "matchedName": "Pseudotsuga menziesii",
+            "matchedCanonical": "Pseudotsuga menziesii",
+            "currentName": "Pseudotsuga menziesii",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pseudotsuga|Pseudotsuga menziesii",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|1075718|1075713",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Picea sitchensis;",
+      "name": "Picea sitchensis",
+      "odds": 614565756145.2892,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cea": 25.027178836745787
+          }
+        }
+      },
+      "start": 5264,
+      "end": 5282,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "27caa15c6e76f908cc0163dd681589dc",
+          "matchedName": "Picea sitchensis (Bong.) Carrière",
+          "matchedCanonical": "Picea sitchensis",
+          "currentName": "Picea sitchensis (Bong.) Carrière",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Picea|Picea sitchensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45878669|27caa15c6e76f908cc0163dd681589dc",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "27caa15c6e76f908cc0163dd681589dc",
+            "matchedName": "Picea sitchensis (Bong.) Carrière",
+            "matchedCanonical": "Picea sitchensis",
+            "currentName": "Picea sitchensis (Bong.) Carrière",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Picea|Picea sitchensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45878669|27caa15c6e76f908cc0163dd681589dc",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5284827",
+            "matchedName": "Picea sitchensis (Bong.) Carrière Carrière (Bong.)",
+            "matchedCanonical": "Picea sitchensis",
+            "currentName": "Picea sitchensis (Bong.) Carrière Carrière (Bong.)",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Picea|Picea sitchensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|3925|7606064|5284827",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771664",
+            "matchedName": "Picea sitchensis",
+            "matchedCanonical": "Picea sitchensis",
+            "currentName": "Picea sitchensis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Picea|Picea sitchensis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|517942|771664",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Pinus contorta)",
+      "name": "Pinus contorta",
+      "odds": 109027445298.27615,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rta": 35.0380503714441
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 6241,
+      "end": 6257,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "13c40c3f2be0b0965bddf948d2b3115f",
+          "matchedName": "Pinus contorta Douglas ex Loudon",
+          "matchedCanonical": "Pinus contorta",
+          "currentName": "Pinus contorta Douglas ex Loudon",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus contorta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825|13c40c3f2be0b0965bddf948d2b3115f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "13c40c3f2be0b0965bddf948d2b3115f",
+            "matchedName": "Pinus contorta Douglas ex Loudon",
+            "matchedCanonical": "Pinus contorta",
+            "currentName": "Pinus contorta Douglas ex Loudon",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus contorta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825|13c40c3f2be0b0965bddf948d2b3115f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8405446",
+            "matchedName": "Pinus contorta Bol.",
+            "matchedCanonical": "Pinus contorta",
+            "currentName": "Pinus contorta Bol.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus contorta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|3925|2684241|8405446",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1044477",
+            "matchedName": "Pinus contorta",
+            "matchedCanonical": "Pinus contorta",
+            "currentName": "Pinus contorta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pinus|Pinus subgenus|Pinus contorta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|771683|531304|1044477",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pinus",
+      "name": "Pinus",
+      "odds": 79759.00347242563,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 7739,
+      "end": 7744,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45869825",
+          "matchedName": "Pinus",
+          "matchedCanonical": "Pinus",
+          "currentName": "Pinus",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45869825",
+            "matchedName": "Pinus",
+            "matchedCanonical": "Pinus",
+            "currentName": "Pinus",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2684241",
+            "matchedName": "Pinus L.",
+            "matchedCanonical": "Pinus",
+            "currentName": "Pinus L.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|194|640|3925|2684241",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771683",
+            "matchedName": "Pinus",
+            "matchedCanonical": "Pinus",
+            "currentName": "Pinus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pinus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|771683",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pinus contorta",
+      "name": "Pinus contorta",
+      "odds": 109027445298.27615,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rta": 35.0380503714441
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 21776,
+      "end": 21790,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "13c40c3f2be0b0965bddf948d2b3115f",
+          "matchedName": "Pinus contorta Douglas ex Loudon",
+          "matchedCanonical": "Pinus contorta",
+          "currentName": "Pinus contorta Douglas ex Loudon",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus contorta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825|13c40c3f2be0b0965bddf948d2b3115f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "13c40c3f2be0b0965bddf948d2b3115f",
+            "matchedName": "Pinus contorta Douglas ex Loudon",
+            "matchedCanonical": "Pinus contorta",
+            "currentName": "Pinus contorta Douglas ex Loudon",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus contorta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825|13c40c3f2be0b0965bddf948d2b3115f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8405446",
+            "matchedName": "Pinus contorta Bol.",
+            "matchedCanonical": "Pinus contorta",
+            "currentName": "Pinus contorta Bol.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus contorta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|3925|2684241|8405446",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1044477",
+            "matchedName": "Pinus contorta",
+            "matchedCanonical": "Pinus contorta",
+            "currentName": "Pinus contorta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pinus|Pinus subgenus|Pinus contorta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|771683|531304|1044477",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pinus contorta",
+      "name": "Pinus contorta",
+      "odds": 109027445298.27615,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rta": 35.0380503714441
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 32312,
+      "end": 32326,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "13c40c3f2be0b0965bddf948d2b3115f",
+          "matchedName": "Pinus contorta Douglas ex Loudon",
+          "matchedCanonical": "Pinus contorta",
+          "currentName": "Pinus contorta Douglas ex Loudon",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus contorta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825|13c40c3f2be0b0965bddf948d2b3115f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "13c40c3f2be0b0965bddf948d2b3115f",
+            "matchedName": "Pinus contorta Douglas ex Loudon",
+            "matchedCanonical": "Pinus contorta",
+            "currentName": "Pinus contorta Douglas ex Loudon",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus contorta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825|13c40c3f2be0b0965bddf948d2b3115f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8405446",
+            "matchedName": "Pinus contorta Bol.",
+            "matchedCanonical": "Pinus contorta",
+            "currentName": "Pinus contorta Bol.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus contorta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|3925|2684241|8405446",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1044477",
+            "matchedName": "Pinus contorta",
+            "matchedCanonical": "Pinus contorta",
+            "currentName": "Pinus contorta",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pinus|Pinus subgenus|Pinus contorta",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|771683|531304|1044477",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pinus taeda",
+      "name": "Pinus taeda",
+      "odds": 311479612.75029284,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 37059,
+      "end": 37070,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0f4b6d220f0e55add2027992729e47a8",
+          "matchedName": "Pinus taeda Blanco",
+          "matchedCanonical": "Pinus taeda",
+          "currentName": "Pinus kesiya var. langbianensis (A. Chev.) Gaussen ex N.-S. Bui",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus||Pinus kesiya langbianensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0f4b6d220f0e55add2027992729e47a8",
+            "matchedName": "Pinus taeda Blanco",
+            "matchedCanonical": "Pinus taeda",
+            "currentName": "Pinus kesiya var. langbianensis (A. Chev.) Gaussen ex N.-S. Bui",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus||Pinus kesiya langbianensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7428605",
+            "matchedName": "Pinus taeda Blanco",
+            "matchedCanonical": "Pinus taeda",
+            "currentName": "Pinus kesiya var. langbianensis (A. Chev.) Gaussen ex N.-S. Bui Gaussen ex N.-S. Bui (A. Chev.)",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus|Pinus kesiya|Pinus kesiya langbianensis ex",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|variety",
+            "classificationIDs": "6|7707728|194|640|3925|2684241|5285824|5285825",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1075736",
+            "matchedName": "Pinus taeda",
+            "matchedCanonical": "Pinus taeda",
+            "currentName": "Pinus taeda",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pinus|Pinus subgenus|Pinus taeda",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|771683|531304|1075736",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. contorta",
+      "name": "P. contorta",
+      "odds": 634339.6076163275,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rta": 35.0380503714441
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 37149,
+      "end": 37160,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. taeda",
+      "name": "P. taeda",
+      "odds": 1812.239613539128,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 41976,
+      "end": 41984,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Quesada",
+      "name": "Quesada",
+      "odds": 1681.0295283937664,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ada": 0.16872255395558958
+          }
+        }
+      },
+      "start": 46323,
+      "end": 46330,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45978651",
+          "matchedName": "Quesada",
+          "matchedCanonical": "Quesada",
+          "currentName": "Quesada",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cicadoidea|Cicadidae|Quesada",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841287|45843972|45843973|45978651",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45978651",
+            "matchedName": "Quesada",
+            "matchedCanonical": "Quesada",
+            "currentName": "Quesada",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cicadoidea|Cicadidae|Quesada",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841287|45843972|45843973|45978651",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4778808",
+            "matchedName": "Quesada Distant, 1905",
+            "matchedCanonical": "Quesada",
+            "currentName": "Quesada Distant, 1905",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cicadidae|Quesada",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|809|6049|4778808",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3461455",
+            "matchedName": "Quesada",
+            "matchedCanonical": "Quesada",
+            "currentName": "Quesada",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Clypeorrhyncha|Cicadoidea|Cicadidae|Cicadinae|Hyantiini|Quesada",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|genus|superfamily|family|subfamily|tribe|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|866089|866087|290567|118082|5819349|3461455",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Quesada",
+      "name": "Quesada",
+      "odds": 1681.0295283937664,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ada": 0.16872255395558958
+          }
+        }
+      },
+      "start": 51578,
+      "end": 51585,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45978651",
+          "matchedName": "Quesada",
+          "matchedCanonical": "Quesada",
+          "currentName": "Quesada",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cicadoidea|Cicadidae|Quesada",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841287|45843972|45843973|45978651",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45978651",
+            "matchedName": "Quesada",
+            "matchedCanonical": "Quesada",
+            "currentName": "Quesada",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cicadoidea|Cicadidae|Quesada",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841287|45843972|45843973|45978651",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4778808",
+            "matchedName": "Quesada Distant, 1905",
+            "matchedCanonical": "Quesada",
+            "currentName": "Quesada Distant, 1905",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cicadidae|Quesada",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|809|6049|4778808",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3461455",
+            "matchedName": "Quesada",
+            "matchedCanonical": "Quesada",
+            "currentName": "Quesada",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Clypeorrhyncha|Cicadoidea|Cicadidae|Cicadinae|Hyantiini|Quesada",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|genus|superfamily|family|subfamily|tribe|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|866089|866087|290567|118082|5819349|3461455",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pinus,",
+      "name": "Pinus",
+      "odds": 79759.00347242563,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 57889,
+      "end": 57895,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45869825",
+          "matchedName": "Pinus",
+          "matchedCanonical": "Pinus",
+          "currentName": "Pinus",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45869825",
+            "matchedName": "Pinus",
+            "matchedCanonical": "Pinus",
+            "currentName": "Pinus",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2684241",
+            "matchedName": "Pinus L.",
+            "matchedCanonical": "Pinus",
+            "currentName": "Pinus L.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|194|640|3925|2684241",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771683",
+            "matchedName": "Pinus",
+            "matchedCanonical": "Pinus",
+            "currentName": "Pinus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pinus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|771683",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Moya",
+      "name": "Moya",
+      "odds": 1494.5332604889466,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oya": 12.513589418372893
+          }
+        }
+      },
+      "start": 59411,
+      "end": 59415,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145471889",
+          "matchedName": "Moya Acosta-Solís",
+          "matchedCanonical": "Moya",
+          "currentName": "Moya Acosta-Solís",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7265451",
+            "matchedName": "Moya Griseb.",
+            "matchedCanonical": "Moya",
+            "currentName": "Moya Griseb.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Celastrales|Celastraceae|Moya",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|950|6715|7265451",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "995598",
+            "matchedName": "Moya",
+            "matchedCanonical": "Moya",
+            "currentName": "Moya",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Celastrales|Celastraceae|Moya",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|841511|601168|995598",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Cupressus",
+      "name": "Cupressus",
+      "odds": 20238.196355969118,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "sus": 5.318275502808479
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 60470,
+      "end": 60480,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45878663",
+          "matchedName": "Cupressus",
+          "matchedCanonical": "Cupressus",
+          "currentName": "Cupressus",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Cupressaceae|Cupressus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843509|45878663",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45878663",
+            "matchedName": "Cupressus",
+            "matchedCanonical": "Cupressus",
+            "currentName": "Cupressus",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Cupressaceae|Cupressus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843509|45878663",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2683954",
+            "matchedName": "Cupressus L.",
+            "matchedCanonical": "Cupressus",
+            "currentName": "Cupressus L.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Cupressaceae|Cupressus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|194|640|8144|2683954",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "949942",
+            "matchedName": "Cupressus",
+            "matchedCanonical": "Cupressus",
+            "currentName": "Cupressus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Cupressales|Cupressaceae|Cupressus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|5435764|620757|949942",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

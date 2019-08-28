@@ -1,0 +1,4432 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:58:26.676290529-05:00",
+    "language": "eng",
+    "total_words": 8959,
+    "total_candidates": 1337,
+    "total_names": 56
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          }
+        }
+      },
+      "start": 98,
+      "end": 105,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(LUCA)",
+      "name": "Luca",
+      "odds": 5679.226389857997,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uca": 47.55163978981699
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 883,
+      "end": 889,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1159950",
+          "matchedName": "Luca Walker, 1862",
+          "matchedCanonical": "Luca",
+          "currentName": "Luca Walker, 1862",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Notodontidae|Luca",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|114360|1159950",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4702170",
+            "matchedName": "Luca Walker, 1862",
+            "matchedCanonical": "Luca",
+            "currentName": "Luca Walker, 1862",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Notodontidae|Luca",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|7016|4702170",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4244377",
+            "matchedName": "Luca",
+            "matchedCanonical": "Luca",
+            "currentName": "Luca",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Noctuoidea|Notodontidae|Luca",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675124|675121|4244377",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LUCA",
+      "name": "Luca",
+      "odds": 5679.226389857997,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uca": 47.55163978981699
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 962,
+      "end": 966,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1159950",
+          "matchedName": "Luca Walker, 1862",
+          "matchedCanonical": "Luca",
+          "currentName": "Luca Walker, 1862",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Notodontidae|Luca",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|114360|1159950",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4702170",
+            "matchedName": "Luca Walker, 1862",
+            "matchedCanonical": "Luca",
+            "currentName": "Luca Walker, 1862",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Notodontidae|Luca",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|7016|4702170",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4244377",
+            "matchedName": "Luca",
+            "matchedCanonical": "Luca",
+            "currentName": "Luca",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Noctuoidea|Notodontidae|Luca",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675124|675121|4244377",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          }
+        }
+      },
+      "start": 1166,
+      "end": 1173,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 1223,
+      "end": 1230,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea.",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          }
+        }
+      },
+      "start": 2670,
+      "end": 2678,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea,",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 2690,
+      "end": 2698,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          }
+        }
+      },
+      "start": 2832,
+      "end": 2839,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LUCA",
+      "name": "Luca",
+      "odds": 5679.226389857997,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uca": 47.55163978981699
+          }
+        }
+      },
+      "start": 3524,
+      "end": 3528,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1159950",
+          "matchedName": "Luca Walker, 1862",
+          "matchedCanonical": "Luca",
+          "currentName": "Luca Walker, 1862",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Notodontidae|Luca",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|114360|1159950",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4702170",
+            "matchedName": "Luca Walker, 1862",
+            "matchedCanonical": "Luca",
+            "currentName": "Luca Walker, 1862",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Notodontidae|Luca",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|7016|4702170",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4244377",
+            "matchedName": "Luca",
+            "matchedCanonical": "Luca",
+            "currentName": "Luca",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Noctuoidea|Notodontidae|Luca",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675124|675121|4244377",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LUCA",
+      "name": "Luca",
+      "odds": 5679.226389857997,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "uca": 47.55163978981699
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 3663,
+      "end": 3667,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1159950",
+          "matchedName": "Luca Walker, 1862",
+          "matchedCanonical": "Luca",
+          "currentName": "Luca Walker, 1862",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Notodontidae|Luca",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|114360|1159950",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4702170",
+            "matchedName": "Luca Walker, 1862",
+            "matchedCanonical": "Luca",
+            "currentName": "Luca Walker, 1862",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Notodontidae|Luca",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|7016|4702170",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4244377",
+            "matchedName": "Luca",
+            "matchedCanonical": "Luca",
+            "currentName": "Luca",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Noctuoidea|Notodontidae|Luca",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675124|675121|4244377",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea,",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 3723,
+      "end": 3731,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 4724,
+      "end": 4731,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea.",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 5905,
+      "end": 5913,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          }
+        }
+      },
+      "start": 6682,
+      "end": 6689,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Cenarchaeum symbiosum,",
+      "name": "Cenarchaeum symbiosum",
+      "odds": 148959923361.52725,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eum": 2.047678268461019
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sum": 172.68753397354592
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 7999,
+      "end": 8021,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "573558",
+          "matchedName": "Cenarchaeum symbiosum Preston, Wu, Molinski \u0026 De Long, 1996",
+          "matchedCanonical": "Cenarchaeum symbiosum",
+          "currentName": "Cenarchaeum symbiosum Preston, Wu, Molinski \u0026 De Long, 1996",
+          "classificationPath": "Biota|Archaea|Thaumarchaeota|Cenarchaeales|Cenarchaeaceae|Cenarchaeum|Cenarchaeum symbiosum",
+          "classificationRank": "|Kingdom|phylum|order|family|genus|species",
+          "classificationIDs": "1|8|559429|573555|573556|573557|573558",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5900469",
+            "matchedName": "Cenarchaeum symbiosum Preston, Wu, Molinski \u0026 De Long, 1996",
+            "matchedCanonical": "Cenarchaeum symbiosum",
+            "currentName": "Cenarchaeum symbiosum Preston, Wu, Molinski \u0026 De Long, 1996",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Cenarchaeaceae|Cenarchaeum|Cenarchaeum symbiosum",
+            "classificationRank": "kingdom|phylum|class|family|genus|species",
+            "classificationIDs": "2|79|292|4896414|4896415|5900469",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "376618",
+            "matchedName": "Cenarchaeum symbiosum A",
+            "matchedCanonical": "Cenarchaeum symbiosum",
+            "currentName": "Cenarchaeum symbiosum A",
+            "classificationPath": "||Archaea|Thaumarchaeota|Marine|Cenarchaeales|Cenarchaeaceae|Cenarchaeum|Cenarchaeum symbiosum",
+            "classificationRank": "no rank|no rank|domain|phylum|no rank|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|102415|4795965|179705|189165|888219|376618",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea,",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 8885,
+      "end": 8893,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          }
+        }
+      },
+      "start": 9133,
+      "end": 9140,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ignicoccus hospitalis,",
+      "name": "Ignicoccus hospitalis",
+      "odds": 61539895780509.44,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 9720,
+      "end": 9742,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6a45e35649564ec25ba7ea58815c185b",
+          "matchedName": "Ignicoccus hospitalis Paper et al., 2007",
+          "matchedCanonical": "Ignicoccus hospitalis",
+          "currentName": "Ignicoccus hospitalis Paper et al., 2007",
+          "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Desulfurococcales|Desulfurococcaceae|Ignicoccus|Ignicoccus hospitalis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45844256|45844297|45844298|45844306|45844308|45953731|6a45e35649564ec25ba7ea58815c185b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6a45e35649564ec25ba7ea58815c185b",
+            "matchedName": "Ignicoccus hospitalis Paper et al., 2007",
+            "matchedCanonical": "Ignicoccus hospitalis",
+            "currentName": "Ignicoccus hospitalis Paper et al., 2007",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Desulfurococcales|Desulfurococcaceae|Ignicoccus|Ignicoccus hospitalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45844256|45844297|45844298|45844306|45844308|45953731|6a45e35649564ec25ba7ea58815c185b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5900523",
+            "matchedName": "Ignicoccus hospitalis Paper et al., 2007",
+            "matchedCanonical": "Ignicoccus hospitalis",
+            "currentName": "Ignicoccus hospitalis Paper et al., 2007",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Desulfurococcales|Desulfurococcaceae|Ignicoccus|Ignicoccus hospitalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "2|79|292|1189|7786|1000032|5900523",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "178943",
+            "matchedName": "Ignicoccus hospitalis KIN4/I",
+            "matchedCanonical": "Ignicoccus hospitalis",
+            "currentName": "Ignicoccus hospitalis KIN4/I",
+            "classificationPath": "||Archaea|Crenarchaeota|Thermoprotei|Desulfurococcales|Desulfurococcaceae|Ignicoccus|Ignicoccus hospitalis|Ignicoccus hospitalis",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|114216|820306|857129|466736|306908|395937|178943",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Desulfurococcus kamchatkensis,",
+      "name": "Desulfurococcus kamchatkensis",
+      "odds": 737280221880477.9,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 9743,
+      "end": 9773,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d726698a97b42ae84b6d72af409717bf",
+          "matchedName": "Desulfurococcus kamchatkensis Kublanov et al., 2009",
+          "matchedCanonical": "Desulfurococcus kamchatkensis",
+          "currentName": "Desulfurococcus kamchatkensis Kublanov et al., 2009",
+          "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Desulfurococcales|Desulfurococcaceae|Desulfurococcus|Desulfurococcus kamchatkensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45844256|45844297|45844298|45844306|45844308|45966586|d726698a97b42ae84b6d72af409717bf",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d726698a97b42ae84b6d72af409717bf",
+            "matchedName": "Desulfurococcus kamchatkensis Kublanov et al., 2009",
+            "matchedCanonical": "Desulfurococcus kamchatkensis",
+            "currentName": "Desulfurococcus kamchatkensis Kublanov et al., 2009",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Desulfurococcales|Desulfurococcaceae|Desulfurococcus|Desulfurococcus kamchatkensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45844256|45844297|45844298|45844306|45844308|45966586|d726698a97b42ae84b6d72af409717bf",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7422186",
+            "matchedName": "Desulfurococcus kamchatkensis Kublanov et al., 2009",
+            "matchedCanonical": "Desulfurococcus kamchatkensis",
+            "currentName": "Desulfurococcus kamchatkensis Kublanov et al., 2009",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Desulfurococcales|Desulfurococcaceae|Desulfurococcus|Desulfurococcus kamchatkensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "2|79|292|1189|7786|1000022|7422186",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "458375",
+            "matchedName": "Desulfurococcus kamchatkensis 1221n",
+            "matchedCanonical": "Desulfurococcus kamchatkensis",
+            "currentName": "Desulfurococcus kamchatkensis 1221n",
+            "classificationPath": "||Archaea|Crenarchaeota|Thermoprotei|Desulfurococcales|Desulfurococcaceae|Desulfurococcus|Desulfurococcus kamchatkensis|Desulfurococcus kamchatkensis",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|114216|820306|857129|466736|466734|1034469|458375",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Metallosphaera sedula,",
+      "name": "Metallosphaera sedula",
+      "odds": 2387985304258.858,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 9774,
+      "end": 9796,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2d047cfc545e01965c738facf0d1d402",
+          "matchedName": "Metallosphaera sedula Huber et al., 1989",
+          "matchedCanonical": "Metallosphaera sedula",
+          "currentName": "Metallosphaera sedula Huber et al., 1989",
+          "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Sulfolobales|Sulfolobaceae|Metallosphaera|Metallosphaera sedula",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45844256|45844297|45844298|45844302|45844303|45953479|2d047cfc545e01965c738facf0d1d402",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2d047cfc545e01965c738facf0d1d402",
+            "matchedName": "Metallosphaera sedula Huber et al., 1989",
+            "matchedCanonical": "Metallosphaera sedula",
+            "currentName": "Metallosphaera sedula Huber et al., 1989",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Sulfolobales|Sulfolobaceae|Metallosphaera|Metallosphaera sedula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45844256|45844297|45844298|45844302|45844303|45953479|2d047cfc545e01965c738facf0d1d402",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1000059",
+            "matchedName": "Metallosphaera sedula Huber et al., 1989",
+            "matchedCanonical": "Metallosphaera sedula",
+            "currentName": "Metallosphaera sedula Huber et al., 1989",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Sulfolobales|Sulfolobaceae|Metallosphaera|Metallosphaera sedula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "2|79|292|564|7787|1000057|1000059",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "50715",
+            "matchedName": "Metallosphaera sedula DSM 5348",
+            "matchedCanonical": "Metallosphaera sedula",
+            "currentName": "Metallosphaera sedula DSM 5348",
+            "classificationPath": "||Archaea|Crenarchaeota|Thermoprotei|Sulfolobales|Sulfolobaceae|Metallosphaera|Metallosphaera sedula",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|114216|820306|98100|828129|955188|50715",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Caldivirga maquilingensis,",
+      "name": "Caldivirga maquilingensis",
+      "odds": 2560900143414.7393,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rga": 5.005435767349157
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 9797,
+      "end": 9823,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6a0e4a7b67d322d932ca616f68038364",
+          "matchedName": "Caldivirga maquilingensis Itoh et al., 1999",
+          "matchedCanonical": "Caldivirga maquilingensis",
+          "currentName": "Caldivirga maquilingensis Itoh et al., 1999",
+          "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Thermoproteales|Thermoproteaceae|Caldivirga|Caldivirga maquilingensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45844256|45844297|45844298|45844299|45844300|45966588|6a0e4a7b67d322d932ca616f68038364",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6a0e4a7b67d322d932ca616f68038364",
+            "matchedName": "Caldivirga maquilingensis Itoh et al., 1999",
+            "matchedCanonical": "Caldivirga maquilingensis",
+            "currentName": "Caldivirga maquilingensis Itoh et al., 1999",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Thermoproteales|Thermoproteaceae|Caldivirga|Caldivirga maquilingensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45844256|45844297|45844298|45844299|45844300|45966588|6a0e4a7b67d322d932ca616f68038364",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1000071",
+            "matchedName": "Caldivirga maquilingensis Itoh et al., 1999",
+            "matchedCanonical": "Caldivirga maquilingensis",
+            "currentName": "Caldivirga maquilingensis Itoh et al., 1999",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Thermoproteales|Thermoproteaceae|Caldivirga|Caldivirga maquilingensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "2|79|292|1191|3798|1000070|1000071",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "176389",
+            "matchedName": "Caldivirga maquilingensis IC-167",
+            "matchedCanonical": "Caldivirga maquilingensis",
+            "currentName": "Caldivirga maquilingensis IC-167",
+            "classificationPath": "||Archaea|Crenarchaeota|Thermoprotei|Thermoproteales|Thermoproteaceae|Caldivirga|Caldivirga maquilingensis",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|114216|820306|1043516|1043518|225217|176389",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pyrobaculum arsenaticum,",
+      "name": "Pyrobaculum arsenaticum",
+      "odds": 44014900244536.84,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "cum": 207.72558434499
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lum": 190.20655915926795
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 9824,
+      "end": 9848,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1f507c0e20d44cc8b1a92b33220d38e4",
+          "matchedName": "Pyrobaculum arsenaticum Huber et al., 2001",
+          "matchedCanonical": "Pyrobaculum arsenaticum",
+          "currentName": "Pyrobaculum arsenaticum Huber et al., 2001",
+          "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Thermoproteales|Thermoproteaceae|Pyrobaculum|Pyrobaculum arsenaticum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45844256|45844297|45844298|45844299|45844300|45952591|1f507c0e20d44cc8b1a92b33220d38e4",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1f507c0e20d44cc8b1a92b33220d38e4",
+            "matchedName": "Pyrobaculum arsenaticum Huber et al., 2001",
+            "matchedCanonical": "Pyrobaculum arsenaticum",
+            "currentName": "Pyrobaculum arsenaticum Huber et al., 2001",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Thermoproteales|Thermoproteaceae|Pyrobaculum|Pyrobaculum arsenaticum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45844256|45844297|45844298|45844299|45844300|45952591|1f507c0e20d44cc8b1a92b33220d38e4",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1000078",
+            "matchedName": "Pyrobaculum arsenaticum Huber et al., 2001",
+            "matchedCanonical": "Pyrobaculum arsenaticum",
+            "currentName": "Pyrobaculum arsenaticum Huber et al., 2001",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Thermoproteales|Thermoproteaceae|Pyrobaculum|Pyrobaculum arsenaticum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "2|79|292|1191|3798|1000074|1000078",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "979009",
+            "matchedName": "Pyrobaculum arsenaticum DSM 13514",
+            "matchedCanonical": "Pyrobaculum arsenaticum",
+            "currentName": "Pyrobaculum arsenaticum DSM 13514",
+            "classificationPath": "||Archaea|Crenarchaeota|Thermoprotei|Thermoproteales|Thermoproteaceae|Pyrobaculum|Pyrobaculum arsenaticum",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|114216|820306|1043516|1043518|466723|979009",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Thermoproteus neutrophilus,",
+      "name": "Thermoproteus neutrophilus",
+      "odds": 62640307601196.76,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eus": 127.6386120674035
+          }
+        }
+      },
+      "start": 9849,
+      "end": 9876,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "94cb2ca8e9906d40b8d54661daff7b3c",
+          "matchedName": "Thermoproteus neutrophilus Stetter and Zillig, 1989",
+          "matchedCanonical": "Thermoproteus neutrophilus",
+          "currentName": "Thermoproteus neutrophilus Stetter and Zillig, 1989",
+          "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Thermoproteales|Thermoproteaceae|Thermoproteus|Thermoproteus neutrophilus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45844256|45844297|45844298|45844299|45844300|45952399|94cb2ca8e9906d40b8d54661daff7b3c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "94cb2ca8e9906d40b8d54661daff7b3c",
+            "matchedName": "Thermoproteus neutrophilus Stetter and Zillig, 1989",
+            "matchedCanonical": "Thermoproteus neutrophilus",
+            "currentName": "Thermoproteus neutrophilus Stetter and Zillig, 1989",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Thermoproteales|Thermoproteaceae|Thermoproteus|Thermoproteus neutrophilus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45844256|45844297|45844298|45844299|45844300|45952399|94cb2ca8e9906d40b8d54661daff7b3c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1000067",
+            "matchedName": "Thermoproteus neutrophilus Stetter \u0026 Zillig, 1989",
+            "matchedCanonical": "Thermoproteus neutrophilus",
+            "currentName": "Thermoproteus neutrophilus Stetter \u0026 Zillig, 1989",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Thermoproteales|Thermoproteaceae|Thermoproteus|Thermoproteus neutrophilus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "2|79|292|1191|3798|1000066|1000067",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Halobacterium salinarum,",
+      "name": "Halobacterium salinarum",
+      "odds": 14220195625335.96,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 9877,
+      "end": 9901,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "c48262d7f3355224ce5b697400b88ea0",
+          "matchedName": "Halobacterium salinarum (Harrison and Kennedy, 1922) Elazari-Volcani, 1957 emend. Gruber et al., 2004",
+          "matchedCanonical": "Halobacterium salinarum",
+          "currentName": "Halobacterium salinarum (Harrison and Kennedy, 1922) Elazari-Volcani, 1957 emend. Gruber et al., 2004",
+          "classificationPath": "Archaea|Euryarchaeota|Halobacteria|Halobacteriales|Halobacteriaceae|Halobacterium|Halobacterium salinarum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45844256|45844257|45844291|45844292|45844293|45952388|c48262d7f3355224ce5b697400b88ea0",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "c48262d7f3355224ce5b697400b88ea0",
+            "matchedName": "Halobacterium salinarum (Harrison and Kennedy, 1922) Elazari-Volcani, 1957 emend. Gruber et al., 2004",
+            "matchedCanonical": "Halobacterium salinarum",
+            "currentName": "Halobacterium salinarum (Harrison and Kennedy, 1922) Elazari-Volcani, 1957 emend. Gruber et al., 2004",
+            "classificationPath": "Archaea|Euryarchaeota|Halobacteria|Halobacteriales|Halobacteriaceae|Halobacterium|Halobacterium salinarum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45844256|45844257|45844291|45844292|45844293|45952388|c48262d7f3355224ce5b697400b88ea0",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7357253",
+            "matchedName": "Halobacterium salinarum",
+            "matchedCanonical": "Halobacterium salinarum",
+            "currentName": "Halobacterium salinarum",
+            "classificationPath": "Archaea|Euryarchaeota|Halobacteria|Halobacteriales|Halobacteriaceae|Halobacterium|Halobacterium salinarum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "2|24|160|565|3802|1000182|7357253",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "734434",
+            "matchedName": "Halobacterium salinarum (strain Mex)",
+            "matchedCanonical": "Halobacterium salinarum",
+            "currentName": "Halobacterium salinarum (strain Mex)",
+            "classificationPath": "||Archaea|Euryarchaeota|Halobacteria|Halobacteriales|Halobacteriaceae|Halobacterium|Halobacterium salinarum|Halobacterium salinarum",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|635958|921404|366302|704765|366265|33192|734434",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Methanococcus voltae,",
+      "name": "Methanococcus voltae",
+      "odds": 2340785485676.8604,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tae": 30.03261460409494
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 9902,
+      "end": 9923,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1f2dd9fe79b7d59de9727b470832d110",
+          "matchedName": "Methanococcus voltae Balch and Wolfe, 1981 emend. Ward et al., 1989",
+          "matchedCanonical": "Methanococcus voltae",
+          "currentName": "Methanococcus voltae Balch and Wolfe, 1981 emend. Ward et al., 1989",
+          "classificationPath": "Archaea|Euryarchaeota|Methanococci|Methanococcales|Methanococcaceae|Methanococcus|Methanococcus voltae",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45844256|45844257|45844283|45844284|45844285|45952143|1f2dd9fe79b7d59de9727b470832d110",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1f2dd9fe79b7d59de9727b470832d110",
+            "matchedName": "Methanococcus voltae Balch and Wolfe, 1981 emend. Ward et al., 1989",
+            "matchedCanonical": "Methanococcus voltae",
+            "currentName": "Methanococcus voltae Balch and Wolfe, 1981 emend. Ward et al., 1989",
+            "classificationPath": "Archaea|Euryarchaeota|Methanococci|Methanococcales|Methanococcaceae|Methanococcus|Methanococcus voltae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45844256|45844257|45844283|45844284|45844285|45952143|1f2dd9fe79b7d59de9727b470832d110",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8876181",
+            "matchedName": "Methanococcus voltae Balch, Fox, Magrum, Woses \u0026 Wolfe, 1979",
+            "matchedCanonical": "Methanococcus voltae",
+            "currentName": "Methanococcus voltae Balch, Fox, Magrum, Woses \u0026 Wolfe, 1979",
+            "classificationPath": "Archaea|Euryarchaeota|Methanococci|Methanococcales|Methanococcaceae|Methanococcus|Methanococcus voltae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "2|24|161|1193|7788|1000140|8876181",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "381805",
+            "matchedName": "Methanococcus voltae A3",
+            "matchedCanonical": "Methanococcus voltae",
+            "currentName": "Methanococcus voltae A3",
+            "classificationPath": "||Archaea|Euryarchaeota|Methanococci|Methanococcales|Methanococcaceae|Methanococcus|Methanococcus voltae|Methanococcus voltae",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|635958|295896|565091|565089|565122|565131|381805",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Methanobrevibacter smithii,",
+      "name": "Methanobrevibacter smithii",
+      "odds": 45496876855.451126,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "18": 9.5103279579634
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "hii": 95.10327957963398
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 9924,
+      "end": 9951,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6fb5d6b51ea580a21b1c8c640bcbf53a",
+          "matchedName": "Methanobrevibacter smithii Balch and Wolfe, 1981",
+          "matchedCanonical": "Methanobrevibacter smithii",
+          "currentName": "Methanobrevibacter smithii Balch and Wolfe, 1981",
+          "classificationPath": "Archaea|Euryarchaeota|Methanobacteria|Methanobacteriales|Methanobacteriaceae|Methanobrevibacter|Methanobrevibacter smithii",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45844256|45844257|45844287|45844288|45844290|45952832|6fb5d6b51ea580a21b1c8c640bcbf53a",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6fb5d6b51ea580a21b1c8c640bcbf53a",
+            "matchedName": "Methanobrevibacter smithii Balch and Wolfe, 1981",
+            "matchedCanonical": "Methanobrevibacter smithii",
+            "currentName": "Methanobrevibacter smithii Balch and Wolfe, 1981",
+            "classificationPath": "Archaea|Euryarchaeota|Methanobacteria|Methanobacteriales|Methanobacteriaceae|Methanobrevibacter|Methanobrevibacter smithii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45844256|45844257|45844287|45844288|45844290|45952832|6fb5d6b51ea580a21b1c8c640bcbf53a",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1000108",
+            "matchedName": "Methanobrevibacter smithii Balch \u0026 Wolfe, 1981",
+            "matchedCanonical": "Methanobrevibacter smithii",
+            "currentName": "Methanobrevibacter smithii Balch \u0026 Wolfe, 1981",
+            "classificationPath": "Archaea|Euryarchaeota|Methanobacteria|Methanobacteriales|Methanobacteriaceae|Methanobrevibacter|Methanobrevibacter smithii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "2|24|293|1192|3801|1000107|1000108",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "585976",
+            "matchedName": "Methanobrevibacter smithii ATCC 35061",
+            "matchedCanonical": "Methanobrevibacter smithii",
+            "currentName": "Methanobrevibacter smithii ATCC 35061",
+            "classificationPath": "||Archaea|Euryarchaeota|Methanobacteria|Methanobacteriales|Methanobacteriaceae|Methanobrevibacter|Methanobrevibacter smithii",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|635958|820302|349564|349566|299188|585976",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Nitrosopumilus maritimus",
+      "name": "Nitrosopumilus maritimus",
+      "odds": 25944452996429.61,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "mus": 80.08697227758651
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 9983,
+      "end": 10007,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "559434",
+          "matchedName": "Nitrosopumilus maritimus Konneke, Bernhard, de la Torre, Walker, Waterbury \u0026 Stahl, 2006",
+          "matchedCanonical": "Nitrosopumilus maritimus",
+          "currentName": "Nitrosopumilus maritimus Konneke, Bernhard, de la Torre, Walker, Waterbury \u0026 Stahl, 2006",
+          "classificationPath": "Biota|Archaea|Thaumarchaeota||Nitrosopumilales|Nitrosopumilaceae|Nitrosopumilus|Nitrosopumilus maritimus",
+          "classificationRank": "|Kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|8|559429|559430|559431|559432|559433|559434",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6453388",
+            "matchedName": "Nitrosopumilus maritimus Konneke, Bernhard, de la Torre, Walker, Waterbury, Stahl, 2006",
+            "matchedCanonical": "Nitrosopumilus maritimus",
+            "currentName": "Nitrosopumilus maritimus Konneke, Bernhard, de la Torre, Walker, Waterbury, Stahl, 2006",
+            "classificationPath": "Archaea|Nitrosopumilaceae|Nitrosopumilus|Nitrosopumilus maritimus",
+            "classificationRank": "kingdom|family|genus|species",
+            "classificationIDs": "2|6453386|6453387|6453388",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "922115",
+            "matchedName": "Nitrosopumilus maritimus SCM1",
+            "matchedCanonical": "Nitrosopumilus maritimus",
+            "currentName": "Nitrosopumilus maritimus SCM1",
+            "classificationPath": "||Archaea|Thaumarchaeota|Marine|Candidatus|Nitrosopumilus maritimus|Nitrosopumilus maritimus",
+            "classificationRank": "no rank|no rank|domain|phylum|no rank|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|102415|4795965|933987|933975|922115",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Giardia lamblia genome,",
+      "name": "Giardia lamblia genome",
+      "odds": 25203391.582162194,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spEnd3": {
+            "lia": 320.34788911034605
+          },
+          "ispEnd3": {
+            "ome": 0.07360934951984055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "uniEnd3": {
+            "dia": 3.1730887453731267
+          }
+        }
+      },
+      "start": 10649,
+      "end": 10672,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ee4d9204fcc34194a8a7c012c53a2fb0",
+          "matchedName": "Giardia lamblia Kofoid and Christiansen, 1915",
+          "matchedCanonical": "Giardia lamblia",
+          "currentName": "Giardia lamblia Kofoid and Christiansen, 1915",
+          "classificationPath": "Protozoa|Sarcomastigophora|Zoomastigophora|Diplomonadida|Hexamitidae|Giardia|Giardia lamblia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45843484|45846884|45846888|45846889|45846890|45910456|ee4d9204fcc34194a8a7c012c53a2fb0",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ee4d9204fcc34194a8a7c012c53a2fb0",
+            "matchedName": "Giardia lamblia Kofoid and Christiansen, 1915",
+            "matchedCanonical": "Giardia lamblia",
+            "currentName": "Giardia lamblia Kofoid and Christiansen, 1915",
+            "classificationPath": "Protozoa|Sarcomastigophora|Zoomastigophora|Diplomonadida|Hexamitidae|Giardia|Giardia lamblia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45843484|45846884|45846888|45846889|45846890|45910456|ee4d9204fcc34194a8a7c012c53a2fb0",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5425222",
+            "matchedName": "Giardia lamblia Kofoid \u0026 Christiansen, 1915",
+            "matchedCanonical": "Giardia lamblia",
+            "currentName": "Giardia lamblia Kofoid \u0026 Christiansen, 1915",
+            "classificationPath": "Protozoa|Sarcomastigophora|Zoomastigophora|Diplomonadida|Hexamitidae|Giardia|Giardia lamblia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "7|56|118|757|5858|3210232|5425222",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "274737",
+            "matchedName": "Giardia lamblia ATCC 50803",
+            "matchedCanonical": "Giardia lamblia",
+            "currentName": "Giardia lamblia ATCC 50803",
+            "classificationPath": "||Eukaryota|Excavata|Metamonada|Fornicata|Diplomonadida|Hexamitidae|Giardiinae|Giardia|Giardia intestinalis|Giardia lamblia",
+            "classificationRank": "no rank|no rank|domain|infrakingdom|phylum|no rank|order|family|subfamily|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|304358|2927065|5246121|559884|171546|171545|333793|694356|694358|274737",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Nanoarchaeum equitans,",
+      "name": "Nanoarchaeum equitans",
+      "odds": 6936880039.032953,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "eum": 2.047678268461019
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ans": 6.781558136408536
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 13174,
+      "end": 13196,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "228908",
+          "matchedName": "Nanoarchaeum equitans Kin4-M",
+          "matchedCanonical": "Nanoarchaeum equitans",
+          "currentName": "Nanoarchaeum equitans Kin4-M",
+          "classificationPath": "|Archaea||Nanoarchaeota|Nanoarchaeales|Nanoarchaeaceae|Nanoarchaeum|Nanoarchaeum equitans|Nanoarchaeum equitans",
+          "classificationRank": "|superkingdom||phylum|order|family|genus|species|",
+          "classificationIDs": "131567|2157|1783276|192989|1890940|1890941|193568|160232|228908",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "70763",
+            "matchedName": "Nanoarchaeum equitans Kin4-M",
+            "matchedCanonical": "Nanoarchaeum equitans",
+            "currentName": "Nanoarchaeum equitans Kin4-M",
+            "classificationPath": "||Archaea|Nanoarchaeota|Nanoarchaeum|Nanoarchaeum equitans|Nanoarchaeum equitans",
+            "classificationRank": "no rank|no rank|domain|phylum|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|678209|254769|395935|70763",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 13654,
+      "end": 13661,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea,",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 14220,
+      "end": 14228,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "N. equitans",
+      "name": "N. equitans",
+      "odds": 122775.4079257408,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ans": 6.781558136408536
+          }
+        }
+      },
+      "start": 14540,
+      "end": 14551,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "G. lamblia",
+      "name": "G. lamblia",
+      "odds": 3702939.060436983,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lia": 320.34788911034605
+          }
+        }
+      },
+      "start": 17317,
+      "end": 17327,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          }
+        }
+      },
+      "start": 18957,
+      "end": 18964,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pseudomonas entomophila",
+      "name": "Pseudomonas entomophila",
+      "odds": 263754475149.5708,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ila": 45.04892190614242
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nas": 5.255707555716615
+          }
+        }
+      },
+      "start": 19122,
+      "end": 19145,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 2,
+          "dataSourceTitle": "Wikispecies",
+          "taxonId": "296429",
+          "matchedName": "Pseudomonas entomophila L48",
+          "matchedCanonical": "Pseudomonas entomophila",
+          "currentName": "Pseudomonas entomophila L48",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8277655",
+            "matchedName": "Pseudomonas entomophila Mulet et al., 2012",
+            "matchedCanonical": "Pseudomonas entomophila",
+            "currentName": "Pseudomonas entomophila Mulet et al., 2012",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas entomophila",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1474|5607|3219881|8277655",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "111573",
+            "matchedName": "Pseudomonas entomophila L48",
+            "matchedCanonical": "Pseudomonas entomophila",
+            "currentName": "Pseudomonas entomophila L48",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas entomophila",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|191376|767325|281374|111573",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Anaeromyxobacter dehalogenans,",
+      "name": "Anaeromyxobacter dehalogenans",
+      "odds": 47246948412.45897,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ans": 6.781558136408536
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "16": 29.094095397716973
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          }
+        }
+      },
+      "start": 19150,
+      "end": 19180,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f2802a3c4c59fa398de3a914fe24534e",
+          "matchedName": "Anaeromyxobacter dehalogenans Sanford et al., 2002",
+          "matchedCanonical": "Anaeromyxobacter dehalogenans",
+          "currentName": "Anaeromyxobacter dehalogenans Sanford et al., 2002",
+          "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales|Cystobacteraceae|Anaeromyxobacter|Anaeromyxobacter dehalogenans",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849507|45849527|45849528|45949556|f2802a3c4c59fa398de3a914fe24534e",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f2802a3c4c59fa398de3a914fe24534e",
+            "matchedName": "Anaeromyxobacter dehalogenans Sanford et al., 2002",
+            "matchedCanonical": "Anaeromyxobacter dehalogenans",
+            "currentName": "Anaeromyxobacter dehalogenans Sanford et al., 2002",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales|Cystobacteraceae|Anaeromyxobacter|Anaeromyxobacter dehalogenans",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849507|45849527|45849528|45949556|f2802a3c4c59fa398de3a914fe24534e",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3220546",
+            "matchedName": "Anaeromyxobacter dehalogenans Sanford et al., 2002",
+            "matchedCanonical": "Anaeromyxobacter dehalogenans",
+            "currentName": "Anaeromyxobacter dehalogenans Sanford et al., 2002",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales|Cystobacteraceae|Anaeromyxobacter|Anaeromyxobacter dehalogenans",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|338|1384|4875|3220545|3220546",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "722070",
+            "matchedName": "Anaeromyxobacter dehalogenans 2CP-1",
+            "matchedCanonical": "Anaeromyxobacter dehalogenans",
+            "currentName": "Anaeromyxobacter dehalogenans 2CP-1",
+            "classificationPath": "||Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales|Cystobacteraceae|Anaeromyxobacter|Anaeromyxobacter dehalogenans",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|109210|1007130|939421|179328|722070",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea,",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          }
+        }
+      },
+      "start": 19727,
+      "end": 19735,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 20201,
+      "end": 20208,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          }
+        }
+      },
+      "start": 20457,
+      "end": 20464,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 23478,
+      "end": 23485,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          }
+        }
+      },
+      "start": 28975,
+      "end": 28982,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 34631,
+      "end": 34638,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Aeropyrum pernix",
+      "name": "Aeropyrum pernix",
+      "odds": 8420147539.109546,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rum": 68.40762215377181
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nix": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 35251,
+      "end": 35267,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1400a475821570d8bf33fe75e9ab08e4",
+          "matchedName": "Aeropyrum pernix Sako et al., 1996",
+          "matchedCanonical": "Aeropyrum pernix",
+          "currentName": "Aeropyrum pernix Sako et al., 1996",
+          "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Desulfurococcales|Desulfurococcaceae|Aeropyrum|Aeropyrum pernix",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45844256|45844297|45844298|45844306|45844308|45966876|1400a475821570d8bf33fe75e9ab08e4",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1400a475821570d8bf33fe75e9ab08e4",
+            "matchedName": "Aeropyrum pernix Sako et al., 1996",
+            "matchedCanonical": "Aeropyrum pernix",
+            "currentName": "Aeropyrum pernix Sako et al., 1996",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Desulfurococcales|Desulfurococcaceae|Aeropyrum|Aeropyrum pernix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45844256|45844297|45844298|45844306|45844308|45966876|1400a475821570d8bf33fe75e9ab08e4",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1000037",
+            "matchedName": "Aeropyrum pernix Sako et al., 1996",
+            "matchedCanonical": "Aeropyrum pernix",
+            "currentName": "Aeropyrum pernix Sako et al., 1996",
+            "classificationPath": "Archaea|Crenarchaeota|Thermoprotei|Desulfurococcales|Desulfurococcaceae|Aeropyrum|Aeropyrum pernix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "2|79|292|1189|7786|1000035|1000037",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "327688",
+            "matchedName": "Aeropyrum pernix K1",
+            "matchedCanonical": "Aeropyrum pernix",
+            "currentName": "Aeropyrum pernix K1",
+            "classificationPath": "||Archaea|Crenarchaeota|Thermoprotei|Desulfurococcales|Desulfurococcaceae|Aeropyrum|Aeropyrum pernix|Aeropyrum pernix",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|114216|820306|857129|466736|989921|989927|327688",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Archaeoglobus fulgidus",
+      "name": "Archaeoglobus fulgidus",
+      "odds": 527937379006.89966,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "bus": 7.802591049103098
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dus": 110.11958688168146
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 35728,
+      "end": 35750,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1118e8112258e35c50845659d707edd6",
+          "matchedName": "Archaeoglobus fulgidus Stetter, 1988",
+          "matchedCanonical": "Archaeoglobus fulgidus",
+          "currentName": "Archaeoglobus fulgidus Stetter, 1988",
+          "classificationPath": "Archaea|Euryarchaeota|Archaeoglobi|Archaeoglobales|Archaeoglobaceae|Archaeoglobus|Archaeoglobus fulgidus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45844256|45844257|45844294|45844295|45844296|45966591|1118e8112258e35c50845659d707edd6",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1118e8112258e35c50845659d707edd6",
+            "matchedName": "Archaeoglobus fulgidus Stetter, 1988",
+            "matchedCanonical": "Archaeoglobus fulgidus",
+            "currentName": "Archaeoglobus fulgidus Stetter, 1988",
+            "classificationPath": "Archaea|Euryarchaeota|Archaeoglobi|Archaeoglobales|Archaeoglobaceae|Archaeoglobus|Archaeoglobus fulgidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45844256|45844257|45844294|45844295|45844296|45966591|1118e8112258e35c50845659d707edd6",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1000315",
+            "matchedName": "Archaeoglobus fulgidus Stetter, 1988",
+            "matchedCanonical": "Archaeoglobus fulgidus",
+            "currentName": "Archaeoglobus fulgidus Stetter, 1988",
+            "classificationPath": "Archaea|Euryarchaeota|Archaeoglobi|Archaeoglobales|Archaeoglobaceae|Archaeoglobus|Archaeoglobus fulgidus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "2|24|291|1190|3799|1000313|1000315",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1068682",
+            "matchedName": "Archaeoglobus fulgidus DSM 4304",
+            "matchedCanonical": "Archaeoglobus fulgidus",
+            "currentName": "Archaeoglobus fulgidus DSM 4304",
+            "classificationPath": "||Archaea|Euryarchaeota|Archaeoglobi|Archaeoglobales|Archaeoglobaceae|Archaeoglobus|Archaeoglobus fulgidus",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|635958|1072572|366296|999|995|1068682",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Methanocaldococcus jannaschii",
+      "name": "Methanocaldococcus jannaschii",
+      "odds": 44854411119509.22,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "hii": 95.10327957963398
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "18": 9.5103279579634
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 35755,
+      "end": 35784,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "4f884b43e812820d5e8d6632d06f7f55",
+          "matchedName": "Methanocaldococcus jannaschii (Jones et al., 1984) Whitman, 2002",
+          "matchedCanonical": "Methanocaldococcus jannaschii",
+          "currentName": "Methanocaldococcus jannaschii (Jones et al., 1984) Whitman, 2002",
+          "classificationPath": "Archaea|Euryarchaeota|Methanococci|Methanococcales|Methanocaldococcaceae|Methanocaldococcus|Methanocaldococcus jannaschii",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45844256|45844257|45844283|45844284|45844286|45952775|4f884b43e812820d5e8d6632d06f7f55",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "4f884b43e812820d5e8d6632d06f7f55",
+            "matchedName": "Methanocaldococcus jannaschii (Jones et al., 1984) Whitman, 2002",
+            "matchedCanonical": "Methanocaldococcus jannaschii",
+            "currentName": "Methanocaldococcus jannaschii (Jones et al., 1984) Whitman, 2002",
+            "classificationPath": "Archaea|Euryarchaeota|Methanococci|Methanococcales|Methanocaldococcaceae|Methanocaldococcus|Methanocaldococcus jannaschii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45844256|45844257|45844283|45844284|45844286|45952775|4f884b43e812820d5e8d6632d06f7f55",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1000159",
+            "matchedName": "Methanocaldococcus jannaschii (Jones et al., 1984) Whitman, 2002 Whitman, 2002 (Jones et al., 1984)",
+            "matchedCanonical": "Methanocaldococcus jannaschii",
+            "currentName": "Methanocaldococcus jannaschii (Jones et al., 1984) Whitman, 2002 Whitman, 2002 (Jones et al., 1984)",
+            "classificationPath": "Archaea|Euryarchaeota|Methanococci|Methanococcales|Methanocaldococcaceae|Methanocaldococcus|Methanocaldococcus jannaschii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "2|24|161|1193|3803|1000153|1000159",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "103403",
+            "matchedName": "Methanocaldococcus jannaschii DSM 2661",
+            "matchedCanonical": "Methanocaldococcus jannaschii",
+            "currentName": "Methanocaldococcus jannaschii DSM 2661",
+            "classificationPath": "||Archaea|Euryarchaeota|Methanococci|Methanococcales|Methanocaldococcaceae|Methanocaldococcus|Methanocaldococcus jannaschii",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|996421|635958|295896|565091|252435|252420|103403",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          }
+        }
+      },
+      "start": 41470,
+      "end": 41477,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          }
+        }
+      },
+      "start": 46362,
+      "end": 46369,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 48589,
+      "end": 48596,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Uncultured",
+      "name": "Uncultured",
+      "odds": 213.75788682564587,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "red": 0.2275198076067799
+          }
+        }
+      },
+      "start": 50948,
+      "end": 50958,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "315738",
+          "matchedName": "Uncultured Glaucoma-like ciliate",
+          "matchedCanonical": "Uncultured",
+          "currentName": "Uncultured Glaucoma-like ciliate",
+          "classificationPath": "|Eukaryota|Alveolata|Ciliophora|Intramacronucleata|Oligohymenophorea|Hymenostomatida|Tetrahymenina||Uncultured",
+          "classificationRank": "|superkingdom|||subphylum|class|order|||species",
+          "classificationIDs": "131567|2759|33630|5878|431838|6020|31277|37093|318178|315738",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4922719",
+            "matchedName": "Uncultured Glaucoma-like ciliate",
+            "matchedCanonical": "Uncultured",
+            "currentName": "Uncultured Glaucoma-like ciliate",
+            "classificationPath": "||Eukaryota||Alveolata|Ciliophora|Intramacronucleata|Conthreep|Oligohymenophorea|Hymenostomatia|Uncultured",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|phylum|subphylum|no rank|class|subclass|species",
+            "classificationIDs": "805080|93302|304358|5246039|266751|302424|340382|5248773|16119|5257367|4922719",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Uncultured",
+      "name": "Uncultured",
+      "odds": 213.75788682564587,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "red": 0.2275198076067799
+          }
+        }
+      },
+      "start": 50982,
+      "end": 50992,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "315738",
+          "matchedName": "Uncultured Glaucoma-like ciliate",
+          "matchedCanonical": "Uncultured",
+          "currentName": "Uncultured Glaucoma-like ciliate",
+          "classificationPath": "|Eukaryota|Alveolata|Ciliophora|Intramacronucleata|Oligohymenophorea|Hymenostomatida|Tetrahymenina||Uncultured",
+          "classificationRank": "|superkingdom|||subphylum|class|order|||species",
+          "classificationIDs": "131567|2759|33630|5878|431838|6020|31277|37093|318178|315738",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4922719",
+            "matchedName": "Uncultured Glaucoma-like ciliate",
+            "matchedCanonical": "Uncultured",
+            "currentName": "Uncultured Glaucoma-like ciliate",
+            "classificationPath": "||Eukaryota||Alveolata|Ciliophora|Intramacronucleata|Conthreep|Oligohymenophorea|Hymenostomatia|Uncultured",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|phylum|subphylum|no rank|class|subclass|species",
+            "classificationIDs": "805080|93302|304358|5246039|266751|302424|340382|5248773|16119|5257367|4922719",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Escherichia coli",
+      "name": "Escherichia coli",
+      "odds": 338087507.1687548,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 54387,
+      "end": 54403,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "matchedCanonical": "Escherichia coli",
+          "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6110934",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1395|4899|3221780|6110934",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "260855",
+            "matchedName": "Escherichia coli 'BL21-Gold(DE3)pLysS AG'",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli 'BL21-Gold(DE3)pLysS AG'",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichiashigella|Escherichia coli",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|no rank|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|768012|424023|5248878|260855",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Thermus thermophilus",
+      "name": "Thermus thermophilus",
+      "odds": 2503284257494.0894,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mus": 55.05979344084073
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 54408,
+      "end": 54428,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d95ed7a05d2d7447f0a9ef009bd0db22",
+          "matchedName": "Thermus thermophilus (ex Oshima and Imahori, 1974) Manaia et al., 1995",
+          "matchedCanonical": "Thermus thermophilus",
+          "currentName": "Thermus thermophilus (ex Oshima and Imahori, 1974) Manaia et al., 1995",
+          "classificationPath": "Bacteria|Deinococcus-thermus|Deinococci|Thermales|Thermaceae|Thermus|Thermus thermophilus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45842379|45842380|45842381|45842382|46044890|d95ed7a05d2d7447f0a9ef009bd0db22",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d95ed7a05d2d7447f0a9ef009bd0db22",
+            "matchedName": "Thermus thermophilus (ex Oshima and Imahori, 1974) Manaia et al., 1995",
+            "matchedCanonical": "Thermus thermophilus",
+            "currentName": "Thermus thermophilus (ex Oshima and Imahori, 1974) Manaia et al., 1995",
+            "classificationPath": "Bacteria|Deinococcus-thermus|Deinococci|Thermales|Thermaceae|Thermus|Thermus thermophilus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45842379|45842380|45842381|45842382|46044890|d95ed7a05d2d7447f0a9ef009bd0db22",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5426395",
+            "matchedName": "Thermus thermophilus (ex Oshima \u0026 Imahori, 1974) Manaia et al., 1995 Manaia et al., 1995 (ex Oshima \u0026 Imahori, 1974)",
+            "matchedCanonical": "Thermus thermophilus",
+            "currentName": "Thermus thermophilus (ex Oshima \u0026 Imahori, 1974) Manaia et al., 1995 Manaia et al., 1995 (ex Oshima \u0026 Imahori, 1974)",
+            "classificationPath": "Bacteria|Deinococcus-thermus|Deinococci|Thermales|Thermaceae|Thermus|Thermus thermophilus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|6005952|171|1208|4702|3215704|5426395",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4791286",
+            "matchedName": "Thermus thermophilus ATCC 33923",
+            "matchedCanonical": "Thermus thermophilus",
+            "currentName": "Thermus thermophilus ATCC 33923",
+            "classificationPath": "||Bacteria|Deinococcusthermus|Deinococci|Thermales|Thermaceae|Thermus|Thermus thermophilus|Thermus thermophilus",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|564016|593822|170002|593820|276513|276534|4791286",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "N. equitans",
+      "name": "N. equitans",
+      "odds": 122775.4079257408,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ans": 6.781558136408536
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 55874,
+      "end": 55885,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "I. hospitalis",
+      "name": "I. hospitalis",
+      "odds": 13301398.068100283,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 56020,
+      "end": 56033,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(E. coli)",
+      "name": "E. coli",
+      "odds": 3099.8434298420043,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          }
+        }
+      },
+      "start": 58558,
+      "end": 58567,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Archaea",
+      "name": "Archaea",
+      "odds": 186229.58011151254,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aea": 127.6386120674035
+          }
+        }
+      },
+      "start": 59297,
+      "end": 59305,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844256",
+          "matchedName": "Archaea",
+          "matchedCanonical": "Archaea",
+          "currentName": "Archaea",
+          "classificationPath": "Archaea",
+          "classificationRank": "kingdom",
+          "classificationIDs": "45844256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844256",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "45844256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "Archaea",
+            "classificationRank": "kingdom",
+            "classificationIDs": "2",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3573640",
+            "matchedName": "Archaea",
+            "matchedCanonical": "Archaea",
+            "currentName": "Archaea",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae|Palpimanoidea|Archaeidae|Archaea",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|608423|35282|3573640",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

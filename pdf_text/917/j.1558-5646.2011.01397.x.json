@@ -1,0 +1,566 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:08:13.162992909-05:00",
+    "language": "eng",
+    "total_words": 8022,
+    "total_candidates": 1253,
+    "total_names": 9
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Cercotrichas coryphaeus,",
+      "name": "Cercotrichas coryphaeus",
+      "odds": 93270988.87591992,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "has": 2.5027178836745785
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          }
+        }
+      },
+      "start": 5783,
+      "end": 5807,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "293effdc67a37414fde2632e90c458bf",
+          "matchedName": "Cercotrichas coryphaeus (Lesson, 1831)",
+          "matchedCanonical": "Cercotrichas coryphaeus",
+          "currentName": "Erythropygia coryphoeus (Vieillot, 1817)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Muscicapidae|Erythropygia|Erythropygia coryphoeus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45841775|45841835|46004272|88428ab7682562d1c2835b59d6dc66d0",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "293effdc67a37414fde2632e90c458bf",
+            "matchedName": "Cercotrichas coryphaeus (Lesson, 1831)",
+            "matchedCanonical": "Cercotrichas coryphaeus",
+            "currentName": "Erythropygia coryphoeus (Vieillot, 1817)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Muscicapidae|Erythropygia|Erythropygia coryphoeus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45841775|45841835|46004272|88428ab7682562d1c2835b59d6dc66d0",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2492475",
+            "matchedName": "Cercotrichas coryphaeus (Lesson, 1831)",
+            "matchedCanonical": "Cercotrichas coryphaeus",
+            "currentName": "Erythropygia coryphoeus (Vieillot, 1817)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Muscicapidae|Erythropygia|Erythropygia coryphoeus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|729|9322|7814708|6100854",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Gallus gallus",
+      "name": "Gallus gallus",
+      "odds": 544796437548.91034,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 13867,
+      "end": 13880,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e9bd1de9ad04b90064cf96a24cf98310",
+          "matchedName": "Gallus gallus (Linnaeus, 1758)",
+          "matchedCanonical": "Gallus gallus",
+          "currentName": "Gallus gallus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|e9bd1de9ad04b90064cf96a24cf98310",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e9bd1de9ad04b90064cf96a24cf98310",
+            "matchedName": "Gallus gallus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|e9bd1de9ad04b90064cf96a24cf98310",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5227769",
+            "matchedName": "Gallus gallus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|723|9331|2473720|5227769",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "153563",
+            "matchedName": "Gallus gallus",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae|Phasianinae|Gallus|Gallus gallus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070|51353|153562|153563",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "G. gallus",
+      "name": "G. gallus",
+      "odds": 1576047.2892823599,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 13909,
+      "end": 13918,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "G. gallus",
+      "name": "G. gallus",
+      "odds": 1576047.2892823599,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 13939,
+      "end": 13948,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Roche),",
+      "name": "Roche",
+      "odds": 4652.608535891495,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "che": 8.759512592861025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 14344,
+      "end": 14352,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46002088",
+          "matchedName": "Roche",
+          "matchedCanonical": "Roche",
+          "currentName": "Roche",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Ochyroceratidae|Roche",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45841317|45844863|46002088",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46002088",
+            "matchedName": "Roche",
+            "matchedCanonical": "Roche",
+            "currentName": "Roche",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Ochyroceratidae|Roche",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45841317|45844863|46002088",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2142862",
+            "matchedName": "Roche Saaristo, 1998",
+            "matchedCanonical": "Roche",
+            "currentName": "Roche Saaristo, 1998",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Ochyroceratidae|Roche",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|9566|2142862",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4696953",
+            "matchedName": "Roche",
+            "matchedCanonical": "Roche",
+            "currentName": "Roche",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Ochyroceratidae|Roche",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|4696786|4696953",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "OXPHOS genes.",
+      "name": "Oxphos genes",
+      "odds": 1.4955252118628897,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hos": 15.01630730204747
+          }
+        }
+      },
+      "start": 34749,
+      "end": 34762,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Mila",
+      "name": "Mila",
+      "odds": 448.359978146684,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ila": 3.754076825511868
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 42434,
+      "end": 42438,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45882048",
+          "matchedName": "Mila",
+          "matchedCanonical": "Mila",
+          "currentName": "Mila",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Cactaceae|Mila",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45842483|45846260|45882048",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45882048",
+            "matchedName": "Mila",
+            "matchedCanonical": "Mila",
+            "currentName": "Mila",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Cactaceae|Mila",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45842483|45846260|45882048",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3255884",
+            "matchedName": "Mila Aurivillius, 1892",
+            "matchedCanonical": "Mila",
+            "currentName": "Mazuca Walker, 1866",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Noctuidae|Mazuca",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|7015|1767199",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "251944",
+            "matchedName": "Mila",
+            "matchedCanonical": "Mila",
+            "currentName": "Mila",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Neohemiptera|Prosorrhyncha|Heteroptera|Euheteroptera|Neoheteroptera|Panheteroptera|Cimicomorpha|Cimicoidea|Nabidae|Nabinae|Nabis|Mila",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|no rank|no rank|suborder|no rank|no rank|no rank|no rank|superfamily|family|subfamily|genus|subgenus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|563382|815355|815345|815349|815341|291356|291361|291360|647444|858009|1078927|251944",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "OXPHOS genes",
+      "name": "Oxphos genes",
+      "odds": 1.4955252118628897,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hos": 15.01630730204747
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 46148,
+      "end": 46160,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Theron",
+      "name": "Theron",
+      "odds": 5758.298256067733,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ron": 7.786233415876468
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 46625,
+      "end": 46631,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1170537",
+          "matchedName": "Theron Eyton, 1845",
+          "matchedCanonical": "Theron",
+          "currentName": "Theron Eyton, 1845",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Aves|Aves|Theron",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|148|11905117|1142|10015|100483|1170537",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4572810",
+            "matchedName": "Theron Eyton, 1845",
+            "matchedCanonical": "Theron",
+            "currentName": "Theron Eyton, 1845",
+            "classificationPath": "Animalia|Chordata|Aves|Theron",
+            "classificationRank": "kingdom|phylum|class|genus",
+            "classificationIDs": "1|44|212|4572810",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

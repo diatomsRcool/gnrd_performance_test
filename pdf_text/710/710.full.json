@@ -1,0 +1,1427 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:06:47.689567677-05:00",
+    "language": "eng",
+    "total_words": 7139,
+    "total_candidates": 1287,
+    "total_names": 30
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Saccharomyces cerevisiae",
+      "name": "Saccharomyces cerevisiae",
+      "odds": 214759020473.09198,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ces": 0.5178037000706025
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 1007,
+      "end": 1031,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a462bfa24c86a1592cac7d3f1c7ea40f",
+          "matchedName": "Saccharomyces cerevisiae (Desm.) Meyen 1838",
+          "matchedCanonical": "Saccharomyces cerevisiae",
+          "currentName": "Saccharomyces cerevisiae (Desm.) Meyen 1838",
+          "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841305|45841347|45842730|45842731|45847091|46064110|a462bfa24c86a1592cac7d3f1c7ea40f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a462bfa24c86a1592cac7d3f1c7ea40f",
+            "matchedName": "Saccharomyces cerevisiae (Desm.) Meyen 1838",
+            "matchedCanonical": "Saccharomyces cerevisiae",
+            "currentName": "Saccharomyces cerevisiae (Desm.) Meyen 1838",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841305|45841347|45842730|45842731|45847091|46064110|a462bfa24c86a1592cac7d3f1c7ea40f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7354577",
+            "matchedName": "Saccharomyces cerevisiae Gasp.",
+            "matchedCanonical": "Saccharomyces cerevisiae",
+            "currentName": "Saccharomyces cerevisiae Gasp.",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "5|95|182|1281|4140|2518181|7354577",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5221781",
+            "matchedName": "Saccharomyces cerevisiae 101S",
+            "matchedCanonical": "Saccharomyces cerevisiae",
+            "currentName": "Saccharomyces cerevisiae 101S",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae|Saccharomyces cerevisiae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|order|family|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|5976840|989994|908546|356221|5221781",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Saccharomyces cerevisiae",
+      "name": "Saccharomyces cerevisiae",
+      "odds": 214759020473.09198,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ces": 0.5178037000706025
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          }
+        }
+      },
+      "start": 4423,
+      "end": 4447,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a462bfa24c86a1592cac7d3f1c7ea40f",
+          "matchedName": "Saccharomyces cerevisiae (Desm.) Meyen 1838",
+          "matchedCanonical": "Saccharomyces cerevisiae",
+          "currentName": "Saccharomyces cerevisiae (Desm.) Meyen 1838",
+          "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841305|45841347|45842730|45842731|45847091|46064110|a462bfa24c86a1592cac7d3f1c7ea40f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a462bfa24c86a1592cac7d3f1c7ea40f",
+            "matchedName": "Saccharomyces cerevisiae (Desm.) Meyen 1838",
+            "matchedCanonical": "Saccharomyces cerevisiae",
+            "currentName": "Saccharomyces cerevisiae (Desm.) Meyen 1838",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841305|45841347|45842730|45842731|45847091|46064110|a462bfa24c86a1592cac7d3f1c7ea40f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7354577",
+            "matchedName": "Saccharomyces cerevisiae Gasp.",
+            "matchedCanonical": "Saccharomyces cerevisiae",
+            "currentName": "Saccharomyces cerevisiae Gasp.",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "5|95|182|1281|4140|2518181|7354577",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5221781",
+            "matchedName": "Saccharomyces cerevisiae 101S",
+            "matchedCanonical": "Saccharomyces cerevisiae",
+            "currentName": "Saccharomyces cerevisiae 101S",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae|Saccharomyces cerevisiae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|order|family|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|5976840|989994|908546|356221|5221781",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "S. cerevisiae isolates",
+      "name": "S. cerevisiae isolates",
+      "odds": 7349575648.211997,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "ispLen": {
+            "8": 1.8125199061624047
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "tes": 0.12513589418372895
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 6528,
+      "end": 6550,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 7420,
+      "end": 7433,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 7587,
+      "end": 7600,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 13235,
+      "end": 13248,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S288c genomic",
+      "name": "S���c genomic",
+      "odds": 239.64151943732148,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "mic": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          }
+        }
+      },
+      "start": 17623,
+      "end": 17636,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 17844,
+      "end": 17857,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "S. cerevisiae isolates,",
+      "name": "S. cerevisiae isolates",
+      "odds": 7349575648.211997,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "ispLen": {
+            "8": 1.8125199061624047
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "tes": 0.12513589418372895
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 17933,
+      "end": 17956,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Saccharomyces",
+      "name": "Saccharomyces",
+      "odds": 18145.60949681141,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ces": 0.5178037000706025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          }
+        }
+      },
+      "start": 18120,
+      "end": 18133,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46064110",
+          "matchedName": "Saccharomyces",
+          "matchedCanonical": "Saccharomyces",
+          "currentName": "Saccharomyces",
+          "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45842730|45842731|45847091|46064110",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46064110",
+            "matchedName": "Saccharomyces",
+            "matchedCanonical": "Saccharomyces",
+            "currentName": "Saccharomyces",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45842730|45842731|45847091|46064110",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3478850",
+            "matchedName": "Saccharomyces cerevisiae-agavica-sylvestre Carbajal, 1901",
+            "matchedCanonical": "Saccharomyces",
+            "currentName": "Saccharomyces cerevisiae Meyen ex E.C. Hansen, 1883",
+            "isSynonym": true,
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "5|95|182|1281|4140|2518181|2599166",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "908546",
+            "matchedName": "Saccharomyces",
+            "matchedCanonical": "Saccharomyces",
+            "currentName": "Saccharomyces",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota|Saccharomycetales|Saccharomycetaceae|Saccharomyces",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|5976840|989994|908546",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 22335,
+      "end": 22348,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "SGRP isolates",
+      "name": "Sgrp isolates",
+      "odds": 3.948248079707002,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 25043,
+      "end": 25056,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 27225,
+      "end": 27238,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 31059,
+      "end": 31072,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. paradoxus",
+      "name": "S. paradoxus",
+      "odds": 724941.4615849371,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "xus": 27.529896720420364
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 31077,
+      "end": 31089,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Saccharomyces",
+      "name": "Saccharomyces",
+      "odds": 18145.60949681141,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ces": 0.5178037000706025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 34473,
+      "end": 34486,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46064110",
+          "matchedName": "Saccharomyces",
+          "matchedCanonical": "Saccharomyces",
+          "currentName": "Saccharomyces",
+          "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45841347|45842730|45842731|45847091|46064110",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46064110",
+            "matchedName": "Saccharomyces",
+            "matchedCanonical": "Saccharomyces",
+            "currentName": "Saccharomyces",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45841347|45842730|45842731|45847091|46064110",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3478850",
+            "matchedName": "Saccharomyces cerevisiae-agavica-sylvestre Carbajal, 1901",
+            "matchedCanonical": "Saccharomyces",
+            "currentName": "Saccharomyces cerevisiae Meyen ex E.C. Hansen, 1883",
+            "isSynonym": true,
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "5|95|182|1281|4140|2518181|2599166",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "908546",
+            "matchedName": "Saccharomyces",
+            "matchedCanonical": "Saccharomyces",
+            "currentName": "Saccharomyces",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota|Saccharomycetales|Saccharomycetaceae|Saccharomyces",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|5976840|989994|908546",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae,",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 35212,
+      "end": 35226,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 35528,
+      "end": 35541,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. paradoxus",
+      "name": "S. paradoxus",
+      "odds": 724941.4615849371,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "xus": 27.529896720420364
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 35667,
+      "end": 35679,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "S. cerevisiae isolates",
+      "name": "S. cerevisiae isolates",
+      "odds": 7349575648.211997,
+      "odds_details": {
+        "Name": {
+          "ispLen": {
+            "8": 1.8125199061624047
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "tes": 0.12513589418372895
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 35746,
+      "end": 35768,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 36452,
+      "end": 36465,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 36808,
+      "end": 36821,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Arabidopsis",
+      "name": "Arabidopsis",
+      "odds": 168760.66793547937,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          }
+        }
+      },
+      "start": 37320,
+      "end": 37331,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975866",
+          "matchedName": "Arabidopsis",
+          "matchedCanonical": "Arabidopsis",
+          "currentName": "Arabidopsis",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975866",
+            "matchedName": "Arabidopsis",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052435",
+            "matchedName": "Arabidopsis (DC.) Heynh. Heynh. (DC.)",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis (DC.) Heynh. Heynh. (DC.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309275",
+            "matchedName": "Arabidopsis",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Arabidopsis thaliana,",
+      "name": "Arabidopsis thaliana",
+      "odds": 1592854327927.0417,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 38421,
+      "end": 38442,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+          "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+          "matchedCanonical": "Arabidopsis thaliana",
+          "currentName": "Arabidopsis thaliana (L.) Heynh.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052436",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435|3052436",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309263",
+            "matchedName": "Arabidopsis thaliana",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275|309263",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 38976,
+      "end": 38989,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 40643,
+      "end": 40656,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. paradoxus",
+      "name": "S. paradoxus",
+      "odds": 724941.4615849371,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "xus": 27.529896720420364
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 40661,
+      "end": 40673,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Plasmodium falciparum,",
+      "name": "Plasmodium falciparum",
+      "odds": 479340951.5996821,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          }
+        }
+      },
+      "start": 40737,
+      "end": 40759,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "1245013",
+          "matchedName": "Plasmodium falciparum 303.1",
+          "matchedCanonical": "Plasmodium falciparum",
+          "currentName": "Plasmodium falciparum 303.1",
+          "classificationPath": "|Eukaryota|Alveolata|Apicomplexa|Aconoidasida|Haemosporida|Plasmodiidae|Plasmodium|Plasmodium|Plasmodium falciparum|Plasmodium falciparum",
+          "classificationRank": "|superkingdom||phylum|class|order|family|genus|subgenus|species|",
+          "classificationIDs": "131567|2759|33630|5794|422676|5819|1639119|5820|418107|5833|1245013",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "479450",
+            "matchedName": "Plasmodium falciparum 303.1",
+            "matchedCanonical": "Plasmodium falciparum",
+            "currentName": "Plasmodium falciparum 303.1",
+            "classificationPath": "||Eukaryota||Alveolata|Apicomplexa|Aconoidasida|Haemosporoidia|Plasmodium|Plasmodium|Plasmodium falciparum|Plasmodium falciparum",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|phylum|class|no rank|genus|subgenus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|304358|5246039|266751|422673|199664|5248772|474836|474842|201128|479450",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. thaliana",
+      "name": "A. thaliana",
+      "odds": 4379963.957350832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 43227,
+      "end": 43238,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. cerevisiae",
+      "name": "S. cerevisiae",
+      "odds": 5492190.170054311,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 44940,
+      "end": 44953,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

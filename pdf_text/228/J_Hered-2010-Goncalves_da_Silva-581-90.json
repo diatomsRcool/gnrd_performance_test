@@ -1,0 +1,564 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:02:29.556875979-05:00",
+    "language": "eng",
+    "total_words": 6798,
+    "total_candidates": 844,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Tapirus terrestris)",
+      "name": "Tapirus terrestris",
+      "odds": 2533618361443.559,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          }
+        }
+      },
+      "start": 291,
+      "end": 311,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b887fe306ff897fd7ced2a4199ab2c30",
+          "matchedName": "Tapirus terrestris (Linnaeus, 1758)",
+          "matchedCanonical": "Tapirus terrestris",
+          "currentName": "Tapirus terrestris (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Perissodactyla|Tapiridae|Tapirus|Tapirus terrestris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841709|45841710|45876247|b887fe306ff897fd7ced2a4199ab2c30",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b887fe306ff897fd7ced2a4199ab2c30",
+            "matchedName": "Tapirus terrestris (Linnaeus, 1758)",
+            "matchedCanonical": "Tapirus terrestris",
+            "currentName": "Tapirus terrestris (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Perissodactyla|Tapiridae|Tapirus|Tapirus terrestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841709|45841710|45876247|b887fe306ff897fd7ced2a4199ab2c30",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440898",
+            "matchedName": "Tapirus terrestris (Linnaeus, 1758)",
+            "matchedCanonical": "Tapirus terrestris",
+            "currentName": "Tapirus terrestris (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Perissodactyla|Tapiridae|Tapirus|Tapirus terrestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|795|9416|7939585|2440898",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1034223",
+            "matchedName": "Tapirus terrestris",
+            "matchedCanonical": "Tapirus terrestris",
+            "currentName": "Tapirus terrestris",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Perissodactyla|Tapiridae|Tapirus|Tapirus terrestris",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|541948|1068227|1087514|1034223",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "VIVIANA",
+      "name": "Viviana",
+      "odds": 2171.1980723122824,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ana": 1.488102525428128
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 376,
+      "end": 383,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1343554",
+          "matchedName": "Viviana Bigot, 1888",
+          "matchedCanonical": "Viviana",
+          "currentName": "Viviania Rondani, 1861",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Diptera|Tachinidae|Viviania",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10063|103078|1301275",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6006972",
+            "matchedName": "Viviana Bigot, 1888",
+            "matchedCanonical": "Viviana",
+            "currentName": "Zaira Robineau-Desvoidy, 1830",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Tachinidae|Zaira",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|811|6918|1471793",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tapirus,",
+      "name": "Tapirus",
+      "odds": 102243.69104161474,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 3530,
+      "end": 3538,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45876247",
+          "matchedName": "Tapirus",
+          "matchedCanonical": "Tapirus",
+          "currentName": "Tapirus",
+          "classificationPath": "Animalia|Chordata|Mammalia|Perissodactyla|Tapiridae|Tapirus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45841709|45841710|45876247",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45876247",
+            "matchedName": "Tapirus",
+            "matchedCanonical": "Tapirus",
+            "currentName": "Tapirus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Perissodactyla|Tapiridae|Tapirus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45841709|45841710|45876247",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440895",
+            "matchedName": "Tapirus",
+            "matchedCanonical": "Tapirus",
+            "currentName": "Tapirus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Perissodactyla|Tapiridae|Tapirus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|795|9416|2440895",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1087514",
+            "matchedName": "Tapirus",
+            "matchedCanonical": "Tapirus",
+            "currentName": "Tapirus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Perissodactyla|Tapiridae|Tapirus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|541948|1068227|1087514",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Tapirus terrestris)",
+      "name": "Tapirus terrestris",
+      "odds": 2533618361443.559,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 8007,
+      "end": 8027,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b887fe306ff897fd7ced2a4199ab2c30",
+          "matchedName": "Tapirus terrestris (Linnaeus, 1758)",
+          "matchedCanonical": "Tapirus terrestris",
+          "currentName": "Tapirus terrestris (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Perissodactyla|Tapiridae|Tapirus|Tapirus terrestris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841709|45841710|45876247|b887fe306ff897fd7ced2a4199ab2c30",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b887fe306ff897fd7ced2a4199ab2c30",
+            "matchedName": "Tapirus terrestris (Linnaeus, 1758)",
+            "matchedCanonical": "Tapirus terrestris",
+            "currentName": "Tapirus terrestris (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Perissodactyla|Tapiridae|Tapirus|Tapirus terrestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841709|45841710|45876247|b887fe306ff897fd7ced2a4199ab2c30",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440898",
+            "matchedName": "Tapirus terrestris (Linnaeus, 1758)",
+            "matchedCanonical": "Tapirus terrestris",
+            "currentName": "Tapirus terrestris (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Perissodactyla|Tapiridae|Tapirus|Tapirus terrestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|795|9416|7939585|2440898",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1034223",
+            "matchedName": "Tapirus terrestris",
+            "matchedCanonical": "Tapirus terrestris",
+            "currentName": "Tapirus terrestris",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Perissodactyla|Tapiridae|Tapirus|Tapirus terrestris",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|541948|1068227|1087514|1034223",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(T. bardii",
+      "name": "T. bardii",
+      "odds": 570379.0189783778,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dii": 95.10327957963398
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 18563,
+      "end": 18573,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Macropus parma,",
+      "name": "Macropus parma",
+      "odds": 11240683.193808556,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "rma": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 19129,
+      "end": 19145,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "562a352c8d1a274b7d6167186f2afc49",
+          "matchedName": "Macropus (Notamacropus) parma Waterhouse, 1846",
+          "matchedCanonical": "Macropus parma",
+          "currentName": "Macropus (Notamacropus) parma Waterhouse, 1846",
+          "classificationPath": "Animalia|Chordata|Mammalia|Diprotodontia|Macropodidae|Macropus|Macropus parma",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841737|45841747|45967319|562a352c8d1a274b7d6167186f2afc49",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "562a352c8d1a274b7d6167186f2afc49",
+            "matchedName": "Macropus (Notamacropus) parma Waterhouse, 1846",
+            "matchedCanonical": "Macropus parma",
+            "currentName": "Macropus (Notamacropus) parma Waterhouse, 1846",
+            "classificationPath": "Animalia|Chordata|Mammalia|Diprotodontia|Macropodidae|Macropus|Macropus parma",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841737|45841747|45967319|562a352c8d1a274b7d6167186f2afc49",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5219984",
+            "matchedName": "Macropus parma Waterhouse, 1846",
+            "matchedCanonical": "Macropus parma",
+            "currentName": "Macropus parma Waterhouse, 1846",
+            "classificationPath": "Animalia|Chordata|Mammalia|Diprotodontia|Macropodidae|Macropus|Macropus parma",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1452|9372|2440171|5219984",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "983286",
+            "matchedName": "Macropus parma",
+            "matchedCanonical": "Macropus parma",
+            "currentName": "Macropus parma",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Metatheria|Diprotodontia|Macropodidae|Macropus|Macropus parma",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|16033|277679|196582|42495|983286",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Panthera tigris altaica,",
+      "name": "Panthera tigris altaica",
+      "odds": 79846196778553260,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispEnd3": {
+            "ica": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 19237,
+      "end": 19262,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "9d97217eee80a43f3f6d48f9368773ab",
+          "matchedName": "Panthera tigris altaica Temminck, 1844",
+          "matchedCanonical": "Panthera tigris altaica",
+          "currentName": "Panthera tigris altaica Temminck, 1844",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Panthera||Panthera tigris altaica",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "9d97217eee80a43f3f6d48f9368773ab",
+            "matchedName": "Panthera tigris altaica Temminck, 1844",
+            "matchedCanonical": "Panthera tigris altaica",
+            "currentName": "Panthera tigris altaica Temminck, 1844",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Panthera||Panthera tigris altaica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5219420",
+            "matchedName": "Panthera tigris subsp. altaica Temminck, 1844",
+            "matchedCanonical": "Panthera tigris ssp. altaica",
+            "currentName": "Panthera tigris subsp. altaica Temminck, 1844",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Panthera|Panthera tigris|Panthera tigris altaica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435194|5219416|5219420",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "19403",
+            "matchedName": "Panthera tigris altaica",
+            "matchedCanonical": "Panthera tigris altaica",
+            "currentName": "Panthera tigris altaica",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Pantherinae|Panthera|Panthera tigris|Panthera tigris altaica",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626917|563154|42314|19403",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,1607 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:59:51.402661442-05:00",
+    "language": "eng",
+    "total_words": 2992,
+    "total_candidates": 476,
+    "total_names": 22
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Bolitotherus cornutus",
+      "name": "Bolitotherus cornutus",
+      "odds": 35832582302366.17,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1194,
+      "end": 1215,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "683890",
+          "matchedName": "Bolitotherus cornutus",
+          "matchedCanonical": "Bolitotherus cornutus",
+          "currentName": "Bolitotherus cornutus",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Holometabola|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrioninae|Bolitotherus|Bolitotherus cornutus",
+          "classificationRank": "|superkingdom||kingdom||||||phylum|||subphylum|class||subclass|infraclass|cohort|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7041|41084|41088|71527|7065|1272141|683889|683890",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7633104",
+            "matchedName": "Bolitotherus cornutus (Fabricius, 1801)",
+            "matchedCanonical": "Bolitotherus cornutus",
+            "currentName": "Bolitotherus cornutus (Fabricius, 1801)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionidae|Bolitotherus|Bolitotherus cornutus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7857|9190252|7633104",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "266864",
+            "matchedName": "Bolitotherus cornutus",
+            "matchedCanonical": "Bolitotherus cornutus",
+            "currentName": "Bolitotherus cornutus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrioninae|Bolitotherus|Bolitotherus cornutus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765496|1093476|189298|790199|266864",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Vila",
+      "name": "Vila",
+      "odds": 448.359978146684,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ila": 3.754076825511868
+          }
+        }
+      },
+      "start": 4050,
+      "end": 4054,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45888774",
+          "matchedName": "Vila",
+          "matchedCanonical": "Vila",
+          "currentName": "Vila",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Papilionoidea|Nymphalidae|Vila",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45841633|45847767|45888774",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45888774",
+            "matchedName": "Vila",
+            "matchedCanonical": "Vila",
+            "currentName": "Vila",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Papilionoidea|Nymphalidae|Vila",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45841633|45847767|45888774",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1905437",
+            "matchedName": "Vila Kirby, 1871",
+            "matchedCanonical": "Vila",
+            "currentName": "Vila Kirby, 1871",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Nymphalidae|Vila",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|7017|1905437",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1079092",
+            "matchedName": "Vila",
+            "matchedCanonical": "Vila",
+            "currentName": "Vila",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Papilionoidea|Nymphalidae|Biblidinae|Biblidini|Vila",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|tribe|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675118|358161|380740|683526|1079092",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Prosapia",
+      "name": "Prosapia",
+      "odds": 135154.08571582194,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pia": 52.55707555716615
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 5097,
+      "end": 5106,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45869086",
+          "matchedName": "Prosapia",
+          "matchedCanonical": "Prosapia",
+          "currentName": "Prosapia",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cercopoidea|Cercopidae|Prosapia",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841287|45841612|45847261|45869086",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45869086",
+            "matchedName": "Prosapia",
+            "matchedCanonical": "Prosapia",
+            "currentName": "Prosapia",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cercopoidea|Cercopidae|Prosapia",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841287|45841612|45847261|45869086",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2017564",
+            "matchedName": "Prosapia Fennah, 1949",
+            "matchedCanonical": "Prosapia",
+            "currentName": "Prosapia Fennah, 1949",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Cercopidae|Prosapia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|809|3763|2017564",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "215080",
+            "matchedName": "Prosapia",
+            "matchedCanonical": "Prosapia",
+            "currentName": "Prosapia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Clypeorrhyncha|Cercopoidea|Cercopidae|Ischnorhininae|Prosapia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|genus|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|866089|866086|65317|5968882|215080",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Athalia rosae)",
+      "name": "Athalia rosae",
+      "odds": 1745385809.5864837,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sae": 32.53533248776952
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 5130,
+      "end": 5145,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "37344",
+          "matchedName": "Athalia rosae",
+          "matchedCanonical": "Athalia rosae",
+          "currentName": "Athalia rosae",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Holometabola|Hymenoptera|Tenthredinoidea|Tenthredinidae|Allantinae|Athalia|Athalia rosae",
+          "classificationRank": "|superkingdom||kingdom||||||phylum|||subphylum|class||subclass|infraclass|cohort|order|superfamily|family|subfamily|genus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7399|85772|27532|112290|37343|37344",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4490913",
+            "matchedName": "Athalia rosae (Linnaeus, 1758) Linnaeus, 1758 Linnaeus, 1758 (Linnaeus, 1758)",
+            "matchedCanonical": "Athalia rosae",
+            "currentName": "Athalia rosae (Linnaeus, 1758) Linnaeus, 1758 Linnaeus, 1758 (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Tenthredinidae|Athalia|Athalia rosae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1457|7918|4404999|4490913",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "106278",
+            "matchedName": "Athalia rosae",
+            "matchedCanonical": "Athalia rosae",
+            "currentName": "Athalia rosae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Tenthredinoidea|Tenthredinidae|Allantinae|Athalia|Athalia rosae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|789567|597938|359160|106277|106278",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Acanthoplus discoidalis)",
+      "name": "Acanthoplus discoidalis",
+      "odds": 93732851397951.52,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 5175,
+      "end": 5200,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6a7b3bb29c1cd42a74eb3c526df543cd",
+          "matchedName": "Acanthoplus discoidalis (Walker, F., 1869)",
+          "matchedCanonical": "Acanthoplus discoidalis",
+          "currentName": "Acanthoplus discoidalis (Walker, F., 1869)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Orthoptera|Tettigonioidea|Tettigoniidae|Acanthoplus|Acanthoplus discoidalis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841564|45843424|45849396|45942422|6a7b3bb29c1cd42a74eb3c526df543cd",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6a7b3bb29c1cd42a74eb3c526df543cd",
+            "matchedName": "Acanthoplus discoidalis (Walker, F., 1869)",
+            "matchedCanonical": "Acanthoplus discoidalis",
+            "currentName": "Acanthoplus discoidalis (Walker, F., 1869)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Orthoptera|Tettigonioidea|Tettigoniidae|Acanthoplus|Acanthoplus discoidalis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841564|45843424|45849396|45942422|6a7b3bb29c1cd42a74eb3c526df543cd",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1687077",
+            "matchedName": "Acanthoplus discoidalis (Walker, F., 1869)",
+            "matchedCanonical": "Acanthoplus discoidalis",
+            "currentName": "Acanthoplus discoidalis (Walker, F., 1869)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Orthoptera|Tettigoniidae|Acanthoplus|Acanthoplus discoidalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1458|3991|1687076|1687077",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3490957",
+            "matchedName": "Acanthoplus discoidalis",
+            "matchedCanonical": "Acanthoplus discoidalis",
+            "currentName": "Acanthoplus discoidalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Orthopteroidea|Orthoptera|Ensifera|Tettigonioidea|Tettigoniidae|Hetrodinae|Acanthoplus|Acanthoplus discoidalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815351|1095594|1095582|1051858|1031029|481224|898797|3490957",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bolitotherus cornutus",
+      "name": "Bolitotherus cornutus",
+      "odds": 35832582302366.17,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 5626,
+      "end": 5647,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "683890",
+          "matchedName": "Bolitotherus cornutus",
+          "matchedCanonical": "Bolitotherus cornutus",
+          "currentName": "Bolitotherus cornutus",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Holometabola|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrioninae|Bolitotherus|Bolitotherus cornutus",
+          "classificationRank": "|superkingdom||kingdom||||||phylum|||subphylum|class||subclass|infraclass|cohort|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7041|41084|41088|71527|7065|1272141|683889|683890",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7633104",
+            "matchedName": "Bolitotherus cornutus (Fabricius, 1801)",
+            "matchedCanonical": "Bolitotherus cornutus",
+            "currentName": "Bolitotherus cornutus (Fabricius, 1801)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionidae|Bolitotherus|Bolitotherus cornutus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7857|9190252|7633104",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "266864",
+            "matchedName": "Bolitotherus cornutus",
+            "matchedCanonical": "Bolitotherus cornutus",
+            "currentName": "Bolitotherus cornutus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrioninae|Bolitotherus|Bolitotherus cornutus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765496|1093476|189298|790199|266864",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bolitotherus cornutus,",
+      "name": "Bolitotherus cornutus",
+      "odds": 35832582302366.17,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 5967,
+      "end": 5989,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "683890",
+          "matchedName": "Bolitotherus cornutus",
+          "matchedCanonical": "Bolitotherus cornutus",
+          "currentName": "Bolitotherus cornutus",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Holometabola|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrioninae|Bolitotherus|Bolitotherus cornutus",
+          "classificationRank": "|superkingdom||kingdom||||||phylum|||subphylum|class||subclass|infraclass|cohort|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7041|41084|41088|71527|7065|1272141|683889|683890",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7633104",
+            "matchedName": "Bolitotherus cornutus (Fabricius, 1801)",
+            "matchedCanonical": "Bolitotherus cornutus",
+            "currentName": "Bolitotherus cornutus (Fabricius, 1801)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionidae|Bolitotherus|Bolitotherus cornutus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7857|9190252|7633104",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "266864",
+            "matchedName": "Bolitotherus cornutus",
+            "matchedCanonical": "Bolitotherus cornutus",
+            "currentName": "Bolitotherus cornutus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrioninae|Bolitotherus|Bolitotherus cornutus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765496|1093476|189298|790199|266864",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Coleoptera:",
+      "name": "Coleoptera",
+      "odds": 6758.558534308289,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 6029,
+      "end": 6040,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841412",
+          "matchedName": "Coleoptera",
+          "matchedCanonical": "Coleoptera",
+          "currentName": "Coleoptera",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841265|45841270|45841271|45841412",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841412",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841265|45841270|45841271|45841412",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1470",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "1|54|216|1470",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "865243",
+            "matchedName": "Coleoptera",
+            "matchedCanonical": "Coleoptera",
+            "currentName": "Coleoptera",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tenebrionidae),",
+      "name": "Tenebrionidae",
+      "odds": 106949.83145035784,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 6041,
+      "end": 6056,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45853596",
+          "matchedName": "Tenebrionidae",
+          "matchedCanonical": "Tenebrionidae",
+          "currentName": "Tenebrionidae",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Tenebrionidae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844014|45853596",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45853596",
+            "matchedName": "Tenebrionidae",
+            "matchedCanonical": "Tenebrionidae",
+            "currentName": "Tenebrionidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionoidea|Tenebrionidae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844014|45853596",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7857",
+            "matchedName": "Tenebrionidae",
+            "matchedCanonical": "Tenebrionidae",
+            "currentName": "Tenebrionidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|54|216|1470|7857",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1093476",
+            "matchedName": "Tenebrionidae",
+            "matchedCanonical": "Tenebrionidae",
+            "currentName": "Tenebrionidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765496|1093476",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ganoderma applanatum,",
+      "name": "Ganoderma applanatum",
+      "odds": 3569105281737.7397,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tum": 483.02455154919363
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rma": 26.278537778583075
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 6135,
+      "end": 6156,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ccd6a59d435ff87387589df71f43e959",
+          "matchedName": "Ganoderma applanatum (Pers.) Pat. 1887",
+          "matchedCanonical": "Ganoderma applanatum",
+          "currentName": "Ganoderma applanatum (Pers.) Pat. 1887",
+          "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Polyporales|Ganodermataceae|Ganoderma|Ganoderma applanatum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841305|45841306|45843041|45843073|45843084|45867029|ccd6a59d435ff87387589df71f43e959",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ccd6a59d435ff87387589df71f43e959",
+            "matchedName": "Ganoderma applanatum (Pers.) Pat. 1887",
+            "matchedCanonical": "Ganoderma applanatum",
+            "currentName": "Ganoderma applanatum (Pers.) Pat. 1887",
+            "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Polyporales|Ganodermataceae|Ganoderma|Ganoderma applanatum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841305|45841306|45843041|45843073|45843084|45867029|ccd6a59d435ff87387589df71f43e959",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2549834",
+            "matchedName": "Ganoderma applanatum (Pers.) Pat., 1887 Pat., 1887 (Pers.)",
+            "matchedCanonical": "Ganoderma applanatum",
+            "currentName": "Ganoderma applanatum (Pers.) Pat., 1887 Pat., 1887 (Pers.)",
+            "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Polyporales|Ganodermataceae|Ganoderma|Ganoderma applanatum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "5|34|186|1145|3290|2519220|2549834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "985686",
+            "matchedName": "Ganoderma applanatum",
+            "matchedCanonical": "Ganoderma applanatum",
+            "currentName": "Ganoderma applanatum",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Basidiomycota|Agaricomycotina|Agaricomycetes|Polyporales|Ganodermataceae|Ganoderma|Ganoderma applanatum",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|subphylum|class|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|634628|633300|1012685|633302|60041|3803604|985686",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ganoderma tsugae",
+      "name": "Ganoderma tsugae",
+      "odds": 16172844358.655533,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rma": 26.278537778583075
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gae": 12.513589418372893
+          }
+        }
+      },
+      "start": 6157,
+      "end": 6173,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "9c6f8e741de9cfb62f35d0775a4571f7",
+          "matchedName": "Ganoderma tsugae Murrill 1902",
+          "matchedCanonical": "Ganoderma tsugae",
+          "currentName": "Ganoderma tsugae Murrill 1902",
+          "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Polyporales|Ganodermataceae|Ganoderma|Ganoderma tsugae",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841305|45841306|45843041|45843073|45843084|45867029|9c6f8e741de9cfb62f35d0775a4571f7",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "9c6f8e741de9cfb62f35d0775a4571f7",
+            "matchedName": "Ganoderma tsugae Murrill 1902",
+            "matchedCanonical": "Ganoderma tsugae",
+            "currentName": "Ganoderma tsugae Murrill 1902",
+            "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Polyporales|Ganodermataceae|Ganoderma|Ganoderma tsugae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841305|45841306|45843041|45843073|45843084|45867029|9c6f8e741de9cfb62f35d0775a4571f7",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7241318",
+            "matchedName": "Ganoderma tsugae Murrill, 1902",
+            "matchedCanonical": "Ganoderma tsugae",
+            "currentName": "Ganoderma tsugae Murrill, 1902",
+            "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Polyporales|Ganodermataceae|Ganoderma|Ganoderma tsugae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "5|34|186|1145|3290|2519220|7241318",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Fomes fomentarius",
+      "name": "Fomes fomentarius",
+      "odds": 17696936872.19557,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mes": 1.0146153582464508
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ius": 192.70927704294255
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 6178,
+      "end": 6195,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e04ff50e69ee0ef6aff680913200e093",
+          "matchedName": "Fomes fomentarius (L.) Fr. 1849",
+          "matchedCanonical": "Fomes fomentarius",
+          "currentName": "Fomes fomentarius (L.) Fr. 1849",
+          "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Polyporales|Polyporaceae|Fomes|Fomes fomentarius",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841305|45841306|45843041|45843073|45843077|45989393|e04ff50e69ee0ef6aff680913200e093",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e04ff50e69ee0ef6aff680913200e093",
+            "matchedName": "Fomes fomentarius (L.) Fr. 1849",
+            "matchedCanonical": "Fomes fomentarius",
+            "currentName": "Fomes fomentarius (L.) Fr. 1849",
+            "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Polyporales|Polyporaceae|Fomes|Fomes fomentarius",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841305|45841306|45843041|45843073|45843077|45989393|e04ff50e69ee0ef6aff680913200e093",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8068867",
+            "matchedName": "Fomes fomentarius (L.) Fr., 1849 Fr., 1849 (L.)",
+            "matchedCanonical": "Fomes fomentarius",
+            "currentName": "Fomes fomentarius (L.) Fr., 1849 Fr., 1849 (L.)",
+            "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Polyporales|Polyporaceae|Fomes|Fomes fomentarius",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "5|34|186|1145|3286|2518074|8068867",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "518286",
+            "matchedName": "Fomes fomentarius",
+            "matchedCanonical": "Fomes fomentarius",
+            "currentName": "Fomes fomentarius",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Basidiomycota|Agaricomycotina|Agaricomycetes|Polyporales|Polyporaceae|Fomes|Fomes fomentarius",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|subphylum|class|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|634628|633300|1012685|633302|60043|5342097|518286",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. cornutus",
+      "name": "B. cornutus",
+      "odds": 18531778.536791276,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 6605,
+      "end": 6616,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. cornutus",
+      "name": "B. cornutus",
+      "odds": 18531778.536791276,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 7055,
+      "end": 7066,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bolitotherus cornutus",
+      "name": "Bolitotherus cornutus",
+      "odds": 35832582302366.17,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 7121,
+      "end": 7142,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "683890",
+          "matchedName": "Bolitotherus cornutus",
+          "matchedCanonical": "Bolitotherus cornutus",
+          "currentName": "Bolitotherus cornutus",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Holometabola|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrioninae|Bolitotherus|Bolitotherus cornutus",
+          "classificationRank": "|superkingdom||kingdom||||||phylum|||subphylum|class||subclass|infraclass|cohort|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7041|41084|41088|71527|7065|1272141|683889|683890",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7633104",
+            "matchedName": "Bolitotherus cornutus (Fabricius, 1801)",
+            "matchedCanonical": "Bolitotherus cornutus",
+            "currentName": "Bolitotherus cornutus (Fabricius, 1801)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionidae|Bolitotherus|Bolitotherus cornutus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7857|9190252|7633104",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "266864",
+            "matchedName": "Bolitotherus cornutus",
+            "matchedCanonical": "Bolitotherus cornutus",
+            "currentName": "Bolitotherus cornutus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrioninae|Bolitotherus|Bolitotherus cornutus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765496|1093476|189298|790199|266864",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "G. tsugae",
+      "name": "G. tsugae",
+      "odds": 75049.87091820761,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gae": 12.513589418372893
+          }
+        }
+      },
+      "start": 8695,
+      "end": 8704,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. cornutus",
+      "name": "B. cornutus",
+      "odds": 18531778.536791276,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 10350,
+      "end": 10361,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bolitotherus cornutus.",
+      "name": "Bolitotherus cornutus",
+      "odds": 35832582302366.17,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 15433,
+      "end": 15455,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "683890",
+          "matchedName": "Bolitotherus cornutus",
+          "matchedCanonical": "Bolitotherus cornutus",
+          "currentName": "Bolitotherus cornutus",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Holometabola|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrioninae|Bolitotherus|Bolitotherus cornutus",
+          "classificationRank": "|superkingdom||kingdom||||||phylum|||subphylum|class||subclass|infraclass|cohort|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7041|41084|41088|71527|7065|1272141|683889|683890",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7633104",
+            "matchedName": "Bolitotherus cornutus (Fabricius, 1801)",
+            "matchedCanonical": "Bolitotherus cornutus",
+            "currentName": "Bolitotherus cornutus (Fabricius, 1801)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionidae|Bolitotherus|Bolitotherus cornutus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7857|9190252|7633104",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "266864",
+            "matchedName": "Bolitotherus cornutus",
+            "matchedCanonical": "Bolitotherus cornutus",
+            "currentName": "Bolitotherus cornutus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrioninae|Bolitotherus|Bolitotherus cornutus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765496|1093476|189298|790199|266864",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bolitotherus cornutus",
+      "name": "Bolitotherus cornutus",
+      "odds": 35832582302366.17,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 16117,
+      "end": 16138,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "683890",
+          "matchedName": "Bolitotherus cornutus",
+          "matchedCanonical": "Bolitotherus cornutus",
+          "currentName": "Bolitotherus cornutus",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Holometabola|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrioninae|Bolitotherus|Bolitotherus cornutus",
+          "classificationRank": "|superkingdom||kingdom||||||phylum|||subphylum|class||subclass|infraclass|cohort|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7041|41084|41088|71527|7065|1272141|683889|683890",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7633104",
+            "matchedName": "Bolitotherus cornutus (Fabricius, 1801)",
+            "matchedCanonical": "Bolitotherus cornutus",
+            "currentName": "Bolitotherus cornutus (Fabricius, 1801)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionidae|Bolitotherus|Bolitotherus cornutus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7857|9190252|7633104",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "266864",
+            "matchedName": "Bolitotherus cornutus",
+            "matchedCanonical": "Bolitotherus cornutus",
+            "currentName": "Bolitotherus cornutus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrioninae|Bolitotherus|Bolitotherus cornutus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765496|1093476|189298|790199|266864",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. cornutus",
+      "name": "B. cornutus",
+      "odds": 18531778.536791276,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 16433,
+      "end": 16444,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Lubprops tristis),",
+      "name": "Lubprops tristis",
+      "odds": 3652.5707890345507,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tis": 110.11958688168146
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 17365,
+      "end": 17383,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 11,
+          "dataSourceTitle": "GBIF Backbone Taxonomy",
+          "taxonId": "7586743",
+          "matchedName": "Luprops tristis Fabricius, 1801",
+          "matchedCanonical": "Luprops tristis",
+          "currentName": "Luprops tristis Fabricius, 1801",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionidae|Luprops|Luprops tristis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "1|54|216|1470|7857|4576257|7586743",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7586743",
+            "matchedName": "Luprops tristis Fabricius, 1801",
+            "matchedCanonical": "Luprops tristis",
+            "currentName": "Luprops tristis Fabricius, 1801",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionidae|Luprops|Luprops tristis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7857|4576257|7586743",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6250251",
+            "matchedName": "Luprops tristis",
+            "matchedCanonical": "Luprops tristis",
+            "currentName": "Luprops tristis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Lagriinae|Luprops|Luprops tristis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765496|1093476|189299|4619871|6250251",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Acanthoplus discoidalis)",
+      "name": "Acanthoplus discoidalis",
+      "odds": 93732851397951.52,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 17435,
+      "end": 17460,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6a7b3bb29c1cd42a74eb3c526df543cd",
+          "matchedName": "Acanthoplus discoidalis (Walker, F., 1869)",
+          "matchedCanonical": "Acanthoplus discoidalis",
+          "currentName": "Acanthoplus discoidalis (Walker, F., 1869)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Orthoptera|Tettigonioidea|Tettigoniidae|Acanthoplus|Acanthoplus discoidalis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841564|45843424|45849396|45942422|6a7b3bb29c1cd42a74eb3c526df543cd",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6a7b3bb29c1cd42a74eb3c526df543cd",
+            "matchedName": "Acanthoplus discoidalis (Walker, F., 1869)",
+            "matchedCanonical": "Acanthoplus discoidalis",
+            "currentName": "Acanthoplus discoidalis (Walker, F., 1869)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Orthoptera|Tettigonioidea|Tettigoniidae|Acanthoplus|Acanthoplus discoidalis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841564|45843424|45849396|45942422|6a7b3bb29c1cd42a74eb3c526df543cd",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1687077",
+            "matchedName": "Acanthoplus discoidalis (Walker, F., 1869)",
+            "matchedCanonical": "Acanthoplus discoidalis",
+            "currentName": "Acanthoplus discoidalis (Walker, F., 1869)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Orthoptera|Tettigoniidae|Acanthoplus|Acanthoplus discoidalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1458|3991|1687076|1687077",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3490957",
+            "matchedName": "Acanthoplus discoidalis",
+            "matchedCanonical": "Acanthoplus discoidalis",
+            "currentName": "Acanthoplus discoidalis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Orthopteroidea|Orthoptera|Ensifera|Tettigonioidea|Tettigoniidae|Hetrodinae|Acanthoplus|Acanthoplus discoidalis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815351|1095594|1095582|1051858|1031029|481224|898797|3490957",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

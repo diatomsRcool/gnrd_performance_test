@@ -1,0 +1,3551 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:07:45.201279827-05:00",
+    "language": "eng",
+    "total_words": 5425,
+    "total_candidates": 524,
+    "total_names": 45
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 1645,
+      "end": 1660,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pelagibacter,”",
+      "name": "Pelagibacter",
+      "odds": 14752.497197679497,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          }
+        }
+      },
+      "start": 1677,
+      "end": 1691,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "573764",
+          "matchedName": "Pelagibacter Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "matchedCanonical": "Pelagibacter",
+          "currentName": "Candidatus Pelagibacter Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "isSynonym": true,
+          "classificationPath": "Biota|Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Candidatus",
+          "classificationRank": "|Kingdom|phylum|class|order|genus",
+          "classificationIDs": "1|6|178054|392750|570969|573762",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial(nlp)",
+      "verbatim": "Lactobacillus",
+      "name": "Lactobacillus",
+      "odds": 248.3998804111697,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          }
+        }
+      },
+      "start": 4249,
+      "end": 4262,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45894212",
+          "matchedName": "Lactobacillus",
+          "matchedCanonical": "Lactobacillus",
+          "currentName": "Lactobacillus",
+          "classificationPath": "Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841389|45842348|45842349|45842352|45894212",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45894212",
+            "matchedName": "Lactobacillus",
+            "matchedCanonical": "Lactobacillus",
+            "currentName": "Lactobacillus",
+            "classificationPath": "Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841389|45842348|45842349|45842352|45894212",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3223445",
+            "matchedName": "Lactobacillus Beijerinck, 1901",
+            "matchedCanonical": "Lactobacillus",
+            "currentName": "Lactobacillus Beijerinck, 1901",
+            "classificationPath": "Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|87|303|577|4711|3223445",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "249759",
+            "matchedName": "Lactobacillus",
+            "matchedCanonical": "Lactobacillus",
+            "currentName": "Lactobacillus",
+            "classificationPath": "||Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|822769|634420|68439|445856|249759",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Salmonella enterica,",
+      "name": "Salmonella enterica",
+      "odds": 3413145127.892132,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 4959,
+      "end": 4979,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6d8bc5295be4dabc47ae2f9d8ade5ef3",
+          "matchedName": "Salmonella enterica (ex Kauffmann and Edwards, 1952) Le Minor and Popoff, 1987",
+          "matchedCanonical": "Salmonella enterica",
+          "currentName": "Salmonella enterica (ex Kauffmann and Edwards, 1952) Le Minor and Popoff, 1987",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Salmonella|Salmonella enterica",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849573|45849574|46044650|6d8bc5295be4dabc47ae2f9d8ade5ef3",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6d8bc5295be4dabc47ae2f9d8ade5ef3",
+            "matchedName": "Salmonella enterica (ex Kauffmann and Edwards, 1952) Le Minor and Popoff, 1987",
+            "matchedCanonical": "Salmonella enterica",
+            "currentName": "Salmonella enterica (ex Kauffmann and Edwards, 1952) Le Minor and Popoff, 1987",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Salmonella|Salmonella enterica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849573|45849574|46044650|6d8bc5295be4dabc47ae2f9d8ade5ef3",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5427577",
+            "matchedName": "Salmonella enterica (ex Kauffmann \u0026 Edwards, 1952) Le Minor \u0026 Popoff, 1987 Le Minor \u0026 Popoff, 1987 (ex Kauffmann \u0026 Edwards, 1952)",
+            "matchedCanonical": "Salmonella enterica",
+            "currentName": "Salmonella enterica (ex Kauffmann \u0026 Edwards, 1952) Le Minor \u0026 Popoff, 1987 Le Minor \u0026 Popoff, 1987 (ex Kauffmann \u0026 Edwards, 1952)",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Salmonella|Salmonella enterica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1395|4899|3221815|5427577",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "18498",
+            "matchedName": "Salmonella enterica VII 1,40:g,z51:--",
+            "matchedCanonical": "Salmonella enterica",
+            "currentName": "Salmonella enterica VII 1,40:g,z51:--",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Salmonella|Salmonella enterica|Salmonella enterica|Salmonella enterica",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|species|subspecies|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|768012|424023|3308|338023|547821|18498",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Escherichia coli",
+      "name": "Escherichia coli",
+      "odds": 338087507.1687548,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          }
+        }
+      },
+      "start": 5242,
+      "end": 5258,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "matchedCanonical": "Escherichia coli",
+          "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6110934",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1395|4899|3221780|6110934",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5241575",
+            "matchedName": "Escherichia coli #1/H766",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli #1/H766",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichiashigella|Escherichia coli|Escherichia coli",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|no rank|species|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|768012|424023|5248878|474506|5241575",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 5723,
+      "end": 5738,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pelagibacter,”",
+      "name": "Pelagibacter",
+      "odds": 14752.497197679497,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          }
+        }
+      },
+      "start": 5755,
+      "end": 5769,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "573764",
+          "matchedName": "Pelagibacter Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "matchedCanonical": "Pelagibacter",
+          "currentName": "Candidatus Pelagibacter Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "isSynonym": true,
+          "classificationPath": "Biota|Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Candidatus",
+          "classificationRank": "|Kingdom|phylum|class|order|genus",
+          "classificationIDs": "1|6|178054|392750|570969|573762",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 6563,
+      "end": 6578,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Synechococcus",
+      "name": "Synechococcus",
+      "odds": 6030677.951304441,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 6725,
+      "end": 6738,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949898",
+          "matchedName": "Synechococcus",
+          "matchedCanonical": "Synechococcus",
+          "currentName": "Synechococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842395|45842410|45842413|45949898",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949898",
+            "matchedName": "Synechococcus",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842395|45842410|45842413|45949898",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3216715",
+            "matchedName": "Synechococcus Nägeli, 1849",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus Nägeli, 1849",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|68|7550188|746|7102|3216715",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "269054",
+            "matchedName": "Synechococcus",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Synechococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|269054",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pelagibacter ubique”",
+      "name": "Pelagibacter ubique",
+      "odds": 190663638.5575653,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 7655,
+      "end": 7675,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "573765",
+          "matchedName": "Pelagibacter ubique Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "matchedCanonical": "Pelagibacter ubique",
+          "currentName": "Candidatus Pelagibacter ubique Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "isSynonym": true,
+          "classificationPath": "Biota|Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Candidatus|Candidatus",
+          "classificationRank": "|Kingdom|phylum|class|order|genus|species",
+          "classificationIDs": "1|6|178054|392750|570969|573762|573763",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 7829,
+      "end": 7844,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pelagibacter”",
+      "name": "Pelagibacter",
+      "odds": 14752.497197679497,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 7854,
+      "end": 7867,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "573764",
+          "matchedName": "Pelagibacter Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "matchedCanonical": "Pelagibacter",
+          "currentName": "Candidatus Pelagibacter Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "isSynonym": true,
+          "classificationPath": "Biota|Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Candidatus",
+          "classificationRank": "|Kingdom|phylum|class|order|genus",
+          "classificationIDs": "1|6|178054|392750|570969|573762",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          }
+        }
+      },
+      "start": 8363,
+      "end": 8378,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus,",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          }
+        }
+      },
+      "start": 8414,
+      "end": 8430,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 8537,
+      "end": 8552,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Synechococcus",
+      "name": "Synechococcus",
+      "odds": 6030677.951304441,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          }
+        }
+      },
+      "start": 11375,
+      "end": 11388,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949898",
+          "matchedName": "Synechococcus",
+          "matchedCanonical": "Synechococcus",
+          "currentName": "Synechococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842395|45842410|45842413|45949898",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949898",
+            "matchedName": "Synechococcus",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842395|45842410|45842413|45949898",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3216715",
+            "matchedName": "Synechococcus Nägeli, 1849",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus Nägeli, 1849",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|68|7550188|746|7102|3216715",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "269054",
+            "matchedName": "Synechococcus",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Synechococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|269054",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus.",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 11606,
+      "end": 11622,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Prochlorococcus clade;",
+      "name": "Prochlorococcus clade",
+      "odds": 43200735.68547771,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "ade": 0.2275198076067799
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 11653,
+      "end": 11675,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Synechococcus clade;",
+      "name": "Synechococcus clade",
+      "odds": 28030597.828052178,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ade": 0.2275198076067799
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          }
+        }
+      },
+      "start": 11691,
+      "end": 11711,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949898",
+          "matchedName": "Synechococcus",
+          "matchedCanonical": "Synechococcus",
+          "currentName": "Synechococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842395|45842410|45842413|45949898",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949898",
+            "matchedName": "Synechococcus",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842395|45842410|45842413|45949898",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3216715",
+            "matchedName": "Synechococcus Nägeli, 1849",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus Nägeli, 1849",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|68|7550188|746|7102|3216715",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "269054",
+            "matchedName": "Synechococcus",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Synechococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|269054",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cyanobacteria.",
+      "name": "Cyanobacteria",
+      "odds": 9564.61907279623,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 11724,
+      "end": 11738,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45842391",
+          "matchedName": "Cyanobacteria",
+          "matchedCanonical": "Cyanobacteria",
+          "currentName": "Cyanobacteria",
+          "classificationPath": "Bacteria|Cyanobacteria",
+          "classificationRank": "kingdom|phylum",
+          "classificationIDs": "45841358|45842391",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45842391",
+            "matchedName": "Cyanobacteria",
+            "matchedCanonical": "Cyanobacteria",
+            "currentName": "Cyanobacteria",
+            "classificationPath": "Bacteria|Cyanobacteria",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "45841358|45842391",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "68",
+            "matchedName": "Cyanobacteria",
+            "matchedCanonical": "Cyanobacteria",
+            "currentName": "Cyanobacteria",
+            "classificationPath": "Bacteria|Cyanobacteria",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "3|68",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "225495",
+            "matchedName": "Cyanobacteria",
+            "matchedCanonical": "Cyanobacteria",
+            "currentName": "Cyanobacteria",
+            "classificationPath": "||Bacteria||Cyanobacteria",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum",
+            "classificationIDs": "805080|93302|844192|5268478|225495",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Prochlorococcus isolates",
+      "name": "Prochlorococcus isolates",
+      "odds": 593374083361.2036,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 12151,
+      "end": 12175,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Synechococcus",
+      "name": "Synechococcus",
+      "odds": 6030677.951304441,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          }
+        }
+      },
+      "start": 12227,
+      "end": 12240,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949898",
+          "matchedName": "Synechococcus",
+          "matchedCanonical": "Synechococcus",
+          "currentName": "Synechococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842395|45842410|45842413|45949898",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949898",
+            "matchedName": "Synechococcus",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842395|45842410|45842413|45949898",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3216715",
+            "matchedName": "Synechococcus Nägeli, 1849",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus Nägeli, 1849",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|68|7550188|746|7102|3216715",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "269054",
+            "matchedName": "Synechococcus",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Synechococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|269054",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 12494,
+      "end": 12509,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Synechococcus",
+      "name": "Synechococcus",
+      "odds": 6030677.951304441,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 12545,
+      "end": 12558,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949898",
+          "matchedName": "Synechococcus",
+          "matchedCanonical": "Synechococcus",
+          "currentName": "Synechococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842395|45842410|45842413|45949898",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949898",
+            "matchedName": "Synechococcus",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842395|45842410|45842413|45949898",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3216715",
+            "matchedName": "Synechococcus Nägeli, 1849",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus Nägeli, 1849",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|68|7550188|746|7102|3216715",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "269054",
+            "matchedName": "Synechococcus",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Synechococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|269054",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Synechococcus.",
+      "name": "Synechococcus",
+      "odds": 6030677.951304441,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 12917,
+      "end": 12931,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949898",
+          "matchedName": "Synechococcus",
+          "matchedCanonical": "Synechococcus",
+          "currentName": "Synechococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842395|45842410|45842413|45949898",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949898",
+            "matchedName": "Synechococcus",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842395|45842410|45842413|45949898",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3216715",
+            "matchedName": "Synechococcus Nägeli, 1849",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus Nägeli, 1849",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Chroococcales|Chroococcaceae|Synechococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|68|7550188|746|7102|3216715",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "269054",
+            "matchedName": "Synechococcus",
+            "matchedCanonical": "Synechococcus",
+            "currentName": "Synechococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Synechococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|269054",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 13181,
+      "end": 13196,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          }
+        }
+      },
+      "start": 13289,
+      "end": 13304,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 13553,
+      "end": 13568,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          }
+        }
+      },
+      "start": 15967,
+      "end": 15982,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus,",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 16329,
+      "end": 16345,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus.",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 16616,
+      "end": 16632,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 16860,
+      "end": 16875,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 19950,
+      "end": 19965,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pelagibacter ubique”",
+      "name": "Pelagibacter ubique",
+      "odds": 190663638.5575653,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          }
+        }
+      },
+      "start": 25994,
+      "end": 26014,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "573765",
+          "matchedName": "Pelagibacter ubique Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "matchedCanonical": "Pelagibacter ubique",
+          "currentName": "Candidatus Pelagibacter ubique Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "isSynonym": true,
+          "classificationPath": "Biota|Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Candidatus|Candidatus",
+          "classificationRank": "|Kingdom|phylum|class|order|genus|species",
+          "classificationIDs": "1|6|178054|392750|570969|573762|573763",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pelagibacter ubique”",
+      "name": "Pelagibacter ubique",
+      "odds": 190663638.5575653,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 26164,
+      "end": 26184,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "573765",
+          "matchedName": "Pelagibacter ubique Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "matchedCanonical": "Pelagibacter ubique",
+          "currentName": "Candidatus Pelagibacter ubique Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "isSynonym": true,
+          "classificationPath": "Biota|Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Candidatus|Candidatus",
+          "classificationRank": "|Kingdom|phylum|class|order|genus|species",
+          "classificationIDs": "1|6|178054|392750|570969|573762|573763",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          }
+        }
+      },
+      "start": 28857,
+      "end": 28872,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Myxococcus xanthus,",
+      "name": "Myxococcus xanthus",
+      "odds": 1004667637.0342993,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "hus": 77.58425439391193
+          }
+        }
+      },
+      "start": 29689,
+      "end": 29708,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3437923da5b87e84dd12be0e6b88e5ba",
+          "matchedName": "Myxococcus xanthus Beebe, 1941",
+          "matchedCanonical": "Myxococcus xanthus",
+          "currentName": "Myxococcus xanthus Beebe, 1941",
+          "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales|Myxococcaceae|Myxococcus|Myxococcus xanthus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849507|45849527|45849531|46044258|3437923da5b87e84dd12be0e6b88e5ba",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3437923da5b87e84dd12be0e6b88e5ba",
+            "matchedName": "Myxococcus xanthus Beebe, 1941",
+            "matchedCanonical": "Myxococcus xanthus",
+            "currentName": "Myxococcus xanthus Beebe, 1941",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales|Myxococcaceae|Myxococcus|Myxococcus xanthus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849507|45849527|45849531|46044258|3437923da5b87e84dd12be0e6b88e5ba",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3220583",
+            "matchedName": "Myxococcus xanthus Beebe, 1941",
+            "matchedCanonical": "Myxococcus xanthus",
+            "currentName": "Myxococcus xanthus Beebe, 1941",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales|Myxococcaceae|Myxococcus|Myxococcus xanthus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|338|1384|8944|3220562|3220583",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "351447",
+            "matchedName": "Myxococcus xanthus DK 1622",
+            "matchedCanonical": "Myxococcus xanthus",
+            "currentName": "Myxococcus xanthus DK 1622",
+            "classificationPath": "||Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales|Myxococcaceae|Myxococcus xanthus",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|109210|1007130|939441|351447",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 30915,
+      "end": 30930,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 31110,
+      "end": 31125,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 31302,
+      "end": 31317,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 31368,
+      "end": 31383,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 31536,
+      "end": 31551,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Spades,",
+      "name": "Spades",
+      "odds": 537.0709705928219,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "des": 21.94691067222323
+          }
+        }
+      },
+      "start": 32060,
+      "end": 32067,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "4f52f74c00787cbaeb62ef5f46d893d9",
+          "matchedName": "Spada spada (Brunner von Wattenwyl, 1898)",
+          "matchedCanonical": "Spada spada",
+          "currentName": "Habetia spada spada (Brunner von Wattenwyl, 1898)",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Arthropoda|Insecta|Orthoptera|Tettigoniidae|Habetia||Habetia spada spada",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "editDistance": 5,
+          "matchType": "FuzzyPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "4f52f74c00787cbaeb62ef5f46d893d9",
+            "matchedName": "Spada spada (Brunner von Wattenwyl, 1898)",
+            "matchedCanonical": "Spada spada",
+            "currentName": "Habetia spada spada (Brunner von Wattenwyl, 1898)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Orthoptera|Tettigoniidae|Habetia||Habetia spada spada",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "editDistance": 5,
+            "matchType": "FuzzyPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1687409",
+            "matchedName": "Spada spada (Brunner von Wattenwyl, 1898)",
+            "matchedCanonical": "Spada spada",
+            "currentName": "Habetia spada (Brunner von Wattenwyl, 1898)",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Orthoptera|Tettigoniidae|Habetia|Habetia spada",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1458|3991|1687405|1687406",
+            "editDistance": 5,
+            "matchType": "FuzzyPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Prochlorococcus",
+      "name": "Prochlorococcus",
+      "odds": 9294476.192648701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 34876,
+      "end": 34891,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949802",
+          "matchedName": "Prochlorococcus",
+          "matchedCanonical": "Prochlorococcus",
+          "currentName": "Prochlorococcus",
+          "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949802",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "Bacteria|Cyanobacteria|Not assigned|Not assigned|Not assigned|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45842391|45842392|45842393|45842394|45949802",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3215940",
+            "matchedName": "Prochlorococcus Chisholm et al., 2001",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus Chisholm et al., 2001",
+            "classificationPath": "Bacteria|Cyanobacteria|Cyanophyceae|Synechococcaceae|Prochlorococcus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "3|68|7550188|7109|3215940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771085",
+            "matchedName": "Prochlorococcus",
+            "matchedCanonical": "Prochlorococcus",
+            "currentName": "Prochlorococcus",
+            "classificationPath": "||Bacteria||Cyanobacteria|||Prochlorococcus",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum|no rank|no rank|genus",
+            "classificationIDs": "805080|93302|844192|5268478|225495|5246931|5247948|771085",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pelagibacter”)",
+      "name": "Pelagibacter",
+      "odds": 14752.497197679497,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 34901,
+      "end": 34915,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "573764",
+          "matchedName": "Pelagibacter Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "matchedCanonical": "Pelagibacter",
+          "currentName": "Candidatus Pelagibacter Rappé, Connon, Vergin \u0026 Giovannoni, 2002",
+          "isSynonym": true,
+          "classificationPath": "Biota|Bacteria|Proteobacteria|Alphaproteobacteria|Rickettsiales|Candidatus",
+          "classificationRank": "|Kingdom|phylum|class|order|genus",
+          "classificationIDs": "1|6|178054|392750|570969|573762",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

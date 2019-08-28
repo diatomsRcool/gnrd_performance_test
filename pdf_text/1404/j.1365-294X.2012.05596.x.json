@@ -1,0 +1,1684 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:59:39.531405242-05:00",
+    "language": "eng",
+    "total_words": 5799,
+    "total_candidates": 879,
+    "total_names": 21
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Pseudo-nitzschia pungens",
+      "name": "Pseudo-nitzschia pungens",
+      "odds": 455154549077.3681,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ens": 52.55707555716616
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "16": 29.094095397716973
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 5824,
+      "end": 5848,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3ce904e7018d7f249a228bdc0c721f01",
+          "matchedName": "Pseudo-nitzschia pungens (Grunow ex Cleve) Hasle",
+          "matchedCanonical": "Pseudo-nitzschia pungens",
+          "currentName": "Pseudo-nitzschia pungens (Grunow ex Cleve) Hasle",
+          "classificationPath": "Chromista|Ochrophyta|Bacillariophyceae|Bacillariales|Bacillariaceae|Pseudo-nitzschia|Pseudo-nitzschia pungens",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841310|45850041|45853243|45853256|45853257|46089042|3ce904e7018d7f249a228bdc0c721f01",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3ce904e7018d7f249a228bdc0c721f01",
+            "matchedName": "Pseudo-nitzschia pungens (Grunow ex Cleve) Hasle",
+            "matchedCanonical": "Pseudo-nitzschia pungens",
+            "currentName": "Pseudo-nitzschia pungens (Grunow ex Cleve) Hasle",
+            "classificationPath": "Chromista|Ochrophyta|Bacillariophyceae|Bacillariales|Bacillariaceae|Pseudo-nitzschia|Pseudo-nitzschia pungens",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841310|45850041|45853243|45853256|45853257|46089042|3ce904e7018d7f249a228bdc0c721f01",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7466466",
+            "matchedName": "Pseudo-nitzschia pungens (Grunow ex P.T. Cleve) Hasle, 1993 Hasle, 1993 (Grunow ex P.T. Cleve)",
+            "matchedCanonical": "Pseudo-nitzschia pungens",
+            "currentName": "Pseudo-nitzschia pungens Hust.",
+            "isSynonym": true,
+            "classificationPath": "Chromista|Ochrophyta|Bacillariophyceae|Bacillariales|Bacillariaceae|Pseudo-nitzschia|Pseudo-nitzschia pungens",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|98|7947184|7489174|8316869|7402345|9190992",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "782344",
+            "matchedName": "Pseudo-nitzschia pungens",
+            "matchedCanonical": "Pseudo-nitzschia pungens",
+            "currentName": "Pseudo-nitzschia pungens",
+            "classificationPath": "||Eukaryota||Stramenopiles|Bacillariophyta|Bacillariophytina|Bacillariophyceae|Pseudo-nitzschia|Pseudo-nitzschia pungens",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|phylum|no rank|class|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|266745|5342311|5247549|6388659|445859|782344",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scrippsiella",
+      "name": "Scrippsiella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 8080,
+      "end": 8092,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872248",
+          "matchedName": "Scrippsiella",
+          "matchedCanonical": "Scrippsiella",
+          "currentName": "Scrippsiella",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872248",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8426834",
+            "matchedName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "133420",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scrippsiella",
+      "name": "Scrippsiella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 8165,
+      "end": 8177,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872248",
+          "matchedName": "Scrippsiella",
+          "matchedCanonical": "Scrippsiella",
+          "currentName": "Scrippsiella",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872248",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8426834",
+            "matchedName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "133420",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scrippsiella",
+      "name": "Scrippsiella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 8360,
+      "end": 8372,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872248",
+          "matchedName": "Scrippsiella",
+          "matchedCanonical": "Scrippsiella",
+          "currentName": "Scrippsiella",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872248",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8426834",
+            "matchedName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "133420",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hangoei",
+      "name": "S. hangoei",
+      "odds": 28929.21140966393,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "oei": 2.5027178836745785
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 8422,
+      "end": 8432,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scrippsiella",
+      "name": "Scrippsiella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 10318,
+      "end": 10330,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872248",
+          "matchedName": "Scrippsiella",
+          "matchedCanonical": "Scrippsiella",
+          "currentName": "Scrippsiella",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872248",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8426834",
+            "matchedName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "133420",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chlorophylla†",
+      "name": "Chlorophylla",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 11976,
+      "end": 11989,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1423643",
+          "matchedName": "Chlorophylla Pictet, 1888",
+          "matchedCanonical": "Chlorophylla",
+          "currentName": "Chlorophylla Pictet, 1888",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Orthoptera|Tettigoniidae|Chlorophylla",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|12011|104020|1423643",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1688646",
+            "matchedName": "Chlorophylla Pictet, 1888",
+            "matchedCanonical": "Chlorophylla",
+            "currentName": "Cycloptera Serville, 1838",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Orthoptera|Tettigoniidae|Cycloptera",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1458|3991|1688722",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scrippsiella",
+      "name": "Scrippsiella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 18491,
+      "end": 18503,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872248",
+          "matchedName": "Scrippsiella",
+          "matchedCanonical": "Scrippsiella",
+          "currentName": "Scrippsiella",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872248",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8426834",
+            "matchedName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "133420",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Dinophyceae)",
+      "name": "Dinophyceae",
+      "odds": 13525.09145482151,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 21599,
+      "end": 21612,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45853446",
+          "matchedName": "Dinophyceae",
+          "matchedCanonical": "Dinophyceae",
+          "currentName": "Dinophyceae",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841310|45846461|45853446",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45853446",
+            "matchedName": "Dinophyceae",
+            "matchedCanonical": "Dinophyceae",
+            "currentName": "Dinophyceae",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841310|45846461|45853446",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9049014",
+            "matchedName": "Dinophyceae",
+            "matchedCanonical": "Dinophyceae",
+            "currentName": "Dinophyceae",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "4|8770992|9049014",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "621380",
+            "matchedName": "Dinophyceae",
+            "matchedCanonical": "Dinophyceae",
+            "currentName": "Dinophyceae",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Oxyrrhis marina",
+      "name": "Oxyrrhis marina",
+      "odds": 2552573.841756239,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "his": 0.3033597434757065
+          }
+        }
+      },
+      "start": 23589,
+      "end": 23604,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "10236255",
+          "matchedName": "Oxyrrhis marina Dujardin, 1841",
+          "matchedCanonical": "Oxyrrhis marina",
+          "currentName": "Oxyrrhis marina Dujardin, 1841",
+          "classificationPath": "Protista|Dinophyta|Dinophyceae|Oxyrrhinales|Oxyrrhinaceae|Oxyrrhis|Oxyrrhis marina",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "16|106|1289|12771|115748|1438436|10236255",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8306084",
+            "matchedName": "Oxyrrhis marina Dujardin, 1841",
+            "matchedCanonical": "Oxyrrhis marina",
+            "currentName": "Oxyrrhis marina Dujardin, 1841",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Oxyrrhinales|Oxyrrhinaceae|Oxyrrhis|Oxyrrhis marina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8770992|9049014|9158113|8026076|9085924|8306084",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "746955",
+            "matchedName": "Oxyrrhis marina",
+            "matchedCanonical": "Oxyrrhis marina",
+            "currentName": "Oxyrrhis marina",
+            "classificationPath": "||Eukaryota||Alveolata|Protalveolata|Oxyrrhis|Oxyrrhis marina",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246810|746956|746955",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scrippsiella",
+      "name": "Scrippsiella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 24095,
+      "end": 24107,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872248",
+          "matchedName": "Scrippsiella",
+          "matchedCanonical": "Scrippsiella",
+          "currentName": "Scrippsiella",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872248",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8426834",
+            "matchedName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "133420",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scrippsiella)",
+      "name": "Scrippsiella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 26535,
+      "end": 26548,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872248",
+          "matchedName": "Scrippsiella",
+          "matchedCanonical": "Scrippsiella",
+          "currentName": "Scrippsiella",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872248",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8426834",
+            "matchedName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "133420",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scrippsiella",
+      "name": "Scrippsiella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 26742,
+      "end": 26754,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872248",
+          "matchedName": "Scrippsiella",
+          "matchedCanonical": "Scrippsiella",
+          "currentName": "Scrippsiella",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872248",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8426834",
+            "matchedName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "133420",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scrippsiella",
+      "name": "Scrippsiella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 29928,
+      "end": 29940,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872248",
+          "matchedName": "Scrippsiella",
+          "matchedCanonical": "Scrippsiella",
+          "currentName": "Scrippsiella",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872248",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8426834",
+            "matchedName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "133420",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scrippsiella",
+      "name": "Scrippsiella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          }
+        }
+      },
+      "start": 30981,
+      "end": 30993,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872248",
+          "matchedName": "Scrippsiella",
+          "matchedCanonical": "Scrippsiella",
+          "currentName": "Scrippsiella",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872248",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8426834",
+            "matchedName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "133420",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scrippsiella",
+      "name": "Scrippsiella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 31995,
+      "end": 32007,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872248",
+          "matchedName": "Scrippsiella",
+          "matchedCanonical": "Scrippsiella",
+          "currentName": "Scrippsiella",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872248",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8426834",
+            "matchedName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "133420",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Scrippsiella hangoei",
+      "name": "Scrippsiella hangoei",
+      "odds": 330626429819.2715,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oei": 2.5027178836745785
+          }
+        }
+      },
+      "start": 32157,
+      "end": 32177,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "10008426",
+          "matchedName": "Scrippsiella hangoei (J. Schiller) J. Larsen, 1995",
+          "matchedCanonical": "Scrippsiella hangoei",
+          "currentName": "Scrippsiella hangoei (J. Schiller) J. Larsen, 1995",
+          "classificationPath": "Protista|Dinophyta|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella|Scrippsiella hangoei",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "16|106|1289|11298|104746|1071407|10008426",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7358887",
+            "matchedName": "Scrippsiella hangoei (J.Schiller) J.Larsen, 1995 J.Larsen, 1995 (J.Schiller)",
+            "matchedCanonical": "Scrippsiella hangoei",
+            "currentName": "Scrippsiella hangoei (J.Schiller) J.Larsen, 1995 J.Larsen, 1995 (J.Schiller)",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella|Scrippsiella hangoei",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834|7358887",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "215482",
+            "matchedName": "Scrippsiella hangoei",
+            "matchedCanonical": "Scrippsiella hangoei",
+            "currentName": "Scrippsiella hangoei",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella|Scrippsiella hangoei",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420|215482",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Coregonus",
+      "name": "Coregonus",
+      "odds": 571431.426521481,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 33004,
+      "end": 33014,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45862499",
+          "matchedName": "Coregonus",
+          "matchedCanonical": "Coregonus",
+          "currentName": "Coregonus",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Coregonus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45862499",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45862499",
+            "matchedName": "Coregonus",
+            "matchedCanonical": "Coregonus",
+            "currentName": "Coregonus",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Coregonus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841293|45842915|45842916|45862499",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7882030",
+            "matchedName": "Coregonus Jarocki, 1822",
+            "matchedCanonical": "Coregonus",
+            "currentName": "Coregonus Linnaeus, 1758",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Coregonus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|204|1313|8615|2350934",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "804469",
+            "matchedName": "Coregonus",
+            "matchedCanonical": "Coregonus",
+            "currentName": "Coregonus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Protacanthopterygii|Salmoniformes|Salmonidae|Coregoninae|Coregonus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|order|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|1024043|216171|739933|936919|804469",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scrippsiella",
+      "name": "Scrippsiella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 35867,
+      "end": 35879,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872248",
+          "matchedName": "Scrippsiella",
+          "matchedCanonical": "Scrippsiella",
+          "currentName": "Scrippsiella",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872248",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8426834",
+            "matchedName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "133420",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Scrippsiella hangoei,",
+      "name": "Scrippsiella hangoei",
+      "odds": 330626429819.2715,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oei": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 35926,
+      "end": 35947,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "10008426",
+          "matchedName": "Scrippsiella hangoei (J. Schiller) J. Larsen, 1995",
+          "matchedCanonical": "Scrippsiella hangoei",
+          "currentName": "Scrippsiella hangoei (J. Schiller) J. Larsen, 1995",
+          "classificationPath": "Protista|Dinophyta|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella|Scrippsiella hangoei",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "16|106|1289|11298|104746|1071407|10008426",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7358887",
+            "matchedName": "Scrippsiella hangoei (J.Schiller) J.Larsen, 1995 J.Larsen, 1995 (J.Schiller)",
+            "matchedCanonical": "Scrippsiella hangoei",
+            "currentName": "Scrippsiella hangoei (J.Schiller) J.Larsen, 1995 J.Larsen, 1995 (J.Schiller)",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella|Scrippsiella hangoei",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834|7358887",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "215482",
+            "matchedName": "Scrippsiella hangoei",
+            "matchedCanonical": "Scrippsiella hangoei",
+            "currentName": "Scrippsiella hangoei",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella|Scrippsiella hangoei",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420|215482",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Scrippsiella",
+      "name": "Scrippsiella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 36066,
+      "end": 36078,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872248",
+          "matchedName": "Scrippsiella",
+          "matchedCanonical": "Scrippsiella",
+          "currentName": "Scrippsiella",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872248",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855021|45872248",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8426834",
+            "matchedName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella Balech ex A.R. Loeblich Iii",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Peridiniales|Peridiniaceae|Scrippsiella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|8907302|8302476|8426834",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "133420",
+            "matchedName": "Scrippsiella",
+            "matchedCanonical": "Scrippsiella",
+            "currentName": "Scrippsiella",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Scrippsiella",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|133420",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

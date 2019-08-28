@@ -1,0 +1,343 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:02:26.738460536-05:00",
+    "language": "eng",
+    "total_words": 6347,
+    "total_candidates": 683,
+    "total_names": 4
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Moreno",
+      "name": "Moreno",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 6631,
+      "end": 6637,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46001714",
+          "matchedName": "Moreno",
+          "matchedCanonical": "Moreno",
+          "currentName": "Moreno",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45841317|45841334|46001714",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46001714",
+            "matchedName": "Moreno",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45841317|45841334|46001714",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2164910",
+            "matchedName": "Moreno Mello-Leitão, 1940",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno Mello-Leitão, 1940",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|5643|2164910",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4694933",
+            "matchedName": "Moreno",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|4694885|4694933",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Escherichia coli",
+      "name": "Escherichia coli",
+      "odds": 338087507.1687548,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 7377,
+      "end": 7393,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "matchedCanonical": "Escherichia coli",
+          "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6110934",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1395|4899|3221780|6110934",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5241575",
+            "matchedName": "Escherichia coli #1/H766",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli #1/H766",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichiashigella|Escherichia coli|Escherichia coli",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|no rank|species|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|768012|424023|5248878|474506|5241575",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Moreno",
+      "name": "Moreno",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 40225,
+      "end": 40231,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46001714",
+          "matchedName": "Moreno",
+          "matchedCanonical": "Moreno",
+          "currentName": "Moreno",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45841317|45841334|46001714",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46001714",
+            "matchedName": "Moreno",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45841317|45841334|46001714",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2164910",
+            "matchedName": "Moreno Mello-Leitão, 1940",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno Mello-Leitão, 1940",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|5643|2164910",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4694933",
+            "matchedName": "Moreno",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|4694885|4694933",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Moreno",
+      "name": "Moreno",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 40402,
+      "end": 40408,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46001714",
+          "matchedName": "Moreno",
+          "matchedCanonical": "Moreno",
+          "currentName": "Moreno",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45841317|45841334|46001714",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46001714",
+            "matchedName": "Moreno",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45841317|45841334|46001714",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2164910",
+            "matchedName": "Moreno Mello-Leitão, 1940",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno Mello-Leitão, 1940",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|5643|2164910",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4694933",
+            "matchedName": "Moreno",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|4694885|4694933",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

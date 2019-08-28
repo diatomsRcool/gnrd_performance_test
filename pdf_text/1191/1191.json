@@ -1,0 +1,2325 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:58:17.25973436-05:00",
+    "language": "eng",
+    "total_words": 6594,
+    "total_candidates": 1103,
+    "total_names": 28
+  },
+  "names": [
+    {
+      "type": "Trinomial",
+      "verbatim": "(Apis mellifera carnica)",
+      "name": "Apis mellifera carnica",
+      "odds": 12559889891.781525,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "ica": 205.22286646131545
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "uniEnd3": {
+            "pis": 127.6386120674035
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "era": 165.17938032252218
+          }
+        }
+      },
+      "start": 199,
+      "end": 223,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "88217",
+          "matchedName": "Apis mellifera carnica",
+          "matchedCanonical": "Apis mellifera carnica",
+          "currentName": "Apis mellifera carnica",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Holometabola|Hymenoptera|Apocrita|Aculeata|Apoidea|Apidae|Apinae|Apini|Apis|Apis mellifera|Apis mellifera carnica",
+          "classificationRank": "|superkingdom||kingdom||||||phylum|||subphylum|class||subclass|infraclass|cohort|order|suborder|infraorder|superfamily|family|subfamily|tribe|genus|species|subspecies",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7399|7400|7434|34735|7458|70987|83321|7459|7460|88217",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8391660",
+            "matchedName": "Apis mellifera subsp. carnica",
+            "matchedCanonical": "Apis mellifera ssp. carnica",
+            "currentName": "Apis mellifera subsp. carnica",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Apis|Apis mellifera|Apis mellifera carnica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|54|216|1457|4334|7799978|1341976|8391660",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "892519",
+            "matchedName": "Apis mellifera carnica",
+            "matchedCanonical": "Apis mellifera carnica",
+            "currentName": "Apis mellifera carnica",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Aculeata|Apoidea|Apidae|Apinae|Apini|Apis|Apis mellifera|Apis mellifera carnica",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|suborder|superfamily|family|subfamily|tribe|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|206138|419526|52848|849856|806703|52851|461645|892519",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Varroa destructor.",
+      "name": "Varroa destructor",
+      "odds": 939292.4558362822,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "tor": 14.18206800748928
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          }
+        }
+      },
+      "start": 701,
+      "end": 719,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e550bc0d6cd6dba0c6116634953c6456",
+          "matchedName": "Varroa destructor Anderson \u0026 Trueman, 2000",
+          "matchedCanonical": "Varroa destructor",
+          "currentName": "Varroa destructor Anderson \u0026 Trueman, 2000",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa|Varroa destructor",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168|e550bc0d6cd6dba0c6116634953c6456",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e550bc0d6cd6dba0c6116634953c6456",
+            "matchedName": "Varroa destructor Anderson \u0026 Trueman, 2000",
+            "matchedCanonical": "Varroa destructor",
+            "currentName": "Varroa destructor Anderson \u0026 Trueman, 2000",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa|Varroa destructor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168|e550bc0d6cd6dba0c6116634953c6456",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188249",
+            "matchedName": "Varroa destructor Anderson \u0026 Trueman, 2000",
+            "matchedCanonical": "Varroa destructor",
+            "currentName": "Varroa destructor Anderson \u0026 Trueman, 2000",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa|Varroa destructor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|367|1109|6080|2188248|2188249",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "703157",
+            "matchedName": "Varroa destructor",
+            "matchedCanonical": "Varroa destructor",
+            "currentName": "Varroa destructor",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa|Varroa destructor",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559|703157",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Varroa mite",
+      "name": "Varroa mite",
+      "odds": 44627.703275924534,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "ite": 0.3850335205653198
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 881,
+      "end": 892,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Apis mellifera carnica)",
+      "name": "Apis mellifera carnica",
+      "odds": 12559889891.781525,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniEnd3": {
+            "pis": 127.6386120674035
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispEnd3": {
+            "ica": 205.22286646131545
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spEnd3": {
+            "era": 165.17938032252218
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          }
+        }
+      },
+      "start": 1132,
+      "end": 1156,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 4,
+          "dataSourceTitle": "NCBI",
+          "taxonId": "88217",
+          "matchedName": "Apis mellifera carnica",
+          "matchedCanonical": "Apis mellifera carnica",
+          "currentName": "Apis mellifera carnica",
+          "classificationPath": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Holometabola|Hymenoptera|Apocrita|Aculeata|Apoidea|Apidae|Apinae|Apini|Apis|Apis mellifera|Apis mellifera carnica",
+          "classificationRank": "|superkingdom||kingdom||||||phylum|||subphylum|class||subclass|infraclass|cohort|order|suborder|infraorder|superfamily|family|subfamily|tribe|genus|species|subspecies",
+          "classificationIDs": "131567|2759|33154|33208|6072|33213|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7399|7400|7434|34735|7458|70987|83321|7459|7460|88217",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8391660",
+            "matchedName": "Apis mellifera subsp. carnica",
+            "matchedCanonical": "Apis mellifera ssp. carnica",
+            "currentName": "Apis mellifera subsp. carnica",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Apis|Apis mellifera|Apis mellifera carnica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|54|216|1457|4334|7799978|1341976|8391660",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "892519",
+            "matchedName": "Apis mellifera carnica",
+            "matchedCanonical": "Apis mellifera carnica",
+            "currentName": "Apis mellifera carnica",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Aculeata|Apoidea|Apidae|Apinae|Apini|Apis|Apis mellifera|Apis mellifera carnica",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|suborder|superfamily|family|subfamily|tribe|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|206138|419526|52848|849856|806703|52851|461645|892519",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1346,
+      "end": 1352,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1998,
+      "end": 2004,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 2539,
+      "end": 2545,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Varroa destructor.",
+      "name": "Varroa destructor",
+      "odds": 939292.4558362822,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "tor": 14.18206800748928
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          }
+        }
+      },
+      "start": 2954,
+      "end": 2972,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e550bc0d6cd6dba0c6116634953c6456",
+          "matchedName": "Varroa destructor Anderson \u0026 Trueman, 2000",
+          "matchedCanonical": "Varroa destructor",
+          "currentName": "Varroa destructor Anderson \u0026 Trueman, 2000",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa|Varroa destructor",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168|e550bc0d6cd6dba0c6116634953c6456",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e550bc0d6cd6dba0c6116634953c6456",
+            "matchedName": "Varroa destructor Anderson \u0026 Trueman, 2000",
+            "matchedCanonical": "Varroa destructor",
+            "currentName": "Varroa destructor Anderson \u0026 Trueman, 2000",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa|Varroa destructor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168|e550bc0d6cd6dba0c6116634953c6456",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188249",
+            "matchedName": "Varroa destructor Anderson \u0026 Trueman, 2000",
+            "matchedCanonical": "Varroa destructor",
+            "currentName": "Varroa destructor Anderson \u0026 Trueman, 2000",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa|Varroa destructor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|367|1109|6080|2188248|2188249",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "703157",
+            "matchedName": "Varroa destructor",
+            "matchedCanonical": "Varroa destructor",
+            "currentName": "Varroa destructor",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa|Varroa destructor",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559|703157",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          }
+        }
+      },
+      "start": 3482,
+      "end": 3488,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Apis mellifera",
+      "name": "Apis mellifera",
+      "odds": 63868.879791727595,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pis": 127.6386120674035
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "era": 165.17938032252218
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 3531,
+      "end": 3545,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "67cbbcf92cd60748759e58e802d98518",
+          "matchedName": "Apis mellifera Linnaeus, 1758",
+          "matchedCanonical": "Apis mellifera",
+          "currentName": "Apis mellifera Linnaeus, 1758",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Apis|Apis mellifera",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841569|45843860|45843902|45894524|67cbbcf92cd60748759e58e802d98518",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "67cbbcf92cd60748759e58e802d98518",
+            "matchedName": "Apis mellifera Linnaeus, 1758",
+            "matchedCanonical": "Apis mellifera",
+            "currentName": "Apis mellifera Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Apis|Apis mellifera",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841569|45843860|45843902|45894524|67cbbcf92cd60748759e58e802d98518",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1341976",
+            "matchedName": "Apis mellifera Linnaeus, 1758",
+            "matchedCanonical": "Apis mellifera",
+            "currentName": "Apis mellifera Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Apis|Apis mellifera",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1457|4334|7799978|1341976",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "461645",
+            "matchedName": "Apis mellifera",
+            "matchedCanonical": "Apis mellifera",
+            "currentName": "Apis mellifera",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Apocrita|Aculeata|Apoidea|Apidae|Apinae|Apini|Apis|Apis mellifera",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|suborder|superfamily|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|678075|206138|419526|52848|849856|806703|52851|461645",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          }
+        }
+      },
+      "start": 3603,
+      "end": 3609,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa.",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 3707,
+      "end": 3714,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          }
+        }
+      },
+      "start": 4227,
+      "end": 4233,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Momot",
+      "name": "Momot",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 7953,
+      "end": 7958,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1127810",
+          "matchedName": "Momot Lacepède, 1799",
+          "matchedCanonical": "Momot",
+          "currentName": "Momot Lacepède, 1799",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Aves|Aves|Momot",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|148|11905117|1142|10015|100483|1127810",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4845002",
+            "matchedName": "Momot Lacepède, 1799",
+            "matchedCanonical": "Momot",
+            "currentName": "Momot Lacepède, 1799",
+            "classificationPath": "Animalia|Chordata|Aves|Momot",
+            "classificationRank": "kingdom|phylum|class|genus",
+            "classificationIDs": "1|44|212|4845002",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "A. mellifera carnica.",
+      "name": "A. mellifera carnica",
+      "odds": 855363516490.5425,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "era": 165.17938032252218
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "ica": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 8222,
+      "end": 8243,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Varroa mite",
+      "name": "Varroa mite",
+      "odds": 44627.703275924534,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          },
+          "spEnd3": {
+            "ite": 0.3850335205653198
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 12076,
+      "end": 12087,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "VARROA",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          }
+        }
+      },
+      "start": 14345,
+      "end": 14351,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          }
+        }
+      },
+      "start": 15013,
+      "end": 15019,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          }
+        }
+      },
+      "start": 15221,
+      "end": 15227,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "VARROA",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 20033,
+      "end": 20039,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 30086,
+      "end": 30092,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 30863,
+      "end": 30869,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 31157,
+      "end": 31163,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 31280,
+      "end": 31286,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "VARROA",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          }
+        }
+      },
+      "start": 31701,
+      "end": 31707,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          }
+        }
+      },
+      "start": 35204,
+      "end": 35210,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          }
+        }
+      },
+      "start": 36196,
+      "end": 36202,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Varroa",
+      "name": "Varroa",
+      "odds": 3701.7631646149703,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "roa": 5.005435767349157
+          }
+        }
+      },
+      "start": 37007,
+      "end": 37013,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975168",
+          "matchedName": "Varroa",
+          "matchedCanonical": "Varroa",
+          "currentName": "Varroa",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975168",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45845214|45846588|45975168",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2188248",
+            "matchedName": "Varroa Oudemans, 1904",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa Oudemans, 1904",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Mesostigmata|Varroidae|Varroa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1109|6080|2188248",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167559",
+            "matchedName": "Varroa",
+            "matchedCanonical": "Varroa",
+            "currentName": "Varroa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|150786|1076323|467273|5717520|510222|988287|167559",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

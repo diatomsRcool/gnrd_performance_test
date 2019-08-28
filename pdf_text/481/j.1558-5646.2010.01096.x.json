@@ -1,0 +1,3984 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:05:33.177568892-05:00",
+    "language": "eng",
+    "total_words": 10621,
+    "total_candidates": 2153,
+    "total_names": 77
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Drosophila mojavensis",
+      "name": "Drosophila mojavensis",
+      "odds": 14789002.347468428,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ila": 3.754076825511868
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 750,
+      "end": 771,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "156030d805154a2751aea8720ea7c1dc",
+          "matchedName": "Drosophila mojavensis Patterson, 1940",
+          "matchedCanonical": "Drosophila mojavensis",
+          "currentName": "Drosophila mojavensis Patterson, 1940",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila|Drosophila mojavensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841455|45841489|45929178|156030d805154a2751aea8720ea7c1dc",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "156030d805154a2751aea8720ea7c1dc",
+            "matchedName": "Drosophila mojavensis Patterson, 1940",
+            "matchedCanonical": "Drosophila mojavensis",
+            "currentName": "Drosophila mojavensis Patterson, 1940",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila|Drosophila mojavensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841455|45841489|45929178|156030d805154a2751aea8720ea7c1dc",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5074174",
+            "matchedName": "Drosophila mojavensis Patterson, 1940",
+            "matchedCanonical": "Drosophila mojavensis",
+            "currentName": "Drosophila mojavensis Patterson, 1940",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila|Drosophila mojavensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|811|5547|1522683|5074174",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1082279",
+            "matchedName": "Drosophila mojavensis",
+            "matchedCanonical": "Drosophila mojavensis",
+            "currentName": "Drosophila mojavensis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Brachycera|Muscomorpha|Eremoneura|Cyclorrhapha|Schizophora|Acalyptratae|Ephydroidea|Drosophilidae|Drosophilinae|Drosophilini|Drosophila|Drosophila subgenus||||Drosophila mojavensis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|no rank|no rank|section|no rank|superfamily|family|subfamily|tribe|genus|subgenus|species group|species subgroup|no rank|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|661378|555807|133916|951142|951146|133926|758894|758897|34905|127994|396616|34907|458709|288411|288416|682726|1082279",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 2353,
+      "end": 2366,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Mimulus",
+      "name": "Mimulus",
+      "odds": 316468.5675097599,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 6235,
+      "end": 6242,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45973456",
+          "matchedName": "Mimulus",
+          "matchedCanonical": "Mimulus",
+          "currentName": "Mimulus",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Phrymaceae|Mimulus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45841436|45842524|45973456",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45973456",
+            "matchedName": "Mimulus",
+            "matchedCanonical": "Mimulus",
+            "currentName": "Mimulus",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Phrymaceae|Mimulus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45841436|45842524|45973456",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3252060",
+            "matchedName": "Mimulus Barrande, 1879",
+            "matchedCanonical": "Mimulus",
+            "currentName": "Brachymimulus Cockerell, 1929",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Brachiopoda|Rhynchonellata|Triplesiidae|Brachymimulus",
+            "classificationRank": "kingdom|phylum|class|family|genus",
+            "classificationIDs": "1|110|210|3252058|3252059",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "596470",
+            "matchedName": "Mimulus",
+            "matchedCanonical": "Mimulus",
+            "currentName": "Mimulus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Lamiales|Core||Phrymaceae|Mimulus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|no rank|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|23736|5263556|5264061|738841|596470",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 7529,
+      "end": 7542,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 7846,
+      "end": 7859,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Stenocereus gummosus,",
+      "name": "Stenocereus gummosus",
+      "odds": 9066722351004.64,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eus": 127.6386120674035
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sus": 245.26635260010872
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 8007,
+      "end": 8028,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "dc1fd0bda28b26ad5f3e946715e2d409",
+          "matchedName": "Stenocereus gummosus (Engelm.) A.C. Gibson \u0026 K.E. Horak",
+          "matchedCanonical": "Stenocereus gummosus",
+          "currentName": "Stenocereus gummosus (Engelm.) A.C. Gibson \u0026 K.E. Horak",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Cactaceae|Stenocereus|Stenocereus gummosus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45842483|45846260|45882424|dc1fd0bda28b26ad5f3e946715e2d409",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "dc1fd0bda28b26ad5f3e946715e2d409",
+            "matchedName": "Stenocereus gummosus (Engelm.) A.C. Gibson \u0026 K.E. Horak",
+            "matchedCanonical": "Stenocereus gummosus",
+            "currentName": "Stenocereus gummosus (Engelm.) A.C. Gibson \u0026 K.E. Horak",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Cactaceae|Stenocereus|Stenocereus gummosus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45842483|45846260|45882424|dc1fd0bda28b26ad5f3e946715e2d409",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7284729",
+            "matchedName": "Stenocereus gummosus (Engelm.) A.C. Gibson \u0026 K.E. Horak A.C. Gibson \u0026 K.E. Horak (Engelm.)",
+            "matchedCanonical": "Stenocereus gummosus",
+            "currentName": "Stenocereus gummosus (Engelm.) A.C. Gibson \u0026 K.E. Horak A.C. Gibson \u0026 K.E. Horak (Engelm.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Cactaceae|Stenocereus|Stenocereus gummosus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|422|2519|3084379|7284729",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "176896",
+            "matchedName": "Stenocereus gummosus",
+            "matchedCanonical": "Stenocereus gummosus",
+            "currentName": "Stenocereus gummosus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|Caryophyllales|Cactineae|Cactaceae|Cactoideae|Echinocereeae|Stenocereus|Stenocereus gummosus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|order|suborder|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|216628|33109|584111|227063|801074|322817|176896",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. thurberi,",
+      "name": "S. thurberi",
+      "odds": 8065175.0111218775,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eri": 445.483783294075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 8205,
+      "end": 8217,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. alamosensis.",
+      "name": "S. alamosensis",
+      "odds": 43570021.54166817,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 8262,
+      "end": 8277,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ferocactus",
+      "name": "Ferocactus",
+      "odds": 409280.02154273,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 8379,
+      "end": 8389,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45876794",
+          "matchedName": "Ferocactus",
+          "matchedCanonical": "Ferocactus",
+          "currentName": "Ferocactus",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Cactaceae|Ferocactus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45842483|45846260|45876794",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45876794",
+            "matchedName": "Ferocactus",
+            "matchedCanonical": "Ferocactus",
+            "currentName": "Ferocactus",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Cactaceae|Ferocactus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45842483|45846260|45876794",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3084147",
+            "matchedName": "Ferocactus Britton \u0026 Rose",
+            "matchedCanonical": "Ferocactus",
+            "currentName": "Ferocactus Britton \u0026 Rose",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Cactaceae|Ferocactus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|422|2519|3084147",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1069460",
+            "matchedName": "Ferocactus",
+            "matchedCanonical": "Ferocactus",
+            "currentName": "Ferocactus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|Caryophyllales|Cactineae|Cactaceae|Cactoideae|Cacteae|Ferocactus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|order|suborder|family|subfamily|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|216628|33109|584111|227063|801070|1069460",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 8511,
+      "end": 8524,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 8757,
+      "end": 8770,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 9321,
+      "end": 9334,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis.",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 9909,
+      "end": 9923,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 10305,
+      "end": 10318,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 11869,
+      "end": 11882,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 12146,
+      "end": 12159,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 12443,
+      "end": 12456,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "D. mojavensis used",
+      "name": "D. mojavensis used",
+      "odds": 10597650534.235842,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "ispEnd3": {
+            "sed": 0.07360934951984055
+          },
+          "ispLen": {
+            "4": 0.05289125210455401
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 13358,
+      "end": 13376,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 13894,
+      "end": 13907,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 14270,
+      "end": 14283,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Punta",
+      "name": "Punta",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 14727,
+      "end": 14732,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907309",
+          "matchedName": "Punta",
+          "matchedCanonical": "Punta",
+          "currentName": "Punta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907309",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1942684",
+            "matchedName": "Punta Evans, 1955",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta Evans, 1955",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6953|1942684",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4234052",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|336117|336118|4234052",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis.",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 15772,
+      "end": 15786,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Punta",
+      "name": "Punta",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          }
+        }
+      },
+      "start": 16910,
+      "end": 16915,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907309",
+          "matchedName": "Punta",
+          "matchedCanonical": "Punta",
+          "currentName": "Punta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907309",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1942684",
+            "matchedName": "Punta Evans, 1955",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta Evans, 1955",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6953|1942684",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4234052",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|336117|336118|4234052",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Erwinia cacticida",
+      "name": "Erwinia cacticida",
+      "odds": 47469836637.09558,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ida": 202.72014857764088
+          }
+        }
+      },
+      "start": 17032,
+      "end": 17049,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e80faa5bac2c53d27cf953466764e212",
+          "matchedName": "Erwinia cacticida Alcorn et al., 1991",
+          "matchedCanonical": "Erwinia cacticida",
+          "currentName": "Pectobacterium cacticida (Alcorn et al., 1991) Hauben et al., 1999",
+          "isSynonym": true,
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Pectobacterium|Pectobacterium cacticida",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949788|df6ad05061ac9ff85887c89f655345db",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e80faa5bac2c53d27cf953466764e212",
+            "matchedName": "Erwinia cacticida Alcorn et al., 1991",
+            "matchedCanonical": "Erwinia cacticida",
+            "currentName": "Pectobacterium cacticida (Alcorn et al., 1991) Hauben et al., 1999",
+            "isSynonym": true,
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Pectobacterium|Pectobacterium cacticida",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949788|df6ad05061ac9ff85887c89f655345db",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3221949",
+            "matchedName": "Erwinia cacticida Alcorn et al., 1991",
+            "matchedCanonical": "Erwinia cacticida",
+            "currentName": "Pectobacterium cacticida (Alcorn et al., 1991) Hauben et al., 1999 Hauben et al., 1999 (Alcorn et al., 1991)",
+            "isSynonym": true,
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Pectobacterium|Pectobacterium cacticida",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1395|4899|3221945|8088472",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Dipodascus starmeri,",
+      "name": "Dipodascus starmeri",
+      "odds": 37314124958512.4,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eri": 445.483783294075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 17178,
+      "end": 17198,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "9be40fc036e36beace6a3b16df901624",
+          "matchedName": "Dipodascus starmeri Phaff, Blue, Hagler \u0026 Kurtzman 1997",
+          "matchedCanonical": "Dipodascus starmeri",
+          "currentName": "Magnusiomyces starmeri (Phaff, Blue, Hagler \u0026 Kurtzman) de Hoog \u0026 M.T. Sm. 2004",
+          "isSynonym": true,
+          "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae|Magnusiomyces|Magnusiomyces starmeri",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841305|45841347|45842730|45842731|45847098|46064103|d198fe81596211626e4196ac52e6f703",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "9be40fc036e36beace6a3b16df901624",
+            "matchedName": "Dipodascus starmeri Phaff, Blue, Hagler \u0026 Kurtzman 1997",
+            "matchedCanonical": "Dipodascus starmeri",
+            "currentName": "Magnusiomyces starmeri (Phaff, Blue, Hagler \u0026 Kurtzman) de Hoog \u0026 M.T. Sm. 2004",
+            "isSynonym": true,
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae|Magnusiomyces|Magnusiomyces starmeri",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841305|45841347|45842730|45842731|45847098|46064103|d198fe81596211626e4196ac52e6f703",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3479305",
+            "matchedName": "Dipodascus starmeri Phaff, Blue, Hagler \u0026 Kurtzman, 1997",
+            "matchedCanonical": "Dipodascus starmeri",
+            "currentName": "Magnusiomyces starmeri (Phaff, Blue, Hagler \u0026 Kurtzman) de Hoog \u0026 M.T. Sm., 2004 de Hoog \u0026 M.T. Sm., 2004 (Phaff, Blue, Hagler \u0026 Kurtzman)",
+            "isSynonym": true,
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae|Magnusiomyces|Magnusiomyces starmeri de",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "5|95|182|1281|4137|8315228|3300985",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Candida sonorensis,",
+      "name": "Candida sonorensis",
+      "odds": 168817854573.7979,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ida": 2.502717883674579
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 17199,
+      "end": 17218,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "bc2137aebea3b77bb67d19ea9e71d3bd",
+          "matchedName": "Candida sonorensis (M.W. Mill., Phaff, M. Miranda, Heed \u0026 Starmer) S.A. Mey. \u0026 Yarrow 1978",
+          "matchedCanonical": "Candida sonorensis",
+          "currentName": "Candida sonorensis (M.W. Mill., Phaff, M. Miranda, Heed \u0026 Starmer) S.A. Mey. \u0026 Yarrow 1978",
+          "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Not assigned|Candida|Candida sonorensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841305|45841347|45842730|45842731|45847093|46011435|bc2137aebea3b77bb67d19ea9e71d3bd",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "bc2137aebea3b77bb67d19ea9e71d3bd",
+            "matchedName": "Candida sonorensis (M.W. Mill., Phaff, M. Miranda, Heed \u0026 Starmer) S.A. Mey. \u0026 Yarrow 1978",
+            "matchedCanonical": "Candida sonorensis",
+            "currentName": "Candida sonorensis (M.W. Mill., Phaff, M. Miranda, Heed \u0026 Starmer) S.A. Mey. \u0026 Yarrow 1978",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Not assigned|Candida|Candida sonorensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841305|45841347|45842730|45842731|45847093|46011435|bc2137aebea3b77bb67d19ea9e71d3bd",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3480201",
+            "matchedName": "Candida sonorensis (J.H. Mill., Giddens \u0026 A.A. Foster) S.A. Mey. \u0026 Yarrow S.A. Mey. \u0026 Yarrow (J.H. Mill., Giddens \u0026 A.A. Foster)",
+            "matchedCanonical": "Candida sonorensis",
+            "currentName": "Candida sonorensis (J.H. Mill., Giddens \u0026 A.A. Foster) S.A. Mey. \u0026 Yarrow S.A. Mey. \u0026 Yarrow (J.H. Mill., Giddens \u0026 A.A. Foster)",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Candida|Candida sonorensis",
+            "classificationRank": "kingdom|phylum|class|order|genus|species",
+            "classificationIDs": "5|95|182|1281|2518121|3480201",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Starmera amethionina,",
+      "name": "Starmera amethionina",
+      "odds": 3870021779844.7227,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 17219,
+      "end": 17240,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "cb88ad2652d0cf3bae84a68879c4f8a8",
+          "matchedName": "Starmera amethionina (Starmer, Phaff, M. Miranda \u0026 M.W. Mill.) Y. Yamada, Higashi, S. Ando \u0026 Mikata 1997",
+          "matchedCanonical": "Starmera amethionina",
+          "currentName": "Starmera amethionina (Starmer, Phaff, M. Miranda \u0026 M.W. Mill.) Y. Yamada, Higashi, S. Ando \u0026 Mikata 1997",
+          "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Not assigned|Starmera|Starmera amethionina",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841305|45841347|45842730|45842731|45847093|46064168|cb88ad2652d0cf3bae84a68879c4f8a8",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "cb88ad2652d0cf3bae84a68879c4f8a8",
+            "matchedName": "Starmera amethionina (Starmer, Phaff, M. Miranda \u0026 M.W. Mill.) Y. Yamada, Higashi, S. Ando \u0026 Mikata 1997",
+            "matchedCanonical": "Starmera amethionina",
+            "currentName": "Starmera amethionina (Starmer, Phaff, M. Miranda \u0026 M.W. Mill.) Y. Yamada, Higashi, S. Ando \u0026 Mikata 1997",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Not assigned|Starmera|Starmera amethionina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841305|45841347|45842730|45842731|45847093|46064168|cb88ad2652d0cf3bae84a68879c4f8a8",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3479668",
+            "matchedName": "Starmera amethionina (Starmer, Phaff, M. Miranda \u0026 M.W. Mill.) Y. Yamada, Higashi, S. Ando \u0026 Mikata, 1997 Y. Yamada, Higashi, S. Ando \u0026 Mikata, 1997 (Starmer, Phaff, M. Miranda \u0026 M.W. Mill.)",
+            "matchedCanonical": "Starmera amethionina",
+            "currentName": "Starmera amethionina (Starmer, Phaff, M. Miranda \u0026 M.W. Mill.) Y. Yamada, Higashi, S. Ando \u0026 Mikata, 1997 Y. Yamada, Higashi, S. Ando \u0026 Mikata, 1997 (Starmer, Phaff, M. Miranda \u0026 M.W. Mill.)",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Phaffomycetaceae|Starmera|Starmera amethionina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "5|95|182|1281|8403|3479666|3479668",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "485715",
+            "matchedName": "Starmera amethionina",
+            "matchedCanonical": "Starmera amethionina",
+            "currentName": "Starmera amethionina",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota|Saccharomycetales|Phaffomycetaceae|Starmera|Starmera amethionina",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|5976840|529465|1082960|485715",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Candida valida,",
+      "name": "Candida valida",
+      "odds": 9567043302.783688,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ida": 2.502717883674579
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ida": 202.72014857764088
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 17241,
+      "end": 17256,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "cc667d10f1d1a2e36c41d1a105abaf85",
+          "matchedName": "Candida valida (Leberle) Uden \u0026 H.R. Buckley ex S.A. Mey. \u0026 Ahearn 1983",
+          "matchedCanonical": "Candida valida",
+          "currentName": "Pichia membranifaciens (E.C. Hansen) E.C. Hansen 1904",
+          "isSynonym": true,
+          "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Pichiaceae|Pichia|Pichia membranifaciens",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841305|45841347|45842730|45842731|45847092|46064083|f7247e82bf8f490c32fe41052bbdc1a7",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "cc667d10f1d1a2e36c41d1a105abaf85",
+            "matchedName": "Candida valida (Leberle) Uden \u0026 H.R. Buckley ex S.A. Mey. \u0026 Ahearn 1983",
+            "matchedCanonical": "Candida valida",
+            "currentName": "Pichia membranifaciens (E.C. Hansen) E.C. Hansen 1904",
+            "isSynonym": true,
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Pichiaceae|Pichia|Pichia membranifaciens",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841305|45841347|45842730|45842731|45847092|46064083|f7247e82bf8f490c32fe41052bbdc1a7",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8666510",
+            "matchedName": "Candida valida (Leberle) Uden \u0026 H.R. Buckley Uden \u0026 H.R. Buckley (Leberle)",
+            "matchedCanonical": "Candida valida",
+            "currentName": "Pichia membranifaciens (E.C. Hansen) E.C. Hansen, 1904 E.C. Hansen, 1904 (E.C. Hansen)",
+            "isSynonym": true,
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Pichiaceae|Pichia|Pichia membranifaciens",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "5|95|182|1281|8404|2598999|2599378",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pichia cactophila,",
+      "name": "Pichia cactophila",
+      "odds": 16783406461.002096,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ila": 45.04892190614242
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 17257,
+      "end": 17275,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a392656b1dc25dfd1b8a2a0827506395",
+          "matchedName": "Pichia cactophila Starmer, Phaff, M. Miranda \u0026 M.W. Mill. 1978",
+          "matchedCanonical": "Pichia cactophila",
+          "currentName": "Pichia cactophila Starmer, Phaff, M. Miranda \u0026 M.W. Mill. 1978",
+          "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Pichiaceae|Pichia|Pichia cactophila",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841305|45841347|45842730|45842731|45847092|46064083|a392656b1dc25dfd1b8a2a0827506395",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a392656b1dc25dfd1b8a2a0827506395",
+            "matchedName": "Pichia cactophila Starmer, Phaff, M. Miranda \u0026 M.W. Mill. 1978",
+            "matchedCanonical": "Pichia cactophila",
+            "currentName": "Pichia cactophila Starmer, Phaff, M. Miranda \u0026 M.W. Mill. 1978",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Pichiaceae|Pichia|Pichia cactophila",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841305|45841347|45842730|45842731|45847092|46064083|a392656b1dc25dfd1b8a2a0827506395",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3479532",
+            "matchedName": "Pichia cactophila Starmer, Phaff, M. Miranda \u0026 M.W. Mill., 1978",
+            "matchedCanonical": "Pichia cactophila",
+            "currentName": "Pichia cactophila Starmer, Phaff, M. Miranda \u0026 M.W. Mill., 1978",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Pichiaceae|Pichia|Pichia cactophila",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "5|95|182|1281|8404|2598999|3479532",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "219783",
+            "matchedName": "Pichia cactophila",
+            "matchedCanonical": "Pichia cactophila",
+            "currentName": "Pichia cactophila",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Ascomycota|Saccharomycetales|Pichiaceae|Pichia|Pichia cactophila",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|439373|5976840|821913|858840|219783",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pichia mexicana",
+      "name": "Pichia mexicana",
+      "odds": 11523309.0458476,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          }
+        }
+      },
+      "start": 17276,
+      "end": 17291,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "83f365d4a8a965c5bb25a97e213263e7",
+          "matchedName": "Pichia mexicana M. Miranda, Holzschu, Phaff \u0026 Starmer 1982",
+          "matchedCanonical": "Pichia mexicana",
+          "currentName": "Yamadazyma mexicana (M. Miranda, Holzschu, Phaff \u0026 Starmer) Billon-Grand 1989",
+          "isSynonym": true,
+          "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Not assigned|Yamadazyma|Yamadazyma mexicana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841305|45841347|45842730|45842731|45847093|46064282|7ed1eacb53a99e427bd3bcd22d2248e8",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "83f365d4a8a965c5bb25a97e213263e7",
+            "matchedName": "Pichia mexicana M. Miranda, Holzschu, Phaff \u0026 Starmer 1982",
+            "matchedCanonical": "Pichia mexicana",
+            "currentName": "Yamadazyma mexicana (M. Miranda, Holzschu, Phaff \u0026 Starmer) Billon-Grand 1989",
+            "isSynonym": true,
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Not assigned|Yamadazyma|Yamadazyma mexicana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841305|45841347|45842730|45842731|45847093|46064282|7ed1eacb53a99e427bd3bcd22d2248e8",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3479573",
+            "matchedName": "Pichia mexicana M. Miranda, Holzschu, Phaff \u0026 Starmer, 1982",
+            "matchedCanonical": "Pichia mexicana",
+            "currentName": "Yamadazyma mexicanum (M. Miranda, Holzschu, Phaff \u0026 Starmer) Billon-Grand, 1989 Billon-Grand, 1989 (M. Miranda, Holzschu, Phaff \u0026 Starmer)",
+            "isSynonym": true,
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Yamadazyma|Yamadazyma mexicanum",
+            "classificationRank": "kingdom|phylum|class|order|genus|species",
+            "classificationIDs": "5|95|182|1281|2599327|3270113",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Sporopachydermia cereana.",
+      "name": "Sporopachydermia cereana",
+      "odds": 4834392185211.668,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "16": 29.094095397716973
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mia": 15.731369554525925
+          }
+        }
+      },
+      "start": 17296,
+      "end": 17321,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1bb23b2ad8d3b0eacb85ee19fe8c23df",
+          "matchedName": "Sporopachydermia cereana Rodr. Mir. 1978",
+          "matchedCanonical": "Sporopachydermia cereana",
+          "currentName": "Sporopachydermia cereana Rodr. Mir. 1978",
+          "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae|Sporopachydermia|Sporopachydermia cereana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841305|45841347|45842730|45842731|45847098|46065103|1bb23b2ad8d3b0eacb85ee19fe8c23df",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1bb23b2ad8d3b0eacb85ee19fe8c23df",
+            "matchedName": "Sporopachydermia cereana Rodr. Mir. 1978",
+            "matchedCanonical": "Sporopachydermia cereana",
+            "currentName": "Sporopachydermia cereana Rodr. Mir. 1978",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae|Sporopachydermia|Sporopachydermia cereana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841305|45841347|45842730|45842731|45847098|46065103|1bb23b2ad8d3b0eacb85ee19fe8c23df",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2599475",
+            "matchedName": "Sporopachydermia cereana Rodr. Mir., 1978",
+            "matchedCanonical": "Sporopachydermia cereana",
+            "currentName": "Sporopachydermia cereana Rodr. Mir., 1978",
+            "classificationPath": "Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae|Sporopachydermia|Sporopachydermia cereana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "5|95|182|1281|4137|2599474|2599475",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "289885",
+            "matchedName": "Sporopachydermia cereana var. D77-321B",
+            "matchedCanonical": "Sporopachydermia cereana",
+            "currentName": "Sporopachydermia cereana var. D77-321B",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Basidiomycota|Agaricomycotina|Tremellomycetes|Tremellales|Tremellaceae|Cryptococcus|Cryptococcus cereanus|Sporopachydermia cereana",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|subphylum|class|order|family|genus|species|varietas",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|634628|633300|1012689|183800|133074|90104|638672|289885",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "D. mojavensis genome",
+      "name": "D. mojavensis genome",
+      "odds": 814029241.8782352,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "ome": 0.07360934951984055
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 19155,
+      "end": 19175,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 20864,
+      "end": 20877,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 24676,
+      "end": 24689,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial(nlp)",
+      "verbatim": "DEVT versus agria,",
+      "name": "Devt versus agria",
+      "odds": 236.05501195456415,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spEnd3": {
+            "sus": 245.26635260010872
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "ria": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 25005,
+      "end": 25023,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Punta",
+      "name": "Punta",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 25610,
+      "end": 25615,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907309",
+          "matchedName": "Punta",
+          "matchedCanonical": "Punta",
+          "currentName": "Punta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907309",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1942684",
+            "matchedName": "Punta Evans, 1955",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta Evans, 1955",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6953|1942684",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4234052",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|336117|336118|4234052",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Punta",
+      "name": "Punta",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 25854,
+      "end": 25859,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907309",
+          "matchedName": "Punta",
+          "matchedCanonical": "Punta",
+          "currentName": "Punta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907309",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1942684",
+            "matchedName": "Punta Evans, 1955",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta Evans, 1955",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6953|1942684",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4234052",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|336117|336118|4234052",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Punta",
+      "name": "Punta",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 27195,
+      "end": 27200,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907309",
+          "matchedName": "Punta",
+          "matchedCanonical": "Punta",
+          "currentName": "Punta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907309",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1942684",
+            "matchedName": "Punta Evans, 1955",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta Evans, 1955",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6953|1942684",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4234052",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|336117|336118|4234052",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Punta",
+      "name": "Punta",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          }
+        }
+      },
+      "start": 27658,
+      "end": 27663,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907309",
+          "matchedName": "Punta",
+          "matchedCanonical": "Punta",
+          "currentName": "Punta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907309",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1942684",
+            "matchedName": "Punta Evans, 1955",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta Evans, 1955",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6953|1942684",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4234052",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|336117|336118|4234052",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Rosalia,",
+      "name": "Rosalia",
+      "odds": 13736.822435863207,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          }
+        }
+      },
+      "start": 27683,
+      "end": 27691,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45947695",
+          "matchedName": "Rosalia",
+          "matchedCanonical": "Rosalia",
+          "currentName": "Rosalia",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Cerambycidae|Rosalia",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841413|45841414|45947695",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45947695",
+            "matchedName": "Rosalia",
+            "matchedCanonical": "Rosalia",
+            "currentName": "Rosalia",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Chrysomeloidea|Cerambycidae|Rosalia",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841413|45841414|45947695",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1159831",
+            "matchedName": "Rosalia Audinet-Serville, 1833",
+            "matchedCanonical": "Rosalia",
+            "currentName": "Rosalia Audinet-Serville, 1833",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Cerambycidae|Rosalia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|5602|1159831",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "850662",
+            "matchedName": "Rosalia",
+            "matchedCanonical": "Rosalia",
+            "currentName": "Rosalia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Chrysomeloidea|Cerambycidae|Cerambycinae|Rosalini|Rosalia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|tribe|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765489|968359|582350|850661|850662",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Punta",
+      "name": "Punta",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          }
+        }
+      },
+      "start": 27775,
+      "end": 27780,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907309",
+          "matchedName": "Punta",
+          "matchedCanonical": "Punta",
+          "currentName": "Punta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907309",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1942684",
+            "matchedName": "Punta Evans, 1955",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta Evans, 1955",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6953|1942684",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4234052",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|336117|336118|4234052",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "D. mojavensis may",
+      "name": "D. mojavensis may",
+      "odds": 11548422523.194752,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "ispLen": {
+            "3": 0.003572759291469777
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 28922,
+      "end": 28939,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 29134,
+      "end": 29147,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 29198,
+      "end": 29211,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 29411,
+      "end": 29424,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "DEVT revealed",
+      "name": "Devt revealed",
+      "odds": 2.412775767684755,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "led": 0.41711964727909645
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 31600,
+      "end": 31613,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 31634,
+      "end": 31647,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial(nlp)",
+      "verbatim": "DEVT differences revealed",
+      "name": "Devt differences revealed",
+      "odds": 2.2064103211719783,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "ispLen": {
+            "8": 1.8125199061624047
+          },
+          "ispEnd3": {
+            "led": 0.41711964727909645
+          },
+          "spEnd3": {
+            "ces": 0.18538650990182065
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          }
+        }
+      },
+      "start": 32758,
+      "end": 32783,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis.",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 33606,
+      "end": 33620,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Punta",
+      "name": "Punta",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 34502,
+      "end": 34507,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907309",
+          "matchedName": "Punta",
+          "matchedCanonical": "Punta",
+          "currentName": "Punta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907309",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1942684",
+            "matchedName": "Punta Evans, 1955",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta Evans, 1955",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6953|1942684",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4234052",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|336117|336118|4234052",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis.",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 35896,
+      "end": 35910,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "D. mojavensis genome",
+      "name": "D. mojavensis genome",
+      "odds": 814029241.8782352,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "ome": 0.07360934951984055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 49790,
+      "end": 49810,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "DEVT revealed",
+      "name": "Devt revealed",
+      "odds": 2.412775767684755,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "led": 0.41711964727909645
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 50834,
+      "end": 50847,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "D. mojavensis genome",
+      "name": "D. mojavensis genome",
+      "odds": 814029241.8782352,
+      "odds_details": {
+        "Name": {
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "ispEnd3": {
+            "ome": 0.07360934951984055
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          }
+        }
+      },
+      "start": 51339,
+      "end": 51359,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis,",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 51848,
+      "end": 51862,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Heliothis",
+      "name": "Heliothis",
+      "odds": 4384.395517246239,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "his": 0.3033597434757065
+          }
+        }
+      },
+      "start": 53608,
+      "end": 53617,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "989247",
+          "matchedName": "Heliothis Ochsenheimer, 1816",
+          "matchedCanonical": "Heliothis",
+          "currentName": "Heliothis Ochsenheimer, 1816",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Pterygota|Lepidoptera|Noctuidae|Heliothis",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|subclass|order|family|genus",
+          "classificationIDs": "1|2|1065|1278|1307|151152|989022|989032|989247",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3257879",
+            "matchedName": "Heliothis",
+            "matchedCanonical": "Heliothis",
+            "currentName": "Heliothis",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Heliothis",
+            "classificationRank": "kingdom|phylum|class|order|genus",
+            "classificationIDs": "1|54|216|797|3257879",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "742355",
+            "matchedName": "Heliothis",
+            "matchedCanonical": "Heliothis",
+            "currentName": "Heliothis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Noctuoidea|Noctuidae|Heliothinae|Heliothis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675124|742352|970876|742355",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. melanogaster,",
+      "name": "D. melanogaster",
+      "odds": 55026.70598705043,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          }
+        }
+      },
+      "start": 53987,
+      "end": 54003,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis.",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 54017,
+      "end": 54031,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 55098,
+      "end": 55111,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. melanogaster,",
+      "name": "D. melanogaster",
+      "odds": 55026.70598705043,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ter": 0.6610952900272473
+          }
+        }
+      },
+      "start": 56336,
+      "end": 56352,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 57489,
+      "end": 57502,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 57857,
+      "end": 57870,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Punta",
+      "name": "Punta",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          }
+        }
+      },
+      "start": 58070,
+      "end": 58075,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907309",
+          "matchedName": "Punta",
+          "matchedCanonical": "Punta",
+          "currentName": "Punta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907309",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1942684",
+            "matchedName": "Punta Evans, 1955",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta Evans, 1955",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6953|1942684",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4234052",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|336117|336118|4234052",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis,",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 58384,
+      "end": 58398,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 59211,
+      "end": 59224,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial(nlp)",
+      "verbatim": "DEVT differences revealed",
+      "name": "Devt differences revealed",
+      "odds": 2.2064103211719783,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spEnd3": {
+            "ces": 0.18538650990182065
+          },
+          "ispLen": {
+            "8": 1.8125199061624047
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "led": 0.41711964727909645
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 59280,
+      "end": 59305,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Punta",
+      "name": "Punta",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 59513,
+      "end": 59518,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907309",
+          "matchedName": "Punta",
+          "matchedCanonical": "Punta",
+          "currentName": "Punta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907309",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1942684",
+            "matchedName": "Punta Evans, 1955",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta Evans, 1955",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6953|1942684",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4234052",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|336117|336118|4234052",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Punta",
+      "name": "Punta",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          }
+        }
+      },
+      "start": 61199,
+      "end": 61204,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45907309",
+          "matchedName": "Punta",
+          "matchedCanonical": "Punta",
+          "currentName": "Punta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45907309",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847844|45847845|45907309",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1942684",
+            "matchedName": "Punta Evans, 1955",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta Evans, 1955",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Hesperiidae|Punta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6953|1942684",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4234052",
+            "matchedName": "Punta",
+            "matchedCanonical": "Punta",
+            "currentName": "Punta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Hesperioidea|Hesperiidae|Punta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|336117|336118|4234052",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis.",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 63458,
+      "end": 63472,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis.",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 64546,
+      "end": 64560,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis.",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 64934,
+      "end": 64948,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 66093,
+      "end": 66106,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. cacticida",
+      "name": "E. cacticida",
+      "odds": 5338205.308034538,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ida": 202.72014857764088
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 66590,
+      "end": 66602,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 67902,
+      "end": 67915,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 68148,
+      "end": 68161,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 68342,
+      "end": 68355,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. mojavensis",
+      "name": "D. mojavensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 68802,
+      "end": 68815,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:07:27.649961941-05:00",
+    "language": "eng",
+    "total_words": 5907,
+    "total_candidates": 1217,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Cano",
+      "name": "Cano",
+      "odds": 298.9066520977893,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ano": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 4378,
+      "end": 4382,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45951140",
+          "matchedName": "Cano",
+          "matchedCanonical": "Cano",
+          "currentName": "Cano",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Fulgoroidea|Caliscelidae|Cano",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841287|45842867|45849791|45951140",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45951140",
+            "matchedName": "Cano",
+            "matchedCanonical": "Cano",
+            "currentName": "Cano",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Fulgoroidea|Caliscelidae|Cano",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841287|45842867|45849791|45951140",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5983842",
+            "matchedName": "Cano",
+            "matchedCanonical": "Cano",
+            "currentName": "Cano",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Caliscelidae|Cano",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|809|4214|5983842",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3467972",
+            "matchedName": "Cano",
+            "matchedCanonical": "Cano",
+            "currentName": "Cano",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Neohemiptera|Archaeorrhyncha|Fulgoroidea|Caliscelidae|Cano",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|no rank|no rank|superfamily|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|563382|866091|582677|841487|3467972",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Garreta",
+      "name": "Garreta",
+      "odds": 58424.966309494135,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "eta": 40.043486138793256
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 10770,
+      "end": 10777,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46049109",
+          "matchedName": "Garreta",
+          "matchedCanonical": "Garreta",
+          "currentName": "Garreta",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Scarabaeidae|Garreta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45841449|46049109",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46049109",
+            "matchedName": "Garreta",
+            "matchedCanonical": "Garreta",
+            "currentName": "Garreta",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeoidea|Scarabaeidae|Garreta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841448|45841449|46049109",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1086503",
+            "matchedName": "Garreta Janssens, 1940",
+            "matchedCanonical": "Garreta",
+            "currentName": "Garreta Janssens, 1940",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Scarabaeidae|Garreta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|5840|1086503",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "547515",
+            "matchedName": "Garreta",
+            "matchedCanonical": "Garreta",
+            "currentName": "Garreta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Scarabaeiformia|Scarabaeoidea|Scarabaeidae|Scarabaeinae|Gymnopleurini|Garreta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|tribe|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|809779|504360|340559|765934|405600|547515",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

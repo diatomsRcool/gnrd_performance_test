@@ -1,0 +1,2424 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:07:13.621316717-05:00",
+    "language": "eng",
+    "total_words": 7391,
+    "total_candidates": 1286,
+    "total_names": 33
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Franca",
+      "name": "Franca",
+      "odds": 1850.8815823074851,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nca": 2.5027178836745785
+          }
+        }
+      },
+      "start": 200,
+      "end": 206,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145232643",
+          "matchedName": "Franca Boehmer in C. G. Ludwig",
+          "matchedCanonical": "Franca",
+          "currentName": "Franca Boehmer in C. G. Ludwig",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3873594",
+            "matchedName": "Franca Boehmer in C.G. Ludwig, 1760",
+            "matchedCanonical": "Franca",
+            "currentName": "Franca Boehmer in C.G. Ludwig, 1760",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Frankeniaceae|Franca",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|422|2380|3873594",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5324938",
+            "matchedName": "Franca",
+            "matchedCanonical": "Franca",
+            "currentName": "Franca",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|Caryophyllales|Frankeniaceae|Franca",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|216628|366449|5324938",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Pan troglodytes)",
+      "name": "Pan troglodytes",
+      "odds": 295.86021183118055,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          }
+        }
+      },
+      "start": 11289,
+      "end": 11306,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "86b444a39d077c4e99f876aa5e8481df",
+          "matchedName": "Pan troglodytes (Blumenbach, 1775)",
+          "matchedCanonical": "Pan troglodytes",
+          "currentName": "Pan troglodytes (Blumenbach, 1775)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominoidea|Hominidae|Pan|Pan troglodytes",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841621|45841629|45841631|46037957|86b444a39d077c4e99f876aa5e8481df",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "86b444a39d077c4e99f876aa5e8481df",
+            "matchedName": "Pan troglodytes (Blumenbach, 1775)",
+            "matchedCanonical": "Pan troglodytes",
+            "currentName": "Pan troglodytes (Blumenbach, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominoidea|Hominidae|Pan|Pan troglodytes",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841621|45841629|45841631|46037957|86b444a39d077c4e99f876aa5e8481df",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5219534",
+            "matchedName": "Pan troglodytes (Blumenbach, 1775)",
+            "matchedCanonical": "Pan troglodytes",
+            "currentName": "Pan troglodytes (Blumenbach, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Pan|Pan troglodytes",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|798|5483|2436437|5219534",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "417950",
+            "matchedName": "Pan troglodytes",
+            "matchedCanonical": "Pan troglodytes",
+            "currentName": "Pan troglodytes",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Primates|Haplorrhini|Simiiformes|Catarrhini|Hominoidea|Hominidae|Homininae|Pan|Pan troglodytes",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|parvorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|913935|702152|386195|842867|386191|770311|312031|417957|417950",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Pongo pygmaeus abelii)",
+      "name": "Pongo pygmaeus abelii",
+      "odds": 69772214856750.99,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "ispEnd3": {
+            "lii": 32.53533248776952
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniEnd3": {
+            "ngo": 1.2513589418372892
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          }
+        }
+      },
+      "start": 11328,
+      "end": 11351,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 170,
+          "dataSourceTitle": "Arctos",
+          "taxonId": "1076382",
+          "matchedName": "Pongo pygmaeus abelii",
+          "matchedCanonical": "Pongo pygmaeus abelii",
+          "currentName": "Pongo pygmaeus abelii",
+          "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Pongo|Pongo pygmaeus abelii",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasAutoCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Macaca mulatta)",
+      "name": "Macaca mulatta",
+      "odds": 230770086.23351592,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aca": 5.005435767349157
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tta": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 11370,
+      "end": 11386,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "8302d6488dd331326b175296ccfbab12",
+          "matchedName": "Macaca mulatta (Zimmermann, 1780)",
+          "matchedCanonical": "Macaca mulatta",
+          "currentName": "Macaca mulatta (Zimmermann, 1780)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Primates|Cercopithecoidea|Cercopithecidae|Macaca|Macaca mulatta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841621|45841639|45841640|45905121|8302d6488dd331326b175296ccfbab12",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "8302d6488dd331326b175296ccfbab12",
+            "matchedName": "Macaca mulatta (Zimmermann, 1780)",
+            "matchedCanonical": "Macaca mulatta",
+            "currentName": "Macaca mulatta (Zimmermann, 1780)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Cercopithecoidea|Cercopithecidae|Macaca|Macaca mulatta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841621|45841639|45841640|45905121|8302d6488dd331326b175296ccfbab12",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2436604",
+            "matchedName": "Macaca mulatta (Zimmermann, 1780)",
+            "matchedCanonical": "Macaca mulatta",
+            "currentName": "Macaca mulatta (Zimmermann, 1780)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Cercopithecidae|Macaca|Macaca mulatta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|798|9622|2436602|2436604",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "689650",
+            "matchedName": "Macaca mulatta",
+            "matchedCanonical": "Macaca mulatta",
+            "currentName": "Macaca mulatta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Primates|Haplorrhini|Simiiformes|Catarrhini|Cercopithecoidea|Cercopithecidae|Cercopithecinae|Macaca|Macaca mulatta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|parvorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|913935|702152|386195|842867|386194|842868|842860|268324|689650",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Callithrix jacchus)",
+      "name": "Callithrix jacchus",
+      "odds": 379659577118.9586,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "hus": 77.58425439391193
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rix": 35.0380503714441
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 11407,
+      "end": 11427,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "62c40d93ae8fa0246b8a98d2e750ecd6",
+          "matchedName": "Callithrix jacchus (Linnaeus, 1758)",
+          "matchedCanonical": "Callithrix jacchus",
+          "currentName": "Callithrix jacchus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Primates|Callitrichidae|Callithrix|Callithrix jacchus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841621|45841645|45898269|62c40d93ae8fa0246b8a98d2e750ecd6",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "62c40d93ae8fa0246b8a98d2e750ecd6",
+            "matchedName": "Callithrix jacchus (Linnaeus, 1758)",
+            "matchedCanonical": "Callithrix jacchus",
+            "currentName": "Callithrix jacchus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Callitrichidae|Callithrix|Callithrix jacchus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841621|45841645|45898269|62c40d93ae8fa0246b8a98d2e750ecd6",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5219542",
+            "matchedName": "Callithrix jacchus (Linnaeus, 1758)",
+            "matchedCanonical": "Callithrix jacchus",
+            "currentName": "Callithrix jacchus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Callitrichidae|Callithrix|Callithrix jacchus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|798|9620|2436453|5219542",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1015223",
+            "matchedName": "Callithrix jacchus",
+            "matchedCanonical": "Callithrix jacchus",
+            "currentName": "Callithrix jacchus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Primates|Haplorrhini|Simiiformes|Platyrrhini|Cebidae|Callitrichinae|Callithrix|Callithrix jacchus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|parvorder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|913935|702152|386195|339033|489215|1015234|1015231|1015223",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Rattus norvegicus)",
+      "name": "Rattus norvegicus",
+      "odds": 1128090016434.9712,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tus": 72.99593827384187
+          }
+        }
+      },
+      "start": 11443,
+      "end": 11462,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "58d474ec035208b2194df25dde8f9259",
+          "matchedName": "Rattus norvegicus (Berkenhout, 1769)",
+          "matchedCanonical": "Rattus norvegicus",
+          "currentName": "Rattus norvegicus (Berkenhout, 1769)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Muridae|Rattus|Rattus norvegicus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45853370|45894713|58d474ec035208b2194df25dde8f9259",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "58d474ec035208b2194df25dde8f9259",
+            "matchedName": "Rattus norvegicus (Berkenhout, 1769)",
+            "matchedCanonical": "Rattus norvegicus",
+            "currentName": "Rattus norvegicus (Berkenhout, 1769)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Muridae|Rattus|Rattus norvegicus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45853370|45894713|58d474ec035208b2194df25dde8f9259",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2439261",
+            "matchedName": "Rattus norvegicus (Berkenhout, 1769)",
+            "matchedCanonical": "Rattus norvegicus",
+            "currentName": "Rattus norvegicus (Berkenhout, 1769)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muridae|Rattus|Rattus norvegicus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|5510|2439223|2439261",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "271555",
+            "matchedName": "Rattus norvegicus",
+            "matchedCanonical": "Rattus norvegicus",
+            "currentName": "Rattus norvegicus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Muridae|Murinae|Rattus|Rattus norvegicus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|816256|889045|271578|271555",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 29,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Cavia porcellus)",
+      "name": "Cavia porcellus",
+      "odds": 61670551360.88359,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "via": 7.786233415876468
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 11481,
+      "end": 11498,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "928a06f0767ad435adb2b3eb0fb000d5",
+          "matchedName": "Cavia porcellus (Linnaeus, 1758)",
+          "matchedCanonical": "Cavia porcellus",
+          "currentName": "Cavia porcellus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Caviidae|Cavia|Cavia porcellus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841604|46005362|928a06f0767ad435adb2b3eb0fb000d5",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "928a06f0767ad435adb2b3eb0fb000d5",
+            "matchedName": "Cavia porcellus (Linnaeus, 1758)",
+            "matchedCanonical": "Cavia porcellus",
+            "currentName": "Cavia porcellus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Caviidae|Cavia|Cavia porcellus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841604|46005362|928a06f0767ad435adb2b3eb0fb000d5",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5219702",
+            "matchedName": "Cavia porcellus (Linnaeus, 1758)",
+            "matchedCanonical": "Cavia porcellus",
+            "currentName": "Cavia porcellus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Caviidae|Cavia|Cavia porcellus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|9432|2437628|5219702",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "744000",
+            "matchedName": "Cavia porcellus",
+            "matchedCanonical": "Cavia porcellus",
+            "currentName": "Cavia porcellus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Hystricognathi|Caviidae|Cavia|Cavia porcellus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44557|220339|744006|744000",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Felis catus)",
+      "name": "Felis catus",
+      "odds": 10779630760.936901,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          }
+        }
+      },
+      "start": 11514,
+      "end": 11527,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f2f6a853436bfab907efa771b6ae38f1",
+          "matchedName": "Felis catus Linnaeus, 1758",
+          "matchedCanonical": "Felis catus",
+          "currentName": "Felis catus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|f2f6a853436bfab907efa771b6ae38f1",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f2f6a853436bfab907efa771b6ae38f1",
+            "matchedName": "Felis catus Linnaeus, 1758",
+            "matchedCanonical": "Felis catus",
+            "currentName": "Felis catus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|f2f6a853436bfab907efa771b6ae38f1",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435035",
+            "matchedName": "Felis catus Linnaeus, 1758",
+            "matchedCanonical": "Felis catus",
+            "currentName": "Felis catus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435022|2435035",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "563166",
+            "matchedName": "Felis catus",
+            "matchedCanonical": "Felis catus",
+            "currentName": "Felis catus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Felis|Felis catus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|563165|563166",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Canis lupus familiaris)",
+      "name": "Canis lupus familiaris",
+      "odds": 363717579176.1281,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispLen": {
+            "10": 4.627930835174779
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nis": 65.07066497553905
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "ispEnd3": {
+            "ris": 65.07066497553905
+          }
+        }
+      },
+      "start": 11543,
+      "end": 11567,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "40c8f8684c06aa9295ca3339633a1a6d",
+          "matchedName": "Canis lupus familiaris Linnaeus, 1758",
+          "matchedCanonical": "Canis lupus familiaris",
+          "currentName": "Canis lupus familiaris Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Canidae|Canis||Canis lupus familiaris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "40c8f8684c06aa9295ca3339633a1a6d",
+            "matchedName": "Canis lupus familiaris Linnaeus, 1758",
+            "matchedCanonical": "Canis lupus familiaris",
+            "currentName": "Canis lupus familiaris Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Canidae|Canis||Canis lupus familiaris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164210",
+            "matchedName": "Canis lupus subsp. familiaris Linnaeus, 1758",
+            "matchedCanonical": "Canis lupus ssp. familiaris",
+            "currentName": "Canis lupus subsp. familiaris Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Canidae|Canis|Canis lupus|Canis lupus familiaris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9701|5219142|5219173|6164210",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "247333",
+            "matchedName": "Canis lupus familiaris",
+            "matchedCanonical": "Canis lupus familiaris",
+            "currentName": "Canis lupus familiaris",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Caniformia|Canidae|Canis|Canis lupus|Canis lupus familiaris",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827263|770319|372706|247341|247333",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Equus caballus)",
+      "name": "Equus caballus",
+      "odds": 68142153311.422585,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uus": 12.513589418372893
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 11585,
+      "end": 11601,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "849dc1ad13f1ae0e0c26d82db83a384b",
+          "matchedName": "Equus (Equus) caballus Linnaeus, 1758",
+          "matchedCanonical": "Equus caballus",
+          "currentName": "Equus (Equus) caballus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Perissodactyla|Equidae|Equus|Equus caballus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841709|45841713|45876273|849dc1ad13f1ae0e0c26d82db83a384b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "849dc1ad13f1ae0e0c26d82db83a384b",
+            "matchedName": "Equus (Equus) caballus Linnaeus, 1758",
+            "matchedCanonical": "Equus caballus",
+            "currentName": "Equus (Equus) caballus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Perissodactyla|Equidae|Equus|Equus caballus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841709|45841713|45876273|849dc1ad13f1ae0e0c26d82db83a384b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440886",
+            "matchedName": "Equus caballus Linnaeus, 1758",
+            "matchedCanonical": "Equus caballus",
+            "currentName": "Equus caballus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Perissodactyla|Equidae|Equus|Equus caballus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|795|5479|8652950|2440886",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1068218",
+            "matchedName": "Equus caballus",
+            "matchedCanonical": "Equus caballus",
+            "currentName": "Equus caballus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Perissodactyla|Equidae|Equus|Equus subgenus|Equus caballus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|family|genus|subgenus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|541948|1070066|541951|94003|1068218",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Bos taurus)",
+      "name": "Bos taurus",
+      "odds": 0.6794231243293041,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "rus": 180.19568762456967
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 11617,
+      "end": 11629,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e667687bb0160c20af78b2f523e88e1c",
+          "matchedName": "Bos taurus Linnaeus, 1758",
+          "matchedCanonical": "Bos taurus",
+          "currentName": "Bos taurus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Bovidae|Bos|Bos taurus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45850563|45850572|45923250|e667687bb0160c20af78b2f523e88e1c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e667687bb0160c20af78b2f523e88e1c",
+            "matchedName": "Bos taurus Linnaeus, 1758",
+            "matchedCanonical": "Bos taurus",
+            "currentName": "Bos taurus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Bovidae|Bos|Bos taurus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45850563|45850572|45923250|e667687bb0160c20af78b2f523e88e1c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2441022",
+            "matchedName": "Bos taurus Linnaeus, 1758",
+            "matchedCanonical": "Bos taurus",
+            "currentName": "Bos taurus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Bovidae|Bos|Bos taurus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|731|9614|2441017|2441022",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "490099",
+            "matchedName": "Bos taurus",
+            "matchedCanonical": "Bos taurus",
+            "currentName": "Bos taurus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Ruminantia|Pecora|Bovidae|Bovinae|Bos|Bos taurus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|986971|403912|768677|346071|1066581|490099",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Monodelphis domestica)",
+      "name": "Monodelphis domestica",
+      "odds": 251441943483.0225,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "his": 0.3033597434757065
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          }
+        }
+      },
+      "start": 11649,
+      "end": 11672,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "01e68657062e2a98f079c956ad6f99f1",
+          "matchedName": "Monodelphis domestica (Wagner, 1842)",
+          "matchedCanonical": "Monodelphis domestica",
+          "currentName": "Monodelphis domestica (Wagner, 1842)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Didelphimorphia|Didelphidae|Monodelphis|Monodelphis domestica",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841751|45841752|46037894|01e68657062e2a98f079c956ad6f99f1",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "01e68657062e2a98f079c956ad6f99f1",
+            "matchedName": "Monodelphis domestica (Wagner, 1842)",
+            "matchedCanonical": "Monodelphis domestica",
+            "currentName": "Monodelphis domestica (Wagner, 1842)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Didelphimorphia|Didelphidae|Monodelphis|Monodelphis domestica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841751|45841752|46037894|01e68657062e2a98f079c956ad6f99f1",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2439965",
+            "matchedName": "Monodelphis domestica (Wagner, 1842)",
+            "matchedCanonical": "Monodelphis domestica",
+            "currentName": "Monodelphis domestica (Wagner, 1842)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Didelphimorphia|Didelphidae|Monodelphis|Monodelphis domestica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|783|5455|7967492|2439965",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "122362",
+            "matchedName": "Monodelphis domestica",
+            "matchedCanonical": "Monodelphis domestica",
+            "currentName": "Monodelphis domestica",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Metatheria|Didelphimorphia|Didelphidae|Didelphinae|Monodelphis|Monodelphis domestica",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|16033|277697|16069|608046|122359|122362",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Ornithorhynchus anatinus)",
+      "name": "Ornithorhynchus anatinus",
+      "odds": 406805112.9624413,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          }
+        }
+      },
+      "start": 11693,
+      "end": 11719,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3bc186304963c8d2e15564c630a7021e",
+          "matchedName": "Ornithorhynchus anatinus (Shaw, 1799)",
+          "matchedCanonical": "Ornithorhynchus anatinus",
+          "currentName": "Ornithorhynchus anatinus (Shaw, 1799)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Monotremata|Ornithorhynchidae|Ornithorhynchus|Ornithorhynchus anatinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841722|45841724|45939092|3bc186304963c8d2e15564c630a7021e",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3bc186304963c8d2e15564c630a7021e",
+            "matchedName": "Ornithorhynchus anatinus (Shaw, 1799)",
+            "matchedCanonical": "Ornithorhynchus anatinus",
+            "currentName": "Ornithorhynchus anatinus (Shaw, 1799)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Monotremata|Ornithorhynchidae|Ornithorhynchus|Ornithorhynchus anatinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841722|45841724|45939092|3bc186304963c8d2e15564c630a7021e",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2433376",
+            "matchedName": "Ornithorhynchus anatinus (Shaw, 1799)",
+            "matchedCanonical": "Ornithorhynchus anatinus",
+            "currentName": "Ornithorhynchus anatinus (Shaw, 1799)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Monotremata|Ornithorhynchidae|Ornithorhynchus|Ornithorhynchus anatinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|791|5940|2433375|2433376",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "962377",
+            "matchedName": "Ornithorhynchus anatinus",
+            "matchedCanonical": "Ornithorhynchus anatinus",
+            "currentName": "Ornithorhynchus anatinus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Prototheria|Monotremata|Ornithorhynchidae|Ornithorhynchus|Ornithorhynchus anatinus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|962395|962396|344066|962391|962377",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Gallus gallus)",
+      "name": "Gallus gallus",
+      "odds": 544796437548.91034,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 11743,
+      "end": 11758,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e9bd1de9ad04b90064cf96a24cf98310",
+          "matchedName": "Gallus gallus (Linnaeus, 1758)",
+          "matchedCanonical": "Gallus gallus",
+          "currentName": "Gallus gallus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|e9bd1de9ad04b90064cf96a24cf98310",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e9bd1de9ad04b90064cf96a24cf98310",
+            "matchedName": "Gallus gallus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|e9bd1de9ad04b90064cf96a24cf98310",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5227769",
+            "matchedName": "Gallus gallus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|723|9331|2473720|5227769",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "153563",
+            "matchedName": "Gallus gallus",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae|Phasianinae|Gallus|Gallus gallus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070|51353|153562|153563",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Choloepus hoffmanni)",
+      "name": "Choloepus hoffmanni",
+      "odds": 998191285736.1919,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nni": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 11784,
+      "end": 11805,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "304570f309fff206a53b191eb8963251",
+          "matchedName": "Choloepus hoffmanni Peters, 1858",
+          "matchedCanonical": "Choloepus hoffmanni",
+          "currentName": "Choloepus hoffmanni Peters, 1858",
+          "classificationPath": "Animalia|Chordata|Mammalia|Pilosa|Megalonychidae|Choloepus|Choloepus hoffmanni",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841648|45841673|46003644|304570f309fff206a53b191eb8963251",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "304570f309fff206a53b191eb8963251",
+            "matchedName": "Choloepus hoffmanni Peters, 1858",
+            "matchedCanonical": "Choloepus hoffmanni",
+            "currentName": "Choloepus hoffmanni Peters, 1858",
+            "classificationPath": "Animalia|Chordata|Mammalia|Pilosa|Megalonychidae|Choloepus|Choloepus hoffmanni",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841648|45841673|46003644|304570f309fff206a53b191eb8963251",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5219520",
+            "matchedName": "Choloepus hoffmanni Peters, 1858",
+            "matchedCanonical": "Choloepus hoffmanni",
+            "currentName": "Choloepus hoffmanni Peters, 1858",
+            "classificationPath": "Animalia|Chordata|Mammalia|Pilosa|Megalonychidae|Choloepus|Choloepus hoffmanni",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1494|6160|2436362|5219520",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "273247",
+            "matchedName": "Choloepus hoffmanni",
+            "matchedCanonical": "Choloepus hoffmanni",
+            "currentName": "Choloepus hoffmanni",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Xenarthra|Pilosa|Folivora|Megalonychidae|Choloepus|Choloepus hoffmanni",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|superorder|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|847764|495018|495015|1025073|527321|273247",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Echinops telfairi),",
+      "name": "Echinops telfairi",
+      "odds": 3307382045.000345,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ops": 6.58609969388047
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iri": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 11837,
+      "end": 11857,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "92fdcb510d0f9d1748e98802c95440ab",
+          "matchedName": "Echinops telfairi Martin, 1838",
+          "matchedCanonical": "Echinops telfairi",
+          "currentName": "Echinops telfairi Martin, 1838",
+          "classificationPath": "Animalia|Chordata|Mammalia|Afrosoricida|Tenrecidae|Echinops|Echinops telfairi",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45850574|45850575|46005280|92fdcb510d0f9d1748e98802c95440ab",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "92fdcb510d0f9d1748e98802c95440ab",
+            "matchedName": "Echinops telfairi Martin, 1838",
+            "matchedCanonical": "Echinops telfairi",
+            "currentName": "Echinops telfairi Martin, 1838",
+            "classificationPath": "Animalia|Chordata|Mammalia|Afrosoricida|Tenrecidae|Echinops|Echinops telfairi",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45850574|45850575|46005280|92fdcb510d0f9d1748e98802c95440ab",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5218434",
+            "matchedName": "Echinops telfairi Martin, 1838",
+            "matchedCanonical": "Echinops telfairi",
+            "currentName": "Echinops telfairi Martin, 1838",
+            "classificationPath": "Animalia|Chordata|Mammalia|Afrosoricida|Tenrecidae|Echinops|Echinops telfairi",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|828|9613|2432114|5218434",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "222351",
+            "matchedName": "Echinops telfairi",
+            "matchedCanonical": "Echinops telfairi",
+            "currentName": "Echinops telfairi",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Afrotheria|Tenrecidae|Tenrecinae|Echinops|Echinops telfairi",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|superorder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|746703|796652|922729|222356|222351",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Loxodonta africana,",
+      "name": "Loxodonta africana",
+      "odds": 2049193.3454738113,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nta": 1.1011958688168144
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 12089,
+      "end": 12108,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7b498777d8b86d615d26fb2555362a5d",
+          "matchedName": "Loxodonta africana (Blumenbach, 1797)",
+          "matchedCanonical": "Loxodonta africana",
+          "currentName": "Loxodonta africana (Blumenbach, 1797)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Proboscidea|Elephantidae|Loxodonta|Loxodonta africana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841619|45841620|46043402|7b498777d8b86d615d26fb2555362a5d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "7b498777d8b86d615d26fb2555362a5d",
+            "matchedName": "Loxodonta africana (Blumenbach, 1797)",
+            "matchedCanonical": "Loxodonta africana",
+            "currentName": "Loxodonta africana (Blumenbach, 1797)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Proboscidea|Elephantidae|Loxodonta|Loxodonta africana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841619|45841620|46043402|7b498777d8b86d615d26fb2555362a5d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435350",
+            "matchedName": "Loxodonta africana (Blumenbach, 1797)",
+            "matchedCanonical": "Loxodonta africana",
+            "currentName": "Loxodonta africana (Blumenbach, 1797)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Proboscidea|Elephantidae|Loxodonta|Loxodonta africana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|799|9427|2435348|2435350",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "541936",
+            "matchedName": "Loxodonta africana",
+            "matchedCanonical": "Loxodonta africana",
+            "currentName": "Loxodonta africana",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Afrotheria|Proboscidea|Elephantidae|Loxodonta|Loxodonta africana",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|superorder|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|746703|226176|541924|541933|541936",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Dasypus novemcinctus,",
+      "name": "Dasypus novemcinctus",
+      "odds": 36344219665730.2,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pus": 205.22286646131545
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 12120,
+      "end": 12141,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f4765b154fabeda6821bb372a27914fa",
+          "matchedName": "Dasypus novemcinctus Linnaeus, 1758",
+          "matchedCanonical": "Dasypus novemcinctus",
+          "currentName": "Dasypus novemcinctus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cingulata|Dasypodidae|Dasypus|Dasypus novemcinctus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841759|45841760|46005268|f4765b154fabeda6821bb372a27914fa",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f4765b154fabeda6821bb372a27914fa",
+            "matchedName": "Dasypus novemcinctus Linnaeus, 1758",
+            "matchedCanonical": "Dasypus novemcinctus",
+            "currentName": "Dasypus novemcinctus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cingulata|Dasypodidae|Dasypus|Dasypus novemcinctus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841759|45841760|46005268|f4765b154fabeda6821bb372a27914fa",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440779",
+            "matchedName": "Dasypus novemcinctus Linnaeus, 1758",
+            "matchedCanonical": "Dasypus novemcinctus",
+            "currentName": "Dasypus novemcinctus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cingulata|Dasypodidae|Dasypus|Dasypus novemcinctus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|735|9369|2440775|2440779",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "796672",
+            "matchedName": "Dasypus novemcinctus",
+            "matchedCanonical": "Dasypus novemcinctus",
+            "currentName": "Dasypus novemcinctus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Xenarthra|Cingulata|Dasypodidae|Dasypus|Dasypus novemcinctus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|superorder|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|847764|495017|273244|796671|796672",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Monodelphis domesticus,",
+      "name": "Monodelphis domesticus",
+      "odds": 178731525221.8777,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "his": 0.3033597434757065
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 12167,
+      "end": 12190,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 169,
+          "dataSourceTitle": "uBio NameBank",
+          "taxonId": "99055128",
+          "matchedName": "Monodelphis domesticus",
+          "matchedCanonical": "Monodelphis domesticus",
+          "currentName": "Monodelphis domesticus",
+          "classificationPath": "|Monodelphis domesticus",
+          "classificationRank": "kingdom|",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Trichosurus vulpecula)",
+      "name": "Trichosurus vulpecula",
+      "odds": 1377475679.0549912,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          }
+        }
+      },
+      "start": 12484,
+      "end": 12507,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5eddf3736d49ccd4c687c3993a7fb7cc",
+          "matchedName": "Trichosurus vulpecula (Kerr, 1792)",
+          "matchedCanonical": "Trichosurus vulpecula",
+          "currentName": "Trichosurus vulpecula (Kerr, 1792)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Diprotodontia|Phalangeroidea|Phalangeridae|Trichosurus|Trichosurus vulpecula",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841737|45841744|45841745|45977552|5eddf3736d49ccd4c687c3993a7fb7cc",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5eddf3736d49ccd4c687c3993a7fb7cc",
+            "matchedName": "Trichosurus vulpecula (Kerr, 1792)",
+            "matchedCanonical": "Trichosurus vulpecula",
+            "currentName": "Trichosurus vulpecula (Kerr, 1792)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Diprotodontia|Phalangeroidea|Phalangeridae|Trichosurus|Trichosurus vulpecula",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841737|45841744|45841745|45977552|5eddf3736d49ccd4c687c3993a7fb7cc",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440254",
+            "matchedName": "Trichosurus vulpecula (Kerr, 1792)",
+            "matchedCanonical": "Trichosurus vulpecula",
+            "currentName": "Trichosurus vulpecula (Kerr, 1792)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Diprotodontia|Phalangeridae|Trichosurus|Trichosurus vulpecula",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1452|5459|2440250|2440254",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "836760",
+            "matchedName": "Trichosurus vulpecula",
+            "matchedCanonical": "Trichosurus vulpecula",
+            "currentName": "Trichosurus vulpecula",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Metatheria|Diprotodontia|Phalangeridae|Trichosurus|Trichosurus vulpecula",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|16033|277679|323239|323243|836760",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Afrotheria.",
+      "name": "Afrotheria",
+      "odds": 3405.0752920942523,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 19101,
+      "end": 19112,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "92584",
+          "matchedName": "Afrotheria Stanhope et al. 1998",
+          "matchedCanonical": "Afrotheria",
+          "currentName": "Afrotheria Stanhope et al. 1998",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Synapsida|Therapsida|Cynodontia|Epicynodontia|Eucynodontia|Probainognathia|Mammaliamorpha|Mammaliaformes|Mammalia|Theriamorpha|Theriiformes|Trechnotheria|Cladotheria|Boreosphenida|Theria|Eutheria|Placentalia|Afrotheria",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|infraorder|unranked clade|infraorder|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|subclass|infraclass|unranked clade|unranked clade",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|38882|38935|39168|67366|39183|67452|67455|67456|36651|108999|137608|64369|57710|67561|39860|182911|91965|92584",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "746703",
+            "matchedName": "Afrotheria",
+            "matchedCanonical": "Afrotheria",
+            "currentName": "Afrotheria",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Afrotheria",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|superorder",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|746703",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "Afrotheria clades",
+      "name": "Afrotheria clades",
+      "odds": 1795264969.0660331,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "des": 40.79430150389563
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 19185,
+      "end": 19202,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "92584",
+          "matchedName": "Afrotheria Stanhope et al. 1998",
+          "matchedCanonical": "Afrotheria",
+          "currentName": "Afrotheria Stanhope et al. 1998",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Synapsida|Therapsida|Cynodontia|Epicynodontia|Eucynodontia|Probainognathia|Mammaliamorpha|Mammaliaformes|Mammalia|Theriamorpha|Theriiformes|Trechnotheria|Cladotheria|Boreosphenida|Theria|Eutheria|Placentalia|Afrotheria",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|infraorder|unranked clade|infraorder|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|subclass|infraclass|unranked clade|unranked clade",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|38882|38935|39168|67366|39183|67452|67455|67456|36651|108999|137608|64369|57710|67561|39860|182911|91965|92584",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "746703",
+            "matchedName": "Afrotheria",
+            "matchedCanonical": "Afrotheria",
+            "currentName": "Afrotheria",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Afrotheria",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|superorder",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|746703",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Dipodomys ordii)",
+      "name": "Dipodomys ordii",
+      "odds": 63669402816.98506,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mys": 45.04892190614242
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "dii": 95.10327957963398
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 19745,
+      "end": 19762,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "c27f89d415b02e40ed1933a12f3fb3d9",
+          "matchedName": "Dipodomys ordii Woodhouse, 1853",
+          "matchedCanonical": "Dipodomys ordii",
+          "currentName": "Dipodomys ordii Woodhouse, 1853",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Heteromyidae|Dipodomys|Dipodomys ordii",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45853368|45922256|c27f89d415b02e40ed1933a12f3fb3d9",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "c27f89d415b02e40ed1933a12f3fb3d9",
+            "matchedName": "Dipodomys ordii Woodhouse, 1853",
+            "matchedCanonical": "Dipodomys ordii",
+            "currentName": "Dipodomys ordii Woodhouse, 1853",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Heteromyidae|Dipodomys|Dipodomys ordii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45853368|45922256|c27f89d415b02e40ed1933a12f3fb3d9",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2439541",
+            "matchedName": "Dipodomys ordii Woodhouse, 1853",
+            "matchedCanonical": "Dipodomys ordii",
+            "currentName": "Dipodomys ordii Woodhouse, 1853",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Heteromyidae|Dipodomys|Dipodomys ordii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|5504|2439509|2439541",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "917328",
+            "matchedName": "Dipodomys ordii",
+            "matchedCanonical": "Dipodomys ordii",
+            "currentName": "Dipodomys ordii",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Heteromyidae|Dipodomyinae|Dipodomys|Dipodomys ordii",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|342252|427278|342249|917328",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(C. porcellus)",
+      "name": "C. porcellus",
+      "odds": 6919895.7696744,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 19778,
+      "end": 19792,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Peromyscus maniculatus)",
+      "name": "Peromyscus maniculatus",
+      "odds": 329784727764818.44,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 19871,
+      "end": 19895,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "9273321d9887cdf1233bb07274db3e95",
+          "matchedName": "Peromyscus maniculatus (Wagner, 1845)",
+          "matchedCanonical": "Peromyscus maniculatus",
+          "currentName": "Peromyscus maniculatus (Wagner, 1845)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus maniculatus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|9273321d9887cdf1233bb07274db3e95",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "9273321d9887cdf1233bb07274db3e95",
+            "matchedName": "Peromyscus maniculatus (Wagner, 1845)",
+            "matchedCanonical": "Peromyscus maniculatus",
+            "currentName": "Peromyscus maniculatus (Wagner, 1845)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus maniculatus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|9273321d9887cdf1233bb07274db3e95",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437967",
+            "matchedName": "Peromyscus maniculatus (Wagner, 1845)",
+            "matchedCanonical": "Peromyscus maniculatus",
+            "currentName": "Peromyscus maniculatus (Wagner, 1845)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus|Peromyscus maniculatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|3240723|2437961|2437967",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "377525",
+            "matchedName": "Peromyscus maniculatus",
+            "matchedCanonical": "Peromyscus maniculatus",
+            "currentName": "Peromyscus maniculatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus|Peromyscus maniculatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826|377525",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Retrogene lineages",
+      "name": "Retrogene lineages",
+      "odds": 76.87661510866936,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ene": 2.275198076067799
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ges": 0.2502717883674579
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 26785,
+      "end": 26803,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(M. musculus)",
+      "name": "M. musculus",
+      "odds": 4757547.057122455,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 36340,
+      "end": 36353,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(M. musculus)",
+      "name": "M. musculus",
+      "odds": 4757547.057122455,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 36537,
+      "end": 36550,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "U2af1-rs genes",
+      "name": "U�af�-rs genes",
+      "odds": 25.893084676819164,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 39718,
+      "end": 39732,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X-linked genes",
+      "name": "X-linked genes",
+      "odds": 5.200259178586357,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ked": 1.2513589418372892
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 42116,
+      "end": 42130,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X-linked genes",
+      "name": "X-linked genes",
+      "odds": 5.200259178586357,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ked": 1.2513589418372892
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 42416,
+      "end": 42430,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "X-linked genes,",
+      "name": "X-linked genes",
+      "odds": 5.200259178586357,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ked": 1.2513589418372892
+          },
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 42580,
+      "end": 42595,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Nap1l genes",
+      "name": "Nap�l genes",
+      "odds": 2.9504862356306565,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nes": 0.35753112623922556
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 44458,
+      "end": 44469,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

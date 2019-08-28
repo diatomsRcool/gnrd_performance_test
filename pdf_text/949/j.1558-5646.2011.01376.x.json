@@ -1,0 +1,1232 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:08:29.063911342-05:00",
+    "language": "eng",
+    "total_words": 5425,
+    "total_candidates": 729,
+    "total_names": 19
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "PSEUDOMONAS",
+      "name": "Pseudomonas",
+      "odds": 39016.22781627596,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nas": 5.255707555716615
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 111,
+      "end": 122,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949781",
+          "matchedName": "Pseudomonas",
+          "matchedCanonical": "Pseudomonas",
+          "currentName": "Pseudomonas",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849547|45849595|45849598|45949781",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949781",
+            "matchedName": "Pseudomonas",
+            "matchedCanonical": "Pseudomonas",
+            "currentName": "Pseudomonas",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849547|45849595|45849598|45949781",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3219881",
+            "matchedName": "Pseudomonas Migula, 1894",
+            "matchedCanonical": "Pseudomonas",
+            "currentName": "Pseudomonas Migula, 1894",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|362|1474|5607|3219881",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "281374",
+            "matchedName": "Pseudomonas",
+            "matchedCanonical": "Pseudomonas",
+            "currentName": "Pseudomonas",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|822744|191376|767325|281374",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "AERUGINOSA",
+      "name": "Aeruginosa",
+      "odds": 2902.0528057621473,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "osa": 15.641986772966117
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 123,
+      "end": 133,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 5,
+          "dataSourceTitle": "Index Fungorum",
+          "taxonId": "532117",
+          "matchedName": "Pholiotina ser. Aeruginosa Hauskn. \u0026 Krisai 2007",
+          "matchedCanonical": "Pholiotina ser. Aeruginosa",
+          "currentName": "Pholiotina ser. Aeruginosa Hauskn. \u0026 Krisai 2007",
+          "classificationPath": "Fungi|Basidiomycota|Agaricomycetes|Agaricales|Bolbitiaceae|Pholiotina|Pholiotina ser",
+          "classificationRank": "regn.|phyl.|cl.|ord.|fam.|gen.|ser.",
+          "classificationIDs": "10000001|10000002|10000003|10000224|10000756|18265|532117",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5446602",
+            "matchedName": "Pholiotina ser. Aeruginosa",
+            "matchedCanonical": "Pholiotina ser. Aeruginosa",
+            "currentName": "Pholiotina ser. Aeruginosa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Basidiomycota|Agaricomycotina|Agaricomycetes|Agaricales|Bolbitiaceae|Conocybe|Pholiotina",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|subphylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|634628|633300|1012685|8364|234956|887970|5446602",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pseudomonas aeruginosa",
+      "name": "Pseudomonas aeruginosa",
+      "odds": 1652268567015.3423,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nas": 5.255707555716615
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 1077,
+      "end": 1099,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ca05bf927a4da497985dd8338a5fc741",
+          "matchedName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900",
+          "matchedCanonical": "Pseudomonas aeruginosa",
+          "currentName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849595|45849598|45949781|ca05bf927a4da497985dd8338a5fc741",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ca05bf927a4da497985dd8338a5fc741",
+            "matchedName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900",
+            "matchedCanonical": "Pseudomonas aeruginosa",
+            "currentName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849595|45849598|45949781|ca05bf927a4da497985dd8338a5fc741",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3223154",
+            "matchedName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900 Migula, 1900 (Schroeter, 1872)",
+            "matchedCanonical": "Pseudomonas aeruginosa",
+            "currentName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900 Migula, 1900 (Schroeter, 1872)",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1474|5607|3219881|3223154",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5405499",
+            "matchedName": "Pseudomonas aeruginosa 059A",
+            "matchedCanonical": "Pseudomonas aeruginosa",
+            "currentName": "Pseudomonas aeruginosa 059A",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa|Pseudomonas aeruginosa",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|191376|767325|281374|5252062|5405499",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pseudomonas aeruginosa,",
+      "name": "Pseudomonas aeruginosa",
+      "odds": 1652268567015.3423,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nas": 5.255707555716615
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 3126,
+      "end": 3149,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ca05bf927a4da497985dd8338a5fc741",
+          "matchedName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900",
+          "matchedCanonical": "Pseudomonas aeruginosa",
+          "currentName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849595|45849598|45949781|ca05bf927a4da497985dd8338a5fc741",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ca05bf927a4da497985dd8338a5fc741",
+            "matchedName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900",
+            "matchedCanonical": "Pseudomonas aeruginosa",
+            "currentName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849595|45849598|45949781|ca05bf927a4da497985dd8338a5fc741",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3223154",
+            "matchedName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900 Migula, 1900 (Schroeter, 1872)",
+            "matchedCanonical": "Pseudomonas aeruginosa",
+            "currentName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900 Migula, 1900 (Schroeter, 1872)",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1474|5607|3219881|3223154",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5405499",
+            "matchedName": "Pseudomonas aeruginosa 059A",
+            "matchedCanonical": "Pseudomonas aeruginosa",
+            "currentName": "Pseudomonas aeruginosa 059A",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa|Pseudomonas aeruginosa",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|191376|767325|281374|5252062|5405499",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pseudomonas aeruginosa,",
+      "name": "Pseudomonas aeruginosa",
+      "odds": 1652268567015.3423,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nas": 5.255707555716615
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 3588,
+      "end": 3611,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ca05bf927a4da497985dd8338a5fc741",
+          "matchedName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900",
+          "matchedCanonical": "Pseudomonas aeruginosa",
+          "currentName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849595|45849598|45949781|ca05bf927a4da497985dd8338a5fc741",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ca05bf927a4da497985dd8338a5fc741",
+            "matchedName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900",
+            "matchedCanonical": "Pseudomonas aeruginosa",
+            "currentName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849595|45849598|45949781|ca05bf927a4da497985dd8338a5fc741",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3223154",
+            "matchedName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900 Migula, 1900 (Schroeter, 1872)",
+            "matchedCanonical": "Pseudomonas aeruginosa",
+            "currentName": "Pseudomonas aeruginosa (Schroeter, 1872) Migula, 1900 Migula, 1900 (Schroeter, 1872)",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1474|5607|3219881|3223154",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5405499",
+            "matchedName": "Pseudomonas aeruginosa 059A",
+            "matchedCanonical": "Pseudomonas aeruginosa",
+            "currentName": "Pseudomonas aeruginosa 059A",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa|Pseudomonas aeruginosa",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|191376|767325|281374|5252062|5405499",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Moreno",
+      "name": "Moreno",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 4502,
+      "end": 4508,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46001714",
+          "matchedName": "Moreno",
+          "matchedCanonical": "Moreno",
+          "currentName": "Moreno",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45841317|45841334|46001714",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46001714",
+            "matchedName": "Moreno",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45841317|45841334|46001714",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2164910",
+            "matchedName": "Moreno Mello-Leitão, 1940",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno Mello-Leitão, 1940",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|5643|2164910",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4694933",
+            "matchedName": "Moreno",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|4694885|4694933",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bdellovibrio bacteriovorus.",
+      "name": "Bdellovibrio bacteriovorus",
+      "odds": 366048678360.02826,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rio": 1.2513589418372895
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rus": 180.19568762456967
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 4964,
+      "end": 4991,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6548367b920b956bc34fa85b552b6a1f",
+          "matchedName": "Bdellovibrio bacteriovorus Stolp and Starr, 1963",
+          "matchedCanonical": "Bdellovibrio bacteriovorus",
+          "currentName": "Bdellovibrio bacteriovorus Stolp and Starr, 1963",
+          "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Bdellovibrionales|Bdellovibrionaceae|Bdellovibrio|Bdellovibrio bacteriovorus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849507|45849508|45849510|45949464|6548367b920b956bc34fa85b552b6a1f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6548367b920b956bc34fa85b552b6a1f",
+            "matchedName": "Bdellovibrio bacteriovorus Stolp and Starr, 1963",
+            "matchedCanonical": "Bdellovibrio bacteriovorus",
+            "currentName": "Bdellovibrio bacteriovorus Stolp and Starr, 1963",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Bdellovibrionales|Bdellovibrionaceae|Bdellovibrio|Bdellovibrio bacteriovorus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849507|45849508|45849510|45949464|6548367b920b956bc34fa85b552b6a1f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3220689",
+            "matchedName": "Bdellovibrio bacteriovorus Stolp \u0026 Starr, 1963",
+            "matchedCanonical": "Bdellovibrio bacteriovorus",
+            "currentName": "Bdellovibrio bacteriovorus Stolp \u0026 Starr, 1963",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Bdellovibrionales|Bdellovibrionaceae|Bdellovibrio|Bdellovibrio bacteriovorus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|338|652|8932|3220688|3220689",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "703708",
+            "matchedName": "Bdellovibrio bacteriovorus HD100",
+            "matchedCanonical": "Bdellovibrio bacteriovorus",
+            "currentName": "Bdellovibrio bacteriovorus HD100",
+            "classificationPath": "||Bacteria|Proteobacteria|Deltaproteobacteria|Bdellovibrionales|Bdellovibrionaceae|Bdellovibrio|Bdellovibrio bacteriovorus",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|109210|630478|469981|379950|703708",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Bdellovibrio bacteriovorus",
+      "name": "Bdellovibrio bacteriovorus",
+      "odds": 366048678360.02826,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rus": 180.19568762456967
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rio": 1.2513589418372895
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          }
+        }
+      },
+      "start": 4992,
+      "end": 5018,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6548367b920b956bc34fa85b552b6a1f",
+          "matchedName": "Bdellovibrio bacteriovorus Stolp and Starr, 1963",
+          "matchedCanonical": "Bdellovibrio bacteriovorus",
+          "currentName": "Bdellovibrio bacteriovorus Stolp and Starr, 1963",
+          "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Bdellovibrionales|Bdellovibrionaceae|Bdellovibrio|Bdellovibrio bacteriovorus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849507|45849508|45849510|45949464|6548367b920b956bc34fa85b552b6a1f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6548367b920b956bc34fa85b552b6a1f",
+            "matchedName": "Bdellovibrio bacteriovorus Stolp and Starr, 1963",
+            "matchedCanonical": "Bdellovibrio bacteriovorus",
+            "currentName": "Bdellovibrio bacteriovorus Stolp and Starr, 1963",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Bdellovibrionales|Bdellovibrionaceae|Bdellovibrio|Bdellovibrio bacteriovorus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849507|45849508|45849510|45949464|6548367b920b956bc34fa85b552b6a1f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3220689",
+            "matchedName": "Bdellovibrio bacteriovorus Stolp \u0026 Starr, 1963",
+            "matchedCanonical": "Bdellovibrio bacteriovorus",
+            "currentName": "Bdellovibrio bacteriovorus Stolp \u0026 Starr, 1963",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Bdellovibrionales|Bdellovibrionaceae|Bdellovibrio|Bdellovibrio bacteriovorus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|338|652|8932|3220688|3220689",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "703708",
+            "matchedName": "Bdellovibrio bacteriovorus HD100",
+            "matchedCanonical": "Bdellovibrio bacteriovorus",
+            "currentName": "Bdellovibrio bacteriovorus HD100",
+            "classificationPath": "||Bacteria|Proteobacteria|Deltaproteobacteria|Bdellovibrionales|Bdellovibrionaceae|Bdellovibrio|Bdellovibrio bacteriovorus",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|109210|630478|469981|379950|703708",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aeruginosa",
+      "name": "P. aeruginosa",
+      "odds": 19651742.952225585,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 5601,
+      "end": 5614,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aeruginosa,",
+      "name": "P. aeruginosa",
+      "odds": 19651742.952225585,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 5960,
+      "end": 5974,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Luria",
+      "name": "Luria",
+      "odds": 9748.322646629798,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 12072,
+      "end": 12077,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46008648",
+          "matchedName": "Luria",
+          "matchedCanonical": "Luria",
+          "currentName": "Luria",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Littorinimorpha|Cypraeoidea|Cypraeidae|Luria",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841999|45842000|45845355|45845990|45856186|46008648",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46008648",
+            "matchedName": "Luria",
+            "matchedCanonical": "Luria",
+            "currentName": "Luria",
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Littorinimorpha|Cypraeoidea|Cypraeidae|Luria",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841999|45842000|45845355|45845990|45856186|46008648",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4360978",
+            "matchedName": "Luria Jousseaume, 1884",
+            "matchedCanonical": "Luria",
+            "currentName": "Luria Jousseaume, 1884",
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Littorinimorpha|Cypraeidae|Luria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|52|225|7390893|2675|4360978",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "154452",
+            "matchedName": "Luria",
+            "matchedCanonical": "Luria",
+            "currentName": "Luria",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Mollusca|Gastropoda|Caenogastropoda|Hypsogastropoda|Littorinimorpha|Cypraeoidea|Cypraeidae|Luria",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|subclass|no rank|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|802117|409995|272321|285852|285849|272317|272319|154452",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Galleria mellonella,",
+      "name": "Galleria mellonella",
+      "odds": 2740289.078884463,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lla": 252.77450625113244
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 13228,
+      "end": 13248,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "522ce2b40700d4299cd6291bfc6f9a01",
+          "matchedName": "Galleria mellonella Linnaeus, 1758",
+          "matchedCanonical": "Galleria mellonella",
+          "currentName": "Galleria mellonella Linnaeus, 1758",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Galleria|Galleria mellonella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45946332|522ce2b40700d4299cd6291bfc6f9a01",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "522ce2b40700d4299cd6291bfc6f9a01",
+            "matchedName": "Galleria mellonella Linnaeus, 1758",
+            "matchedCanonical": "Galleria mellonella",
+            "currentName": "Galleria mellonella Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Galleria|Galleria mellonella",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45946332|522ce2b40700d4299cd6291bfc6f9a01",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1876542",
+            "matchedName": "Galleria mellonella Linnaeus, 1758",
+            "matchedCanonical": "Galleria mellonella",
+            "currentName": "Galleria mellonella Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyralidae|Galleria|Galleria mellonella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|797|5336|1876536|1876542",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "952256",
+            "matchedName": "Galleria mellonella",
+            "matchedCanonical": "Galleria mellonella",
+            "currentName": "Galleria mellonella",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Pyralidae|Galleriinae|Galleria|Galleria mellonella",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|691929|910677|952266|952256",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aeruginosa",
+      "name": "P. aeruginosa",
+      "odds": 19651742.952225585,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          }
+        }
+      },
+      "start": 13317,
+      "end": 13330,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Galleria mellonella,",
+      "name": "Galleria mellonella",
+      "odds": 2740289.078884463,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lla": 252.77450625113244
+          }
+        }
+      },
+      "start": 13407,
+      "end": 13427,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "522ce2b40700d4299cd6291bfc6f9a01",
+          "matchedName": "Galleria mellonella Linnaeus, 1758",
+          "matchedCanonical": "Galleria mellonella",
+          "currentName": "Galleria mellonella Linnaeus, 1758",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Galleria|Galleria mellonella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45946332|522ce2b40700d4299cd6291bfc6f9a01",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "522ce2b40700d4299cd6291bfc6f9a01",
+            "matchedName": "Galleria mellonella Linnaeus, 1758",
+            "matchedCanonical": "Galleria mellonella",
+            "currentName": "Galleria mellonella Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Galleria|Galleria mellonella",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45946332|522ce2b40700d4299cd6291bfc6f9a01",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1876542",
+            "matchedName": "Galleria mellonella Linnaeus, 1758",
+            "matchedCanonical": "Galleria mellonella",
+            "currentName": "Galleria mellonella Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyralidae|Galleria|Galleria mellonella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|797|5336|1876536|1876542",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "952256",
+            "matchedName": "Galleria mellonella",
+            "matchedCanonical": "Galleria mellonella",
+            "currentName": "Galleria mellonella",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Pyralidae|Galleriinae|Galleria|Galleria mellonella",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|691929|910677|952266|952256",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aeruginosa",
+      "name": "P. aeruginosa",
+      "odds": 19651742.952225585,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 14966,
+      "end": 14979,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "G. mellonella",
+      "name": "G. mellonella",
+      "odds": 8667362.612116959,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lla": 252.77450625113244
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 24320,
+      "end": 24333,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(G. mellonella)",
+      "name": "G. mellonella",
+      "odds": 8667362.612116959,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lla": 252.77450625113244
+          }
+        }
+      },
+      "start": 27453,
+      "end": 27468,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aeruginosa",
+      "name": "P. aeruginosa",
+      "odds": 19651742.952225585,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          }
+        }
+      },
+      "start": 28012,
+      "end": 28025,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aeruginosa:",
+      "name": "P. aeruginosa",
+      "odds": 19651742.952225585,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 32997,
+      "end": 33011,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,1110 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:06:19.045438829-05:00",
+    "language": "eng",
+    "total_words": 5310,
+    "total_candidates": 726,
+    "total_names": 14
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Haptophyta",
+      "name": "Haptophyta",
+      "odds": 4178.956040297492,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "yta": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 5581,
+      "end": 5591,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45854858",
+          "matchedName": "Haptophyta",
+          "matchedCanonical": "Haptophyta",
+          "currentName": "Haptophyta",
+          "classificationPath": "Chromista|Haptophyta",
+          "classificationRank": "kingdom|phylum",
+          "classificationIDs": "45841310|45854858",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45854858",
+            "matchedName": "Haptophyta",
+            "matchedCanonical": "Haptophyta",
+            "currentName": "Haptophyta",
+            "classificationPath": "Chromista|Haptophyta",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "45841310|45854858",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "70",
+            "matchedName": "Haptophyta",
+            "matchedCanonical": "Haptophyta",
+            "currentName": "Haptophyta",
+            "classificationPath": "Chromista|Haptophyta",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "4|70",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "151014",
+            "matchedName": "Haptophyta",
+            "matchedCanonical": "Haptophyta",
+            "currentName": "Haptophyta",
+            "classificationPath": "||Eukaryota|Haptophyta",
+            "classificationRank": "no rank|no rank|domain|phylum",
+            "classificationIDs": "805080|93302|304358|151014",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Umbilicosphaera foliosa;",
+      "name": "Umbilicosphaera foliosa",
+      "odds": 12623176070138.5,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "osa": 573.1223953614785
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 6143,
+      "end": 6167,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "11825249",
+          "matchedName": "Umbilicosphaera foliosa (Kamptner ex Kleijne) Geisen, 2003",
+          "matchedCanonical": "Umbilicosphaera foliosa",
+          "currentName": "Umbilicosphaera foliosa (Kamptner ex Kleijne) Geisen, 2003",
+          "classificationPath": "Protista|Haptophyta|Prymnesiophyceae|Coccosphaerales|Calcidiscaceae|Umbilicosphaera|Umbilicosphaera foliosa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "16|243|1444|10278|102170|1088500|11825249",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4378037",
+            "matchedName": "Umbilicosphaera foliosa (Kamptner ex Kleijne) Geisen, 2003 Geisen, 2003 (Kamptner ex Kleijne)",
+            "matchedCanonical": "Umbilicosphaera foliosa",
+            "currentName": "Umbilicosphaera foliosa (Kamptner ex Kleijne) Geisen, 2003 Geisen, 2003 (Kamptner ex Kleijne)",
+            "classificationPath": "Chromista|Haptophyta|Prymnesiophyceae|Coccolithales|Calcidiscaceae|Umbilicosphaera|Umbilicosphaera foliosa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|70|258|8221594|4378066|3201646|4378037",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Eiffellithus turriseiffelii;",
+      "name": "Eiffellithus turriseiffelii",
+      "odds": 4509467791820.586,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spEnd3": {
+            "lii": 140.1522014857764
+          }
+        }
+      },
+      "start": 6171,
+      "end": 6199,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "88563",
+          "matchedName": "Eiffellithus turriseiffelii (Deflandre 1954)",
+          "matchedCanonical": "Eiffellithus turriseiffelii",
+          "currentName": "Eiffellithus turriseiffelii (Deflandre 1954)",
+          "classificationPath": "Eucarya|Chromalveolata|Haptophyta|Prymnesiophyceae|Eiffellithales|Eiffellithaceae|Eiffellithus|Eiffellithus turriseiffelii",
+          "classificationRank": "unranked clade|unranked clade|phylum|class|order|family|genus|species",
+          "classificationIDs": "288516|212580|87644|87645|87652|87675|87863|88563",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4982672",
+            "matchedName": "Eiffellithus turriseiffelii (Deflandre in Deflandre \u0026 Fert, 1954) Reinhardt, 1965 Reinhardt, 1965 (Deflandre in Deflandre \u0026 Fert, 1954)",
+            "matchedCanonical": "Eiffellithus turriseiffelii",
+            "currentName": "Eiffellithus turriseiffelii (Deflandre in Deflandre \u0026 Fert, 1954) Reinhardt, 1965 Reinhardt, 1965 (Deflandre in Deflandre \u0026 Fert, 1954)",
+            "classificationPath": "Chromista|Haptophyta|Prymnesiophyceae|Eiffellithaceae|Eiffellithus|Eiffellithus turriseiffelii",
+            "classificationRank": "kingdom|phylum|class|family|genus|species",
+            "classificationIDs": "4|70|258|3235108|4886609|4982672",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4919910",
+            "matchedName": "Eiffellithus turriseiffelii",
+            "matchedCanonical": "Eiffellithus turriseiffelii",
+            "currentName": "Eiffellithus turriseiffelii",
+            "classificationPath": "||Eukaryota|Haptophyta|Prymnesiophyceae|Eiffellithaceae|Eiffellithus|Eiffellithus turriseiffelii",
+            "classificationRank": "no rank|no rank|domain|phylum|class|family|genus|species",
+            "classificationIDs": "805080|93302|304358|151014|6137287|4919900|4919908|4919910",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Tetrapodorhabdus decorus;",
+      "name": "Tetrapodorhabdus decorus",
+      "odds": 5442101046111.314,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rus": 180.19568762456967
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "16": 29.094095397716973
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dus": 23.775819894908494
+          }
+        }
+      },
+      "start": 6203,
+      "end": 6228,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "88403",
+          "matchedName": "Tetrapodorhabdus decorus (Deflandre 1954)",
+          "matchedCanonical": "Tetrapodorhabdus decorus",
+          "currentName": "Tetrapodorhabdus decorus (Deflandre 1954)",
+          "classificationPath": "Eucarya|Chromalveolata|Haptophyta|Prymnesiophyceae|Podorhabdales|Axopodorhabdaceae|Tetrapodorhabdus|Tetrapodorhabdus decorus",
+          "classificationRank": "unranked clade|unranked clade|phylum|class|order|family|genus|species",
+          "classificationIDs": "288516|212580|87644|87645|87649|87670|87830|88403",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3202132",
+            "matchedName": "Tetrapodorhabdus decorus (Deflandre \u0026 Fert) F.H.Wind \u0026 S.W.Wise F.H.Wind \u0026 S.W.Wise (Deflandre \u0026 Fert)",
+            "matchedCanonical": "Tetrapodorhabdus decorus",
+            "currentName": "Tetrapodorhabdus decorus (Deflandre \u0026 Fert) F.H.Wind \u0026 S.W.Wise F.H.Wind \u0026 S.W.Wise (Deflandre \u0026 Fert)",
+            "classificationPath": "Chromista|Haptophyta|Prymnesiophyceae|Axopodorhabdaceae|Tetrapodorhabdus|Tetrapodorhabdus decorus",
+            "classificationRank": "kingdom|phylum|class|family|genus|species",
+            "classificationIDs": "4|70|258|4908293|3202131|3202132",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4023873",
+            "matchedName": "Tetrapodorhabdus decorus",
+            "matchedCanonical": "Tetrapodorhabdus decorus",
+            "currentName": "Tetrapodorhabdus decorus",
+            "classificationPath": "||Eukaryota|Haptophyta|Prymnesiophyceae|Axopodorhabdaceae|Tetrapodorhabdus|Tetrapodorhabdus decorus",
+            "classificationRank": "no rank|no rank|domain|phylum|class|family|genus|species",
+            "classificationIDs": "805080|93302|304358|151014|6137287|4023820|4023870|4023873",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rotelapillus lafittei.",
+      "name": "Rotelapillus lafittei",
+      "odds": 1355872540257.1904,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tei": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 6236,
+      "end": 6258,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "88484",
+          "matchedName": "Rotelapillus laffittei (NoÃ«l 1957)",
+          "matchedCanonical": "Rotelapillus laffittei",
+          "currentName": "Rotelapillus laffittei (NoÃ«l 1957)",
+          "classificationPath": "Eucarya|Chromalveolata|Haptophyta|Prymnesiophyceae|Stephanolithiales|Stephanolithiaceae|Rotelapillus|Rotelapillus laffittei",
+          "classificationRank": "unranked clade|unranked clade|phylum|class|order|family|genus|species",
+          "classificationIDs": "288516|212580|87644|87645|87651|87672|87847|88484",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4982966",
+            "matchedName": "Rotelapillus laffittei (Noël, 1957) Noël, 1973 Noël, 1973 (Noël, 1957)",
+            "matchedCanonical": "Rotelapillus laffittei",
+            "currentName": "Rotelapillus laffittei (Noël, 1957) Noël, 1973 Noël, 1973 (Noël, 1957)",
+            "classificationPath": "Chromista|Haptophyta|Prymnesiophyceae|Stephanolithiaceae|Rotelapillus|Rotelapillus laffittei",
+            "classificationRank": "kingdom|phylum|class|family|genus|species",
+            "classificationIDs": "4|70|258|3235118|4897209|4982966",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4920108",
+            "matchedName": "Rotelapillus laffittei",
+            "matchedCanonical": "Rotelapillus laffittei",
+            "currentName": "Rotelapillus laffittei",
+            "classificationPath": "||Eukaryota|Haptophyta|Prymnesiophyceae|Coccolithales|Stephanolithiaceae|Rotelapillus|Rotelapillus laffittei",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|151014|6137287|302736|4920024|4024029|4920108",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Helicosphaera carteri",
+      "name": "Helicosphaera carteri",
+      "odds": 6366406680381.821,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eri": 445.483783294075
+          }
+        }
+      },
+      "start": 6283,
+      "end": 6304,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "255395",
+          "matchedName": "Helicosphaera carteri (Wallich 1877)",
+          "matchedCanonical": "Helicosphaera carteri",
+          "currentName": "Helicosphaera carteri (Wallich 1877)",
+          "classificationPath": "Eucarya|Chromalveolata|Haptophyta|Helicosphaera|Helicosphaera carteri",
+          "classificationRank": "unranked clade|unranked clade|phylum|genus|species",
+          "classificationIDs": "288516|212580|87644|255396|255395",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3201956",
+            "matchedName": "Helicosphaera carteri (Wallich) Kamptner, 1954 Kamptner, 1954 (Wallich)",
+            "matchedCanonical": "Helicosphaera carteri",
+            "currentName": "Helicosphaera carteri (Wallich) Kamptner, 1954 Kamptner, 1954 (Wallich)",
+            "classificationPath": "Chromista|Haptophyta|Prymnesiophyceae|Zygodiscales|Helicosphaeraceae|Helicosphaera|Helicosphaera carteri",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|70|258|8232986|4378032|8174776|3201956",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "557346",
+            "matchedName": "Helicosphaera carteri",
+            "matchedCanonical": "Helicosphaera carteri",
+            "currentName": "Helicosphaera carteri",
+            "classificationPath": "||Eukaryota|Haptophyta|Prymnesiophyceae|Coccolithales|Helicosphaera|Helicosphaera carteri",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|genus|species",
+            "classificationIDs": "805080|93302|304358|151014|6137287|302736|557342|557346",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Syracolithus schilleri;",
+      "name": "Syracolithus schilleri",
+      "odds": 5577157553636.878,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "eri": 445.483783294075
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 6329,
+      "end": 6352,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "11138405",
+          "matchedName": "Syracolithus schilleri (Kamptner) Norris, 1985",
+          "matchedCanonical": "Syracolithus schilleri",
+          "currentName": "Syracolithus schilleri (Kamptner) Norris, 1985",
+          "classificationPath": "Protista|Haptophyta|Prymnesiophyceae|Coccosphaerales|Calyptrosphaeraceae|Syracolithus|Syracolithus schilleri",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "16|243|1444|10278|105647|1003784|11138405",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3201864",
+            "matchedName": "Syracolithus schilleri (Kamptner) Norris, 1985 Norris, 1985 (Kamptner)",
+            "matchedCanonical": "Syracolithus schilleri",
+            "currentName": "Syracolithus schilleri (Kamptner) Norris, 1985 Norris, 1985 (Kamptner)",
+            "classificationPath": "Chromista|Haptophyta|Prymnesiophyceae|Coccosphaerales|Calyptrosphaeraceae|Syracolithus|Syracolithus schilleri",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|70|258|1084|6277|3201858|3201864",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4014320",
+            "matchedName": "Syracolithus schilleri",
+            "matchedCanonical": "Syracolithus schilleri",
+            "currentName": "Syracolithus schilleri",
+            "classificationPath": "||Eukaryota|Haptophyta|Prymnesiophyceae|Coccolithales|Syracolithus|Syracolithus schilleri",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|genus|species",
+            "classificationIDs": "805080|93302|304358|151014|6137287|302736|4014238|4014320",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lucianorhabdus cayeuxii.",
+      "name": "Lucianorhabdus cayeuxii",
+      "odds": 366607075308.00165,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "xii": 15.01630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dus": 23.775819894908494
+          }
+        }
+      },
+      "start": 6360,
+      "end": 6384,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "88109",
+          "matchedName": "Lucianorhabdus cayeuxii Deflandre 1959",
+          "matchedCanonical": "Lucianorhabdus cayeuxii",
+          "currentName": "Lucianorhabdus cayeuxii Deflandre 1959",
+          "classificationPath": "Eucarya|Chromalveolata|Haptophyta|Prymnesiophyceae|Calyptrosphaeraceae|Lucianorhabdus|Lucianorhabdus cayeuxii",
+          "classificationRank": "unranked clade|unranked clade|phylum|class|family|genus|species",
+          "classificationIDs": "288516|212580|87644|87645|87660|87778|88109",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4982613",
+            "matchedName": "Lucianorhabdus cayeuxii Deflandre, 1959",
+            "matchedCanonical": "Lucianorhabdus cayeuxii",
+            "currentName": "Lucianorhabdus cayeuxii Deflandre, 1959",
+            "classificationPath": "Plantae|Lucianorhabdus|Lucianorhabdus cayeuxii",
+            "classificationRank": "kingdom|genus|species",
+            "classificationIDs": "6|2652606|4982613",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4737636",
+            "matchedName": "Lucianorhabdus cayeuxii",
+            "matchedCanonical": "Lucianorhabdus cayeuxii",
+            "currentName": "Lucianorhabdus cayeuxii",
+            "classificationPath": "||Eukaryota|Archaeplastida|Lucianorhabdus|Lucianorhabdus cayeuxii",
+            "classificationRank": "no rank|no rank|domain|kingdom|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|5923418|4737636",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Braarudosphaera bigelowii;",
+      "name": "Braarudosphaera bigelowii",
+      "odds": 753456296554.9655,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "wii": 15.01630730204747
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          }
+        }
+      },
+      "start": 6405,
+      "end": 6431,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "88063",
+          "matchedName": "Braarudosphaera bigelowii (Gran and Braarud 1935)",
+          "matchedCanonical": "Braarudosphaera bigelowii",
+          "currentName": "Braarudosphaera bigelowii (Gran and Braarud 1935)",
+          "classificationPath": "Eucarya|Chromalveolata|Haptophyta|Prymnesiophyceae|Prymnesiophycidae|Braarudosphaeraceae|Braarudosphaera|Braarudosphaera bigelowii",
+          "classificationRank": "unranked clade|unranked clade|phylum|class|subclass|family|genus|species",
+          "classificationIDs": "288516|212580|87644|87645|87646|87659|87759|88063",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3202256",
+            "matchedName": "Braarudosphaera bigelowii (Gran \u0026 Braarud) Deflandre, 1947 Deflandre, 1947 (Gran \u0026 Braarud)",
+            "matchedCanonical": "Braarudosphaera bigelowii",
+            "currentName": "Braarudosphaera bigelowii (Gran \u0026 Braarud) Deflandre, 1947 Deflandre, 1947 (Gran \u0026 Braarud)",
+            "classificationPath": "Chromista|Haptophyta|Prymnesiophyceae|Coccosphaerales|Braarudosphaeraceae|Braarudosphaera|Braarudosphaera bigelowii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|70|258|1084|7125|3202255|3202256",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "495805",
+            "matchedName": "Braarudosphaera bigelowii",
+            "matchedCanonical": "Braarudosphaera bigelowii",
+            "currentName": "Braarudosphaera bigelowii",
+            "classificationPath": "||Eukaryota|Haptophyta|Prymnesiophyceae|Prymnesiales|Braarudosphaera|Braarudosphaera bigelowii",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|genus|species",
+            "classificationIDs": "805080|93302|304358|151014|6137287|747196|495790|495805",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ceratolithina hamata;",
+      "name": "Ceratolithina hamata",
+      "odds": 1123511464904.0059,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 6435,
+      "end": 6456,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "87920",
+          "matchedName": "Ceratolithina hamata Martini 1967",
+          "matchedCanonical": "Ceratolithina hamata",
+          "currentName": "Ceratolithina hamata Martini 1967",
+          "classificationPath": "Eucarya|Chromalveolata|Haptophyta|Prymnesiophyceae|Prymnesiophycidae|Ceratolithina|Ceratolithina hamata",
+          "classificationRank": "unranked clade|unranked clade|phylum|class|subclass|genus|species",
+          "classificationIDs": "288516|212580|87644|87645|87646|87732|87920",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4982785",
+            "matchedName": "Ceratolithina hamata Martini, 1967",
+            "matchedCanonical": "Ceratolithina hamata",
+            "currentName": "Ceratolithina hamata Martini, 1967",
+            "classificationPath": "Chromista|Haptophyta|Prymnesiophyceae|Ceratolithina|Ceratolithina hamata",
+            "classificationRank": "kingdom|phylum|class|genus|species",
+            "classificationIDs": "4|70|258|4908682|4982785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4023897",
+            "matchedName": "Ceratolithina hamata",
+            "matchedCanonical": "Ceratolithina hamata",
+            "currentName": "Ceratolithina hamata",
+            "classificationPath": "||Eukaryota|Haptophyta|Prymnesiophyceae|Ceratolithina|Ceratolithina hamata",
+            "classificationRank": "no rank|no rank|domain|phylum|class|genus|species",
+            "classificationIDs": "805080|93302|304358|151014|6137287|4023896|4023897",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Discoaster surculus;",
+      "name": "Discoaster surculus",
+      "odds": 66228967074.45787,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 6460,
+      "end": 6480,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 8,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "10507803",
+          "matchedName": "Discoaster surculus",
+          "matchedCanonical": "Discoaster surculus",
+          "currentName": "Discoaster surculus",
+          "classificationPath": "Protista|Haptophyta|Prymnesiophyceae|Discoasterales|Discoasteraceae|Discoaster|Discoaster surculus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "16|243|1444|11273|116847|1072805|10507803",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3201677",
+            "matchedName": "Discoaster surculus Martini \u0026 Bramlette",
+            "matchedCanonical": "Discoaster surculus",
+            "currentName": "Discoaster surculus Martini \u0026 Bramlette",
+            "classificationPath": "Chromista|Haptophyta|Prymnesiophyceae|Coccolithales|Coccolithaceae|Discoaster|Discoaster surculus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|70|258|8221594|7120|9211383|3201677",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4023244",
+            "matchedName": "Discoaster surculus",
+            "matchedCanonical": "Discoaster surculus",
+            "currentName": "Discoaster surculus",
+            "classificationPath": "||Eukaryota|Haptophyta|Prymnesiophyceae|Discoasteraceae|Discoaster|Discoaster surculus",
+            "classificationRank": "no rank|no rank|domain|phylum|class|family|genus|species",
+            "classificationIDs": "805080|93302|304358|151014|6137287|4919930|4023239|4023244",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ceratolithoides aculeus.",
+      "name": "Ceratolithoides aculeus",
+      "odds": 522689631.1910841,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "des": 21.94691067222323
+          },
+          "spEnd3": {
+            "eus": 162.67666243884761
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 6484,
+      "end": 6508,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "87918",
+          "matchedName": "Ceratolithoides aculeus (Stradner 1961)",
+          "matchedCanonical": "Ceratolithoides aculeus",
+          "currentName": "Ceratolithoides aculeus (Stradner 1961)",
+          "classificationPath": "Eucarya|Chromalveolata|Haptophyta|Prymnesiophyceae|Prymnesiophycidae|Ceratolithoides|Ceratolithoides aculeus",
+          "classificationRank": "unranked clade|unranked clade|phylum|class|subclass|genus|species",
+          "classificationIDs": "288516|212580|87644|87645|87646|87731|87918",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4982919",
+            "matchedName": "Ceratolithoides aculeus (Stradner, 1961) Prins \u0026 Sissingh in Sissingh, 1977 Prins \u0026 Sissingh in Sissingh, 1977 (Stradner, 1961)",
+            "matchedCanonical": "Ceratolithoides aculeus",
+            "currentName": "Ceratolithoides aculeus (Stradner, 1961) Prins \u0026 Sissingh in Sissingh, 1977 Prins \u0026 Sissingh in Sissingh, 1977 (Stradner, 1961)",
+            "classificationPath": "Chromista|Haptophyta|Prymnesiophyceae|Ceratolithoides|Ceratolithoides aculeus",
+            "classificationRank": "kingdom|phylum|class|genus|species",
+            "classificationIDs": "4|70|258|4908680|4982919",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4023918",
+            "matchedName": "Ceratolithoides aculeus",
+            "matchedCanonical": "Ceratolithoides aculeus",
+            "currentName": "Ceratolithoides aculeus",
+            "classificationPath": "||Eukaryota|Haptophyta|Prymnesiophyceae|Ceratolithoides|Ceratolithoides aculeus",
+            "classificationRank": "no rank|no rank|domain|phylum|class|genus|species",
+            "classificationIDs": "805080|93302|304358|151014|6137287|4023903|4023918",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Thoracosphaera)",
+      "name": "Thoracosphaera",
+      "odds": 958797.0558602881,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          }
+        }
+      },
+      "start": 10008,
+      "end": 10023,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45872076",
+          "matchedName": "Thoracosphaera",
+          "matchedCanonical": "Thoracosphaera",
+          "currentName": "Thoracosphaera",
+          "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Thoracosphaeraceae|Thoracosphaera",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841310|45846461|45853446|45855008|45855027|45872076",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45872076",
+            "matchedName": "Thoracosphaera",
+            "matchedCanonical": "Thoracosphaera",
+            "currentName": "Thoracosphaera",
+            "classificationPath": "Chromista|Miozoa|Dinophyceae|Peridiniales|Thoracosphaeraceae|Thoracosphaera",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841310|45846461|45853446|45855008|45855027|45872076",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7812625",
+            "matchedName": "Thoracosphaera Kamptner, 1927",
+            "matchedCanonical": "Thoracosphaera",
+            "currentName": "Thoracosphaera Kamptner, 1927",
+            "classificationPath": "Chromista|Myzozoa|Dinophyceae|Thoracosphaerales|Thoracosphaeraceae|Thoracosphaera",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|8770992|9049014|9162541|8254631|7812625",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "643100",
+            "matchedName": "Thoracosphaera",
+            "matchedCanonical": "Thoracosphaera",
+            "currentName": "Thoracosphaera",
+            "classificationPath": "||Eukaryota||Alveolata|Dinoflagellata|Dinophyceae|Peridiniphycidae|Thoracosphaeraceae|Thoracosphaera",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|infraphylum|class|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|5246039|266751|5246809|621380|5248782|4924792|643100",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Micrascidites)",
+      "name": "Micrascidites",
+      "odds": 18145.60949681141,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          }
+        }
+      },
+      "start": 10046,
+      "end": 10061,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1157495",
+          "matchedName": "Micrascidites Deflandre \u0026 Deflandre-Rigaud, 1957",
+          "matchedCanonical": "Micrascidites",
+          "currentName": "Micrascidites Deflandre \u0026 Deflandre-Rigaud, 1957",
+          "classificationPath": "Biota|Animalia|Chordata|Urochordata|Ascidiacea|Ascidiacea|Ascidiacea|Micrascidites",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|148|11905118|1057|10009|116389|1157495",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4836277",
+            "matchedName": "Micrascidites Deflandre \u0026 Deflandre-Rigaud, 1957",
+            "matchedCanonical": "Micrascidites",
+            "currentName": "Micrascidites Deflandre \u0026 Deflandre-Rigaud, 1957",
+            "classificationPath": "Animalia|Chordata|Ascidiacea|Micrascidites",
+            "classificationRank": "kingdom|phylum|class|genus",
+            "classificationIDs": "1|44|356|4836277",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

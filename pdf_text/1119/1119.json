@@ -1,0 +1,1192 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:57:52.525794473-05:00",
+    "language": "eng",
+    "total_words": 14371,
+    "total_candidates": 1493,
+    "total_names": 15
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Emma",
+      "name": "Emma",
+      "odds": 8070.479606640311,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mma": 67.57338285921362
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 184,
+      "end": 188,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46030335",
+          "matchedName": "Emma",
+          "matchedCanonical": "Emma",
+          "currentName": "Emma",
+          "classificationPath": "Animalia|Bryozoa|Gymnolaemata|Cheilostomatida|Buguloidea|Candidae|Emma",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45843536|45843537|45843538|45845176|45856341|46030335",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46030335",
+            "matchedName": "Emma",
+            "matchedCanonical": "Emma",
+            "currentName": "Emma",
+            "classificationPath": "Animalia|Bryozoa|Gymnolaemata|Cheilostomatida|Buguloidea|Candidae|Emma",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45843536|45843537|45843538|45845176|45856341|46030335",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3261176",
+            "matchedName": "Emma Escalera, 1913",
+            "matchedCanonical": "Emma",
+            "currentName": "Emmita Escalera, 1914",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Dascillidae|Emmita",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|4731|4575534",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2936309",
+            "matchedName": "Emma",
+            "matchedCanonical": "Emma",
+            "currentName": "Emma",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Bryozoa|Gymnolaemata|Cheilostomatida|Neocheilostomatina|Flustrina|Buguloidea|Candidae|Emma",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|442934|622391|622392|375421|165380|165365|848801|2936309",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Emma",
+      "name": "Emma",
+      "odds": 8070.479606640311,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "mma": 67.57338285921362
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1421,
+      "end": 1425,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46030335",
+          "matchedName": "Emma",
+          "matchedCanonical": "Emma",
+          "currentName": "Emma",
+          "classificationPath": "Animalia|Bryozoa|Gymnolaemata|Cheilostomatida|Buguloidea|Candidae|Emma",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45843536|45843537|45843538|45845176|45856341|46030335",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46030335",
+            "matchedName": "Emma",
+            "matchedCanonical": "Emma",
+            "currentName": "Emma",
+            "classificationPath": "Animalia|Bryozoa|Gymnolaemata|Cheilostomatida|Buguloidea|Candidae|Emma",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45843536|45843537|45843538|45845176|45856341|46030335",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3261176",
+            "matchedName": "Emma Escalera, 1913",
+            "matchedCanonical": "Emma",
+            "currentName": "Emmita Escalera, 1914",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Dascillidae|Emmita",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|4731|4575534",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2936309",
+            "matchedName": "Emma",
+            "matchedCanonical": "Emma",
+            "currentName": "Emma",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Bryozoa|Gymnolaemata|Cheilostomatida|Neocheilostomatina|Flustrina|Buguloidea|Candidae|Emma",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|442934|622391|622392|375421|165380|165365|848801|2936309",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lymantria dispar,",
+      "name": "Lymantria dispar",
+      "odds": 164268.05417000048,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "par": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 3226,
+      "end": 3243,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "4f33f33a664047feb4861e62d6e5ae84",
+          "matchedName": "Lymantria dispar Linnaeus, 1758",
+          "matchedCanonical": "Lymantria dispar",
+          "currentName": "Lymantria dispar Linnaeus, 1758",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Noctuoidea|Lymantriidae|Lymantria|Lymantria dispar",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847794|45847806|45889509|4f33f33a664047feb4861e62d6e5ae84",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "4f33f33a664047feb4861e62d6e5ae84",
+            "matchedName": "Lymantria dispar Linnaeus, 1758",
+            "matchedCanonical": "Lymantria dispar",
+            "currentName": "Lymantria dispar Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Noctuoidea|Lymantriidae|Lymantria|Lymantria dispar",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847794|45847806|45889509|4f33f33a664047feb4861e62d6e5ae84",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1820406",
+            "matchedName": "Lymantria dispar Linnaeus, 1758",
+            "matchedCanonical": "Lymantria dispar",
+            "currentName": "Lymantria dispar Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Lymantriidae|Lymantria|Lymantria dispar",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|797|5472|1820270|1820406",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "886835",
+            "matchedName": "Lymantria dispar",
+            "matchedCanonical": "Lymantria dispar",
+            "currentName": "Lymantria dispar",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Noctuoidea|Lymantriidae|Lymantria|Lymantria dispar",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675124|1022119|886833|886835",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lymantria dispar,",
+      "name": "Lymantria dispar",
+      "odds": 164268.05417000048,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "par": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 4964,
+      "end": 4981,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "4f33f33a664047feb4861e62d6e5ae84",
+          "matchedName": "Lymantria dispar Linnaeus, 1758",
+          "matchedCanonical": "Lymantria dispar",
+          "currentName": "Lymantria dispar Linnaeus, 1758",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Noctuoidea|Lymantriidae|Lymantria|Lymantria dispar",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847794|45847806|45889509|4f33f33a664047feb4861e62d6e5ae84",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "4f33f33a664047feb4861e62d6e5ae84",
+            "matchedName": "Lymantria dispar Linnaeus, 1758",
+            "matchedCanonical": "Lymantria dispar",
+            "currentName": "Lymantria dispar Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Noctuoidea|Lymantriidae|Lymantria|Lymantria dispar",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847794|45847806|45889509|4f33f33a664047feb4861e62d6e5ae84",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1820406",
+            "matchedName": "Lymantria dispar Linnaeus, 1758",
+            "matchedCanonical": "Lymantria dispar",
+            "currentName": "Lymantria dispar Linnaeus, 1758",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Lymantriidae|Lymantria|Lymantria dispar",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|797|5472|1820270|1820406",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "886835",
+            "matchedName": "Lymantria dispar",
+            "matchedCanonical": "Lymantria dispar",
+            "currentName": "Lymantria dispar",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Noctuoidea|Lymantriidae|Lymantria|Lymantria dispar",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675124|1022119|886833|886835",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Uninfected larvae",
+      "name": "Uninfected larvae",
+      "odds": 1.4215582281384633,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ted": 0.00504580218482778
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "vae": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 9691,
+      "end": 9708,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Tanada",
+      "name": "Tanada",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ada": 0.16872255395558958
+          }
+        }
+      },
+      "start": 14198,
+      "end": 14205,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1338523",
+          "matchedName": "Tanada Walker, 1856",
+          "matchedCanonical": "Tanada",
+          "currentName": "Tanada Walker, 1856",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Lepidoptera|Tanada",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|108215|1338523",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4702509",
+            "matchedName": "Tanada Walker, 1856",
+            "matchedCanonical": "Tanada",
+            "currentName": "Tanada Walker, 1856",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Tanada",
+            "classificationRank": "kingdom|phylum|class|order|genus",
+            "classificationIDs": "1|54|216|797|4702509",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Quercus rubra),",
+      "name": "Quercus rubra",
+      "odds": 92828352780.35376,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "bra": 42.54620402246783
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 21176,
+      "end": 21192,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e962bf84aab2077f0b363f6f7d18ef1a",
+          "matchedName": "Quercus rubra L.",
+          "matchedCanonical": "Quercus rubra",
+          "currentName": "Quercus rubra L.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Quercus|Quercus rubra",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45844406|45844409|45869163|e962bf84aab2077f0b363f6f7d18ef1a",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e962bf84aab2077f0b363f6f7d18ef1a",
+            "matchedName": "Quercus rubra L.",
+            "matchedCanonical": "Quercus rubra",
+            "currentName": "Quercus rubra L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Quercus|Quercus rubra",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45844406|45844409|45869163|e962bf84aab2077f0b363f6f7d18ef1a",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8421730",
+            "matchedName": "Quercus rubra Benth.",
+            "matchedCanonical": "Quercus rubra",
+            "currentName": "Quercus rubra Benth.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Quercus|Quercus rubra",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|1354|4689|2877951|8421730",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "791115",
+            "matchedName": "Quercus rubra",
+            "matchedCanonical": "Quercus rubra",
+            "currentName": "Quercus rubra",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fagales|Fagaceae|Quercus|Quercus rubra",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|267709|267713|791121|791115",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Barbosa",
+      "name": "Barbosa",
+      "odds": 22822.25246464615,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "osa": 15.641986772966117
+          }
+        }
+      },
+      "start": 21240,
+      "end": 21248,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145096857",
+          "matchedName": "Barbosa Becc.",
+          "matchedCanonical": "Barbosa",
+          "currentName": "Barbosa Becc.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2732073",
+            "matchedName": "Barbosa Becc.",
+            "matchedCanonical": "Barbosa",
+            "currentName": "Syagrus Mart.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Arecales|Arecaceae|Syagrus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|552|7681|2737041",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Heteroptera:",
+      "name": "Heteroptera",
+      "odds": 270429.93883238896,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 23475,
+      "end": 23488,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "151134",
+          "matchedName": "Heteroptera",
+          "matchedCanonical": "Heteroptera",
+          "currentName": "Heteroptera",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Pterygota|Hemiptera|Heteroptera",
+          "classificationRank": "|Kingdom|phylum|subphylum|class|subclass|order|suborder",
+          "classificationIDs": "1|2|1065|1278|1307|151152|118089|151134",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7756863",
+            "matchedName": "Heteroptera Steud.",
+            "matchedCanonical": "Heteroptera",
+            "currentName": "Heteroptera Steud.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Apiales|Apiaceae|Heteroptera",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1351|6720|7756863",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "815345",
+            "matchedName": "Heteroptera",
+            "matchedCanonical": "Heteroptera",
+            "currentName": "Heteroptera",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Neohemiptera|Prosorrhyncha|Heteroptera",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|no rank|no rank|suborder",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|563382|815355|815345",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pentatomidae),",
+      "name": "Pentatomidae",
+      "odds": 86950.9006595204,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 23489,
+      "end": 23503,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45843930",
+          "matchedName": "Pentatomidae",
+          "matchedCanonical": "Pentatomidae",
+          "currentName": "Pentatomidae",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Pentatomoidea|Pentatomidae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+          "classificationIDs": "45841265|45841270|45841271|45841287|45843809|45843930",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45843930",
+            "matchedName": "Pentatomidae",
+            "matchedCanonical": "Pentatomidae",
+            "currentName": "Pentatomidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Pentatomoidea|Pentatomidae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+            "classificationIDs": "45841265|45841270|45841271|45841287|45843809|45843930",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9650",
+            "matchedName": "Pentatomidae",
+            "matchedCanonical": "Pentatomidae",
+            "currentName": "Pentatomidae",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Pentatomidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|54|216|809|9650",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "770668",
+            "matchedName": "Pentatomidae",
+            "matchedCanonical": "Pentatomidae",
+            "currentName": "Pentatomidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Neohemiptera|Prosorrhyncha|Heteroptera|Euheteroptera|Neoheteroptera|Panheteroptera|Pentatomomorpha|Pentatomoidea|Pentatomidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|no rank|no rank|suborder|no rank|no rank|no rank|no rank|superfamily|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|563382|815355|815345|815349|815341|291356|291358|639838|770668",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Quercus palustris",
+      "name": "Quercus palustris",
+      "odds": 10632105041322.426,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 29760,
+      "end": 29777,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1134b04546e1e1a56ed60e36bf7b5a7f",
+          "matchedName": "Quercus palustris Münchh.",
+          "matchedCanonical": "Quercus palustris",
+          "currentName": "Quercus palustris Münchh.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Quercus|Quercus palustris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45844406|45844409|45869163|1134b04546e1e1a56ed60e36bf7b5a7f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1134b04546e1e1a56ed60e36bf7b5a7f",
+            "matchedName": "Quercus palustris Münchh.",
+            "matchedCanonical": "Quercus palustris",
+            "currentName": "Quercus palustris Münchh.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Quercus|Quercus palustris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45844406|45844409|45869163|1134b04546e1e1a56ed60e36bf7b5a7f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7989662",
+            "matchedName": "Quercus palustris Du Roi",
+            "matchedCanonical": "Quercus palustris",
+            "currentName": "Quercus palustris Du Roi",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Quercus|Quercus palustris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|1354|4689|2877951|7989662",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "538292",
+            "matchedName": "Quercus palustris",
+            "matchedCanonical": "Quercus palustris",
+            "currentName": "Quercus palustris",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fagales|Fagaceae|Quercus|Quercus palustris",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|267709|267713|791121|538292",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Metschnikowia",
+      "name": "Metschnikowia",
+      "odds": 275913.3703211182,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "wia": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 69776,
+      "end": 69789,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45959953",
+          "matchedName": "Metschnikowia",
+          "matchedCanonical": "Metschnikowia",
+          "currentName": "Metschnikowia",
+          "classificationPath": "Animalia|Porifera|Demospongiae|Spongillida|Metschnikowiidae|Metschnikowia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45846702|45846703|45846937|45850723|45959953",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45959953",
+            "matchedName": "Metschnikowia",
+            "matchedCanonical": "Metschnikowia",
+            "currentName": "Metschnikowia",
+            "classificationPath": "Animalia|Porifera|Demospongiae|Spongillida|Metschnikowiidae|Metschnikowia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45846702|45846703|45846937|45850723|45959953",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2246446",
+            "matchedName": "Metschnikowia Grimm, 1876",
+            "matchedCanonical": "Metschnikowia",
+            "currentName": "Metschnikowia Grimm, 1876",
+            "classificationPath": "Animalia|Porifera|Demospongiae|Spongillida|Metschnikowiidae|Metschnikowia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|105|199|8391193|3912|2246446",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2835197",
+            "matchedName": "Metschnikowia",
+            "matchedCanonical": "Metschnikowia",
+            "currentName": "Metschnikowia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Porifera|Demospongiae|Heteroscleromorpha|Spongillida|Metschnikowiidae|Metschnikowia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|phylum|class|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|67819|67816|588758|5975692|2835198|2835197",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Daphnia",
+      "name": "Daphnia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 69803,
+      "end": 69810,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856975",
+          "matchedName": "Daphnia",
+          "matchedCanonical": "Daphnia",
+          "currentName": "Daphnia",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856975",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234785",
+            "matchedName": "Daphnia O.F. Müller, 1785",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia O.F. Müller, 1785",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|281|545|7513|2234785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "59084",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Trichoplusia",
+      "name": "Trichoplusia",
+      "odds": 38035.45622645393,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sia": 2.9705156189408553
+          }
+        }
+      },
+      "start": 75946,
+      "end": 75958,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45892568",
+          "matchedName": "Trichoplusia",
+          "matchedCanonical": "Trichoplusia",
+          "currentName": "Trichoplusia",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Noctuoidea|Noctuidae|Trichoplusia",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847794|45847813|45892568",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45892568",
+            "matchedName": "Trichoplusia",
+            "matchedCanonical": "Trichoplusia",
+            "currentName": "Trichoplusia",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Noctuoidea|Noctuidae|Trichoplusia",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847794|45847813|45892568",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1786329",
+            "matchedName": "Trichoplusia McDunnough, 1944",
+            "matchedCanonical": "Trichoplusia",
+            "currentName": "Trichoplusia McDunnough, 1944",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Noctuidae|Trichoplusia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|7015|1786329",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "167938",
+            "matchedName": "Trichoplusia",
+            "matchedCanonical": "Trichoplusia",
+            "currentName": "Trichoplusia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Noctuoidea|Noctuidae|Plusiinae|Trichoplusia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675124|742352|345185|167938",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Quercus",
+      "name": "Quercus",
+      "odds": 558688.7403345377,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 76090,
+      "end": 76098,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45869163",
+          "matchedName": "Quercus",
+          "matchedCanonical": "Quercus",
+          "currentName": "Quercus",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Quercus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45844406|45844409|45869163",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45869163",
+            "matchedName": "Quercus",
+            "matchedCanonical": "Quercus",
+            "currentName": "Quercus",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Quercus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45844406|45844409|45869163",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2877951",
+            "matchedName": "Quercus L.",
+            "matchedCanonical": "Quercus",
+            "currentName": "Quercus L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Quercus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1354|4689|2877951",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "791121",
+            "matchedName": "Quercus",
+            "matchedCanonical": "Quercus",
+            "currentName": "Quercus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fagales|Fagaceae|Quercus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|267709|267713|791121",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

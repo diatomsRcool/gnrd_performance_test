@@ -1,0 +1,2161 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:59:21.826258448-05:00",
+    "language": "eng",
+    "total_words": 8545,
+    "total_candidates": 1396,
+    "total_names": 27
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Lynx rufus)",
+      "name": "Lynx rufus",
+      "odds": 26.610358712707406,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 174,
+      "end": 186,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5888d60f8ea6874bb7baefea3570518f",
+          "matchedName": "Lynx rufus (Schreber, 1777)",
+          "matchedCanonical": "Lynx rufus",
+          "currentName": "Lynx rufus (Schreber, 1777)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46005331|5888d60f8ea6874bb7baefea3570518f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5888d60f8ea6874bb7baefea3570518f",
+            "matchedName": "Lynx rufus (Schreber, 1777)",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus (Schreber, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46005331|5888d60f8ea6874bb7baefea3570518f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435246",
+            "matchedName": "Lynx rufus (Schreber, 1777)",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus (Schreber, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "507545",
+            "matchedName": "Lynx rufus",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Lynx|Lynx rufus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|886828|507545",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Pleistocene refugia,",
+      "name": "Pleistocene refugia",
+      "odds": 8.879734270320318,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "gia": 5.005435767349157
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "CommonWords": 0.00019373880505299418
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ene": 2.275198076067799
+          }
+        }
+      },
+      "start": 1431,
+      "end": 1451,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "127798246",
+          "matchedName": "Pleistocene",
+          "matchedCanonical": "Pleistocene",
+          "currentName": "Pleistocene",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lynx rufus,",
+      "name": "Lynx rufus",
+      "odds": 26.610358712707406,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 2314,
+      "end": 2325,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5888d60f8ea6874bb7baefea3570518f",
+          "matchedName": "Lynx rufus (Schreber, 1777)",
+          "matchedCanonical": "Lynx rufus",
+          "currentName": "Lynx rufus (Schreber, 1777)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46005331|5888d60f8ea6874bb7baefea3570518f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5888d60f8ea6874bb7baefea3570518f",
+            "matchedName": "Lynx rufus (Schreber, 1777)",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus (Schreber, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46005331|5888d60f8ea6874bb7baefea3570518f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435246",
+            "matchedName": "Lynx rufus (Schreber, 1777)",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus (Schreber, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "507545",
+            "matchedName": "Lynx rufus",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Lynx|Lynx rufus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|886828|507545",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Canis latrans;",
+      "name": "Canis latrans",
+      "odds": 5838352218.994742,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nis": 65.07066497553905
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ans": 6.781558136408536
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 4261,
+      "end": 4276,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "04afba115065ca57c2ea8f64fe876579",
+          "matchedName": "Canis latrans Say, 1823",
+          "matchedCanonical": "Canis latrans",
+          "currentName": "Canis latrans Say, 1823",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Canidae|Canis|Canis latrans",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850561|46004050|04afba115065ca57c2ea8f64fe876579",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "04afba115065ca57c2ea8f64fe876579",
+            "matchedName": "Canis latrans Say, 1823",
+            "matchedCanonical": "Canis latrans",
+            "currentName": "Canis latrans Say, 1823",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Canidae|Canis|Canis latrans",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850561|46004050|04afba115065ca57c2ea8f64fe876579",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5219153",
+            "matchedName": "Canis latrans Say, 1823",
+            "matchedCanonical": "Canis latrans",
+            "currentName": "Canis latrans Say, 1823",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Canidae|Canis|Canis latrans",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9701|5219142|5219153",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "247331",
+            "matchedName": "Canis latrans",
+            "matchedCanonical": "Canis latrans",
+            "currentName": "Canis latrans",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Caniformia|Canidae|Canis|Canis latrans",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827263|770319|372706|247331",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Odocoileus hemionus;",
+      "name": "Odocoileus hemionus",
+      "odds": 9573099474374.904,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eus": 127.6386120674035
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 4310,
+      "end": 4331,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "98f41b3a1cedd9e164f3739aedd90b99",
+          "matchedName": "Odocoileus hemionus (Rafinesque, 1817)",
+          "matchedCanonical": "Odocoileus hemionus",
+          "currentName": "Odocoileus hemionus (Rafinesque, 1817)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Cervidae|Odocoileus|Odocoileus hemionus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45850563|45850570|45897664|98f41b3a1cedd9e164f3739aedd90b99",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "98f41b3a1cedd9e164f3739aedd90b99",
+            "matchedName": "Odocoileus hemionus (Rafinesque, 1817)",
+            "matchedCanonical": "Odocoileus hemionus",
+            "currentName": "Odocoileus hemionus (Rafinesque, 1817)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Cervidae|Odocoileus|Odocoileus hemionus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45850563|45850570|45897664|98f41b3a1cedd9e164f3739aedd90b99",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440974",
+            "matchedName": "Odocoileus hemionus (Rafinesque, 1817)",
+            "matchedCanonical": "Odocoileus hemionus",
+            "currentName": "Odocoileus hemionus (Rafinesque, 1817)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Cervidae|Odocoileus|Odocoileus hemionus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|731|5298|2440964|2440974",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "410149",
+            "matchedName": "Odocoileus hemionus",
+            "matchedCanonical": "Odocoileus hemionus",
+            "currentName": "Odocoileus hemionus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Ruminantia|Pecora|Cervidae|Odocoileinae|Odocoileus|Odocoileus hemionus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|986971|403912|460505|194507|410156|410149",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Canis lupus;",
+      "name": "Canis lupus",
+      "odds": 1635905.7323761503,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "pus": 50.05435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nis": 65.07066497553905
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          }
+        }
+      },
+      "start": 4609,
+      "end": 4622,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "bcd6035778291a7feaad52cb7ac167cb",
+          "matchedName": "Canis lupus Linnaeus, 1758",
+          "matchedCanonical": "Canis lupus",
+          "currentName": "Canis lupus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Canidae|Canis|Canis lupus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850561|46004050|bcd6035778291a7feaad52cb7ac167cb",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "bcd6035778291a7feaad52cb7ac167cb",
+            "matchedName": "Canis lupus Linnaeus, 1758",
+            "matchedCanonical": "Canis lupus",
+            "currentName": "Canis lupus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Canidae|Canis|Canis lupus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850561|46004050|bcd6035778291a7feaad52cb7ac167cb",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5219173",
+            "matchedName": "Canis lupus Linnaeus, 1758",
+            "matchedCanonical": "Canis lupus",
+            "currentName": "Canis lupus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Canidae|Canis|Canis lupus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9701|5219142|5219173",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "247341",
+            "matchedName": "Canis lupus",
+            "matchedCanonical": "Canis lupus",
+            "currentName": "Canis lupus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Caniformia|Canidae|Canis|Canis lupus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827263|770319|372706|247341",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Lynx rufus fasciatus",
+      "name": "Lynx rufus fasciatus",
+      "odds": 7117106.415865255,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "ispLen": {
+            "9": 3.2165803672730324
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "tus": 112.62230476535605
+          }
+        }
+      },
+      "start": 6729,
+      "end": 6749,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f4278b225c8a02b1cce753a9a69f7016",
+          "matchedName": "Lynx rufus fasciatus Rafinesque, 1817",
+          "matchedCanonical": "Lynx rufus fasciatus",
+          "currentName": "Lynx rufus fasciatus Rafinesque, 1817",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus fasciatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f4278b225c8a02b1cce753a9a69f7016",
+            "matchedName": "Lynx rufus fasciatus Rafinesque, 1817",
+            "matchedCanonical": "Lynx rufus fasciatus",
+            "currentName": "Lynx rufus fasciatus Rafinesque, 1817",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus fasciatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164663",
+            "matchedName": "Lynx rufus subsp. fasciatus Rafinesque, 1817",
+            "matchedCanonical": "Lynx rufus ssp. fasciatus",
+            "currentName": "Lynx rufus subsp. fasciatus Rafinesque, 1817",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus|Lynx rufus fasciatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246|6164663",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Lynx rufus pallescens",
+      "name": "Lynx rufus pallescens",
+      "odds": 4399366.439452737,
+      "odds_details": {
+        "Name": {
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "ispLen": {
+            "10": 4.627930835174779
+          },
+          "ispEnd3": {
+            "ens": 48.38587908437518
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 6750,
+      "end": 6771,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0003c9db125e6db08179db4754e69c49",
+          "matchedName": "Lynx rufus pallescens Merriam, 1899",
+          "matchedCanonical": "Lynx rufus pallescens",
+          "currentName": "Lynx rufus pallescens Merriam, 1899",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus pallescens",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0003c9db125e6db08179db4754e69c49",
+            "matchedName": "Lynx rufus pallescens Merriam, 1899",
+            "matchedCanonical": "Lynx rufus pallescens",
+            "currentName": "Lynx rufus pallescens Merriam, 1899",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus pallescens",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164671",
+            "matchedName": "Lynx rufus subsp. pallescens Merriam, 1899",
+            "matchedCanonical": "Lynx rufus ssp. pallescens",
+            "currentName": "Lynx rufus subsp. pallescens Merriam, 1899",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus|Lynx rufus pallescens",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246|6164671",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Lynx rufus gigas",
+      "name": "Lynx rufus gigas",
+      "odds": 5874.94497934473,
+      "odds_details": {
+        "Name": {
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          }
+        }
+      },
+      "start": 6772,
+      "end": 6788,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ee418a721c906ef76e7d7ec38e453205",
+          "matchedName": "Lynx rufus gigas Bangs, 1897",
+          "matchedCanonical": "Lynx rufus gigas",
+          "currentName": "Lynx rufus gigas Bangs, 1897",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus gigas",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ee418a721c906ef76e7d7ec38e453205",
+            "matchedName": "Lynx rufus gigas Bangs, 1897",
+            "matchedCanonical": "Lynx rufus gigas",
+            "currentName": "Lynx rufus gigas Bangs, 1897",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus gigas",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164673",
+            "matchedName": "Lynx rufus subsp. gigas Bangs, 1897",
+            "matchedCanonical": "Lynx rufus ssp. gigas",
+            "currentName": "Lynx rufus subsp. gigas Bangs, 1897",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus|Lynx rufus gigas",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246|6164673",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Lynx rufus)",
+      "name": "Lynx rufus",
+      "odds": 26.610358712707406,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 6825,
+      "end": 6837,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5888d60f8ea6874bb7baefea3570518f",
+          "matchedName": "Lynx rufus (Schreber, 1777)",
+          "matchedCanonical": "Lynx rufus",
+          "currentName": "Lynx rufus (Schreber, 1777)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46005331|5888d60f8ea6874bb7baefea3570518f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5888d60f8ea6874bb7baefea3570518f",
+            "matchedName": "Lynx rufus (Schreber, 1777)",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus (Schreber, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46005331|5888d60f8ea6874bb7baefea3570518f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435246",
+            "matchedName": "Lynx rufus (Schreber, 1777)",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus (Schreber, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "507545",
+            "matchedName": "Lynx rufus",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Lynx|Lynx rufus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|886828|507545",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Lynx rufus californicus",
+      "name": "Lynx rufus californicus",
+      "odds": 7373689.440118269,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "ispLen": {
+            "12": 5.998577784680339
+          },
+          "ispEnd3": {
+            "cus": 62.56794709186447
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 7032,
+      "end": 7055,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "418cfc584173b0d9f5315b7d02d14684",
+          "matchedName": "Lynx rufus californicus Mearns, 1897",
+          "matchedCanonical": "Lynx rufus californicus",
+          "currentName": "Lynx rufus californicus Mearns, 1897",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus californicus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "418cfc584173b0d9f5315b7d02d14684",
+            "matchedName": "Lynx rufus californicus Mearns, 1897",
+            "matchedCanonical": "Lynx rufus californicus",
+            "currentName": "Lynx rufus californicus Mearns, 1897",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus californicus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164672",
+            "matchedName": "Lynx rufus subsp. californicus Mearns, 1897",
+            "matchedCanonical": "Lynx rufus ssp. californicus",
+            "currentName": "Lynx rufus subsp. californicus Mearns, 1897",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus|Lynx rufus californicus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246|6164672",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Lynx rufus peninsularis",
+      "name": "Lynx rufus peninsularis",
+      "odds": 7668637.017723,
+      "odds_details": {
+        "Name": {
+          "ispEnd3": {
+            "ris": 65.07066497553905
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "12": 5.998577784680339
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          }
+        }
+      },
+      "start": 7056,
+      "end": 7079,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "c4ef8bef7770b0b82e7371dc31ed2632",
+          "matchedName": "Lynx rufus peninsularis Thomas, 1898",
+          "matchedCanonical": "Lynx rufus peninsularis",
+          "currentName": "Lynx rufus peninsularis Thomas, 1898",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus peninsularis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "c4ef8bef7770b0b82e7371dc31ed2632",
+            "matchedName": "Lynx rufus peninsularis Thomas, 1898",
+            "matchedCanonical": "Lynx rufus peninsularis",
+            "currentName": "Lynx rufus peninsularis Thomas, 1898",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus peninsularis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164662",
+            "matchedName": "Lynx rufus subsp. peninsularis Thomas, 1898",
+            "matchedCanonical": "Lynx rufus ssp. peninsularis",
+            "currentName": "Lynx rufus subsp. peninsularis Thomas, 1898",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus|Lynx rufus peninsularis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246|6164662",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Lynx rufus texensis",
+      "name": "Lynx rufus texensis",
+      "odds": 10427139.54208379,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "8": 1.8125199061624047
+          },
+          "ispEnd3": {
+            "sis": 292.81799238992573
+          }
+        }
+      },
+      "start": 7142,
+      "end": 7161,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1238d6b79fbdb27292ffb4e28759d8ea",
+          "matchedName": "Lynx rufus texensis J. A. Allen, 1895",
+          "matchedCanonical": "Lynx rufus texensis",
+          "currentName": "Lynx rufus texensis J. A. Allen, 1895",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus texensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1238d6b79fbdb27292ffb4e28759d8ea",
+            "matchedName": "Lynx rufus texensis J. A. Allen, 1895",
+            "matchedCanonical": "Lynx rufus texensis",
+            "currentName": "Lynx rufus texensis J. A. Allen, 1895",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus texensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164670",
+            "matchedName": "Lynx rufus subsp. texensis J. A. Allen, 1895",
+            "matchedCanonical": "Lynx rufus ssp. texensis",
+            "currentName": "Lynx rufus subsp. texensis J. A. Allen, 1895",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus|Lynx rufus texensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246|6164670",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Lynx rufus escuinapae",
+      "name": "Lynx rufus escuinapae",
+      "odds": 90922.52786770975,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "10": 4.627930835174779
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 7162,
+      "end": 7183,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "8168bc34266162a5427a0f276e7f0218",
+          "matchedName": "Lynx rufus escuinapae J. A. Allen, 1903",
+          "matchedCanonical": "Lynx rufus escuinapae",
+          "currentName": "Lynx rufus escuinapae J. A. Allen, 1903",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus escuinapae",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "8168bc34266162a5427a0f276e7f0218",
+            "matchedName": "Lynx rufus escuinapae J. A. Allen, 1903",
+            "matchedCanonical": "Lynx rufus escuinapae",
+            "currentName": "Lynx rufus escuinapae J. A. Allen, 1903",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus escuinapae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164669",
+            "matchedName": "Lynx rufus subsp. escuinapae J. A. Allen, 1903",
+            "matchedCanonical": "Lynx rufus ssp. escuinapae",
+            "currentName": "Lynx rufus subsp. escuinapae J. A. Allen, 1903",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus|Lynx rufus escuinapae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246|6164669",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Lynx rufus oaxacensis",
+      "name": "Lynx rufus oaxacensis",
+      "odds": 26623752.07323984,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "ispLen": {
+            "10": 4.627930835174779
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "sis": 292.81799238992573
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 7184,
+      "end": 7205,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "01f85938b5f8db1a27f8ef3ecb2ad45c",
+          "matchedName": "Lynx rufus oaxacensis Goodwin, 1963",
+          "matchedCanonical": "Lynx rufus oaxacensis",
+          "currentName": "Lynx rufus oaxacensis Goodwin, 1963",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus oaxacensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "01f85938b5f8db1a27f8ef3ecb2ad45c",
+            "matchedName": "Lynx rufus oaxacensis Goodwin, 1963",
+            "matchedCanonical": "Lynx rufus oaxacensis",
+            "currentName": "Lynx rufus oaxacensis Goodwin, 1963",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus oaxacensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164664",
+            "matchedName": "Lynx rufus subsp. oaxacensis Goodwin, 1963",
+            "matchedCanonical": "Lynx rufus ssp. oaxacensis",
+            "currentName": "Lynx rufus subsp. oaxacensis Goodwin, 1963",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus|Lynx rufus oaxacensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246|6164664",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Lynx rufus baileyi",
+      "name": "Lynx rufus baileyi",
+      "odds": 127633.12575293165,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "ispEnd3": {
+            "eyi": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          }
+        }
+      },
+      "start": 7239,
+      "end": 7257,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "643e91038e3dbd8065ff3cbcd1bd3715",
+          "matchedName": "Lynx rufus baileyi Merriam, 1890",
+          "matchedCanonical": "Lynx rufus baileyi",
+          "currentName": "Lynx rufus baileyi Merriam, 1890",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus baileyi",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "643e91038e3dbd8065ff3cbcd1bd3715",
+            "matchedName": "Lynx rufus baileyi Merriam, 1890",
+            "matchedCanonical": "Lynx rufus baileyi",
+            "currentName": "Lynx rufus baileyi Merriam, 1890",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus baileyi",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164667",
+            "matchedName": "Lynx rufus subsp. baileyi Merriam, 1890",
+            "matchedCanonical": "Lynx rufus ssp. baileyi",
+            "currentName": "Lynx rufus subsp. baileyi Merriam, 1890",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus|Lynx rufus baileyi",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246|6164667",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Lynx rufus superiorensis",
+      "name": "Lynx rufus superiorensis",
+      "odds": 30804464.915486105,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "ispLen": {
+            "13": 5.354652216233982
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "sis": 292.81799238992573
+          }
+        }
+      },
+      "start": 7505,
+      "end": 7529,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a799ea02e20ab838e2a12aa166c8e291",
+          "matchedName": "Lynx rufus superiorensis Peterson and Downing, 1952",
+          "matchedCanonical": "Lynx rufus superiorensis",
+          "currentName": "Lynx rufus superiorensis Peterson and Downing, 1952",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus superiorensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a799ea02e20ab838e2a12aa166c8e291",
+            "matchedName": "Lynx rufus superiorensis Peterson and Downing, 1952",
+            "matchedCanonical": "Lynx rufus superiorensis",
+            "currentName": "Lynx rufus superiorensis Peterson and Downing, 1952",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus superiorensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164665",
+            "matchedName": "Lynx rufus subsp. superiorensis Peterson \u0026 Downing, 1952",
+            "matchedCanonical": "Lynx rufus ssp. superiorensis",
+            "currentName": "Lynx rufus subsp. superiorensis Peterson \u0026 Downing, 1952",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus|Lynx rufus superiorensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246|6164665",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Lynx rufus rufus",
+      "name": "Lynx rufus rufus",
+      "odds": 5874.94497934473,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          }
+        }
+      },
+      "start": 7530,
+      "end": 7546,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "cd2392bca500fbeda3cd32f636f61742",
+          "matchedName": "Lynx rufus rufus (Schreber, 1777)",
+          "matchedCanonical": "Lynx rufus rufus",
+          "currentName": "Lynx rufus rufus (Schreber, 1777)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus rufus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "cd2392bca500fbeda3cd32f636f61742",
+            "matchedName": "Lynx rufus rufus (Schreber, 1777)",
+            "matchedCanonical": "Lynx rufus rufus",
+            "currentName": "Lynx rufus rufus (Schreber, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus rufus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7193912",
+            "matchedName": "Lynx rufus subsp. rufus",
+            "matchedCanonical": "Lynx rufus ssp. rufus",
+            "currentName": "Lynx rufus subsp. rufus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus|Lynx rufus rufus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246|7193912",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Lynx rufus floridanus",
+      "name": "Lynx rufus floridanus",
+      "odds": 8191923.714843027,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "10": 4.627930835174779
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "nus": 90.09784381228484
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 7593,
+      "end": 7614,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "c88b456f1470cd66288fe1055438dfb5",
+          "matchedName": "Lynx rufus floridanus Rafinesque, 1817",
+          "matchedCanonical": "Lynx rufus floridanus",
+          "currentName": "Lynx rufus floridanus Rafinesque, 1817",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus floridanus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "c88b456f1470cd66288fe1055438dfb5",
+            "matchedName": "Lynx rufus floridanus Rafinesque, 1817",
+            "matchedCanonical": "Lynx rufus floridanus",
+            "currentName": "Lynx rufus floridanus Rafinesque, 1817",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx||Lynx rufus floridanus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164668",
+            "matchedName": "Lynx rufus subsp. floridanus Rafinesque, 1817",
+            "matchedCanonical": "Lynx rufus ssp. floridanus",
+            "currentName": "Lynx rufus subsp. floridanus Rafinesque, 1817",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus|Lynx rufus floridanus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246|6164668",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lynx rufus",
+      "name": "Lynx rufus",
+      "odds": 26.610358712707406,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 9677,
+      "end": 9687,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5888d60f8ea6874bb7baefea3570518f",
+          "matchedName": "Lynx rufus (Schreber, 1777)",
+          "matchedCanonical": "Lynx rufus",
+          "currentName": "Lynx rufus (Schreber, 1777)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46005331|5888d60f8ea6874bb7baefea3570518f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5888d60f8ea6874bb7baefea3570518f",
+            "matchedName": "Lynx rufus (Schreber, 1777)",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus (Schreber, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46005331|5888d60f8ea6874bb7baefea3570518f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435246",
+            "matchedName": "Lynx rufus (Schreber, 1777)",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus (Schreber, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "507545",
+            "matchedName": "Lynx rufus",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Lynx|Lynx rufus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|886828|507545",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Felis catus):",
+      "name": "Felis catus",
+      "odds": 10779630760.936901,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 12750,
+      "end": 12764,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f2f6a853436bfab907efa771b6ae38f1",
+          "matchedName": "Felis catus Linnaeus, 1758",
+          "matchedCanonical": "Felis catus",
+          "currentName": "Felis catus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|f2f6a853436bfab907efa771b6ae38f1",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f2f6a853436bfab907efa771b6ae38f1",
+            "matchedName": "Felis catus Linnaeus, 1758",
+            "matchedCanonical": "Felis catus",
+            "currentName": "Felis catus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|f2f6a853436bfab907efa771b6ae38f1",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435035",
+            "matchedName": "Felis catus Linnaeus, 1758",
+            "matchedCanonical": "Felis catus",
+            "currentName": "Felis catus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435022|2435035",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "563166",
+            "matchedName": "Felis catus",
+            "matchedCanonical": "Felis catus",
+            "currentName": "Felis catus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Felis|Felis catus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|563165|563166",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Lynx canadensis):",
+      "name": "Lynx canadensis",
+      "odds": 315021.8740643475,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 12935,
+      "end": 12953,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2ebe4178d0ba852b9d01ab379eb9ea16",
+          "matchedName": "Lynx canadensis Kerr, 1792",
+          "matchedCanonical": "Lynx canadensis",
+          "currentName": "Lynx canadensis Kerr, 1792",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx canadensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46005331|2ebe4178d0ba852b9d01ab379eb9ea16",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2ebe4178d0ba852b9d01ab379eb9ea16",
+            "matchedName": "Lynx canadensis Kerr, 1792",
+            "matchedCanonical": "Lynx canadensis",
+            "currentName": "Lynx canadensis Kerr, 1792",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx canadensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46005331|2ebe4178d0ba852b9d01ab379eb9ea16",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435263",
+            "matchedName": "Lynx canadensis Kerr, 1792",
+            "matchedCanonical": "Lynx canadensis",
+            "currentName": "Lynx canadensis Kerr, 1792",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx canadensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435263",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "507549",
+            "matchedName": "Lynx canadensis",
+            "matchedCanonical": "Lynx canadensis",
+            "currentName": "Lynx canadensis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Lynx|Lynx canadensis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|886828|507549",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. canadensis",
+      "name": "L. canadensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 25485,
+      "end": 25498,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Pleistocene refugia",
+      "name": "Pleistocene refugia",
+      "odds": 8.879734270320318,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gia": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "CommonWords": 0.00019373880505299418
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ene": 2.275198076067799
+          }
+        }
+      },
+      "start": 44557,
+      "end": 44576,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "127798246",
+          "matchedName": "Pleistocene",
+          "matchedCanonical": "Pleistocene",
+          "currentName": "Pleistocene",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Pleistocene refugia",
+      "name": "Pleistocene refugia",
+      "odds": 8.879734270320318,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "CommonWords": 0.00019373880505299418
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ene": 2.275198076067799
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gia": 5.005435767349157
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 44714,
+      "end": 44733,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "127798246",
+          "matchedName": "Pleistocene",
+          "matchedCanonical": "Pleistocene",
+          "currentName": "Pleistocene",
+          "matchType": "ExactPartialMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Nason,",
+      "name": "Nason",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "son": 0.02383540841594837
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 54702,
+      "end": 54708,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1317251",
+          "matchedName": "Nason Anonymous, 1802",
+          "matchedCanonical": "Nason",
+          "currentName": "Nason Anonymous, 1802",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Pisces|Pisces|Pisces|Nason",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|148|11905117|1437|10503|116255|1317251",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4853506",
+            "matchedName": "Nason Anonymous, 1802",
+            "matchedCanonical": "Nason",
+            "currentName": "Nason Anonymous, 1802",
+            "classificationPath": "Animalia|Chordata|Nason",
+            "classificationRank": "kingdom|phylum|genus",
+            "classificationIDs": "1|44|4853506",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Lynx rufus)",
+      "name": "Lynx rufus",
+      "odds": 26.610358712707406,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ynx": 2.5027178836745785
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 55773,
+      "end": 55785,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5888d60f8ea6874bb7baefea3570518f",
+          "matchedName": "Lynx rufus (Schreber, 1777)",
+          "matchedCanonical": "Lynx rufus",
+          "currentName": "Lynx rufus (Schreber, 1777)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46005331|5888d60f8ea6874bb7baefea3570518f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5888d60f8ea6874bb7baefea3570518f",
+            "matchedName": "Lynx rufus (Schreber, 1777)",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus (Schreber, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46005331|5888d60f8ea6874bb7baefea3570518f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435246",
+            "matchedName": "Lynx rufus (Schreber, 1777)",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus (Schreber, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Lynx|Lynx rufus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435239|2435246",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "507545",
+            "matchedName": "Lynx rufus",
+            "matchedCanonical": "Lynx rufus",
+            "currentName": "Lynx rufus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Lynx|Lynx rufus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|886828|507545",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

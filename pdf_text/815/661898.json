@@ -1,0 +1,1329 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:07:32.467817747-05:00",
+    "language": "eng",
+    "total_words": 5769,
+    "total_candidates": 680,
+    "total_names": 17
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Escherichia coli,",
+      "name": "Escherichia coli",
+      "odds": 338087507.1687548,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          }
+        }
+      },
+      "start": 13002,
+      "end": 13019,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "matchedCanonical": "Escherichia coli",
+          "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6110934",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1395|4899|3221780|6110934",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "260855",
+            "matchedName": "Escherichia coli 'BL21-Gold(DE3)pLysS AG'",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli 'BL21-Gold(DE3)pLysS AG'",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichiashigella|Escherichia coli",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|no rank|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|768012|424023|5248878|260855",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Daphnia magna",
+      "name": "Daphnia magna",
+      "odds": 161328082.5257224,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gna": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          }
+        }
+      },
+      "start": 14756,
+      "end": 14769,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e44e0a35c2cdb085859074a9fe73abdf",
+          "matchedName": "Daphnia (Ctenodaphnia) magna Straus 1820",
+          "matchedCanonical": "Daphnia magna",
+          "currentName": "Daphnia (Ctenodaphnia) magna Straus 1820",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia|Daphnia magna",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975|e44e0a35c2cdb085859074a9fe73abdf",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e44e0a35c2cdb085859074a9fe73abdf",
+            "matchedName": "Daphnia (Ctenodaphnia) magna Straus 1820",
+            "matchedCanonical": "Daphnia magna",
+            "currentName": "Daphnia (Ctenodaphnia) magna Straus 1820",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia|Daphnia magna",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975|e44e0a35c2cdb085859074a9fe73abdf",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234822",
+            "matchedName": "Daphnia magna Straus, 1820",
+            "matchedCanonical": "Daphnia magna",
+            "currentName": "Daphnia magna Straus, 1820",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia|Daphnia magna",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|281|545|7513|2234785|2234822",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "668392",
+            "matchedName": "Daphnia magna",
+            "matchedCanonical": "Daphnia magna",
+            "currentName": "Daphnia magna",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia|Daphnia magna",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084|668392",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Daphnia",
+      "name": "Daphnia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 14922,
+      "end": 14929,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856975",
+          "matchedName": "Daphnia",
+          "matchedCanonical": "Daphnia",
+          "currentName": "Daphnia",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856975",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234785",
+            "matchedName": "Daphnia O.F. Müller, 1785",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia O.F. Müller, 1785",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|281|545|7513|2234785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "59084",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Daphnia",
+      "name": "Daphnia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          }
+        }
+      },
+      "start": 15222,
+      "end": 15229,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856975",
+          "matchedName": "Daphnia",
+          "matchedCanonical": "Daphnia",
+          "currentName": "Daphnia",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856975",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234785",
+            "matchedName": "Daphnia O.F. Müller, 1785",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia O.F. Müller, 1785",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|281|545|7513|2234785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "59084",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Escherichia coli",
+      "name": "Escherichia coli",
+      "odds": 338087507.1687548,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 16820,
+      "end": 16836,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "matchedCanonical": "Escherichia coli",
+          "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6110934",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1395|4899|3221780|6110934",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "260855",
+            "matchedName": "Escherichia coli 'BL21-Gold(DE3)pLysS AG'",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli 'BL21-Gold(DE3)pLysS AG'",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichiashigella|Escherichia coli",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|no rank|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|768012|424023|5248878|260855",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Daphnia",
+      "name": "Daphnia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          }
+        }
+      },
+      "start": 17760,
+      "end": 17767,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856975",
+          "matchedName": "Daphnia",
+          "matchedCanonical": "Daphnia",
+          "currentName": "Daphnia",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856975",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234785",
+            "matchedName": "Daphnia O.F. Müller, 1785",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia O.F. Müller, 1785",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|281|545|7513|2234785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "59084",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. coli",
+      "name": "E. coli",
+      "odds": 3099.8434298420043,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          }
+        }
+      },
+      "start": 18992,
+      "end": 18999,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Daphnia magna.",
+      "name": "Daphnia magna",
+      "odds": 161328082.5257224,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gna": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 19206,
+      "end": 19220,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e44e0a35c2cdb085859074a9fe73abdf",
+          "matchedName": "Daphnia (Ctenodaphnia) magna Straus 1820",
+          "matchedCanonical": "Daphnia magna",
+          "currentName": "Daphnia (Ctenodaphnia) magna Straus 1820",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia|Daphnia magna",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975|e44e0a35c2cdb085859074a9fe73abdf",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e44e0a35c2cdb085859074a9fe73abdf",
+            "matchedName": "Daphnia (Ctenodaphnia) magna Straus 1820",
+            "matchedCanonical": "Daphnia magna",
+            "currentName": "Daphnia (Ctenodaphnia) magna Straus 1820",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia|Daphnia magna",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975|e44e0a35c2cdb085859074a9fe73abdf",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234822",
+            "matchedName": "Daphnia magna Straus, 1820",
+            "matchedCanonical": "Daphnia magna",
+            "currentName": "Daphnia magna Straus, 1820",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia|Daphnia magna",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|281|545|7513|2234785|2234822",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "668392",
+            "matchedName": "Daphnia magna",
+            "matchedCanonical": "Daphnia magna",
+            "currentName": "Daphnia magna",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia|Daphnia magna",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084|668392",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Escherichia coli",
+      "name": "Escherichia coli",
+      "odds": 338087507.1687548,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 23990,
+      "end": 24006,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "matchedCanonical": "Escherichia coli",
+          "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6110934",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1395|4899|3221780|6110934",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "260855",
+            "matchedName": "Escherichia coli 'BL21-Gold(DE3)pLysS AG'",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli 'BL21-Gold(DE3)pLysS AG'",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichiashigella|Escherichia coli",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|no rank|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|768012|424023|5248878|260855",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. coli",
+      "name": "E. coli",
+      "odds": 3099.8434298420043,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 24310,
+      "end": 24317,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Escherichia coli",
+      "name": "Escherichia coli",
+      "odds": 338087507.1687548,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 25405,
+      "end": 25421,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "matchedCanonical": "Escherichia coli",
+          "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849547|45849573|45849574|45949108|3254b3db31bf16fdde669ac57bf8c4fe",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6110934",
+            "matchedName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli (Migula, 1895) Castellani \u0026 Chalmers, 1919 Castellani \u0026 Chalmers, 1919 (Migula, 1895)",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|362|1395|4899|3221780|6110934",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "260855",
+            "matchedName": "Escherichia coli 'BL21-Gold(DE3)pLysS AG'",
+            "matchedCanonical": "Escherichia coli",
+            "currentName": "Escherichia coli 'BL21-Gold(DE3)pLysS AG'",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichiashigella|Escherichia coli",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|no rank|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|822744|768012|424023|5248878|260855",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. coli",
+      "name": "E. coli",
+      "odds": 3099.8434298420043,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oli": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 25629,
+      "end": 25636,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Daphnia",
+      "name": "Daphnia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 27318,
+      "end": 27325,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856975",
+          "matchedName": "Daphnia",
+          "matchedCanonical": "Daphnia",
+          "currentName": "Daphnia",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856975",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234785",
+            "matchedName": "Daphnia O.F. Müller, 1785",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia O.F. Müller, 1785",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|281|545|7513|2234785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "59084",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Daphnia",
+      "name": "Daphnia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 27429,
+      "end": 27436,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856975",
+          "matchedName": "Daphnia",
+          "matchedCanonical": "Daphnia",
+          "currentName": "Daphnia",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856975",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234785",
+            "matchedName": "Daphnia O.F. Müller, 1785",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia O.F. Müller, 1785",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|281|545|7513|2234785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "59084",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Daphnia",
+      "name": "Daphnia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          }
+        }
+      },
+      "start": 28078,
+      "end": 28085,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856975",
+          "matchedName": "Daphnia",
+          "matchedCanonical": "Daphnia",
+          "currentName": "Daphnia",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856975",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234785",
+            "matchedName": "Daphnia O.F. Müller, 1785",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia O.F. Müller, 1785",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|281|545|7513|2234785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "59084",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Daphnia",
+      "name": "Daphnia",
+      "odds": 4126.560120436832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          }
+        }
+      },
+      "start": 28295,
+      "end": 28302,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856975",
+          "matchedName": "Daphnia",
+          "matchedCanonical": "Daphnia",
+          "currentName": "Daphnia",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856975",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Not assigned|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841424|45841425|45844530|45856975",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2234785",
+            "matchedName": "Daphnia O.F. Müller, 1785",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia O.F. Müller, 1785",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Diplostraca|Daphniidae|Daphnia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|281|545|7513|2234785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "59084",
+            "matchedName": "Daphnia",
+            "matchedCanonical": "Daphnia",
+            "currentName": "Daphnia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Phyllopoda|Diplostraca|Cladocera|Anomopoda|Daphniidae|Daphnia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|infraorder|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180189|220273|59096|754180|424894|59084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Scomber vernalis.",
+      "name": "Scomber vernalis",
+      "odds": 25441055268.93429,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ber": 0.08342392945581929
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 38707,
+      "end": 38724,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "9ec10033f0bd0217038a74a1db1a4cad",
+          "matchedName": "Scomber vernalis Mitchill, 1815",
+          "matchedCanonical": "Scomber vernalis",
+          "currentName": "Scomber scombrus Linnaeus, 1758",
+          "isSynonym": true,
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Scombridae|Scomber|Scomber scombrus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45842955|45843554|45863532|f656631fc42068100e2330c40c8fda18",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "9ec10033f0bd0217038a74a1db1a4cad",
+            "matchedName": "Scomber vernalis Mitchill, 1815",
+            "matchedCanonical": "Scomber vernalis",
+            "currentName": "Scomber scombrus Linnaeus, 1758",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Scombridae|Scomber|Scomber scombrus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45842955|45843554|45863532|f656631fc42068100e2330c40c8fda18",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2374151",
+            "matchedName": "Scomber vernalis Mitchill, 1815",
+            "matchedCanonical": "Scomber vernalis",
+            "currentName": "Scomber scombrus Linnaeus, 1758",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Scombridae|Scomber|Scomber scombrus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|587|8596|2374148|2374149",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

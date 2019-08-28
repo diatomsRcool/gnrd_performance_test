@@ -1,0 +1,1761 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:08:23.793842646-05:00",
+    "language": "eng",
+    "total_words": 6616,
+    "total_candidates": 1050,
+    "total_names": 28
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Phoxinus phoxinus,",
+      "name": "Phoxinus phoxinus",
+      "odds": 5165469277881.539,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          }
+        }
+      },
+      "start": 192,
+      "end": 211,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+          "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "matchedCanonical": "Phoxinus phoxinus",
+          "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4409653",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1153|7336|3241387|4409653",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1019917",
+            "matchedName": "Phoxinus phoxinus",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Otomorpha|Ostariophysi|Otophysi|Cypriniphysae|Cypriniformes|Cyprinoidea|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|superorder|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|761450|803544|285818|285817|1005931|239839|1005930|63849|1019917",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cyprinidae)",
+      "name": "Cyprinidae",
+      "odds": 38074.93281159937,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 212,
+      "end": 223,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45849065",
+          "matchedName": "Cyprinidae",
+          "matchedCanonical": "Cyprinidae",
+          "currentName": "Cyprinidae",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841293|45849058|45849065",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45849065",
+            "matchedName": "Cyprinidae",
+            "matchedCanonical": "Cyprinidae",
+            "currentName": "Cyprinidae",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841293|45849058|45849065",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7336",
+            "matchedName": "Cyprinidae",
+            "matchedCanonical": "Cyprinidae",
+            "currentName": "Cyprinidae",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|204|1153|7336",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1005930",
+            "matchedName": "Cyprinidae",
+            "matchedCanonical": "Cyprinidae",
+            "currentName": "Cyprinidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Otomorpha|Ostariophysi|Otophysi|Cypriniphysae|Cypriniformes|Cyprinoidea|Cyprinidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|superorder|order|superfamily|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|761450|803544|285818|285817|1005931|239839|1005930",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LUCA",
+      "name": "Luca",
+      "odds": 5679.226389857997,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uca": 47.55163978981699
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 247,
+      "end": 251,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1159950",
+          "matchedName": "Luca Walker, 1862",
+          "matchedCanonical": "Luca",
+          "currentName": "Luca Walker, 1862",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Notodontidae|Luca",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|114360|1159950",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4702170",
+            "matchedName": "Luca Walker, 1862",
+            "matchedCanonical": "Luca",
+            "currentName": "Luca Walker, 1862",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Notodontidae|Luca",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|7016|4702170",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4244377",
+            "matchedName": "Luca",
+            "matchedCanonical": "Luca",
+            "currentName": "Luca",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Noctuoidea|Notodontidae|Luca",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675124|675121|4244377",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Phoxinus phoxinus)",
+      "name": "Phoxinus phoxinus",
+      "odds": 5165469277881.539,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 758,
+      "end": 777,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+          "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "matchedCanonical": "Phoxinus phoxinus",
+          "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4409653",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1153|7336|3241387|4409653",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1019917",
+            "matchedName": "Phoxinus phoxinus",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Otomorpha|Ostariophysi|Otophysi|Cypriniphysae|Cypriniformes|Cyprinoidea|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|superorder|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|761450|803544|285818|285817|1005931|239839|1005930|63849|1019917",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Hylobius abietis.",
+      "name": "Hylobius abietis",
+      "odds": 42390039.064983696,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "tis": 110.11958688168146
+          }
+        }
+      },
+      "start": 5156,
+      "end": 5173,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "9d07973c382d69def4e292f16a4eb13e",
+          "matchedName": "Hylobius abietis (Linnaeus, C., 1758)",
+          "matchedCanonical": "Hylobius abietis",
+          "currentName": "Hylobius abietis (Linnaeus, C., 1758)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Curculionoidea|Curculionidae|Hylobius|Hylobius abietis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45841597|45842938|45900735|9d07973c382d69def4e292f16a4eb13e",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "9d07973c382d69def4e292f16a4eb13e",
+            "matchedName": "Hylobius abietis (Linnaeus, C., 1758)",
+            "matchedCanonical": "Hylobius abietis",
+            "currentName": "Hylobius abietis (Linnaeus, C., 1758)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Curculionoidea|Curculionidae|Hylobius|Hylobius abietis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45841597|45842938|45900735|9d07973c382d69def4e292f16a4eb13e",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9070995",
+            "matchedName": "Hylobius abietis (Linnaeus, 1758) Linnaeus, 1758 Linnaeus, 1758 (Linnaeus, 1758)",
+            "matchedCanonical": "Hylobius abietis",
+            "currentName": "Curculio abietis Linnaeus",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Curculionidae|Curculio|Curculio abietis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|4239|5010305|5010323",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "273894",
+            "matchedName": "Hylobius abietis",
+            "matchedCanonical": "Hylobius abietis",
+            "currentName": "Hylobius abietis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Curculionoidea|Curculionidae|Molytinae|Hylobiini|Hylobius|Hylobius abietis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765492|852139|431734|632624|530575|273894",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Ambloplites rupestris)",
+      "name": "Ambloplites rupestris",
+      "odds": 162769180805.4348,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 6683,
+      "end": 6706,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e3b7ae67a697cade6a41ecb0381836af",
+          "matchedName": "Ambloplites rupestris (Rafinesque, 1817)",
+          "matchedCanonical": "Ambloplites rupestris",
+          "currentName": "Ambloplites rupestris (Rafinesque, 1817)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Centrarchidae|Ambloplites|Ambloplites rupestris",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45842955|45846848|46050925|e3b7ae67a697cade6a41ecb0381836af",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e3b7ae67a697cade6a41ecb0381836af",
+            "matchedName": "Ambloplites rupestris (Rafinesque, 1817)",
+            "matchedCanonical": "Ambloplites rupestris",
+            "currentName": "Ambloplites rupestris (Rafinesque, 1817)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Centrarchidae|Ambloplites|Ambloplites rupestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45842955|45846848|46050925|e3b7ae67a697cade6a41ecb0381836af",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2394514",
+            "matchedName": "Ambloplites rupestris (Rafinesque, 1817)",
+            "matchedCanonical": "Ambloplites rupestris",
+            "currentName": "Ambloplites rupestris (Rafinesque, 1817)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Centrarchidae|Ambloplites|Ambloplites rupestris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|587|8513|2394512|2394514",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "280003",
+            "matchedName": "Ambloplites rupestris",
+            "matchedCanonical": "Ambloplites rupestris",
+            "currentName": "Ambloplites rupestris",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Neoteleostei|Eurypterygia|Ctenosquamata|Acanthomorphata|Euacanthomorphacea|Percomorphaceae|Eupercaria|Centrarchiformes|Centrarchoidei|Centrarchidae|Ambloplites|Ambloplites rupestris",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|no rank|order|no rank|no rank|no rank|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|108736|108735|108734|108720|108719|5551466|5553753|5554913|5846153|437610|261121|280003",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Lepomis gibbosus)",
+      "name": "Lepomis gibbosus",
+      "odds": 1013282734417.6698,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mis": 72.57881862656278
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sus": 245.26635260010872
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 6728,
+      "end": 6746,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "43bb09c244e5d7108bf3e006c065f6ca",
+          "matchedName": "Lepomis gibbosus (Linnaeus, 1758)",
+          "matchedCanonical": "Lepomis gibbosus",
+          "currentName": "Lepomis gibbosus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Centrarchidae|Lepomis|Lepomis gibbosus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45842955|45846848|45880512|43bb09c244e5d7108bf3e006c065f6ca",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "43bb09c244e5d7108bf3e006c065f6ca",
+            "matchedName": "Lepomis gibbosus (Linnaeus, 1758)",
+            "matchedCanonical": "Lepomis gibbosus",
+            "currentName": "Lepomis gibbosus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Centrarchidae|Lepomis|Lepomis gibbosus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45842955|45846848|45880512|43bb09c244e5d7108bf3e006c065f6ca",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2394486",
+            "matchedName": "Lepomis gibbosus (Linnaeus, 1758)",
+            "matchedCanonical": "Lepomis gibbosus",
+            "currentName": "Lepomis gibbosus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Perciformes|Centrarchidae|Lepomis|Lepomis gibbosus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|587|8513|2394482|2394486",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "670266",
+            "matchedName": "Lepomis gibbosus",
+            "matchedCanonical": "Lepomis gibbosus",
+            "currentName": "Lepomis gibbosus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Neoteleostei|Eurypterygia|Ctenosquamata|Acanthomorphata|Euacanthomorphacea|Percomorphaceae|Eupercaria|Centrarchiformes|Centrarchoidei|Centrarchidae|Lepomis|Lepomis gibbosus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|no rank|order|no rank|no rank|no rank|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|108736|108735|108734|108720|108719|5551466|5553753|5554913|5846153|437610|836782|670266",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Gasterosteus aculeatus),",
+      "name": "Gasterosteus aculeatus",
+      "odds": 94930706317685.69,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eus": 127.6386120674035
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          }
+        }
+      },
+      "start": 6944,
+      "end": 6969,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "fd99ac97713444a54871ba5ae6555109",
+          "matchedName": "Gasterosteus aculeatus Linnaeus, 1758",
+          "matchedCanonical": "Gasterosteus aculeatus",
+          "currentName": "Gasterosteus aculeatus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Gasterosteiformes|Gasterosteidae|Gasterosteus|Gasterosteus aculeatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45848504|45848702|45861947|fd99ac97713444a54871ba5ae6555109",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "fd99ac97713444a54871ba5ae6555109",
+            "matchedName": "Gasterosteus aculeatus Linnaeus, 1758",
+            "matchedCanonical": "Gasterosteus aculeatus",
+            "currentName": "Gasterosteus aculeatus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Gasterosteiformes|Gasterosteidae|Gasterosteus|Gasterosteus aculeatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45848504|45848702|45861947|fd99ac97713444a54871ba5ae6555109",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4286327",
+            "matchedName": "Gasterosteus aculeatus Linnaeus, 1758",
+            "matchedCanonical": "Gasterosteus aculeatus",
+            "currentName": "Gasterosteus aculeatus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Gasterosteiformes|Gasterosteidae|Gasterosteus|Gasterosteus aculeatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|550|7666|2333602|4286327",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "401066",
+            "matchedName": "Gasterosteus aculeatus",
+            "matchedCanonical": "Gasterosteus aculeatus",
+            "currentName": "Gasterosteus aculeatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Neoteleostei|Eurypterygia|Ctenosquamata|Acanthomorphata|Euacanthomorphacea|Percomorphaceae|Eupercaria|Perciformes|Cottioidei|Gasterosteales|Gasterosteidae|Gasterosteus|Gasterosteus aculeatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|no rank|order|no rank|no rank|no rank|order|suborder|infraorder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|108736|108735|108734|108720|108719|5551466|5553753|811928|237343|145126|401063|401070|401066",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Phoxinus phoxinus).",
+      "name": "Phoxinus phoxinus",
+      "odds": 5165469277881.539,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 7459,
+      "end": 7479,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+          "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "matchedCanonical": "Phoxinus phoxinus",
+          "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4409653",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1153|7336|3241387|4409653",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1019917",
+            "matchedName": "Phoxinus phoxinus",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Otomorpha|Ostariophysi|Otophysi|Cypriniphysae|Cypriniformes|Cyprinoidea|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|superorder|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|761450|803544|285818|285817|1005931|239839|1005930|63849|1019917",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. bigerri,",
+      "name": "P. bigerri",
+      "odds": 11559.118028592597,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 8166,
+      "end": 8177,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. septimaniae",
+      "name": "P. septimaniae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 8178,
+      "end": 8192,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. strymonicus.",
+      "name": "P. strymonicus",
+      "odds": 19693649.736834012,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          }
+        }
+      },
+      "start": 8197,
+      "end": 8212,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. phoxinus",
+      "name": "P. phoxinus",
+      "odds": 6207466.16024549,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 8256,
+      "end": 8267,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. phoxinus",
+      "name": "P. phoxinus",
+      "odds": 6207466.16024549,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 8646,
+      "end": 8657,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Phoxinus phoxinus",
+      "name": "Phoxinus phoxinus",
+      "odds": 5165469277881.539,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 9280,
+      "end": 9297,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+          "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "matchedCanonical": "Phoxinus phoxinus",
+          "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4409653",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1153|7336|3241387|4409653",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1019917",
+            "matchedName": "Phoxinus phoxinus",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Otomorpha|Ostariophysi|Otophysi|Cypriniphysae|Cypriniformes|Cyprinoidea|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|superorder|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|761450|803544|285818|285817|1005931|239839|1005930|63849|1019917",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "MANCOVA revealed",
+      "name": "Mancova revealed",
+      "odds": 24.589546114319685,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ova": 0.8342392945581929
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "led": 0.41711964727909645
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 21219,
+      "end": 21235,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "MANCOVA revealed",
+      "name": "Mancova revealed",
+      "odds": 24.589546114319685,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ova": 0.8342392945581929
+          },
+          "spEnd3": {
+            "led": 0.41711964727909645
+          }
+        }
+      },
+      "start": 22213,
+      "end": 22229,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Phoxinus phoxinus",
+      "name": "Phoxinus phoxinus",
+      "odds": 5165469277881.539,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 25522,
+      "end": 25539,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+          "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "matchedCanonical": "Phoxinus phoxinus",
+          "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4409653",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1153|7336|3241387|4409653",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1019917",
+            "matchedName": "Phoxinus phoxinus",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Otomorpha|Ostariophysi|Otophysi|Cypriniphysae|Cypriniformes|Cyprinoidea|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|superorder|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|761450|803544|285818|285817|1005931|239839|1005930|63849|1019917",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Phoxinus phoxinus)",
+      "name": "Phoxinus phoxinus",
+      "odds": 5165469277881.539,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 30344,
+      "end": 30363,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+          "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "matchedCanonical": "Phoxinus phoxinus",
+          "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4409653",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1153|7336|3241387|4409653",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1019917",
+            "matchedName": "Phoxinus phoxinus",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Otomorpha|Ostariophysi|Otophysi|Cypriniphysae|Cypriniformes|Cyprinoidea|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|superorder|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|761450|803544|285818|285817|1005931|239839|1005930|63849|1019917",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. phoxinus",
+      "name": "P. phoxinus",
+      "odds": 6207466.16024549,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 32966,
+      "end": 32977,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. phoxinus",
+      "name": "P. phoxinus",
+      "odds": 6207466.16024549,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 33650,
+      "end": 33661,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. phoxinus",
+      "name": "P. phoxinus",
+      "odds": 6207466.16024549,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          }
+        }
+      },
+      "start": 33790,
+      "end": 33801,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. phoxinus",
+      "name": "P. phoxinus",
+      "odds": 6207466.16024549,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          }
+        }
+      },
+      "start": 33935,
+      "end": 33946,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. phoxinus",
+      "name": "P. phoxinus",
+      "odds": 6207466.16024549,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 37873,
+      "end": 37884,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Littorina saxatilis",
+      "name": "Littorina saxatilis",
+      "odds": 297499390167.47125,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 39447,
+      "end": 39466,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ce2c5c5423fb5aca2fabc52895fa32a1",
+          "matchedName": "Littorina saxatilis (Olivi, 1792)",
+          "matchedCanonical": "Littorina saxatilis",
+          "currentName": "Littorina saxatilis (Olivi, 1792)",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Littorinimorpha|Littorinoidea|Littorinidae|Littorina|Littorina saxatilis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841999|45842000|45845355|45845356|45854364|45871753|ce2c5c5423fb5aca2fabc52895fa32a1",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ce2c5c5423fb5aca2fabc52895fa32a1",
+            "matchedName": "Littorina saxatilis (Olivi, 1792)",
+            "matchedCanonical": "Littorina saxatilis",
+            "currentName": "Littorina saxatilis (Olivi, 1792)",
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Littorinimorpha|Littorinoidea|Littorinidae|Littorina|Littorina saxatilis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841999|45842000|45845355|45845356|45854364|45871753|ce2c5c5423fb5aca2fabc52895fa32a1",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8116657",
+            "matchedName": "Littorina saxatilis (Olivi, 1792)",
+            "matchedCanonical": "Littorina saxatilis",
+            "currentName": "Littorina saxatilis (Olivi, 1792)",
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Littorinimorpha|Littorinidae|Littorina|Littorina saxatilis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|52|225|7390893|2668|2301050|8116657",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "182096",
+            "matchedName": "Littorina saxatilis",
+            "matchedCanonical": "Littorina saxatilis",
+            "currentName": "Littorina saxatilis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Mollusca|Gastropoda|Caenogastropoda|Hypsogastropoda|Littorinimorpha|Littorinoidea|Littorinidae|Littorina|Littorina saxatilis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|subclass|no rank|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|802117|409995|272321|285852|285849|50481|622233|622240|182096",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. phoxinus",
+      "name": "P. phoxinus",
+      "odds": 6207466.16024549,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 42036,
+      "end": 42047,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. phoxinus.",
+      "name": "P. phoxinus",
+      "odds": 6207466.16024549,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 42364,
+      "end": 42376,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Phoxinus phoxinus",
+      "name": "Phoxinus phoxinus",
+      "odds": 5165469277881.539,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 43493,
+      "end": 43510,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+          "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "matchedCanonical": "Phoxinus phoxinus",
+          "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ed3d685f3ab3a03eece392d00a616473",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45849058|45849065|45863156|ed3d685f3ab3a03eece392d00a616473",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4409653",
+            "matchedName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|1153|7336|3241387|4409653",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1019917",
+            "matchedName": "Phoxinus phoxinus",
+            "matchedCanonical": "Phoxinus phoxinus",
+            "currentName": "Phoxinus phoxinus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Otomorpha|Ostariophysi|Otophysi|Cypriniphysae|Cypriniformes|Cyprinoidea|Cyprinidae|Phoxinus|Phoxinus phoxinus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|superorder|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|761450|803544|285818|285817|1005931|239839|1005930|63849|1019917",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

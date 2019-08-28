@@ -1,0 +1,887 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:00:03.094546494-05:00",
+    "language": "eng",
+    "total_words": 4958,
+    "total_candidates": 594,
+    "total_names": 12
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Tobias",
+      "name": "Tobias",
+      "odds": 61079.09221614701,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ias": 82.58969016126109
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 4266,
+      "end": 4272,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1197701",
+          "matchedName": "Tobias Simon, 1895",
+          "matchedCanonical": "Tobias",
+          "currentName": "Tobias Simon, 1895",
+          "classificationPath": "Biota|Animalia|Arthropoda|Chelicerata|Arachnida|Araneae|Thomisidae|Tobias",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905094|1136|12065|100503|1197701",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2166438",
+            "matchedName": "Tobias Simon, 1895",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias Simon, 1895",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Thomisidae|Tobias",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|6163|2166438",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3550491",
+            "matchedName": "Tobias",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae||Dionycha|Thomisidae|Tobias",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|no rank|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|1043561|610260|466754|3550491",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Hamba",
+      "name": "Hamba",
+      "odds": 2658.633449080854,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "mba": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 4443,
+      "end": 4449,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46102863",
+          "matchedName": "Hamba",
+          "matchedCanonical": "Hamba",
+          "currentName": "Hamba",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Fulgoroidea|Achilidae|Hamba",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841287|45842867|45854384|46102863",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46102863",
+            "matchedName": "Hamba",
+            "matchedCanonical": "Hamba",
+            "currentName": "Hamba",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Fulgoroidea|Achilidae|Hamba",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841287|45842867|45854384|46102863",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2063989",
+            "matchedName": "Hamba Distant, 1907",
+            "matchedCanonical": "Hamba",
+            "currentName": "Hamba Distant, 1907",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Achilidae|Hamba",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|809|3312|2063989",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3468412",
+            "matchedName": "Hamba",
+            "matchedCanonical": "Hamba",
+            "currentName": "Hamba",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Neohemiptera|Archaeorrhyncha|Fulgoroidea|Achilidae|Hamba",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|563382|866091|582677|56320|3468412",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tobias",
+      "name": "Tobias",
+      "odds": 61079.09221614701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ias": 82.58969016126109
+          }
+        }
+      },
+      "start": 5596,
+      "end": 5602,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1197701",
+          "matchedName": "Tobias Simon, 1895",
+          "matchedCanonical": "Tobias",
+          "currentName": "Tobias Simon, 1895",
+          "classificationPath": "Biota|Animalia|Arthropoda|Chelicerata|Arachnida|Araneae|Thomisidae|Tobias",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905094|1136|12065|100503|1197701",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2166438",
+            "matchedName": "Tobias Simon, 1895",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias Simon, 1895",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Thomisidae|Tobias",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|6163|2166438",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3550491",
+            "matchedName": "Tobias",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae||Dionycha|Thomisidae|Tobias",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|no rank|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|1043561|610260|466754|3550491",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tobias",
+      "name": "Tobias",
+      "odds": 61079.09221614701,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ias": 82.58969016126109
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 6308,
+      "end": 6314,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1197701",
+          "matchedName": "Tobias Simon, 1895",
+          "matchedCanonical": "Tobias",
+          "currentName": "Tobias Simon, 1895",
+          "classificationPath": "Biota|Animalia|Arthropoda|Chelicerata|Arachnida|Araneae|Thomisidae|Tobias",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905094|1136|12065|100503|1197701",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2166438",
+            "matchedName": "Tobias Simon, 1895",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias Simon, 1895",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Thomisidae|Tobias",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|6163|2166438",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3550491",
+            "matchedName": "Tobias",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae||Dionycha|Thomisidae|Tobias",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|no rank|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|1043561|610260|466754|3550491",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Carduelinae)",
+      "name": "Carduelinae",
+      "odds": 10451.207033271166,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nae": 42.54620402246783
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 6500,
+      "end": 6513,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "186411",
+          "matchedName": "Carduelinae",
+          "matchedCanonical": "Carduelinae",
+          "currentName": "Carduelinae",
+          "classificationPath": "Eucarya|Opisthokonta|Metazoa|Eumetazoa|Triploblastica|Nephrozoa|Deuterostomia|Chordata|Vertebrata|Gnathostomata|Osteichthyes|Sarcopterygii|Dipnotetrapodomorpha|Tetrapodomorpha|Tetrapoda|Reptiliomorpha|Anthracosauria|Batrachosauria|Cotylosauria|Amniota|Sauropsida|Reptilia|Eureptilia|Romeriida|Diapsida|Archosauromorpha|Archosauriformes|Crurotarsi|Archosauria|Avemetatarsalia|Ornithodira|Dinosauromorpha|Dinosauriformes|Dinosauria|Saurischia|Theropoda|Neotheropoda|Averostra|Tetanurae|Avetheropoda|Coelurosauria|Maniraptora|Paraves|Aves|Pygostylia|Ornithothoraces|Ornithuromorpha|Neornithes|Neognathae|Neoaves|Terrestrornithes|Dendrornithes|Anomalogonates|Picoclamatores|Passerimorphae|Passeriformes|Fringillidae|Carduelinae",
+          "classificationRank": "unranked clade|unranked clade|subkingdom|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superclass|subclass|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|infraclass|unranked clade|unranked clade|unranked clade|informal|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|suborder|unranked clade|unranked clade|class|unranked clade|unranked clade|unranked clade|subclass|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|unranked clade|superorder|order|family|subfamily",
+          "classificationIDs": "288516|212579|2|85325|67102|85323|67145|33815|67149|67344|34881|67348|219195|77135|53190|125547|37177|99766|56749|53189|135358|36322|92204|99771|37768|38182|57091|66477|38215|144376|57250|53366|53207|52775|38505|38513|56397|92043|53374|55483|53940|55486|64113|36616|82613|64115|82614|39241|39305|98887|98922|98968|99075|99115|99116|39441|39450|186411",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "828693",
+            "matchedName": "Carduelinae",
+            "matchedCanonical": "Carduelinae",
+            "currentName": "Carduelinae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Passeriformes|Passeroidea|Fringillidae|Carduelinae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|superfamily|family|subfamily",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|1041547|176458|839319|828693",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Thamnophilidae)",
+      "name": "Thamnophilidae",
+      "odds": 178732.40691123632,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 6527,
+      "end": 6543,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841787",
+          "matchedName": "Thamnophilidae",
+          "matchedCanonical": "Thamnophilidae",
+          "currentName": "Thamnophilidae",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Thamnophilidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45841775|45841787",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841787",
+            "matchedName": "Thamnophilidae",
+            "matchedCanonical": "Thamnophilidae",
+            "currentName": "Thamnophilidae",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Thamnophilidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45841775|45841787",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5286",
+            "matchedName": "Thamnophilidae",
+            "matchedCanonical": "Thamnophilidae",
+            "currentName": "Thamnophilidae",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Thamnophilidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|729|5286",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "799152",
+            "matchedName": "Thamnophilidae",
+            "matchedCanonical": "Thamnophilidae",
+            "currentName": "Thamnophilidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Passeriformes|Thamnophilidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|1041547|799152",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Agamidae)",
+      "name": "Agamidae",
+      "odds": 17462.85639137561,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 7201,
+      "end": 7210,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45848128",
+          "matchedName": "Agamidae",
+          "matchedCanonical": "Agamidae",
+          "currentName": "Agamidae",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Agamidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45848128",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45848128",
+            "matchedName": "Agamidae",
+            "matchedCanonical": "Agamidae",
+            "currentName": "Agamidae",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Agamidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45848128",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9199",
+            "matchedName": "Agamidae",
+            "matchedCanonical": "Agamidae",
+            "currentName": "Agamidae",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Agamidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|358|715|9199",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "101200",
+            "matchedName": "Agamidae",
+            "matchedCanonical": "Agamidae",
+            "currentName": "Agamidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Acrodonta|Agamidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|no rank|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|202365|101200",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tobias",
+      "name": "Tobias",
+      "odds": 61079.09221614701,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ias": 82.58969016126109
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 17136,
+      "end": 17142,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1197701",
+          "matchedName": "Tobias Simon, 1895",
+          "matchedCanonical": "Tobias",
+          "currentName": "Tobias Simon, 1895",
+          "classificationPath": "Biota|Animalia|Arthropoda|Chelicerata|Arachnida|Araneae|Thomisidae|Tobias",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905094|1136|12065|100503|1197701",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2166438",
+            "matchedName": "Tobias Simon, 1895",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias Simon, 1895",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Thomisidae|Tobias",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|6163|2166438",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3550491",
+            "matchedName": "Tobias",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae||Dionycha|Thomisidae|Tobias",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|no rank|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|1043561|610260|466754|3550491",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tobias",
+      "name": "Tobias",
+      "odds": 61079.09221614701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ias": 82.58969016126109
+          }
+        }
+      },
+      "start": 20203,
+      "end": 20209,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1197701",
+          "matchedName": "Tobias Simon, 1895",
+          "matchedCanonical": "Tobias",
+          "currentName": "Tobias Simon, 1895",
+          "classificationPath": "Biota|Animalia|Arthropoda|Chelicerata|Arachnida|Araneae|Thomisidae|Tobias",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905094|1136|12065|100503|1197701",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2166438",
+            "matchedName": "Tobias Simon, 1895",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias Simon, 1895",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Thomisidae|Tobias",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|6163|2166438",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3550491",
+            "matchedName": "Tobias",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae||Dionycha|Thomisidae|Tobias",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|no rank|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|1043561|610260|466754|3550491",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tobias",
+      "name": "Tobias",
+      "odds": 61079.09221614701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ias": 82.58969016126109
+          }
+        }
+      },
+      "start": 23958,
+      "end": 23964,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1197701",
+          "matchedName": "Tobias Simon, 1895",
+          "matchedCanonical": "Tobias",
+          "currentName": "Tobias Simon, 1895",
+          "classificationPath": "Biota|Animalia|Arthropoda|Chelicerata|Arachnida|Araneae|Thomisidae|Tobias",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905094|1136|12065|100503|1197701",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2166438",
+            "matchedName": "Tobias Simon, 1895",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias Simon, 1895",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Thomisidae|Tobias",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|6163|2166438",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3550491",
+            "matchedName": "Tobias",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae||Dionycha|Thomisidae|Tobias",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|no rank|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|1043561|610260|466754|3550491",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tobias",
+      "name": "Tobias",
+      "odds": 61079.09221614701,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ias": 82.58969016126109
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 25725,
+      "end": 25731,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1197701",
+          "matchedName": "Tobias Simon, 1895",
+          "matchedCanonical": "Tobias",
+          "currentName": "Tobias Simon, 1895",
+          "classificationPath": "Biota|Animalia|Arthropoda|Chelicerata|Arachnida|Araneae|Thomisidae|Tobias",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905094|1136|12065|100503|1197701",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2166438",
+            "matchedName": "Tobias Simon, 1895",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias Simon, 1895",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Thomisidae|Tobias",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|6163|2166438",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3550491",
+            "matchedName": "Tobias",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae||Dionycha|Thomisidae|Tobias",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|no rank|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|1043561|610260|466754|3550491",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Tobias",
+      "name": "Tobias",
+      "odds": 61079.09221614701,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ias": 82.58969016126109
+          }
+        }
+      },
+      "start": 31455,
+      "end": 31461,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1197701",
+          "matchedName": "Tobias Simon, 1895",
+          "matchedCanonical": "Tobias",
+          "currentName": "Tobias Simon, 1895",
+          "classificationPath": "Biota|Animalia|Arthropoda|Chelicerata|Arachnida|Araneae|Thomisidae|Tobias",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905094|1136|12065|100503|1197701",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2166438",
+            "matchedName": "Tobias Simon, 1895",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias Simon, 1895",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Thomisidae|Tobias",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|6163|2166438",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3550491",
+            "matchedName": "Tobias",
+            "matchedCanonical": "Tobias",
+            "currentName": "Tobias",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Araneomorphae|Entelegynae||Dionycha|Thomisidae|Tobias",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|suborder|no rank|no rank|no rank|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|725332|207313|1043561|610260|466754|3550491",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

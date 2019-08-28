@@ -1,0 +1,2712 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:03:24.581766242-05:00",
+    "language": "eng",
+    "total_words": 7578,
+    "total_candidates": 1169,
+    "total_names": 45
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Anolis cristatellus",
+      "name": "Anolis cristatellus",
+      "odds": 116997865251.49059,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 363,
+      "end": 382,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f981d0ca7c1fafbb12c6e8b09671fb3b",
+          "matchedName": "Anolis cristatellus Duméril \u0026 Bibron, 1837",
+          "matchedCanonical": "Anolis cristatellus",
+          "currentName": "Anolis cristatellus Duméril \u0026 Bibron, 1837",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis cristatellus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974|f981d0ca7c1fafbb12c6e8b09671fb3b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f981d0ca7c1fafbb12c6e8b09671fb3b",
+            "matchedName": "Anolis cristatellus Duméril \u0026 Bibron, 1837",
+            "matchedCanonical": "Anolis cristatellus",
+            "currentName": "Anolis cristatellus Duméril \u0026 Bibron, 1837",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis cristatellus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974|f981d0ca7c1fafbb12c6e8b09671fb3b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2467091",
+            "matchedName": "Anolis cristatellus (Duméril \u0026 Bibron, 1837)",
+            "matchedCanonical": "Anolis cristatellus",
+            "currentName": "Anolis cristatellus (Duméril \u0026 Bibron, 1837)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis cristatellus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|8345926|8782549|2467091",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "769049",
+            "matchedName": "Anolis cristatellus",
+            "matchedCanonical": "Anolis cristatellus",
+            "currentName": "Anolis cristatellus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis|Anolis cristatellus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358|769049",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Procambarus clarkii",
+      "name": "Procambarus clarkii",
+      "odds": 972917807787.9559,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "kii": 75.08153651023736
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 3549,
+      "end": 3568,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "956bd74906a94757b9d69f108bbcc60c",
+          "matchedName": "Procambarus (Scapulicambarus) clarkii (Girard, 1852)",
+          "matchedCanonical": "Procambarus clarkii",
+          "currentName": "Procambarus (Scapulicambarus) clarkii (Girard, 1852)",
+          "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Astacoidea|Cambaridae|Procambarus|Procambarus clarkii",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841301|45841302|45843595|45843596|45871455|956bd74906a94757b9d69f108bbcc60c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "956bd74906a94757b9d69f108bbcc60c",
+            "matchedName": "Procambarus (Scapulicambarus) clarkii (Girard, 1852)",
+            "matchedCanonical": "Procambarus clarkii",
+            "currentName": "Procambarus (Scapulicambarus) clarkii (Girard, 1852)",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Astacoidea|Cambaridae|Procambarus|Procambarus clarkii",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841301|45841302|45843595|45843596|45871455|956bd74906a94757b9d69f108bbcc60c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2227300",
+            "matchedName": "Procambarus clarkii (Girard, 1852)",
+            "matchedCanonical": "Procambarus clarkii",
+            "currentName": "Procambarus clarkii (Girard, 1852)",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Cambaridae|Procambarus|Procambarus clarkii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|229|637|4479|2227127|2227300",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "79864",
+            "matchedName": "Procambarus clarkii",
+            "matchedCanonical": "Procambarus clarkii",
+            "currentName": "Procambarus clarkii",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Macrura|Astacidea|Astacoidea|Cambaridae|Cambarinae|Procambarus|Procambarus clarkii",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|infraorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|169204|169205|5730400|601427|79861|79860|348187|79859|79864",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Anolis sagrei",
+      "name": "Anolis sagrei",
+      "odds": 1943135802.3722517,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "spEnd3": {
+            "rei": 40.043486138793256
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 3596,
+      "end": 3609,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "fac5f611d152b2e470f1d74529389140",
+          "matchedName": "Anolis sagrei Duméril \u0026 Bibron, 1837",
+          "matchedCanonical": "Anolis sagrei",
+          "currentName": "Anolis sagrei Duméril \u0026 Bibron, 1837",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis sagrei",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974|fac5f611d152b2e470f1d74529389140",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "fac5f611d152b2e470f1d74529389140",
+            "matchedName": "Anolis sagrei Duméril \u0026 Bibron, 1837",
+            "matchedCanonical": "Anolis sagrei",
+            "currentName": "Anolis sagrei Duméril \u0026 Bibron, 1837",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis sagrei",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974|fac5f611d152b2e470f1d74529389140",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4287413",
+            "matchedName": "Anolis sagrei (Duméril \u0026 Bibron, 1837)",
+            "matchedCanonical": "Anolis sagrei",
+            "currentName": "Anolis sagrei (Duméril \u0026 Bibron, 1837)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis sagrei",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|8345926|8782549|4287413",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "970153",
+            "matchedName": "Anolis sagrei",
+            "matchedCanonical": "Anolis sagrei",
+            "currentName": "Anolis sagrei",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis|Anolis sagrei",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358|970153",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 4809,
+      "end": 4824,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anolis",
+      "name": "Anolis",
+      "odds": 3754.645495538042,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          }
+        }
+      },
+      "start": 5452,
+      "end": 5458,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45932974",
+          "matchedName": "Anolis",
+          "matchedCanonical": "Anolis",
+          "currentName": "Anolis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45932974",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468081",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Iguanidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|358|715|6935|2468081",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "705358",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Hypericum perforatum",
+      "name": "Hypericum perforatum",
+      "odds": 17675569014320.234,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cum": 130.1413299510781
+          },
+          "spEnd3": {
+            "tum": 483.02455154919363
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 6331,
+      "end": 6351,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "ac1ae9250a8429d2652e735ffa1d31e7",
+          "matchedName": "Hypericum perforatum",
+          "matchedCanonical": "Hypericum perforatum",
+          "currentName": "Hypericum perforatum",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Hypericaceae|Hypericum|Hypericum perforatum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45842582|45848933|46034039|ac1ae9250a8429d2652e735ffa1d31e7",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "ac1ae9250a8429d2652e735ffa1d31e7",
+            "matchedName": "Hypericum perforatum",
+            "matchedCanonical": "Hypericum perforatum",
+            "currentName": "Hypericum perforatum",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Hypericaceae|Hypericum|Hypericum perforatum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45842582|45848933|46034039|ac1ae9250a8429d2652e735ffa1d31e7",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3189486",
+            "matchedName": "Hypericum perforatum L.",
+            "matchedCanonical": "Hypericum perforatum",
+            "currentName": "Hypericum perforatum L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Hypericaceae|Hypericum|Hypericum perforatum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|1414|4900406|3189452|3189486",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "618681",
+            "matchedName": "Hypericum perforatum",
+            "matchedCanonical": "Hypericum perforatum",
+            "currentName": "Hypericum perforatum",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Malpighiales|Hypericaceae|Hypericeae|Hypericum|Hypericum perforatum",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|429482|873015|1001315|974217|618681",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Brassicaceae",
+      "name": "Brassicaceae",
+      "odds": 23328.290420846934,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          }
+        }
+      },
+      "start": 6553,
+      "end": 6565,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45846125",
+          "matchedName": "Brassicaceae",
+          "matchedCanonical": "Brassicaceae",
+          "currentName": "Brassicaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45846125",
+            "matchedName": "Brassicaceae",
+            "matchedCanonical": "Brassicaceae",
+            "currentName": "Brassicaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3112",
+            "matchedName": "Brassicaceae",
+            "matchedCanonical": "Brassicaceae",
+            "currentName": "Brassicaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|7225535|3112",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309271",
+            "matchedName": "Brassicaceae",
+            "matchedCanonical": "Brassicaceae",
+            "currentName": "Brassicaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Undaria pinnatifida",
+      "name": "Undaria pinnatifida",
+      "odds": 814604840686.6357,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ida": 202.72014857764088
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 6603,
+      "end": 6622,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 2,
+          "dataSourceTitle": "Wikispecies",
+          "taxonId": "314896",
+          "matchedName": "Undaria pinnatifida (Harvey) Suringar, 1873",
+          "matchedCanonical": "Undaria pinnatifida",
+          "currentName": "Undaria pinnatifida (Harvey) Suringar, 1873",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5422556",
+            "matchedName": "Undaria pinnatifida (Harvey) Suringar, 1873 Suringar, 1873 (Harvey)",
+            "matchedCanonical": "Undaria pinnatifida",
+            "currentName": "Undaria pinnatifida (Harvey) Suringar, 1873 Suringar, 1873 (Harvey)",
+            "classificationPath": "Chromista|Ochrophyta|Phaeophyceae|Laminariales|Alariaceae|Undaria|Undaria pinnatifida",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|98|7073593|560|7734|3196075|5422556",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "616561",
+            "matchedName": "Undaria pinnatifida",
+            "matchedCanonical": "Undaria pinnatifida",
+            "currentName": "Undaria pinnatifida",
+            "classificationPath": "||Eukaryota||Stramenopiles|Phaeophyceae|Laminariales|Alariaceae|Undaria|Undaria pinnatifida",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|phylum|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|266745|48614|878347|878348|495530|616561",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Anolis cristatellus",
+      "name": "Anolis cristatellus",
+      "odds": 116997865251.49059,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 7464,
+      "end": 7483,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f981d0ca7c1fafbb12c6e8b09671fb3b",
+          "matchedName": "Anolis cristatellus Duméril \u0026 Bibron, 1837",
+          "matchedCanonical": "Anolis cristatellus",
+          "currentName": "Anolis cristatellus Duméril \u0026 Bibron, 1837",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis cristatellus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974|f981d0ca7c1fafbb12c6e8b09671fb3b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f981d0ca7c1fafbb12c6e8b09671fb3b",
+            "matchedName": "Anolis cristatellus Duméril \u0026 Bibron, 1837",
+            "matchedCanonical": "Anolis cristatellus",
+            "currentName": "Anolis cristatellus Duméril \u0026 Bibron, 1837",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis cristatellus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974|f981d0ca7c1fafbb12c6e8b09671fb3b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2467091",
+            "matchedName": "Anolis cristatellus (Duméril \u0026 Bibron, 1837)",
+            "matchedCanonical": "Anolis cristatellus",
+            "currentName": "Anolis cristatellus (Duméril \u0026 Bibron, 1837)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis cristatellus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|8345926|8782549|2467091",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "769049",
+            "matchedName": "Anolis cristatellus",
+            "matchedCanonical": "Anolis cristatellus",
+            "currentName": "Anolis cristatellus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis|Anolis cristatellus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358|769049",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anolis",
+      "name": "Anolis",
+      "odds": 3754.645495538042,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          }
+        }
+      },
+      "start": 7537,
+      "end": 7543,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45932974",
+          "matchedName": "Anolis",
+          "matchedCanonical": "Anolis",
+          "currentName": "Anolis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45932974",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468081",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Iguanidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|358|715|6935|2468081",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "705358",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 7804,
+      "end": 7819,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anolis",
+      "name": "Anolis",
+      "odds": 3754.645495538042,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 7919,
+      "end": 7925,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45932974",
+          "matchedName": "Anolis",
+          "matchedCanonical": "Anolis",
+          "currentName": "Anolis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45932974",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468081",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Iguanidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|358|715|6935|2468081",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "705358",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Anolis may",
+      "name": "Anolis may",
+      "odds": 356554.002854431,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "spLen": {
+            "3": 0.010530369777031888
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 8522,
+      "end": 8532,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45932974",
+          "matchedName": "Anolis",
+          "matchedCanonical": "Anolis",
+          "currentName": "Anolis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45932974",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468081",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Iguanidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|358|715|6935|2468081",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "705358",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Anolis sagrei",
+      "name": "Anolis sagrei",
+      "odds": 1943135802.3722517,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rei": 40.043486138793256
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 9084,
+      "end": 9097,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "fac5f611d152b2e470f1d74529389140",
+          "matchedName": "Anolis sagrei Duméril \u0026 Bibron, 1837",
+          "matchedCanonical": "Anolis sagrei",
+          "currentName": "Anolis sagrei Duméril \u0026 Bibron, 1837",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis sagrei",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974|fac5f611d152b2e470f1d74529389140",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "fac5f611d152b2e470f1d74529389140",
+            "matchedName": "Anolis sagrei Duméril \u0026 Bibron, 1837",
+            "matchedCanonical": "Anolis sagrei",
+            "currentName": "Anolis sagrei Duméril \u0026 Bibron, 1837",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis sagrei",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974|fac5f611d152b2e470f1d74529389140",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4287413",
+            "matchedName": "Anolis sagrei (Duméril \u0026 Bibron, 1837)",
+            "matchedCanonical": "Anolis sagrei",
+            "currentName": "Anolis sagrei (Duméril \u0026 Bibron, 1837)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis sagrei",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|8345926|8782549|4287413",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "970153",
+            "matchedName": "Anolis sagrei",
+            "matchedCanonical": "Anolis sagrei",
+            "currentName": "Anolis sagrei",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis|Anolis sagrei",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358|970153",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Anolis oculatus,",
+      "name": "Anolis oculatus",
+      "odds": 149940973898.03345,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          }
+        }
+      },
+      "start": 9240,
+      "end": 9256,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "9934b67f4e7d2f4723418259589200f7",
+          "matchedName": "Anolis oculatus (Cope, 1879)",
+          "matchedCanonical": "Anolis oculatus",
+          "currentName": "Anolis oculatus (Cope, 1879)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis oculatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974|9934b67f4e7d2f4723418259589200f7",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "9934b67f4e7d2f4723418259589200f7",
+            "matchedName": "Anolis oculatus (Cope, 1879)",
+            "matchedCanonical": "Anolis oculatus",
+            "currentName": "Anolis oculatus (Cope, 1879)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis oculatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974|9934b67f4e7d2f4723418259589200f7",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2466987",
+            "matchedName": "Anolis oculatus (Cope, 1879)",
+            "matchedCanonical": "Anolis oculatus",
+            "currentName": "Anolis oculatus (Cope, 1879)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis oculatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|8345926|8782549|2466987",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "450727",
+            "matchedName": "Anolis oculatus",
+            "matchedCanonical": "Anolis oculatus",
+            "currentName": "Anolis oculatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis|Anolis oculatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358|450727",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 10055,
+      "end": 10070,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 10506,
+      "end": 10521,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 11191,
+      "end": 11206,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Dominican clades",
+      "name": "Dominican clades",
+      "odds": 1.6057519485216831,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "can": 0.08342392945581928
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "des": 40.79430150389563
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "CommonWords": 0.00019373880505299418
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 11570,
+      "end": 11586,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 12086,
+      "end": 12101,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 12654,
+      "end": 12669,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anolis",
+      "name": "Anolis",
+      "odds": 3754.645495538042,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 14811,
+      "end": 14817,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45932974",
+          "matchedName": "Anolis",
+          "matchedCanonical": "Anolis",
+          "currentName": "Anolis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45932974",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468081",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Iguanidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|358|715|6935|2468081",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "705358",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(A. bimaculatus,",
+      "name": "A. bimaculatus",
+      "odds": 71280555.24216913,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 14828,
+      "end": 14844,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. distichus,",
+      "name": "A. distichus",
+      "odds": 2043016.8462848226,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "hus": 77.58425439391193
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 14845,
+      "end": 14858,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. evermanni,",
+      "name": "A. evermanni",
+      "odds": 593133.9231149487,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nni": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 14859,
+      "end": 14872,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. krugi",
+      "name": "A. krugi",
+      "odds": 1812.239613539128,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 14873,
+      "end": 14881,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. stratulus)",
+      "name": "A. stratulus",
+      "odds": 6919895.7696744,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 14886,
+      "end": 14899,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus,",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 17497,
+      "end": 17513,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 17894,
+      "end": 17909,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus,",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 19984,
+      "end": 20000,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 21647,
+      "end": 21662,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus.",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 28541,
+      "end": 28557,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Dominican clades.",
+      "name": "Dominican clades",
+      "odds": 1.6057519485216831,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "can": 0.08342392945581928
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "des": 40.79430150389563
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "CommonWords": 0.00019373880505299418
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 30447,
+      "end": 30464,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 31383,
+      "end": 31398,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 31480,
+      "end": 31495,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anolis,",
+      "name": "Anolis",
+      "odds": 3754.645495538042,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 37915,
+      "end": 37922,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45932974",
+          "matchedName": "Anolis",
+          "matchedCanonical": "Anolis",
+          "currentName": "Anolis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45932974",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468081",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Iguanidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|358|715|6935|2468081",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "705358",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anolis",
+      "name": "Anolis",
+      "odds": 3754.645495538042,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 39125,
+      "end": 39131,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45932974",
+          "matchedName": "Anolis",
+          "matchedCanonical": "Anolis",
+          "currentName": "Anolis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45932974",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468081",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Iguanidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|358|715|6935|2468081",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "705358",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anolis",
+      "name": "Anolis",
+      "odds": 3754.645495538042,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          }
+        }
+      },
+      "start": 39228,
+      "end": 39234,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45932974",
+          "matchedName": "Anolis",
+          "matchedCanonical": "Anolis",
+          "currentName": "Anolis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45932974",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468081",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Iguanidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|358|715|6935|2468081",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "705358",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 39328,
+      "end": 39343,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anolis",
+      "name": "Anolis",
+      "odds": 3754.645495538042,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 40273,
+      "end": 40279,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45932974",
+          "matchedName": "Anolis",
+          "matchedCanonical": "Anolis",
+          "currentName": "Anolis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45932974",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468081",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Iguanidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|358|715|6935|2468081",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "705358",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. cristatellus",
+      "name": "A. cristatellus",
+      "odds": 14460213.72111688,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 40506,
+      "end": 40521,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Anolis may",
+      "name": "Anolis may",
+      "odds": 356554.002854431,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "spLen": {
+            "3": 0.010530369777031888
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          }
+        }
+      },
+      "start": 40592,
+      "end": 40602,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45932974",
+          "matchedName": "Anolis",
+          "matchedCanonical": "Anolis",
+          "currentName": "Anolis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45932974",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468081",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Iguanidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|358|715|6935|2468081",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "705358",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Anolis oculatus",
+      "name": "Anolis oculatus",
+      "odds": 149940973898.03345,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 41897,
+      "end": 41912,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "9934b67f4e7d2f4723418259589200f7",
+          "matchedName": "Anolis oculatus (Cope, 1879)",
+          "matchedCanonical": "Anolis oculatus",
+          "currentName": "Anolis oculatus (Cope, 1879)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis oculatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974|9934b67f4e7d2f4723418259589200f7",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "9934b67f4e7d2f4723418259589200f7",
+            "matchedName": "Anolis oculatus (Cope, 1879)",
+            "matchedCanonical": "Anolis oculatus",
+            "currentName": "Anolis oculatus (Cope, 1879)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis oculatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974|9934b67f4e7d2f4723418259589200f7",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2466987",
+            "matchedName": "Anolis oculatus (Cope, 1879)",
+            "matchedCanonical": "Anolis oculatus",
+            "currentName": "Anolis oculatus (Cope, 1879)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis|Anolis oculatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|8345926|8782549|2466987",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "450727",
+            "matchedName": "Anolis oculatus",
+            "matchedCanonical": "Anolis oculatus",
+            "currentName": "Anolis oculatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis|Anolis oculatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358|450727",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anolis).",
+      "name": "Anolis",
+      "odds": 3754.645495538042,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 44385,
+      "end": 44393,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45932974",
+          "matchedName": "Anolis",
+          "matchedCanonical": "Anolis",
+          "currentName": "Anolis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45932974",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468081",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Iguanidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|358|715|6935|2468081",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "705358",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Anolis",
+      "name": "Anolis",
+      "odds": 3754.645495538042,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 45261,
+      "end": 45267,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45932974",
+          "matchedName": "Anolis",
+          "matchedCanonical": "Anolis",
+          "currentName": "Anolis",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45932974",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dactyloidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842600|45932974",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468081",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Iguanidae|Anolis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|358|715|6935|2468081",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "705358",
+            "matchedName": "Anolis",
+            "matchedCanonical": "Anolis",
+            "currentName": "Anolis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Polychrotinae|Anolis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|101184|705358",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,4377 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:05:19.157424014-05:00",
+    "language": "eng",
+    "total_words": 5949,
+    "total_candidates": 1306,
+    "total_names": 84
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "PEROMYSCUS",
+      "name": "Peromyscus",
+      "odds": 2146966.0558641497,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 82,
+      "end": 92,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45896672",
+          "matchedName": "Peromyscus",
+          "matchedCanonical": "Peromyscus",
+          "currentName": "Peromyscus",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45896672",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437961",
+            "matchedName": "Peromyscus Gloger, 1841",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus Gloger, 1841",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|1459|3240723|2437961",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "764826",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "AZTECUS",
+      "name": "Aztecus",
+      "odds": 558688.7403345377,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 93,
+      "end": 100,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45951299",
+          "matchedName": "Aztecus",
+          "matchedCanonical": "Aztecus",
+          "currentName": "Aztecus",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Fulgoroidea|Issidae|Aztecus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841287|45842867|45849792|45951299",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45951299",
+            "matchedName": "Aztecus",
+            "matchedCanonical": "Aztecus",
+            "currentName": "Aztecus",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Fulgoroidea|Issidae|Aztecus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841287|45842867|45849792|45951299",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4777724",
+            "matchedName": "Aztecus Gnezdilov \u0026 O'Brien, 2008",
+            "matchedCanonical": "Aztecus",
+            "currentName": "Aztecus Gnezdilov \u0026 O'Brien, 2008",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Issidae|Aztecus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|809|4494|4777724",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4198554",
+            "matchedName": "Aztecus",
+            "matchedCanonical": "Aztecus",
+            "currentName": "Aztecus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Neohemiptera|Archaeorrhyncha|Fulgoroidea|Issidae|Aztecus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|563382|866091|582677|582708|4198554",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(RODENTIA:",
+      "name": "Rodentia",
+      "odds": 4294.72687674075,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tia": 50.471477320770674
+          }
+        }
+      },
+      "start": 115,
+      "end": 125,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841275",
+          "matchedName": "Rodentia",
+          "matchedCanonical": "Rodentia",
+          "currentName": "Rodentia",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841265|45841266|45841274|45841275",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841275",
+            "matchedName": "Rodentia",
+            "matchedCanonical": "Rodentia",
+            "currentName": "Rodentia",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841265|45841266|45841274|45841275",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1459",
+            "matchedName": "Rodentia",
+            "matchedCanonical": "Rodentia",
+            "currentName": "Rodentia",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "1|44|359|1459",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "864593",
+            "matchedName": "Rodentia",
+            "matchedCanonical": "Rodentia",
+            "currentName": "Rodentia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "MURIDAE)",
+      "name": "Muridae",
+      "odds": 9907.951824730952,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 126,
+      "end": 134,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45853370",
+          "matchedName": "Muridae",
+          "matchedCanonical": "Muridae",
+          "currentName": "Muridae",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Muridae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45853370",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45853370",
+            "matchedName": "Muridae",
+            "matchedCanonical": "Muridae",
+            "currentName": "Muridae",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Muridae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45853370",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5510",
+            "matchedName": "Muridae",
+            "matchedCanonical": "Muridae",
+            "currentName": "Muridae",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muridae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|359|1459|5510",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "816256",
+            "matchedName": "Muridae",
+            "matchedCanonical": "Muridae",
+            "currentName": "Muridae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Muridae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|816256",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Peromyscus aztecus",
+      "name": "Peromyscus aztecus",
+      "odds": 15124272877441.648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          }
+        }
+      },
+      "start": 691,
+      "end": 709,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a60b082143704cfea2aa478a98bc9e0d",
+          "matchedName": "Peromyscus aztecus (Saussure, 1860)",
+          "matchedCanonical": "Peromyscus aztecus",
+          "currentName": "Peromyscus aztecus (Saussure, 1860)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus aztecus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|a60b082143704cfea2aa478a98bc9e0d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a60b082143704cfea2aa478a98bc9e0d",
+            "matchedName": "Peromyscus aztecus (Saussure, 1860)",
+            "matchedCanonical": "Peromyscus aztecus",
+            "currentName": "Peromyscus aztecus (Saussure, 1860)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus aztecus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|a60b082143704cfea2aa478a98bc9e0d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2438022",
+            "matchedName": "Peromyscus aztecus (Saussure, 1860)",
+            "matchedCanonical": "Peromyscus aztecus",
+            "currentName": "Peromyscus aztecus (Saussure, 1860)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus|Peromyscus aztecus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|3240723|2437961|2438022",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "162836",
+            "matchedName": "Peromyscus aztecus",
+            "matchedCanonical": "Peromyscus aztecus",
+            "currentName": "Peromyscus aztecus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus|Peromyscus aztecus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826|162836",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. hylocetes",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          }
+        }
+      },
+      "start": 1544,
+      "end": 1556,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1607,
+      "end": 1617,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Peromyscus;",
+      "name": "Peromyscus",
+      "odds": 2146966.0558641497,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 2242,
+      "end": 2253,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45896672",
+          "matchedName": "Peromyscus",
+          "matchedCanonical": "Peromyscus",
+          "currentName": "Peromyscus",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45896672",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437961",
+            "matchedName": "Peromyscus Gloger, 1841",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus Gloger, 1841",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|1459|3240723|2437961",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "764826",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Peromyscus aztecus",
+      "name": "Peromyscus aztecus",
+      "odds": 15124272877441.648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 3255,
+      "end": 3273,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a60b082143704cfea2aa478a98bc9e0d",
+          "matchedName": "Peromyscus aztecus (Saussure, 1860)",
+          "matchedCanonical": "Peromyscus aztecus",
+          "currentName": "Peromyscus aztecus (Saussure, 1860)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus aztecus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|a60b082143704cfea2aa478a98bc9e0d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a60b082143704cfea2aa478a98bc9e0d",
+            "matchedName": "Peromyscus aztecus (Saussure, 1860)",
+            "matchedCanonical": "Peromyscus aztecus",
+            "currentName": "Peromyscus aztecus (Saussure, 1860)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus aztecus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|a60b082143704cfea2aa478a98bc9e0d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2438022",
+            "matchedName": "Peromyscus aztecus (Saussure, 1860)",
+            "matchedCanonical": "Peromyscus aztecus",
+            "currentName": "Peromyscus aztecus (Saussure, 1860)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus|Peromyscus aztecus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|3240723|2437961|2438022",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "162836",
+            "matchedName": "Peromyscus aztecus",
+            "matchedCanonical": "Peromyscus aztecus",
+            "currentName": "Peromyscus aztecus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus|Peromyscus aztecus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826|162836",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. winkelmanni",
+      "name": "P. winkelmanni",
+      "odds": 1568520.7755000542,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nni": 22.52446095307121
+          }
+        }
+      },
+      "start": 3552,
+      "end": 3566,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. spicilegus",
+      "name": "P. spicilegus",
+      "odds": 429077.35703549307,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gus": 12.513589418372893
+          }
+        }
+      },
+      "start": 3652,
+      "end": 3665,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 3722,
+      "end": 3732,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "P. hylocetes complex",
+      "name": "P. hylocetes complex",
+      "odds": 291121.1546978748,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispEnd3": {
+            "lex": 10.010871534698314
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 3735,
+      "end": 3755,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Peromyscus hylocetes",
+      "name": "Peromyscus hylocetes",
+      "odds": 199363336387.93454,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 3882,
+      "end": 3902,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "65e271d6d8e503b1979034d6583c1499",
+          "matchedName": "Peromyscus hylocetes Merriam, 1898",
+          "matchedCanonical": "Peromyscus hylocetes",
+          "currentName": "Peromyscus hylocetes Merriam, 1898",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus hylocetes",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|65e271d6d8e503b1979034d6583c1499",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "65e271d6d8e503b1979034d6583c1499",
+            "matchedName": "Peromyscus hylocetes Merriam, 1898",
+            "matchedCanonical": "Peromyscus hylocetes",
+            "currentName": "Peromyscus hylocetes Merriam, 1898",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus hylocetes",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|65e271d6d8e503b1979034d6583c1499",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4265105",
+            "matchedName": "Peromyscus hylocetes Merriam, 1898",
+            "matchedCanonical": "Peromyscus hylocetes",
+            "currentName": "Peromyscus hylocetes Merriam, 1898",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus|Peromyscus hylocetes",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|3240723|2437961|4265105",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "162828",
+            "matchedName": "Peromyscus hylocetes",
+            "matchedCanonical": "Peromyscus hylocetes",
+            "currentName": "Peromyscus hylocetes",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus|Peromyscus hylocetes",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826|162828",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 4003,
+      "end": 4013,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Peromyscus",
+      "name": "Peromyscus",
+      "odds": 2146966.0558641497,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 4060,
+      "end": 4070,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45896672",
+          "matchedName": "Peromyscus",
+          "matchedCanonical": "Peromyscus",
+          "currentName": "Peromyscus",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45896672",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437961",
+            "matchedName": "Peromyscus Gloger, 1841",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus Gloger, 1841",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|1459|3240723|2437961",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "764826",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "PEROMYSCUS",
+      "name": "Peromyscus",
+      "odds": 2146966.0558641497,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 4393,
+      "end": 4403,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45896672",
+          "matchedName": "Peromyscus",
+          "matchedCanonical": "Peromyscus",
+          "currentName": "Peromyscus",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45896672",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437961",
+            "matchedName": "Peromyscus Gloger, 1841",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus Gloger, 1841",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|1459|3240723|2437961",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "764826",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. hylocetes",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          }
+        }
+      },
+      "start": 4477,
+      "end": 4489,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. spicilegus",
+      "name": "P. spicilegus",
+      "odds": 429077.35703549307,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "gus": 12.513589418372893
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 4490,
+      "end": 4503,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. winkelmanni",
+      "name": "P. winkelmanni",
+      "odds": 1568520.7755000542,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nni": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 4504,
+      "end": 4518,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Peromyscus aztecus",
+      "name": "Peromyscus aztecus",
+      "odds": 15124272877441.648,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 4756,
+      "end": 4774,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a60b082143704cfea2aa478a98bc9e0d",
+          "matchedName": "Peromyscus aztecus (Saussure, 1860)",
+          "matchedCanonical": "Peromyscus aztecus",
+          "currentName": "Peromyscus aztecus (Saussure, 1860)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus aztecus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|a60b082143704cfea2aa478a98bc9e0d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a60b082143704cfea2aa478a98bc9e0d",
+            "matchedName": "Peromyscus aztecus (Saussure, 1860)",
+            "matchedCanonical": "Peromyscus aztecus",
+            "currentName": "Peromyscus aztecus (Saussure, 1860)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus aztecus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|a60b082143704cfea2aa478a98bc9e0d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2438022",
+            "matchedName": "Peromyscus aztecus (Saussure, 1860)",
+            "matchedCanonical": "Peromyscus aztecus",
+            "currentName": "Peromyscus aztecus (Saussure, 1860)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus|Peromyscus aztecus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|3240723|2437961|2438022",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "162836",
+            "matchedName": "Peromyscus aztecus",
+            "matchedCanonical": "Peromyscus aztecus",
+            "currentName": "Peromyscus aztecus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus|Peromyscus aztecus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826|162836",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. boylii",
+      "name": "P. boylii",
+      "odds": 840558.5542839253,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lii": 140.1522014857764
+          }
+        }
+      },
+      "start": 5169,
+      "end": 5178,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. winkelmanni",
+      "name": "P. winkelmanni",
+      "odds": 1568520.7755000542,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nni": 22.52446095307121
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 6000,
+      "end": 6014,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. spicilegus,",
+      "name": "P. spicilegus",
+      "odds": 429077.35703549307,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gus": 12.513589418372893
+          }
+        }
+      },
+      "start": 6039,
+      "end": 6053,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. hylocetes",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          }
+        }
+      },
+      "start": 6063,
+      "end": 6075,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 6101,
+      "end": 6111,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. hylocetes",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          }
+        }
+      },
+      "start": 6184,
+      "end": 6196,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. spicilegus",
+      "name": "P. spicilegus",
+      "odds": 429077.35703549307,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gus": 12.513589418372893
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 6305,
+      "end": 6318,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. hylocetes",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          }
+        }
+      },
+      "start": 6589,
+      "end": 6601,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus.",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 6618,
+      "end": 6629,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. hylocetes",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          }
+        }
+      },
+      "start": 7061,
+      "end": 7073,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Peromyscus winkelmanni",
+      "name": "Peromyscus winkelmanni",
+      "odds": 7256876650081.58,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nni": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 7778,
+      "end": 7800,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f149ef314877bdfa63980be2e17dd755",
+          "matchedName": "Peromyscus winkelmanni Carleton, 1977",
+          "matchedCanonical": "Peromyscus winkelmanni",
+          "currentName": "Peromyscus winkelmanni Carleton, 1977",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus winkelmanni",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|f149ef314877bdfa63980be2e17dd755",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f149ef314877bdfa63980be2e17dd755",
+            "matchedName": "Peromyscus winkelmanni Carleton, 1977",
+            "matchedCanonical": "Peromyscus winkelmanni",
+            "currentName": "Peromyscus winkelmanni Carleton, 1977",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus winkelmanni",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|f149ef314877bdfa63980be2e17dd755",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437995",
+            "matchedName": "Peromyscus winkelmanni Carleton, 1977",
+            "matchedCanonical": "Peromyscus winkelmanni",
+            "currentName": "Peromyscus winkelmanni Carleton, 1977",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus|Peromyscus winkelmanni",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|3240723|2437961|2437995",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "162834",
+            "matchedName": "Peromyscus winkelmanni",
+            "matchedCanonical": "Peromyscus winkelmanni",
+            "currentName": "Peromyscus winkelmanni",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus|Peromyscus winkelmanni",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826|162834",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          }
+        }
+      },
+      "start": 8000,
+      "end": 8010,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Peromyscus",
+      "name": "Peromyscus",
+      "odds": 2146966.0558641497,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 8661,
+      "end": 8671,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45896672",
+          "matchedName": "Peromyscus",
+          "matchedCanonical": "Peromyscus",
+          "currentName": "Peromyscus",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45896672",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437961",
+            "matchedName": "Peromyscus Gloger, 1841",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus Gloger, 1841",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|1459|3240723|2437961",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "764826",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Peromyscus",
+      "name": "Peromyscus",
+      "odds": 2146966.0558641497,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 9770,
+      "end": 9780,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45896672",
+          "matchedName": "Peromyscus",
+          "matchedCanonical": "Peromyscus",
+          "currentName": "Peromyscus",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45896672",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437961",
+            "matchedName": "Peromyscus Gloger, 1841",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus Gloger, 1841",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|1459|3240723|2437961",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "764826",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "ACCA",
+      "name": "Acca",
+      "odds": 1494.5332604889466,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cca": 12.513589418372893
+          }
+        }
+      },
+      "start": 9924,
+      "end": 9928,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46029949",
+          "matchedName": "Acca",
+          "matchedCanonical": "Acca",
+          "currentName": "Acca",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Myrtaceae|Acca",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45848880|45848885|46029949",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46029949",
+            "matchedName": "Acca",
+            "matchedCanonical": "Acca",
+            "currentName": "Acca",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Myrtaceae|Acca",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45848880|45848885|46029949",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3257631",
+            "matchedName": "Acca Hübner, 1819",
+            "matchedCanonical": "Acca",
+            "currentName": "Pantoporia Hübner, 1819",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Nymphalidae|Pantoporia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|7017|1915017",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1004581",
+            "matchedName": "Acca",
+            "matchedCanonical": "Acca",
+            "currentName": "Acca",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Myrtales|Myrtaceae|Myrtoideae|Myrteae|Pimenta|Acca",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|no rank|tribe|no rank|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|648898|1015492|5740779|5747119|5762540|1004581",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "PEROMYSCUS",
+      "name": "Peromyscus",
+      "odds": 2146966.0558641497,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 12150,
+      "end": 12160,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45896672",
+          "matchedName": "Peromyscus",
+          "matchedCanonical": "Peromyscus",
+          "currentName": "Peromyscus",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45896672",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437961",
+            "matchedName": "Peromyscus Gloger, 1841",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus Gloger, 1841",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|1459|3240723|2437961",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "764826",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          }
+        }
+      },
+      "start": 14949,
+      "end": 14959,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Peromyscus",
+      "name": "Peromyscus",
+      "odds": 2146966.0558641497,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 16577,
+      "end": 16587,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45896672",
+          "matchedName": "Peromyscus",
+          "matchedCanonical": "Peromyscus",
+          "currentName": "Peromyscus",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45896672",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437961",
+            "matchedName": "Peromyscus Gloger, 1841",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus Gloger, 1841",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|1459|3240723|2437961",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "764826",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "PEROMYSCUS",
+      "name": "Peromyscus",
+      "odds": 2146966.0558641497,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 19128,
+      "end": 19138,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45896672",
+          "matchedName": "Peromyscus",
+          "matchedCanonical": "Peromyscus",
+          "currentName": "Peromyscus",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45896672",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437961",
+            "matchedName": "Peromyscus Gloger, 1841",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus Gloger, 1841",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|1459|3240723|2437961",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "764826",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. spicilegus",
+      "name": "P. spicilegus",
+      "odds": 429077.35703549307,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gus": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 19636,
+      "end": 19649,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. winkelmanni",
+      "name": "P. winkelmanni",
+      "odds": 1568520.7755000542,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nni": 22.52446095307121
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 19654,
+      "end": 19668,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. winkelmanni",
+      "name": "P. winkelmanni",
+      "odds": 1568520.7755000542,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "nni": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 19673,
+      "end": 19687,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. winkelmanni",
+      "name": "P. winkelmanni",
+      "odds": 1568520.7755000542,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nni": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 19692,
+      "end": 19706,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Peromyscus aztecus",
+      "name": "Peromyscus aztecus",
+      "odds": 15124272877441.648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          }
+        }
+      },
+      "start": 19775,
+      "end": 19793,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a60b082143704cfea2aa478a98bc9e0d",
+          "matchedName": "Peromyscus aztecus (Saussure, 1860)",
+          "matchedCanonical": "Peromyscus aztecus",
+          "currentName": "Peromyscus aztecus (Saussure, 1860)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus aztecus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|a60b082143704cfea2aa478a98bc9e0d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a60b082143704cfea2aa478a98bc9e0d",
+            "matchedName": "Peromyscus aztecus (Saussure, 1860)",
+            "matchedCanonical": "Peromyscus aztecus",
+            "currentName": "Peromyscus aztecus (Saussure, 1860)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus aztecus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|a60b082143704cfea2aa478a98bc9e0d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2438022",
+            "matchedName": "Peromyscus aztecus (Saussure, 1860)",
+            "matchedCanonical": "Peromyscus aztecus",
+            "currentName": "Peromyscus aztecus (Saussure, 1860)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus|Peromyscus aztecus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|3240723|2437961|2438022",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "162836",
+            "matchedName": "Peromyscus aztecus",
+            "matchedCanonical": "Peromyscus aztecus",
+            "currentName": "Peromyscus aztecus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus|Peromyscus aztecus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826|162836",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. hylocetes",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          }
+        }
+      },
+      "start": 20942,
+      "end": 20954,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus.",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 20999,
+      "end": 21010,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "PEROMYSCUS",
+      "name": "Peromyscus",
+      "odds": 2146966.0558641497,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 25000,
+      "end": 25010,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45896672",
+          "matchedName": "Peromyscus",
+          "matchedCanonical": "Peromyscus",
+          "currentName": "Peromyscus",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45896672",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437961",
+            "matchedName": "Peromyscus Gloger, 1841",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus Gloger, 1841",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|1459|3240723|2437961",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "764826",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 26431,
+      "end": 26441,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Insecta)",
+      "name": "Insecta",
+      "odds": 1812.4302118410278,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cta": 37.54076825511868
+          }
+        }
+      },
+      "start": 26516,
+      "end": 26525,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841271",
+          "matchedName": "Insecta",
+          "matchedCanonical": "Insecta",
+          "currentName": "Insecta",
+          "classificationPath": "Animalia|Arthropoda|Insecta",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841265|45841270|45841271",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841271",
+            "matchedName": "Insecta",
+            "matchedCanonical": "Insecta",
+            "currentName": "Insecta",
+            "classificationPath": "Animalia|Arthropoda|Insecta",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841265|45841270|45841271",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "216",
+            "matchedName": "Insecta",
+            "matchedCanonical": "Insecta",
+            "currentName": "Insecta",
+            "classificationPath": "Animalia|Arthropoda|Insecta",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "1|54|216",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1062253",
+            "matchedName": "Insecta",
+            "matchedCanonical": "Insecta",
+            "currentName": "Insecta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 28,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Neotoma)",
+      "name": "Neotoma",
+      "odds": 48687.47192457844,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 28304,
+      "end": 28313,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45896673",
+          "matchedName": "Neotoma",
+          "matchedCanonical": "Neotoma",
+          "currentName": "Neotoma",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Neotoma",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896673",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45896673",
+            "matchedName": "Neotoma",
+            "matchedCanonical": "Neotoma",
+            "currentName": "Neotoma",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Neotoma",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896673",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2438433",
+            "matchedName": "Neotoma Say \u0026 Ord, 1825",
+            "matchedCanonical": "Neotoma",
+            "currentName": "Neotoma Say \u0026 Ord, 1825",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Neotoma",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|1459|3240723|2438433",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "157070",
+            "matchedName": "Neotoma",
+            "matchedCanonical": "Neotoma",
+            "currentName": "Neotoma",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Neotoma",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|157070",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. winkelmanni",
+      "name": "P. winkelmanni",
+      "odds": 1568520.7755000542,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nni": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 29080,
+      "end": 29094,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Balsas",
+      "name": "Balsas",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sas": 0.06764102388309673
+          }
+        }
+      },
+      "start": 29480,
+      "end": 29486,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "77116562-1",
+          "matchedName": "Balsas J.Jiménez Ram. \u0026 K.Vega",
+          "matchedCanonical": "Balsas",
+          "currentName": "Balsas J.Jiménez Ram. \u0026 K.Vega",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8185187",
+            "matchedName": "Balsas",
+            "matchedCanonical": "Balsas",
+            "currentName": "Balsas",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Sapindales|Sapindaceae|Balsas",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|933|6657|8185187",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6126923",
+            "matchedName": "Balsas",
+            "matchedCanonical": "Balsas",
+            "currentName": "Balsas",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Sapindales|Sapindaceae|Balsas",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|229288|22442|6126923",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. spicilegus",
+      "name": "P. spicilegus",
+      "odds": 429077.35703549307,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gus": 12.513589418372893
+          }
+        }
+      },
+      "start": 29648,
+      "end": 29661,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(P. hylocetes;",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 30116,
+      "end": 30130,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "PEROMYSCUS",
+      "name": "Peromyscus",
+      "odds": 2146966.0558641497,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 30997,
+      "end": 31007,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45896672",
+          "matchedName": "Peromyscus",
+          "matchedCanonical": "Peromyscus",
+          "currentName": "Peromyscus",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45896672",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437961",
+            "matchedName": "Peromyscus Gloger, 1841",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus Gloger, 1841",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|1459|3240723|2437961",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "764826",
+            "matchedName": "Peromyscus",
+            "matchedCanonical": "Peromyscus",
+            "currentName": "Peromyscus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Peromyscus spicilegus",
+      "name": "Peromyscus spicilegus",
+      "odds": 1985157928403.5308,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gus": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 31059,
+      "end": 31080,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "4d3c35800f35e5d69301ac52e23d9624",
+          "matchedName": "Peromyscus spicilegus J. A. Allen, 1897",
+          "matchedCanonical": "Peromyscus spicilegus",
+          "currentName": "Peromyscus spicilegus J. A. Allen, 1897",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus spicilegus",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|4d3c35800f35e5d69301ac52e23d9624",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "4d3c35800f35e5d69301ac52e23d9624",
+            "matchedName": "Peromyscus spicilegus J. A. Allen, 1897",
+            "matchedCanonical": "Peromyscus spicilegus",
+            "currentName": "Peromyscus spicilegus J. A. Allen, 1897",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus spicilegus",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|4d3c35800f35e5d69301ac52e23d9624",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437963",
+            "matchedName": "Peromyscus spicilegus J. A. Allen, 1897",
+            "matchedCanonical": "Peromyscus spicilegus",
+            "currentName": "Peromyscus spicilegus J. A. Allen, 1897",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus|Peromyscus spicilegus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|3240723|2437961|2437963",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "162832",
+            "matchedName": "Peromyscus spicilegus",
+            "matchedCanonical": "Peromyscus spicilegus",
+            "currentName": "Peromyscus spicilegus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus|Peromyscus spicilegus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826|162832",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. hylocetes",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          }
+        }
+      },
+      "start": 31110,
+      "end": 31122,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "P. aztecus aztecus",
+      "name": "P. aztecus aztecus",
+      "odds": 195991721726.68356,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "cus": 62.56794709186447
+          }
+        }
+      },
+      "start": 31165,
+      "end": 31183,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Peromyscus winkelmanni",
+      "name": "Peromyscus winkelmanni",
+      "odds": 7256876650081.58,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nni": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 31353,
+      "end": 31375,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f149ef314877bdfa63980be2e17dd755",
+          "matchedName": "Peromyscus winkelmanni Carleton, 1977",
+          "matchedCanonical": "Peromyscus winkelmanni",
+          "currentName": "Peromyscus winkelmanni Carleton, 1977",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus winkelmanni",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|f149ef314877bdfa63980be2e17dd755",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f149ef314877bdfa63980be2e17dd755",
+            "matchedName": "Peromyscus winkelmanni Carleton, 1977",
+            "matchedCanonical": "Peromyscus winkelmanni",
+            "currentName": "Peromyscus winkelmanni Carleton, 1977",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Peromyscus|Peromyscus winkelmanni",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896672|f149ef314877bdfa63980be2e17dd755",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437995",
+            "matchedName": "Peromyscus winkelmanni Carleton, 1977",
+            "matchedCanonical": "Peromyscus winkelmanni",
+            "currentName": "Peromyscus winkelmanni Carleton, 1977",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Peromyscus|Peromyscus winkelmanni",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|3240723|2437961|2437995",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "162834",
+            "matchedName": "Peromyscus winkelmanni",
+            "matchedCanonical": "Peromyscus winkelmanni",
+            "currentName": "Peromyscus winkelmanni",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Peromyscus|Peromyscus winkelmanni",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|764826|162834",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Reithrodontomys sumichrasti,",
+      "name": "Reithrodontomys sumichrasti",
+      "odds": 1231996011629.3804,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "mys": 45.04892190614242
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sti": 7.508153651023735
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "15": 13.848372289666
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 31607,
+      "end": 31635,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "c98318cccaff22906d430898bebba249",
+          "matchedName": "Reithrodontomys (Reithrodontomys) sumichrasti (Saussure, 1861)",
+          "matchedCanonical": "Reithrodontomys sumichrasti",
+          "currentName": "Reithrodontomys (Reithrodontomys) sumichrasti (Saussure, 1861)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Reithrodontomys|Reithrodontomys sumichrasti",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896556|c98318cccaff22906d430898bebba249",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "c98318cccaff22906d430898bebba249",
+            "matchedName": "Reithrodontomys (Reithrodontomys) sumichrasti (Saussure, 1861)",
+            "matchedCanonical": "Reithrodontomys sumichrasti",
+            "currentName": "Reithrodontomys (Reithrodontomys) sumichrasti (Saussure, 1861)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Muroidea|Cricetidae|Reithrodontomys|Reithrodontomys sumichrasti",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45841592|45841593|45896556|c98318cccaff22906d430898bebba249",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2437872",
+            "matchedName": "Reithrodontomys sumichrasti (Saussure, 1861)",
+            "matchedCanonical": "Reithrodontomys sumichrasti",
+            "currentName": "Reithrodontomys sumichrasti (Saussure, 1861)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Cricetidae|Reithrodontomys|Reithrodontomys sumichrasti",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|3240723|2437854|2437872",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "770864",
+            "matchedName": "Reithrodontomys sumichrasti",
+            "matchedCanonical": "Reithrodontomys sumichrasti",
+            "currentName": "Reithrodontomys sumichrasti",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Cricetidae|Neotominae|Reithrodontomys|Reithrodontomys sumichrasti",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|839752|671049|392236|732029|770864",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "T. musculus)",
+      "name": "T. musculus",
+      "odds": 4757547.057122455,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 31785,
+      "end": 31797,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          }
+        }
+      },
+      "start": 32069,
+      "end": 32079,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "A. tigrinum complex.",
+      "name": "A. tigrinum complex",
+      "odds": 32447974.845500357,
+      "odds_details": {
+        "Name": {
+          "ispEnd3": {
+            "lex": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "num": 265.2880956695053
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          }
+        }
+      },
+      "start": 32118,
+      "end": 32138,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Chiropterotriton",
+      "name": "Chiropterotriton",
+      "odds": 58753.8690477027,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "16": 29.094095397716973
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ton": 0.39020870229334825
+          }
+        }
+      },
+      "start": 32576,
+      "end": 32592,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45893677",
+          "matchedName": "Chiropterotriton",
+          "matchedCanonical": "Chiropterotriton",
+          "currentName": "Chiropterotriton",
+          "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Plethodontidae|Chiropterotriton",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45846132|45846133|45846137|45893677",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45893677",
+            "matchedName": "Chiropterotriton",
+            "matchedCanonical": "Chiropterotriton",
+            "currentName": "Chiropterotriton",
+            "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Plethodontidae|Chiropterotriton",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45846132|45846133|45846137|45893677",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2431183",
+            "matchedName": "Chiropterotriton Taylor, 1944",
+            "matchedCanonical": "Chiropterotriton",
+            "currentName": "Chiropterotriton Taylor, 1944",
+            "classificationPath": "Animalia|Chordata|Amphibia|Caudata|Plethodontidae|Chiropterotriton",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|131|953|6748|2431183",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "224307",
+            "matchedName": "Chiropterotriton",
+            "matchedCanonical": "Chiropterotriton",
+            "currentName": "Chiropterotriton",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Caudata|Salamandroidea|Plethodontidae|Hemidactyliinae|Chiropterotriton",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|984716|336747|515329|149927|224307",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 32774,
+      "end": 32784,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Darda\ncanica",
+      "name": "Darda canica",
+      "odds": 34.11820343627326,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "rda": 5.005435767349157
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "CommonWords": 0.00019373880505299418
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 32810,
+      "end": 32822,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Ambystoma tigrinum com-\nplex",
+      "name": "Ambystoma tigrinum complex",
+      "odds": 645651366.6318682,
+      "odds_details": {
+        "Name": {
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "num": 265.2880956695053
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "lex": 10.010871534698314
+          }
+        }
+      },
+      "start": 32992,
+      "end": 33020,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 168,
+          "dataSourceTitle": "Index to Organism Names",
+          "taxonId": "126664123",
+          "matchedName": "Ambystoma tigrinum complex",
+          "matchedCanonical": "Ambystoma tigrinum complex",
+          "currentName": "Ambystoma tigrinum complex",
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 33500,
+      "end": 33510,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "P. aztecus data",
+      "name": "P. aztecus data",
+      "odds": 118864457.25233015,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "ispLen": {
+            "4": 0.05289125210455401
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "ata": 370.40224678383765
+          }
+        }
+      },
+      "start": 33533,
+      "end": 33548,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. polionotus,",
+      "name": "P. polionotus",
+      "odds": 35098527.80550332,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 34245,
+      "end": 34259,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 35225,
+      "end": 35235,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. hondurensis",
+      "name": "P. hondurensis",
+      "odds": 43570021.54166817,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 35384,
+      "end": 35398,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. oaxacensis,",
+      "name": "P. oaxacensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 35404,
+      "end": 35418,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. oaxacensis",
+      "name": "P. oaxacensis",
+      "odds": 21453867.851774648,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 35503,
+      "end": 35516,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus.",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 35534,
+      "end": 35545,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. hylocetes",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 36066,
+      "end": 36078,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          }
+        }
+      },
+      "start": 36107,
+      "end": 36117,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. hylocetes",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          }
+        }
+      },
+      "start": 36576,
+      "end": 36588,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          }
+        }
+      },
+      "start": 36606,
+      "end": 36616,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. hylocetes.",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 37447,
+      "end": 37460,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P.\nhylocetes",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 37518,
+      "end": 37530,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. aztecus",
+      "name": "P. aztecus",
+      "odds": 3269000.889292024,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 37536,
+      "end": 37546,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "P. hylocetes",
+      "name": "P. hylocetes",
+      "odds": 43090.9260382655,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          }
+        }
+      },
+      "start": 37712,
+      "end": 37724,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

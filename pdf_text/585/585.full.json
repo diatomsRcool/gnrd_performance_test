@@ -1,0 +1,867 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:06:11.047982445-05:00",
+    "language": "eng",
+    "total_words": 7528,
+    "total_candidates": 1282,
+    "total_names": 14
+  },
+  "names": [
+    {
+      "type": "Trinomial",
+      "verbatim": "(Pan troglodytes verus)",
+      "name": "Pan troglodytes verus",
+      "odds": 735637.8209727,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "rus": 11.262230476535604
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          }
+        }
+      },
+      "start": 1051,
+      "end": 1074,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2b8920e0339bbbacfc569139e82404a3",
+          "matchedName": "Pan troglodytes verus Schwarz, 1934",
+          "matchedCanonical": "Pan troglodytes verus",
+          "currentName": "Pan troglodytes verus Schwarz, 1934",
+          "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Pan||Pan troglodytes verus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2b8920e0339bbbacfc569139e82404a3",
+            "matchedName": "Pan troglodytes verus Schwarz, 1934",
+            "matchedCanonical": "Pan troglodytes verus",
+            "currentName": "Pan troglodytes verus Schwarz, 1934",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Pan||Pan troglodytes verus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5707422",
+            "matchedName": "Pan troglodytes subsp. verus Schwarz, 1934",
+            "matchedCanonical": "Pan troglodytes ssp. verus",
+            "currentName": "Pan troglodytes subsp. verus Schwarz, 1934",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Pan|Pan troglodytes|Pan troglodytes verus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|798|5483|2436437|5219534|5707422",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "752847",
+            "matchedName": "Pan troglodytes verus",
+            "matchedCanonical": "Pan troglodytes verus",
+            "currentName": "Pan troglodytes verus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Primates|Haplorrhini|Simiiformes|Catarrhini|Hominoidea|Hominidae|Homininae|Pan|Pan troglodytes|Pan troglodytes verus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|parvorder|superfamily|family|subfamily|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|913935|702152|386195|842867|386191|770311|312031|417957|417950|752847",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Pan troglodytes),",
+      "name": "Pan troglodytes",
+      "odds": 295.86021183118055,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 6620,
+      "end": 6638,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "86b444a39d077c4e99f876aa5e8481df",
+          "matchedName": "Pan troglodytes (Blumenbach, 1775)",
+          "matchedCanonical": "Pan troglodytes",
+          "currentName": "Pan troglodytes (Blumenbach, 1775)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominoidea|Hominidae|Pan|Pan troglodytes",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841621|45841629|45841631|46037957|86b444a39d077c4e99f876aa5e8481df",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "86b444a39d077c4e99f876aa5e8481df",
+            "matchedName": "Pan troglodytes (Blumenbach, 1775)",
+            "matchedCanonical": "Pan troglodytes",
+            "currentName": "Pan troglodytes (Blumenbach, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominoidea|Hominidae|Pan|Pan troglodytes",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841621|45841629|45841631|46037957|86b444a39d077c4e99f876aa5e8481df",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5219534",
+            "matchedName": "Pan troglodytes (Blumenbach, 1775)",
+            "matchedCanonical": "Pan troglodytes",
+            "currentName": "Pan troglodytes (Blumenbach, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Pan|Pan troglodytes",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|798|5483|2436437|5219534",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "417950",
+            "matchedName": "Pan troglodytes",
+            "matchedCanonical": "Pan troglodytes",
+            "currentName": "Pan troglodytes",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Primates|Haplorrhini|Simiiformes|Catarrhini|Hominoidea|Hominidae|Homininae|Pan|Pan troglodytes",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|parvorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|913935|702152|386195|842867|386191|770311|312031|417957|417950",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Macaca mulatta)",
+      "name": "Macaca mulatta",
+      "odds": 230770086.23351592,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tta": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "aca": 5.005435767349157
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 22994,
+      "end": 23010,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "8302d6488dd331326b175296ccfbab12",
+          "matchedName": "Macaca mulatta (Zimmermann, 1780)",
+          "matchedCanonical": "Macaca mulatta",
+          "currentName": "Macaca mulatta (Zimmermann, 1780)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Primates|Cercopithecoidea|Cercopithecidae|Macaca|Macaca mulatta",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841621|45841639|45841640|45905121|8302d6488dd331326b175296ccfbab12",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "8302d6488dd331326b175296ccfbab12",
+            "matchedName": "Macaca mulatta (Zimmermann, 1780)",
+            "matchedCanonical": "Macaca mulatta",
+            "currentName": "Macaca mulatta (Zimmermann, 1780)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Cercopithecoidea|Cercopithecidae|Macaca|Macaca mulatta",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841621|45841639|45841640|45905121|8302d6488dd331326b175296ccfbab12",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2436604",
+            "matchedName": "Macaca mulatta (Zimmermann, 1780)",
+            "matchedCanonical": "Macaca mulatta",
+            "currentName": "Macaca mulatta (Zimmermann, 1780)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Cercopithecidae|Macaca|Macaca mulatta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|798|9622|2436602|2436604",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "689650",
+            "matchedName": "Macaca mulatta",
+            "matchedCanonical": "Macaca mulatta",
+            "currentName": "Macaca mulatta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Primates|Haplorrhini|Simiiformes|Catarrhini|Cercopithecoidea|Cercopithecidae|Cercopithecinae|Macaca|Macaca mulatta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|parvorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|913935|702152|386195|842867|386194|842868|842860|268324|689650",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(P. troglodytes verus)",
+      "name": "P. troglodytes verus",
+      "odds": 283335390.90096205,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "rus": 11.262230476535604
+          }
+        }
+      },
+      "start": 24140,
+      "end": 24162,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Pan troglodytes verus)",
+      "name": "Pan troglodytes verus",
+      "odds": 735637.8209727,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "rus": 11.262230476535604
+          }
+        }
+      },
+      "start": 38377,
+      "end": 38400,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "2b8920e0339bbbacfc569139e82404a3",
+          "matchedName": "Pan troglodytes verus Schwarz, 1934",
+          "matchedCanonical": "Pan troglodytes verus",
+          "currentName": "Pan troglodytes verus Schwarz, 1934",
+          "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Pan||Pan troglodytes verus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "2b8920e0339bbbacfc569139e82404a3",
+            "matchedName": "Pan troglodytes verus Schwarz, 1934",
+            "matchedCanonical": "Pan troglodytes verus",
+            "currentName": "Pan troglodytes verus Schwarz, 1934",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Pan||Pan troglodytes verus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5707422",
+            "matchedName": "Pan troglodytes subsp. verus Schwarz, 1934",
+            "matchedCanonical": "Pan troglodytes ssp. verus",
+            "currentName": "Pan troglodytes subsp. verus Schwarz, 1934",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Pan|Pan troglodytes|Pan troglodytes verus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|798|5483|2436437|5219534|5707422",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "752847",
+            "matchedName": "Pan troglodytes verus",
+            "matchedCanonical": "Pan troglodytes verus",
+            "currentName": "Pan troglodytes verus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Primates|Haplorrhini|Simiiformes|Catarrhini|Hominoidea|Hominidae|Homininae|Pan|Pan troglodytes|Pan troglodytes verus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|parvorder|superfamily|family|subfamily|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|913935|702152|386195|842867|386191|770311|312031|417957|417950|752847",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(P. troglodytes verus)",
+      "name": "P. troglodytes verus",
+      "odds": 283335390.90096205,
+      "odds_details": {
+        "Name": {
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "rus": 11.262230476535604
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          }
+        }
+      },
+      "start": 38460,
+      "end": 38482,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(P. troglodytes verus)",
+      "name": "P. troglodytes verus",
+      "odds": 283335390.90096205,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "rus": 11.262230476535604
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 38519,
+      "end": 38541,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(P. troglodytes verus)",
+      "name": "P. troglodytes verus",
+      "odds": 283335390.90096205,
+      "odds_details": {
+        "Name": {
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "rus": 11.262230476535604
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          }
+        }
+      },
+      "start": 38576,
+      "end": 38598,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(P. troglodytes verus)",
+      "name": "P. troglodytes verus",
+      "odds": 283335390.90096205,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "ispEnd3": {
+            "rus": 11.262230476535604
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 38636,
+      "end": 38658,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(P. troglodytes ellioti)",
+      "name": "P. troglodytes ellioti",
+      "odds": 273278849.13858414,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "oti": 2.5027178836745785
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 38693,
+      "end": 38717,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(P. troglodytes troglodytes)",
+      "name": "P. troglodytes troglodytes",
+      "odds": 576742376.6302619,
+      "odds_details": {
+        "Name": {
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "tes": 0.12513589418372895
+          },
+          "ispLen": {
+            "11": 6.85527072484776
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 38723,
+      "end": 38751,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(P. troglodytes schweinfurthii)",
+      "name": "P. troglodytes schweinfurthii",
+      "odds": 15106304785.212852,
+      "odds_details": {
+        "Name": {
+          "ispEnd3": {
+            "hii": 20.021743069396628
+          },
+          "ispLen": {
+            "14": 8.968072416500574
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          }
+        }
+      },
+      "start": 38757,
+      "end": 38788,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(P. troglodytes schweinfurthii)",
+      "name": "P. troglodytes schweinfurthii",
+      "odds": 15106304785.212852,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "ispEnd3": {
+            "hii": 20.021743069396628
+          },
+          "ispLen": {
+            "14": 8.968072416500574
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 38795,
+      "end": 38826,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Pan troglodytes troglodytes)",
+      "name": "Pan troglodytes troglodytes",
+      "odds": 1497425.0264246163,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "ispLen": {
+            "11": 6.85527072484776
+          },
+          "ispEnd3": {
+            "tes": 0.12513589418372895
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          }
+        }
+      },
+      "start": 40865,
+      "end": 40894,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "676a2e8e562ad0af3c0c56b3d6785898",
+          "matchedName": "Pan troglodytes troglodytes (Blumenbach, 1775)",
+          "matchedCanonical": "Pan troglodytes troglodytes",
+          "currentName": "Pan troglodytes troglodytes (Blumenbach, 1775)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Pan||Pan troglodytes troglodytes",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "676a2e8e562ad0af3c0c56b3d6785898",
+            "matchedName": "Pan troglodytes troglodytes (Blumenbach, 1775)",
+            "matchedCanonical": "Pan troglodytes troglodytes",
+            "currentName": "Pan troglodytes troglodytes (Blumenbach, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Pan||Pan troglodytes troglodytes",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7262069",
+            "matchedName": "Pan troglodytes subsp. troglodytes",
+            "matchedCanonical": "Pan troglodytes ssp. troglodytes",
+            "currentName": "Pan troglodytes subsp. troglodytes",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Pan|Pan troglodytes|Pan troglodytes troglodytes",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|798|5483|2436437|5219534|7262069",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "767875",
+            "matchedName": "Pan troglodytes troglodytes",
+            "matchedCanonical": "Pan troglodytes troglodytes",
+            "currentName": "Pan troglodytes troglodytes",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Primates|Haplorrhini|Simiiformes|Catarrhini|Hominoidea|Hominidae|Homininae|Pan|Pan troglodytes|Pan troglodytes troglodytes",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|parvorder|superfamily|family|subfamily|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|913935|702152|386195|842867|386191|770311|312031|417957|417950|767875",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

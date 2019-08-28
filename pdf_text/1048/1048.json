@@ -1,0 +1,5024 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:57:22.760994896-05:00",
+    "language": "eng",
+    "total_words": 6346,
+    "total_candidates": 1214,
+    "total_names": 69
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "MARTINA",
+      "name": "Martina",
+      "odds": 5181.738083401564,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 187,
+      "end": 194,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46067299",
+          "matchedName": "Martina",
+          "matchedCanonical": "Martina",
+          "currentName": "Martina",
+          "classificationPath": "Animalia|Annelida|Polychaeta|Not assigned|Not assigned|Martina",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841415|45842499|45842502|45842713|46067299",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46067299",
+            "matchedName": "Martina",
+            "matchedCanonical": "Martina",
+            "currentName": "Martina",
+            "classificationPath": "Animalia|Annelida|Polychaeta|Not assigned|Not assigned|Martina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841415|45842499|45842502|45842713|46067299",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3259055",
+            "matchedName": "Martina Mineo, 2007",
+            "matchedCanonical": "Martina",
+            "currentName": "Martina Mineo, 2007",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Scelionidae|Martina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1457|4349|3259055",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4988189",
+            "matchedName": "Martina",
+            "matchedCanonical": "Martina",
+            "currentName": "Martina",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Annelida|Polychaeta|Martina",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|941620|941618|4988189",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Betaproteobacteria",
+      "name": "Betaproteobacteria",
+      "odds": 10123.326028305797,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "18": 9.5103279579634
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 1507,
+      "end": 1525,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45849485",
+          "matchedName": "Betaproteobacteria",
+          "matchedCanonical": "Betaproteobacteria",
+          "currentName": "Betaproteobacteria",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841358|45841359|45849485",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45849485",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841358|45841359|45849485",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "337",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "3|111|337",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "683406",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "no rank|no rank|domain|phylum|class",
+            "classificationIDs": "805080|93302|844192|248067|683406",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Burkholderia,",
+      "name": "Burkholderia",
+      "odds": 235001.21773509853,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1541,
+      "end": 1554,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949408",
+          "matchedName": "Burkholderia",
+          "matchedCanonical": "Burkholderia",
+          "currentName": "Burkholderia",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849485|45849486|45849488|45949408",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949408",
+            "matchedName": "Burkholderia",
+            "matchedCanonical": "Burkholderia",
+            "currentName": "Burkholderia",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849485|45849486|45849488|45949408",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3219916",
+            "matchedName": "Burkholderia Yabuuchi et al., 1993",
+            "matchedCanonical": "Burkholderia",
+            "currentName": "Burkholderia Yabuuchi et al., 1993",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|337|648|5438|3219916",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "445578",
+            "matchedName": "Burkholderia",
+            "matchedCanonical": "Burkholderia",
+            "currentName": "Burkholderia",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|190168|445578",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Zea mays",
+      "name": "Zea mays",
+      "odds": 1.0719384060700208,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ays": 0.15641986772966116
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          }
+        }
+      },
+      "start": 2158,
+      "end": 2166,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6a7681dfa66bae01e4971c2d9b8c1d61",
+          "matchedName": "Zea mays L.",
+          "matchedCanonical": "Zea mays",
+          "currentName": "Zea mays L.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Zea|Zea mays",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46098474|6a7681dfa66bae01e4971c2d9b8c1d61",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6a7681dfa66bae01e4971c2d9b8c1d61",
+            "matchedName": "Zea mays L.",
+            "matchedCanonical": "Zea mays",
+            "currentName": "Zea mays L.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Zea|Zea mays",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46098474|6a7681dfa66bae01e4971c2d9b8c1d61",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5290052",
+            "matchedName": "Zea mays L.",
+            "matchedCanonical": "Zea mays",
+            "currentName": "Zea mays L.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Zea|Zea mays",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2705049|5290052",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "605194",
+            "matchedName": "Zea mays",
+            "matchedCanonical": "Zea mays",
+            "currentName": "Zea mays",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Tripsacinae|Zea|Zea mays",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759522|605186|605194",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Zea mays ssp. parviglumis)",
+      "name": "Zea mays ssp. parviglumis",
+      "odds": 158547592.19616246,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spEnd3": {
+            "ays": 0.15641986772966116
+          },
+          "ispRank": {
+            "true": 648.7044754484508
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispEnd3": {
+            "mis": 45.04892190614242
+          },
+          "ispLen": {
+            "11": 6.85527072484776
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          }
+        }
+      },
+      "start": 4108,
+      "end": 4135,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a2d505a6b2d552031f0e2ba76018d805",
+          "matchedName": "Zea mays subsp. parviglumis Iltis \u0026 Doebley",
+          "matchedCanonical": "Zea mays ssp. parviglumis",
+          "currentName": "Zea mays subsp. parviglumis Iltis \u0026 Doebley",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Zea||Zea mays parviglumis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a2d505a6b2d552031f0e2ba76018d805",
+            "matchedName": "Zea mays subsp. parviglumis Iltis \u0026 Doebley",
+            "matchedCanonical": "Zea mays ssp. parviglumis",
+            "currentName": "Zea mays subsp. parviglumis Iltis \u0026 Doebley",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Zea||Zea mays parviglumis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5678457",
+            "matchedName": "Zea mays subsp. parviglumis Iltis \u0026 Doebley",
+            "matchedCanonical": "Zea mays ssp. parviglumis",
+            "currentName": "Zea mays subsp. parviglumis Iltis \u0026 Doebley",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Zea|Zea mays|Zea mays parviglumis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "6|7707728|196|1369|3073|2705049|5290052|5678457",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "930715",
+            "matchedName": "Zea mays subsp. parviglumis",
+            "matchedCanonical": "Zea mays ssp. parviglumis",
+            "currentName": "Zea mays subsp. parviglumis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Tripsacinae|Zea|Zea mays|Zea mays parviglumis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759522|605186|605194|930715",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paenibacillus",
+      "name": "Paenibacillus",
+      "odds": 3416070.2992138453,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          }
+        }
+      },
+      "start": 6448,
+      "end": 6461,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949790",
+          "matchedName": "Paenibacillus",
+          "matchedCanonical": "Paenibacillus",
+          "currentName": "Paenibacillus",
+          "classificationPath": "Bacteria|Firmicutes|Bacilli|Bacillales|Paenibacillaceae|Paenibacillus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841389|45842348|45842356|45842362|45949790",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949790",
+            "matchedName": "Paenibacillus",
+            "matchedCanonical": "Paenibacillus",
+            "currentName": "Paenibacillus",
+            "classificationPath": "Bacteria|Firmicutes|Bacilli|Bacillales|Paenibacillaceae|Paenibacillus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841389|45842348|45842356|45842362|45949790",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3227538",
+            "matchedName": "Paenibacillus Ash, Priest \u0026 Collins, 1994",
+            "matchedCanonical": "Paenibacillus",
+            "currentName": "Paenibacillus Ash, Priest \u0026 Collins, 1994",
+            "classificationPath": "Bacteria|Firmicutes|Bacilli|Bacillales|Paenibacillaceae|Paenibacillus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|87|303|576|4706|3227538",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "259478",
+            "matchedName": "Paenibacillus",
+            "matchedCanonical": "Paenibacillus",
+            "currentName": "Paenibacillus",
+            "classificationPath": "||Bacteria|Firmicutes|Bacilli|Bacillales|Paenibacillaceae|Paenibacillus",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|822769|634420|1068893|68433|259478",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Burkholderia cepacia complex",
+      "name": "Burkholderia cepacia complex",
+      "odds": 494878900414.1989,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "ispEnd3": {
+            "lex": 10.010871534698314
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 15003,
+      "end": 15031,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 2,
+          "dataSourceTitle": "Wikispecies",
+          "taxonId": "302237",
+          "matchedName": "Burkholderia cepacia complex",
+          "matchedCanonical": "Burkholderia cepacia complex",
+          "currentName": "Burkholderia cepacia complex",
+          "classificationPath": "Hydrogenimonaceae|Proteobacteria|Unclassified|Burkholderiales|Candidatus|Burkholderia cepacia complex",
+          "classificationRank": "|||||",
+          "classificationIDs": "403|6967|7044|96232|129505|302237",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "429810",
+            "matchedName": "Burkholderia cepacia complex",
+            "matchedCanonical": "Burkholderia cepacia complex",
+            "currentName": "Burkholderia cepacia complex",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cepacia complex",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|species group",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|190168|445578|429810",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. cepacia",
+      "name": "B. cepacia",
+      "odds": 144646.05704831966,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 15207,
+      "end": 15217,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Roche",
+      "name": "Roche",
+      "odds": 4652.608535891495,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "che": 8.759512592861025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 15456,
+      "end": 15462,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46002088",
+          "matchedName": "Roche",
+          "matchedCanonical": "Roche",
+          "currentName": "Roche",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Ochyroceratidae|Roche",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45841317|45844863|46002088",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46002088",
+            "matchedName": "Roche",
+            "matchedCanonical": "Roche",
+            "currentName": "Roche",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Ochyroceratidae|Roche",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45841317|45844863|46002088",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2142862",
+            "matchedName": "Roche Saaristo, 1998",
+            "matchedCanonical": "Roche",
+            "currentName": "Roche Saaristo, 1998",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Ochyroceratidae|Roche",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|9566|2142862",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4696953",
+            "matchedName": "Roche",
+            "matchedCanonical": "Roche",
+            "currentName": "Roche",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Ochyroceratidae|Roche",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|4696786|4696953",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Roche",
+      "name": "Roche",
+      "odds": 4652.608535891495,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "che": 8.759512592861025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 16069,
+      "end": 16075,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46002088",
+          "matchedName": "Roche",
+          "matchedCanonical": "Roche",
+          "currentName": "Roche",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Ochyroceratidae|Roche",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45841317|45844863|46002088",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46002088",
+            "matchedName": "Roche",
+            "matchedCanonical": "Roche",
+            "currentName": "Roche",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Ochyroceratidae|Roche",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45841317|45844863|46002088",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2142862",
+            "matchedName": "Roche Saaristo, 1998",
+            "matchedCanonical": "Roche",
+            "currentName": "Roche Saaristo, 1998",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Ochyroceratidae|Roche",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|9566|2142862",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4696953",
+            "matchedName": "Roche",
+            "matchedCanonical": "Roche",
+            "currentName": "Roche",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Ochyroceratidae|Roche",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|4696786|4696953",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Burkholderia cenocepacia",
+      "name": "Burkholderia cenocepacia",
+      "odds": 441288053660.8007,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 16111,
+      "end": 16135,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "c965777ebff0a3549bfcfc13f2606f62",
+          "matchedName": "Burkholderia cenocepacia Vandamme et al., 2003",
+          "matchedCanonical": "Burkholderia cenocepacia",
+          "currentName": "Burkholderia cenocepacia Vandamme et al., 2003",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cenocepacia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849485|45849486|45849488|45949408|c965777ebff0a3549bfcfc13f2606f62",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "c965777ebff0a3549bfcfc13f2606f62",
+            "matchedName": "Burkholderia cenocepacia Vandamme et al., 2003",
+            "matchedCanonical": "Burkholderia cenocepacia",
+            "currentName": "Burkholderia cenocepacia Vandamme et al., 2003",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cenocepacia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849485|45849486|45849488|45949408|c965777ebff0a3549bfcfc13f2606f62",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3219950",
+            "matchedName": "Burkholderia cenocepacia Vandamme et al., 2003",
+            "matchedCanonical": "Burkholderia cenocepacia",
+            "currentName": "Burkholderia cenocepacia Vandamme et al., 2003",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cenocepacia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|337|648|5438|3219916|3219950",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "203604",
+            "matchedName": "Burkholderia cenocepacia AU 1054",
+            "matchedCanonical": "Burkholderia cenocepacia",
+            "currentName": "Burkholderia cenocepacia AU 1054",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cenocepacia",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|190168|445578|203604",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "B. cepacia complex)",
+      "name": "B. cepacia complex",
+      "odds": 977224.9292811088,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "lex": 10.010871534698314
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          }
+        }
+      },
+      "start": 16168,
+      "end": 16187,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "B. cepacia complex",
+      "name": "B. cepacia complex",
+      "odds": 977224.9292811088,
+      "odds_details": {
+        "Name": {
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "lex": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          }
+        }
+      },
+      "start": 16663,
+      "end": 16681,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Betaproteobacteria",
+      "name": "Betaproteobacteria",
+      "odds": 10123.326028305797,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "18": 9.5103279579634
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 23120,
+      "end": 23138,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45849485",
+          "matchedName": "Betaproteobacteria",
+          "matchedCanonical": "Betaproteobacteria",
+          "currentName": "Betaproteobacteria",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841358|45841359|45849485",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45849485",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841358|45841359|45849485",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "337",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "3|111|337",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "683406",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "no rank|no rank|domain|phylum|class",
+            "classificationIDs": "805080|93302|844192|248067|683406",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Burkholderia,",
+      "name": "Burkholderia",
+      "odds": 235001.21773509853,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 23146,
+      "end": 23159,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949408",
+          "matchedName": "Burkholderia",
+          "matchedCanonical": "Burkholderia",
+          "currentName": "Burkholderia",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849485|45849486|45849488|45949408",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949408",
+            "matchedName": "Burkholderia",
+            "matchedCanonical": "Burkholderia",
+            "currentName": "Burkholderia",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849485|45849486|45849488|45949408",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3219916",
+            "matchedName": "Burkholderia Yabuuchi et al., 1993",
+            "matchedCanonical": "Burkholderia",
+            "currentName": "Burkholderia Yabuuchi et al., 1993",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|337|648|5438|3219916",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "445578",
+            "matchedName": "Burkholderia",
+            "matchedCanonical": "Burkholderia",
+            "currentName": "Burkholderia",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|190168|445578",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Herbaspirillum,",
+      "name": "Herbaspirillum",
+      "odds": 5006238.062659824,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lum": 190.20655915926795
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 23160,
+      "end": 23175,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45948909",
+          "matchedName": "Herbaspirillum",
+          "matchedCanonical": "Herbaspirillum",
+          "currentName": "Herbaspirillum",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849485|45849486|45849491|45948909",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45948909",
+            "matchedName": "Herbaspirillum",
+            "matchedCanonical": "Herbaspirillum",
+            "currentName": "Herbaspirillum",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849485|45849486|45849491|45948909",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3219864",
+            "matchedName": "Herbaspirillum Baldani et al., 1986",
+            "matchedCanonical": "Herbaspirillum",
+            "currentName": "Herbaspirillum Baldani et al., 1986",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|337|648|8927|3219864",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "956193",
+            "matchedName": "Herbaspirillum",
+            "matchedCanonical": "Herbaspirillum",
+            "currentName": "Herbaspirillum",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|1036630|956193",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Achromobacter,",
+      "name": "Achromobacter",
+      "odds": 18145.60949681141,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 23176,
+      "end": 23190,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949741",
+          "matchedName": "Achromobacter",
+          "matchedCanonical": "Achromobacter",
+          "currentName": "Achromobacter",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Alcaligenaceae|Achromobacter",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849485|45849486|45849487|45949741",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949741",
+            "matchedName": "Achromobacter",
+            "matchedCanonical": "Achromobacter",
+            "currentName": "Achromobacter",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Alcaligenaceae|Achromobacter",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849485|45849486|45849487|45949741",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3219782",
+            "matchedName": "Achromobacter Yabuuchi \u0026 Yano, 1981",
+            "matchedCanonical": "Achromobacter",
+            "currentName": "Achromobacter Yabuuchi \u0026 Yano, 1981",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Alcaligenaceae|Achromobacter",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|337|648|5437|3219782",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "749161",
+            "matchedName": "Achromobacter",
+            "matchedCanonical": "Achromobacter",
+            "currentName": "Achromobacter",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Alcaligenaceae|Achromobacter",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|324575|749161",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Neisseria",
+      "name": "Neisseria",
+      "odds": 69841.6187970699,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 23191,
+      "end": 23200,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46044274",
+          "matchedName": "Neisseria",
+          "matchedCanonical": "Neisseria",
+          "currentName": "Neisseria",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849485|45849497|45849498|46044274",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46044274",
+            "matchedName": "Neisseria",
+            "matchedCanonical": "Neisseria",
+            "currentName": "Neisseria",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849485|45849497|45849498|46044274",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7427611",
+            "matchedName": "Neisseria weaveri-later-heterotypic-synonym Andersen et al., 1993",
+            "matchedCanonical": "Neisseria",
+            "currentName": "Neisseria weaveri Holmes et al., 1993",
+            "isSynonym": true,
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria|Neisseria weaveri",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|337|1380|5440|3220214|3220225",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "611812",
+            "matchedName": "Neisseria",
+            "matchedCanonical": "Neisseria",
+            "currentName": "Neisseria",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683406|779197|286853|611812",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Variovorax,",
+      "name": "Variovorax",
+      "odds": 196454.41034051043,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "rax": 35.0380503714441
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 23205,
+      "end": 23216,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46044964",
+          "matchedName": "Variovorax",
+          "matchedCanonical": "Variovorax",
+          "currentName": "Variovorax",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Variovorax",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849485|45849486|45849489|46044964",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46044964",
+            "matchedName": "Variovorax",
+            "matchedCanonical": "Variovorax",
+            "currentName": "Variovorax",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Variovorax",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849485|45849486|45849489|46044964",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3220178",
+            "matchedName": "Variovorax Willems et al., 1991",
+            "matchedCanonical": "Variovorax",
+            "currentName": "Variovorax Willems et al., 1991",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Variovorax",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|337|648|5439|3220178",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "386927",
+            "matchedName": "Variovorax",
+            "matchedCanonical": "Variovorax",
+            "currentName": "Variovorax",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Variovorax",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|1074529|386927",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Gammaproteobacteria",
+      "name": "Gammaproteobacteria",
+      "odds": 26640.331653436308,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "19": 25.027178836745787
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 23232,
+      "end": 23251,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45849547",
+          "matchedName": "Gammaproteobacteria",
+          "matchedCanonical": "Gammaproteobacteria",
+          "currentName": "Gammaproteobacteria",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841358|45841359|45849547",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45849547",
+            "matchedName": "Gammaproteobacteria",
+            "matchedCanonical": "Gammaproteobacteria",
+            "currentName": "Gammaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841358|45841359|45849547",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "362",
+            "matchedName": "Gammaproteobacteria",
+            "matchedCanonical": "Gammaproteobacteria",
+            "currentName": "Gammaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "3|111|362",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "822744",
+            "matchedName": "Gammaproteobacteria",
+            "matchedCanonical": "Gammaproteobacteria",
+            "currentName": "Gammaproteobacteria",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria",
+            "classificationRank": "no rank|no rank|domain|phylum|class",
+            "classificationIDs": "805080|93302|844192|248067|822744",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pseudomonas,",
+      "name": "Pseudomonas",
+      "odds": 39016.22781627596,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nas": 5.255707555716615
+          }
+        }
+      },
+      "start": 23258,
+      "end": 23270,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949781",
+          "matchedName": "Pseudomonas",
+          "matchedCanonical": "Pseudomonas",
+          "currentName": "Pseudomonas",
+          "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849547|45849595|45849598|45949781",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949781",
+            "matchedName": "Pseudomonas",
+            "matchedCanonical": "Pseudomonas",
+            "currentName": "Pseudomonas",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849547|45849595|45849598|45949781",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3219881",
+            "matchedName": "Pseudomonas Migula, 1894",
+            "matchedCanonical": "Pseudomonas",
+            "currentName": "Pseudomonas Migula, 1894",
+            "classificationPath": "Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|362|1474|5607|3219881",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "281374",
+            "matchedName": "Pseudomonas",
+            "matchedCanonical": "Pseudomonas",
+            "currentName": "Pseudomonas",
+            "classificationPath": "||Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|822744|191376|767325|281374",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Clostridiales",
+      "name": "Clostridiales",
+      "odds": 600.430999584663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "les": 0.5582986048197137
+          }
+        }
+      },
+      "start": 23347,
+      "end": 23360,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841410",
+          "matchedName": "Clostridiales",
+          "matchedCanonical": "Clostridiales",
+          "currentName": "Clostridiales",
+          "classificationPath": "Bacteria|Firmicutes|Clostridia|Clostridiales",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841358|45841389|45841400|45841410",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841410",
+            "matchedName": "Clostridiales",
+            "matchedCanonical": "Clostridiales",
+            "currentName": "Clostridiales",
+            "classificationPath": "Bacteria|Firmicutes|Clostridia|Clostridiales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841358|45841389|45841400|45841410",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1211",
+            "matchedName": "Clostridiales",
+            "matchedCanonical": "Clostridiales",
+            "currentName": "Clostridiales",
+            "classificationPath": "Bacteria|Firmicutes|Clostridia|Clostridiales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "3|87|304|1211",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "16696",
+            "matchedName": "Clostridiales",
+            "matchedCanonical": "Clostridiales",
+            "currentName": "Clostridiales",
+            "classificationPath": "||Bacteria|Firmicutes|Clostridia|Clostridiales",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order",
+            "classificationIDs": "805080|93302|844192|822769|16698|16696",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Firmicutes),",
+      "name": "Firmicutes",
+      "odds": 213.75788682564587,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 23393,
+      "end": 23405,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841389",
+          "matchedName": "Firmicutes",
+          "matchedCanonical": "Firmicutes",
+          "currentName": "Firmicutes",
+          "classificationPath": "Bacteria|Firmicutes",
+          "classificationRank": "kingdom|phylum",
+          "classificationIDs": "45841358|45841389",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841389",
+            "matchedName": "Firmicutes",
+            "matchedCanonical": "Firmicutes",
+            "currentName": "Firmicutes",
+            "classificationPath": "Bacteria|Firmicutes",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "45841358|45841389",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "87",
+            "matchedName": "Firmicutes",
+            "matchedCanonical": "Firmicutes",
+            "currentName": "Firmicutes",
+            "classificationPath": "Bacteria|Firmicutes",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "3|87",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "822769",
+            "matchedName": "Firmicutes",
+            "matchedCanonical": "Firmicutes",
+            "currentName": "Firmicutes",
+            "classificationPath": "||Bacteria|Firmicutes",
+            "classificationRank": "no rank|no rank|domain|phylum",
+            "classificationIDs": "805080|93302|844192|822769",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Bacteroidetes",
+      "name": "Bacteroidetes",
+      "odds": 600.430999584663,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          }
+        }
+      },
+      "start": 23410,
+      "end": 23423,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844130",
+          "matchedName": "Bacteroidetes",
+          "matchedCanonical": "Bacteroidetes",
+          "currentName": "Bacteroidetes",
+          "classificationPath": "Bacteria|Bacteroidetes",
+          "classificationRank": "kingdom|phylum",
+          "classificationIDs": "45841358|45844130",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844130",
+            "matchedName": "Bacteroidetes",
+            "matchedCanonical": "Bacteroidetes",
+            "currentName": "Bacteroidetes",
+            "classificationPath": "Bacteria|Bacteroidetes",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "45841358|45844130",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "81",
+            "matchedName": "Bacteroidetes",
+            "matchedCanonical": "Bacteroidetes",
+            "currentName": "Bacteroidetes",
+            "classificationPath": "Bacteria|Bacteroidetes",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "3|81",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "430079",
+            "matchedName": "Bacteroidetes",
+            "matchedCanonical": "Bacteroidetes",
+            "currentName": "Bacteroidetes",
+            "classificationPath": "||Bacteria|Bacteroidetes",
+            "classificationRank": "no rank|no rank|domain|phylum",
+            "classificationIDs": "805080|93302|844192|430079",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Flavobacteriales,",
+      "name": "Flavobacteriales",
+      "odds": 1944.1421533940538,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "les": 0.5582986048197137
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "16": 29.094095397716973
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 23430,
+      "end": 23447,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844141",
+          "matchedName": "Flavobacteriales",
+          "matchedCanonical": "Flavobacteriales",
+          "currentName": "Flavobacteriales",
+          "classificationPath": "Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841358|45844130|45844140|45844141",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844141",
+            "matchedName": "Flavobacteriales",
+            "matchedCanonical": "Flavobacteriales",
+            "currentName": "Flavobacteriales",
+            "classificationPath": "Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841358|45844130|45844140|45844141",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "569",
+            "matchedName": "Flavobacteriales",
+            "matchedCanonical": "Flavobacteriales",
+            "currentName": "Flavobacteriales",
+            "classificationPath": "Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "3|81|8019474|569",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1082712",
+            "matchedName": "Flavobacteriales",
+            "matchedCanonical": "Flavobacteriales",
+            "currentName": "Flavobacteriales",
+            "classificationPath": "||Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order",
+            "classificationIDs": "805080|93302|844192|430079|1082463|1082712",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Alphaproteobacteria",
+      "name": "Alphaproteobacteria",
+      "odds": 26640.331653436308,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "19": 25.027178836745787
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 23452,
+      "end": 23471,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841360",
+          "matchedName": "Alphaproteobacteria",
+          "matchedCanonical": "Alphaproteobacteria",
+          "currentName": "Alphaproteobacteria",
+          "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841358|45841359|45841360",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841360",
+            "matchedName": "Alphaproteobacteria",
+            "matchedCanonical": "Alphaproteobacteria",
+            "currentName": "Alphaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841358|45841359|45841360",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "197",
+            "matchedName": "Alphaproteobacteria",
+            "matchedCanonical": "Alphaproteobacteria",
+            "currentName": "Alphaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "3|111|197",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "683449",
+            "matchedName": "Alphaproteobacteria",
+            "matchedCanonical": "Alphaproteobacteria",
+            "currentName": "Alphaproteobacteria",
+            "classificationPath": "||Bacteria|Proteobacteria|Alphaproteobacteria",
+            "classificationRank": "no rank|no rank|domain|phylum|class",
+            "classificationIDs": "805080|93302|844192|248067|683449",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Rhizobiales",
+      "name": "Rhizobiales",
+      "odds": 283.01821257018486,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "les": 0.5582986048197137
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 23479,
+      "end": 23490,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45843224",
+          "matchedName": "Rhizobiales",
+          "matchedCanonical": "Rhizobiales",
+          "currentName": "Rhizobiales",
+          "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841358|45841359|45841360|45843224",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45843224",
+            "matchedName": "Rhizobiales",
+            "matchedCanonical": "Rhizobiales",
+            "currentName": "Rhizobiales",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841358|45841359|45841360|45843224",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1221",
+            "matchedName": "Rhizobiales",
+            "matchedCanonical": "Rhizobiales",
+            "currentName": "Rhizobiales",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "3|111|197|1221",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1091894",
+            "matchedName": "Rhizobiales",
+            "matchedCanonical": "Rhizobiales",
+            "currentName": "Rhizobiales",
+            "classificationPath": "||Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order",
+            "classificationIDs": "805080|93302|844192|248067|683449|1091894",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Rhodospirillales,",
+      "name": "Rhodospirillales",
+      "odds": 1944.1421533940538,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "16": 29.094095397716973
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "les": 0.5582986048197137
+          }
+        }
+      },
+      "start": 23495,
+      "end": 23512,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45849471",
+          "matchedName": "Rhodospirillales",
+          "matchedCanonical": "Rhodospirillales",
+          "currentName": "Rhodospirillales",
+          "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhodospirillales",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841358|45841359|45841360|45849471",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45849471",
+            "matchedName": "Rhodospirillales",
+            "matchedCanonical": "Rhodospirillales",
+            "currentName": "Rhodospirillales",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhodospirillales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841358|45841359|45841360|45849471",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1223",
+            "matchedName": "Rhodospirillales",
+            "matchedCanonical": "Rhodospirillales",
+            "currentName": "Rhodospirillales",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhodospirillales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "3|111|197|1223",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "277145",
+            "matchedName": "Rhodospirillales",
+            "matchedCanonical": "Rhodospirillales",
+            "currentName": "Rhodospirillales",
+            "classificationPath": "||Bacteria|Proteobacteria|Alphaproteobacteria|Rhodospirillales",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order",
+            "classificationIDs": "805080|93302|844192|248067|683449|277145",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Deltaproteobacteria",
+      "name": "Deltaproteobacteria",
+      "odds": 26640.331653436308,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "19": 25.027178836745787
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 23517,
+      "end": 23536,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45849507",
+          "matchedName": "Deltaproteobacteria",
+          "matchedCanonical": "Deltaproteobacteria",
+          "currentName": "Deltaproteobacteria",
+          "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841358|45841359|45849507",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45849507",
+            "matchedName": "Deltaproteobacteria",
+            "matchedCanonical": "Deltaproteobacteria",
+            "currentName": "Deltaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841358|45841359|45849507",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "338",
+            "matchedName": "Deltaproteobacteria",
+            "matchedCanonical": "Deltaproteobacteria",
+            "currentName": "Deltaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "3|111|338",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "109210",
+            "matchedName": "Deltaproteobacteria",
+            "matchedCanonical": "Deltaproteobacteria",
+            "currentName": "Deltaproteobacteria",
+            "classificationPath": "||Bacteria|Proteobacteria|Deltaproteobacteria",
+            "classificationRank": "no rank|no rank|domain|phylum|class",
+            "classificationIDs": "805080|93302|844192|248067|109210",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Myxococcales,",
+      "name": "Myxococcales",
+      "odds": 488.15426345029437,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "les": 0.5582986048197137
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 23543,
+      "end": 23556,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45849527",
+          "matchedName": "Myxococcales",
+          "matchedCanonical": "Myxococcales",
+          "currentName": "Myxococcales",
+          "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841358|45841359|45849507|45849527",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45849527",
+            "matchedName": "Myxococcales",
+            "matchedCanonical": "Myxococcales",
+            "currentName": "Myxococcales",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841358|45841359|45849507|45849527",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1384",
+            "matchedName": "Myxococcales",
+            "matchedCanonical": "Myxococcales",
+            "currentName": "Myxococcales",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "3|111|338|1384",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1007130",
+            "matchedName": "Myxococcales",
+            "matchedCanonical": "Myxococcales",
+            "currentName": "Myxococcales",
+            "classificationPath": "||Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order",
+            "classificationIDs": "805080|93302|844192|248067|109210|1007130",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Acidobacteria,",
+      "name": "Acidobacteria",
+      "odds": 9564.61907279623,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 23561,
+      "end": 23575,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844245",
+          "matchedName": "Acidobacteria",
+          "matchedCanonical": "Acidobacteria",
+          "currentName": "Acidobacteria",
+          "classificationPath": "Bacteria|Acidobacteria",
+          "classificationRank": "kingdom|phylum",
+          "classificationIDs": "45841358|45844245",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844245",
+            "matchedName": "Acidobacteria",
+            "matchedCanonical": "Acidobacteria",
+            "currentName": "Acidobacteria",
+            "classificationPath": "Bacteria|Acidobacteria",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "45841358|45844245",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "25",
+            "matchedName": "Acidobacteria",
+            "matchedCanonical": "Acidobacteria",
+            "currentName": "Acidobacteria",
+            "classificationPath": "Bacteria|Acidobacteria",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "3|25",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "952528",
+            "matchedName": "Acidobacteria",
+            "matchedCanonical": "Acidobacteria",
+            "currentName": "Acidobacteria",
+            "classificationPath": "||Bacteria|Acidobacteria",
+            "classificationRank": "no rank|no rank|domain|phylum",
+            "classificationIDs": "805080|93302|844192|952528",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Planctomycetes,",
+      "name": "Planctomycetes",
+      "odds": 1003.4282082033826,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tes": 0.6225034329951997
+          }
+        }
+      },
+      "start": 23580,
+      "end": 23595,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841363",
+          "matchedName": "Planctomycetes",
+          "matchedCanonical": "Planctomycetes",
+          "currentName": "Planctomycetes",
+          "classificationPath": "Bacteria|Planctomycetes",
+          "classificationRank": "kingdom|phylum",
+          "classificationIDs": "45841358|45841363",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841363",
+            "matchedName": "Planctomycetes",
+            "matchedCanonical": "Planctomycetes",
+            "currentName": "Planctomycetes",
+            "classificationPath": "Bacteria|Planctomycetes",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "45841358|45841363",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "90",
+            "matchedName": "Planctomycetes",
+            "matchedCanonical": "Planctomycetes",
+            "currentName": "Planctomycetes",
+            "classificationPath": "Bacteria|Planctomycetes",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "3|90",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "553035",
+            "matchedName": "Planctomycetes",
+            "matchedCanonical": "Planctomycetes",
+            "currentName": "Planctomycetes",
+            "classificationPath": "||Bacteria|Planctomycetes",
+            "classificationRank": "no rank|no rank|domain|phylum",
+            "classificationIDs": "805080|93302|844192|553035",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Actinobacteria",
+      "name": "Actinobacteria",
+      "odds": 15984.198992061782,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          }
+        }
+      },
+      "start": 23604,
+      "end": 23618,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844174",
+          "matchedName": "Actinobacteria",
+          "matchedCanonical": "Actinobacteria",
+          "currentName": "Actinobacteria",
+          "classificationPath": "Bacteria|Actinobacteria",
+          "classificationRank": "kingdom|phylum",
+          "classificationIDs": "45841358|45844174",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844174",
+            "matchedName": "Actinobacteria",
+            "matchedCanonical": "Actinobacteria",
+            "currentName": "Actinobacteria",
+            "classificationPath": "Bacteria|Actinobacteria",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "45841358|45844174",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "165",
+            "matchedName": "Actinobacteria",
+            "matchedCanonical": "Actinobacteria",
+            "currentName": "Actinobacteria",
+            "classificationPath": "Bacteria|Actinobacteria|Actinobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "3|26|165",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5246105",
+            "matchedName": "Actinobacteria",
+            "matchedCanonical": "Actinobacteria",
+            "currentName": "Actinobacteria",
+            "classificationPath": "||Bacteria|Actinobacteraeota|Actinobacteria",
+            "classificationRank": "no rank|no rank|domain|no rank|phylum",
+            "classificationIDs": "805080|93302|844192|209281|5246105",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Betaproteobacteria",
+      "name": "Betaproteobacteria",
+      "odds": 10123.326028305797,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "18": 9.5103279579634
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 26587,
+      "end": 26605,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45849485",
+          "matchedName": "Betaproteobacteria",
+          "matchedCanonical": "Betaproteobacteria",
+          "currentName": "Betaproteobacteria",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841358|45841359|45849485",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45849485",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841358|45841359|45849485",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "337",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "3|111|337",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "683406",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "no rank|no rank|domain|phylum|class",
+            "classificationIDs": "805080|93302|844192|248067|683406",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Herbaspirillum,",
+      "name": "Herbaspirillum",
+      "odds": 5006238.062659824,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lum": 190.20655915926795
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 26614,
+      "end": 26629,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45948909",
+          "matchedName": "Herbaspirillum",
+          "matchedCanonical": "Herbaspirillum",
+          "currentName": "Herbaspirillum",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849485|45849486|45849491|45948909",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45948909",
+            "matchedName": "Herbaspirillum",
+            "matchedCanonical": "Herbaspirillum",
+            "currentName": "Herbaspirillum",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849485|45849486|45849491|45948909",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3219864",
+            "matchedName": "Herbaspirillum Baldani et al., 1986",
+            "matchedCanonical": "Herbaspirillum",
+            "currentName": "Herbaspirillum Baldani et al., 1986",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|337|648|8927|3219864",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "956193",
+            "matchedName": "Herbaspirillum",
+            "matchedCanonical": "Herbaspirillum",
+            "currentName": "Herbaspirillum",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|1036630|956193",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Janthinobacterium",
+      "name": "Janthinobacterium",
+      "odds": 1743062.6452985625,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ium": 49.66932415292625
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "17": 20.021743069396628
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 26630,
+      "end": 26647,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45948597",
+          "matchedName": "Janthinobacterium",
+          "matchedCanonical": "Janthinobacterium",
+          "currentName": "Janthinobacterium",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Janthinobacterium",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849485|45849486|45849491|45948597",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45948597",
+            "matchedName": "Janthinobacterium",
+            "matchedCanonical": "Janthinobacterium",
+            "currentName": "Janthinobacterium",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Janthinobacterium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849485|45849486|45849491|45948597",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3219885",
+            "matchedName": "Janthinobacterium",
+            "matchedCanonical": "Janthinobacterium",
+            "currentName": "Janthinobacterium",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Janthinobacterium",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|337|648|8927|3219885",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "765278",
+            "matchedName": "Janthinobacterium",
+            "matchedCanonical": "Janthinobacterium",
+            "currentName": "Janthinobacterium",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Janthinobacterium",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|1036630|765278",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Variovorax,",
+      "name": "Variovorax",
+      "odds": 196454.41034051043,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rax": 35.0380503714441
+          }
+        }
+      },
+      "start": 26652,
+      "end": 26663,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46044964",
+          "matchedName": "Variovorax",
+          "matchedCanonical": "Variovorax",
+          "currentName": "Variovorax",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Variovorax",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849485|45849486|45849489|46044964",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46044964",
+            "matchedName": "Variovorax",
+            "matchedCanonical": "Variovorax",
+            "currentName": "Variovorax",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Variovorax",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849485|45849486|45849489|46044964",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3220178",
+            "matchedName": "Variovorax Willems et al., 1991",
+            "matchedCanonical": "Variovorax",
+            "currentName": "Variovorax Willems et al., 1991",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Variovorax",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|337|648|5439|3220178",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "386927",
+            "matchedName": "Variovorax",
+            "matchedCanonical": "Variovorax",
+            "currentName": "Variovorax",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Variovorax",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|1074529|386927",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Burkholderia cepacia",
+      "name": "Burkholderia cepacia",
+      "odds": 73250568540.01987,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 26683,
+      "end": 26703,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7a469b194221750e5c401f9bf70ecf58",
+          "matchedName": "Burkholderia cepacia (Palleroni and Holmes, 1981) Yabuuchi et al., 1993",
+          "matchedCanonical": "Burkholderia cepacia",
+          "currentName": "Burkholderia cepacia (Palleroni and Holmes, 1981) Yabuuchi et al., 1993",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cepacia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849485|45849486|45849488|45949408|7a469b194221750e5c401f9bf70ecf58",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "7a469b194221750e5c401f9bf70ecf58",
+            "matchedName": "Burkholderia cepacia (Palleroni and Holmes, 1981) Yabuuchi et al., 1993",
+            "matchedCanonical": "Burkholderia cepacia",
+            "currentName": "Burkholderia cepacia (Palleroni and Holmes, 1981) Yabuuchi et al., 1993",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cepacia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849485|45849486|45849488|45949408|7a469b194221750e5c401f9bf70ecf58",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3219940",
+            "matchedName": "Burkholderia cepacia (Palleroni \u0026 Holmes, 1981) Yabuuchi et al., 1993 Yabuuchi et al., 1993 (Palleroni \u0026 Holmes, 1981)",
+            "matchedCanonical": "Burkholderia cepacia",
+            "currentName": "Burkholderia cepacia (Palleroni \u0026 Holmes, 1981) Yabuuchi et al., 1993 Yabuuchi et al., 1993 (Palleroni \u0026 Holmes, 1981)",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cepacia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|337|648|5438|3219916|3219940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "383566",
+            "matchedName": "Burkholderia cepacia ATCC 25416",
+            "matchedCanonical": "Burkholderia cepacia",
+            "currentName": "Burkholderia cepacia ATCC 25416",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cepacia",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|190168|445578|383566",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Alphaproteobacteria",
+      "name": "Alphaproteobacteria",
+      "odds": 26640.331653436308,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "19": 25.027178836745787
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 26840,
+      "end": 26859,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841360",
+          "matchedName": "Alphaproteobacteria",
+          "matchedCanonical": "Alphaproteobacteria",
+          "currentName": "Alphaproteobacteria",
+          "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841358|45841359|45841360",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841360",
+            "matchedName": "Alphaproteobacteria",
+            "matchedCanonical": "Alphaproteobacteria",
+            "currentName": "Alphaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841358|45841359|45841360",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "197",
+            "matchedName": "Alphaproteobacteria",
+            "matchedCanonical": "Alphaproteobacteria",
+            "currentName": "Alphaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "3|111|197",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "683449",
+            "matchedName": "Alphaproteobacteria",
+            "matchedCanonical": "Alphaproteobacteria",
+            "currentName": "Alphaproteobacteria",
+            "classificationPath": "||Bacteria|Proteobacteria|Alphaproteobacteria",
+            "classificationRank": "no rank|no rank|domain|phylum|class",
+            "classificationIDs": "805080|93302|844192|248067|683449",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Azospirillum",
+      "name": "Azospirillum",
+      "odds": 2435467.1656182935,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lum": 190.20655915926795
+          }
+        }
+      },
+      "start": 26867,
+      "end": 26879,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45949479",
+          "matchedName": "Azospirillum",
+          "matchedCanonical": "Azospirillum",
+          "currentName": "Azospirillum",
+          "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhodospirillales|Rhodospirillaceae|Azospirillum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45841360|45849471|45849474|45949479",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45949479",
+            "matchedName": "Azospirillum",
+            "matchedCanonical": "Azospirillum",
+            "currentName": "Azospirillum",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhodospirillales|Rhodospirillaceae|Azospirillum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45841360|45849471|45849474|45949479",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3221657",
+            "matchedName": "Azospirillum",
+            "matchedCanonical": "Azospirillum",
+            "currentName": "Azospirillum",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhodospirillales|Rhodospirillaceae|Azospirillum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|197|1223|4730|3221657",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "559467",
+            "matchedName": "Azospirillum",
+            "matchedCanonical": "Azospirillum",
+            "currentName": "Azospirillum",
+            "classificationPath": "||Bacteria|Proteobacteria|Alphaproteobacteria|Rhodospirillales|Rhodospirillaceae|Azospirillum",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683449|277145|810826|559467",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Sphingomonas",
+      "name": "Sphingomonas",
+      "odds": 67295.80326050549,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nas": 5.255707555716615
+          }
+        }
+      },
+      "start": 26884,
+      "end": 26896,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46044730",
+          "matchedName": "Sphingomonas",
+          "matchedCanonical": "Sphingomonas",
+          "currentName": "Sphingomonas",
+          "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45841360|45849482|45849484|46044730",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46044730",
+            "matchedName": "Sphingomonas",
+            "matchedCanonical": "Sphingomonas",
+            "currentName": "Sphingomonas",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45841360|45849482|45849484|46044730",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3221354",
+            "matchedName": "Sphingomonas Yabuuchi et al., 1990",
+            "matchedCanonical": "Sphingomonas",
+            "currentName": "Sphingomonas Yabuuchi et al., 1990",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|197|647|8926|3221354",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "489855",
+            "matchedName": "Sphingomonas",
+            "matchedCanonical": "Sphingomonas",
+            "currentName": "Sphingomonas",
+            "classificationPath": "||Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683449|800600|810820|489855",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Deltaproteobacteria",
+      "name": "Deltaproteobacteria",
+      "odds": 26640.331653436308,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "19": 25.027178836745787
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 26970,
+      "end": 26989,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45849507",
+          "matchedName": "Deltaproteobacteria",
+          "matchedCanonical": "Deltaproteobacteria",
+          "currentName": "Deltaproteobacteria",
+          "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841358|45841359|45849507",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45849507",
+            "matchedName": "Deltaproteobacteria",
+            "matchedCanonical": "Deltaproteobacteria",
+            "currentName": "Deltaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841358|45841359|45849507",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "338",
+            "matchedName": "Deltaproteobacteria",
+            "matchedCanonical": "Deltaproteobacteria",
+            "currentName": "Deltaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "3|111|338",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "109210",
+            "matchedName": "Deltaproteobacteria",
+            "matchedCanonical": "Deltaproteobacteria",
+            "currentName": "Deltaproteobacteria",
+            "classificationPath": "||Bacteria|Proteobacteria|Deltaproteobacteria",
+            "classificationRank": "no rank|no rank|domain|phylum|class",
+            "classificationIDs": "805080|93302|844192|248067|109210",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Myxococcus",
+      "name": "Myxococcus",
+      "odds": 2146966.0558641497,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          }
+        }
+      },
+      "start": 26996,
+      "end": 27006,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46044258",
+          "matchedName": "Myxococcus",
+          "matchedCanonical": "Myxococcus",
+          "currentName": "Myxococcus",
+          "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales|Myxococcaceae|Myxococcus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849507|45849527|45849531|46044258",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46044258",
+            "matchedName": "Myxococcus",
+            "matchedCanonical": "Myxococcus",
+            "currentName": "Myxococcus",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales|Myxococcaceae|Myxococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849507|45849527|45849531|46044258",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3220562",
+            "matchedName": "Myxococcus Thaxter, 1892",
+            "matchedCanonical": "Myxococcus",
+            "currentName": "Myxococcus Thaxter, 1892",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales|Myxococcaceae|Myxococcus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|338|1384|8944|3220562",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "939439",
+            "matchedName": "Myxococcus",
+            "matchedCanonical": "Myxococcus",
+            "currentName": "Myxococcus",
+            "classificationPath": "||Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales|Myxococcaceae|Myxococcus",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|109210|1007130|939441|939439",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Betaproteobacteria",
+      "name": "Betaproteobacteria",
+      "odds": 10123.326028305797,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "18": 9.5103279579634
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          }
+        }
+      },
+      "start": 27011,
+      "end": 27029,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45849485",
+          "matchedName": "Betaproteobacteria",
+          "matchedCanonical": "Betaproteobacteria",
+          "currentName": "Betaproteobacteria",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841358|45841359|45849485",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45849485",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841358|45841359|45849485",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "337",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "3|111|337",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "683406",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "no rank|no rank|domain|phylum|class",
+            "classificationIDs": "805080|93302|844192|248067|683406",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Oxalobacter",
+      "name": "Oxalobacter",
+      "odds": 8553.085982130418,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          }
+        }
+      },
+      "start": 27037,
+      "end": 27048,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46044350",
+          "matchedName": "Oxalobacter",
+          "matchedCanonical": "Oxalobacter",
+          "currentName": "Oxalobacter",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Oxalobacter",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849485|45849486|45849491|46044350",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46044350",
+            "matchedName": "Oxalobacter",
+            "matchedCanonical": "Oxalobacter",
+            "currentName": "Oxalobacter",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Oxalobacter",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849485|45849486|45849491|46044350",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3219850",
+            "matchedName": "Oxalobacter Allison et al., 1985",
+            "matchedCanonical": "Oxalobacter",
+            "currentName": "Oxalobacter Allison et al., 1985",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Oxalobacter",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|337|648|8927|3219850",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "682292",
+            "matchedName": "Oxalobacter",
+            "matchedCanonical": "Oxalobacter",
+            "currentName": "Oxalobacter",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Oxalobacter",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|1036630|682292",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Methylophilus",
+      "name": "Methylophilus",
+      "odds": 3416070.2992138453,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 27053,
+      "end": 27066,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46044203",
+          "matchedName": "Methylophilus",
+          "matchedCanonical": "Methylophilus",
+          "currentName": "Methylophilus",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Methylophilales|Methylophilaceae|Methylophilus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849485|45849495|45849496|46044203",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46044203",
+            "matchedName": "Methylophilus",
+            "matchedCanonical": "Methylophilus",
+            "currentName": "Methylophilus",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Methylophilales|Methylophilaceae|Methylophilus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849485|45849495|45849496|46044203",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3220331",
+            "matchedName": "Methylophilus Jenkins et al., 1987",
+            "matchedCanonical": "Methylophilus",
+            "currentName": "Methylophilus Jenkins et al., 1987",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Methylophilales|Methylophilaceae|Methylophilus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|337|649|8929|3220331",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "953786",
+            "matchedName": "Methylophilus",
+            "matchedCanonical": "Methylophilus",
+            "currentName": "Methylophilus",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Methylophilales|Methylophilaceae|Methylophilus",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683406|779195|344389|953786",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Burkholderia cepacia.",
+      "name": "Burkholderia cepacia",
+      "odds": 73250568540.01987,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 27434,
+      "end": 27455,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7a469b194221750e5c401f9bf70ecf58",
+          "matchedName": "Burkholderia cepacia (Palleroni and Holmes, 1981) Yabuuchi et al., 1993",
+          "matchedCanonical": "Burkholderia cepacia",
+          "currentName": "Burkholderia cepacia (Palleroni and Holmes, 1981) Yabuuchi et al., 1993",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cepacia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841358|45841359|45849485|45849486|45849488|45949408|7a469b194221750e5c401f9bf70ecf58",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "7a469b194221750e5c401f9bf70ecf58",
+            "matchedName": "Burkholderia cepacia (Palleroni and Holmes, 1981) Yabuuchi et al., 1993",
+            "matchedCanonical": "Burkholderia cepacia",
+            "currentName": "Burkholderia cepacia (Palleroni and Holmes, 1981) Yabuuchi et al., 1993",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cepacia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841358|45841359|45849485|45849486|45849488|45949408|7a469b194221750e5c401f9bf70ecf58",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3219940",
+            "matchedName": "Burkholderia cepacia (Palleroni \u0026 Holmes, 1981) Yabuuchi et al., 1993 Yabuuchi et al., 1993 (Palleroni \u0026 Holmes, 1981)",
+            "matchedCanonical": "Burkholderia cepacia",
+            "currentName": "Burkholderia cepacia (Palleroni \u0026 Holmes, 1981) Yabuuchi et al., 1993 Yabuuchi et al., 1993 (Palleroni \u0026 Holmes, 1981)",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cepacia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "3|111|337|648|5438|3219916|3219940",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "383566",
+            "matchedName": "Burkholderia cepacia ATCC 25416",
+            "matchedCanonical": "Burkholderia cepacia",
+            "currentName": "Burkholderia cepacia ATCC 25416",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cepacia",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|190168|445578|383566",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "B. cepacia complex",
+      "name": "B. cepacia complex",
+      "odds": 977224.9292811088,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "lex": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 27586,
+      "end": 27604,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. cepacia,",
+      "name": "B. cepacia",
+      "odds": 144646.05704831966,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 27740,
+      "end": 27751,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. seminalis,",
+      "name": "B. seminalis",
+      "odds": 10215084.231424114,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 27752,
+      "end": 27765,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. ambifaria,",
+      "name": "B. ambifaria",
+      "odds": 823797.1154374286,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ria": 31.283973545932234
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 27766,
+      "end": 27779,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. metallica,",
+      "name": "B. metallica",
+      "odds": 13642080.231643818,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 27780,
+      "end": 27793,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. diffusa",
+      "name": "B. diffusa",
+      "odds": 607513.4396029427,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "usa": 52.55707555716615
+          }
+        }
+      },
+      "start": 27794,
+      "end": 27804,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. arboris",
+      "name": "B. arboris",
+      "odds": 3876514.3288949663,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 27809,
+      "end": 27819,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "B. cepacia complex",
+      "name": "B. cepacia complex",
+      "odds": 977224.9292811088,
+      "odds_details": {
+        "Name": {
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "lex": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          }
+        }
+      },
+      "start": 27829,
+      "end": 27847,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Burkholderia cepacia complex",
+      "name": "Burkholderia cepacia complex",
+      "odds": 494878900414.1989,
+      "odds_details": {
+        "Name": {
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispEnd3": {
+            "lex": 10.010871534698314
+          }
+        }
+      },
+      "start": 30960,
+      "end": 30988,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 2,
+          "dataSourceTitle": "Wikispecies",
+          "taxonId": "302237",
+          "matchedName": "Burkholderia cepacia complex",
+          "matchedCanonical": "Burkholderia cepacia complex",
+          "currentName": "Burkholderia cepacia complex",
+          "classificationPath": "Hydrogenimonaceae|Proteobacteria|Unclassified|Burkholderiales|Candidatus|Burkholderia cepacia complex",
+          "classificationRank": "|||||",
+          "classificationIDs": "403|6967|7044|96232|129505|302237",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "429810",
+            "matchedName": "Burkholderia cepacia complex",
+            "matchedCanonical": "Burkholderia cepacia complex",
+            "currentName": "Burkholderia cepacia complex",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia cepacia complex",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus|species group",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|190168|445578|429810",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "B. cepacia complex",
+      "name": "B. cepacia complex",
+      "odds": 977224.9292811088,
+      "odds_details": {
+        "Name": {
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "ispEnd3": {
+            "lex": 10.010871534698314
+          }
+        }
+      },
+      "start": 33687,
+      "end": 33705,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Myxococcales",
+      "name": "Myxococcales",
+      "odds": 488.15426345029437,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "les": 0.5582986048197137
+          }
+        }
+      },
+      "start": 33776,
+      "end": 33788,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45849527",
+          "matchedName": "Myxococcales",
+          "matchedCanonical": "Myxococcales",
+          "currentName": "Myxococcales",
+          "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841358|45841359|45849507|45849527",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45849527",
+            "matchedName": "Myxococcales",
+            "matchedCanonical": "Myxococcales",
+            "currentName": "Myxococcales",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841358|45841359|45849507|45849527",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1384",
+            "matchedName": "Myxococcales",
+            "matchedCanonical": "Myxococcales",
+            "currentName": "Myxococcales",
+            "classificationPath": "Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "3|111|338|1384",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1007130",
+            "matchedName": "Myxococcales",
+            "matchedCanonical": "Myxococcales",
+            "currentName": "Myxococcales",
+            "classificationPath": "||Bacteria|Proteobacteria|Deltaproteobacteria|Myxococcales",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order",
+            "classificationIDs": "805080|93302|844192|248067|109210|1007130",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Alphaproteobacteria",
+      "name": "Alphaproteobacteria",
+      "odds": 26640.331653436308,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "19": 25.027178836745787
+          }
+        }
+      },
+      "start": 33877,
+      "end": 33896,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841360",
+          "matchedName": "Alphaproteobacteria",
+          "matchedCanonical": "Alphaproteobacteria",
+          "currentName": "Alphaproteobacteria",
+          "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841358|45841359|45841360",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841360",
+            "matchedName": "Alphaproteobacteria",
+            "matchedCanonical": "Alphaproteobacteria",
+            "currentName": "Alphaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841358|45841359|45841360",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "197",
+            "matchedName": "Alphaproteobacteria",
+            "matchedCanonical": "Alphaproteobacteria",
+            "currentName": "Alphaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "3|111|197",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "683449",
+            "matchedName": "Alphaproteobacteria",
+            "matchedCanonical": "Alphaproteobacteria",
+            "currentName": "Alphaproteobacteria",
+            "classificationPath": "||Bacteria|Proteobacteria|Alphaproteobacteria",
+            "classificationRank": "no rank|no rank|domain|phylum|class",
+            "classificationIDs": "805080|93302|844192|248067|683449",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Rhizobiales",
+      "name": "Rhizobiales",
+      "odds": 283.01821257018486,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "les": 0.5582986048197137
+          }
+        }
+      },
+      "start": 33904,
+      "end": 33915,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45843224",
+          "matchedName": "Rhizobiales",
+          "matchedCanonical": "Rhizobiales",
+          "currentName": "Rhizobiales",
+          "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841358|45841359|45841360|45843224",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45843224",
+            "matchedName": "Rhizobiales",
+            "matchedCanonical": "Rhizobiales",
+            "currentName": "Rhizobiales",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841358|45841359|45841360|45843224",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1221",
+            "matchedName": "Rhizobiales",
+            "matchedCanonical": "Rhizobiales",
+            "currentName": "Rhizobiales",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "3|111|197|1221",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1091894",
+            "matchedName": "Rhizobiales",
+            "matchedCanonical": "Rhizobiales",
+            "currentName": "Rhizobiales",
+            "classificationPath": "||Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order",
+            "classificationIDs": "805080|93302|844192|248067|683449|1091894",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Rhizobiaceae",
+      "name": "Rhizobiaceae",
+      "odds": 23328.290420846934,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 33974,
+      "end": 33986,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45847142",
+          "matchedName": "Rhizobiaceae",
+          "matchedCanonical": "Rhizobiaceae",
+          "currentName": "Rhizobiaceae",
+          "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Rhizobiaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841358|45841359|45841360|45843224|45847142",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45847142",
+            "matchedName": "Rhizobiaceae",
+            "matchedCanonical": "Rhizobiaceae",
+            "currentName": "Rhizobiaceae",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Rhizobiaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841358|45841359|45841360|45843224|45847142",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7818",
+            "matchedName": "Rhizobiaceae",
+            "matchedCanonical": "Rhizobiaceae",
+            "currentName": "Rhizobiaceae",
+            "classificationPath": "Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Rhizobiaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "3|111|197|1221|7818",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "158309",
+            "matchedName": "Rhizobiaceae",
+            "matchedCanonical": "Rhizobiaceae",
+            "currentName": "Rhizobiaceae",
+            "classificationPath": "||Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Rhizobiaceae",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family",
+            "classificationIDs": "805080|93302|844192|248067|683449|1091894|158309",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Herbaspirillum",
+      "name": "Herbaspirillum",
+      "odds": 5006238.062659824,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lum": 190.20655915926795
+          }
+        }
+      },
+      "start": 34373,
+      "end": 34387,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45948909",
+          "matchedName": "Herbaspirillum",
+          "matchedCanonical": "Herbaspirillum",
+          "currentName": "Herbaspirillum",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841358|45841359|45849485|45849486|45849491|45948909",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45948909",
+            "matchedName": "Herbaspirillum",
+            "matchedCanonical": "Herbaspirillum",
+            "currentName": "Herbaspirillum",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841358|45841359|45849485|45849486|45849491|45948909",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3219864",
+            "matchedName": "Herbaspirillum Baldani et al., 1986",
+            "matchedCanonical": "Herbaspirillum",
+            "currentName": "Herbaspirillum Baldani et al., 1986",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "3|111|337|648|8927|3219864",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "956193",
+            "matchedName": "Herbaspirillum",
+            "matchedCanonical": "Herbaspirillum",
+            "currentName": "Herbaspirillum",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum",
+            "classificationRank": "no rank|no rank|domain|phylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|844192|248067|683406|27008|1036630|956193",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "B. cepacia complex.",
+      "name": "B. cepacia complex",
+      "odds": 977224.9292811088,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "lex": 10.010871534698314
+          }
+        }
+      },
+      "start": 35636,
+      "end": 35655,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "B. cepacia complex",
+      "name": "B. cepacia complex",
+      "odds": 977224.9292811088,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "lex": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 35877,
+      "end": 35895,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "B. cepacia",
+      "name": "B. cepacia",
+      "odds": 144646.05704831966,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          }
+        }
+      },
+      "start": 36137,
+      "end": 36147,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "B. cepacia complex",
+      "name": "B. cepacia complex",
+      "odds": 977224.9292811088,
+      "odds_details": {
+        "Name": {
+          "ispEnd3": {
+            "lex": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cia": 12.513589418372893
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          }
+        }
+      },
+      "start": 36278,
+      "end": 36296,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Betaproteobacteria",
+      "name": "Betaproteobacteria",
+      "odds": 10123.326028305797,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "18": 9.5103279579634
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 36326,
+      "end": 36344,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45849485",
+          "matchedName": "Betaproteobacteria",
+          "matchedCanonical": "Betaproteobacteria",
+          "currentName": "Betaproteobacteria",
+          "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841358|45841359|45849485",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45849485",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841358|45841359|45849485",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "337",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "3|111|337",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "683406",
+            "matchedName": "Betaproteobacteria",
+            "matchedCanonical": "Betaproteobacteria",
+            "currentName": "Betaproteobacteria",
+            "classificationPath": "||Bacteria|Proteobacteria|Betaproteobacteria",
+            "classificationRank": "no rank|no rank|domain|phylum|class",
+            "classificationIDs": "805080|93302|844192|248067|683406",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Z. mays genetic",
+      "name": "Z. mays genetic",
+      "odds": 697.3239048050154,
+      "odds_details": {
+        "Name": {
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispEnd3": {
+            "tic": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ays": 0.15641986772966116
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          }
+        }
+      },
+      "start": 37675,
+      "end": 37690,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Poaceae",
+      "name": "Poaceae",
+      "odds": 2658.2309773668408,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 38006,
+      "end": 38013,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844442",
+          "matchedName": "Poaceae",
+          "matchedCanonical": "Poaceae",
+          "currentName": "Poaceae",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844442",
+            "matchedName": "Poaceae",
+            "matchedCanonical": "Poaceae",
+            "currentName": "Poaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3073",
+            "matchedName": "Poaceae",
+            "matchedCanonical": "Poaceae",
+            "currentName": "Poaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|196|1369|3073",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "508090",
+            "matchedName": "Poaceae",
+            "matchedCanonical": "Poaceae",
+            "currentName": "Poaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

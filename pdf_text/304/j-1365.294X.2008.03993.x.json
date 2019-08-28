@@ -1,0 +1,469 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:03:46.121873409-05:00",
+    "language": "eng",
+    "total_words": 8401,
+    "total_candidates": 1381,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Casas,",
+      "name": "Casas",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "sas": 0.06764102388309673
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 831,
+      "end": 837,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1442286",
+          "matchedName": "Casas Wallengren, 1881",
+          "matchedCanonical": "Casas",
+          "currentName": "Casas Wallengren, 1881",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Lepidoptera|Casas",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|108215|1442286",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4577284",
+            "matchedName": "Casas Wallengren, 1881",
+            "matchedCanonical": "Casas",
+            "currentName": "Coleophora Hübner, 1822",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Coleophoridae|Coleophora",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|8838|1843897",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Elena",
+      "name": "Elena",
+      "odds": 41208.81846075324,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ena": 77.58425439391193
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 3214,
+      "end": 3219,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1438060",
+          "matchedName": "Elena Caziot, 1910",
+          "matchedCanonical": "Elena",
+          "currentName": "Elena Caziot, 1910",
+          "classificationPath": "Biota|Animalia|Mollusca|Mollusca|Mollusca|Mollusca|Elena",
+          "classificationRank": "|Kingdom|Phylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|175|1197|10781|103222|1438060",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4617560",
+            "matchedName": "Elena Caziot, 1910",
+            "matchedCanonical": "Elena",
+            "currentName": "Elena Caziot, 1910",
+            "classificationPath": "Animalia|Mollusca|Elena",
+            "classificationRank": "kingdom|phylum|genus",
+            "classificationIDs": "1|52|4617560",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Zea mays",
+      "name": "Zea mays",
+      "odds": 1.0719384060700208,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spEnd3": {
+            "ays": 0.15641986772966116
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 3619,
+      "end": 3628,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6a7681dfa66bae01e4971c2d9b8c1d61",
+          "matchedName": "Zea mays L.",
+          "matchedCanonical": "Zea mays",
+          "currentName": "Zea mays L.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Zea|Zea mays",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46098474|6a7681dfa66bae01e4971c2d9b8c1d61",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6a7681dfa66bae01e4971c2d9b8c1d61",
+            "matchedName": "Zea mays L.",
+            "matchedCanonical": "Zea mays",
+            "currentName": "Zea mays L.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Zea|Zea mays",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46098474|6a7681dfa66bae01e4971c2d9b8c1d61",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5290052",
+            "matchedName": "Zea mays L.",
+            "matchedCanonical": "Zea mays",
+            "currentName": "Zea mays L.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Zea|Zea mays",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2705049|5290052",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "605194",
+            "matchedName": "Zea mays",
+            "matchedCanonical": "Zea mays",
+            "currentName": "Zea mays",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Panicoideae|Andropogonodae|Andropogoneae|Tripsacinae|Zea|Zea mays",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|641461|5737327|475213|5759522|605186|605194",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Catarina",
+      "name": "Catarina",
+      "odds": 9132.861120933094,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 10201,
+      "end": 10209,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1447014",
+          "matchedName": "Catarina Vojnits \u0026 De Laever, 1973",
+          "matchedCanonical": "Catarina",
+          "currentName": "Catarina Vojnits \u0026 De Laever, 1973",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Lepidoptera|Geometridae|Catarina",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|12144|100263|1447014",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4572148",
+            "matchedName": "Catarina Vojnits \u0026 de Laever, 1973",
+            "matchedCanonical": "Catarina",
+            "currentName": "Eupithecia Curtis, 1825",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Geometridae|Eupithecia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6950|1982367",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cabrera",
+      "name": "Cabrera",
+      "odds": 53150.49018433147,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "era": 36.428449195707756
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 10233,
+      "end": 10240,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145914618",
+          "matchedName": "Axonopus sect. Cabrera (Lag.) Chase",
+          "matchedCanonical": "Axonopus sect. Cabrera",
+          "currentName": "Axonopus sect. Cabrera (Lag.) Chase",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4123515",
+            "matchedName": "Cabrera Lag.",
+            "matchedCanonical": "Cabrera",
+            "currentName": "Axonopus P. Beauv.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Axonopus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1369|3073|2705922",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "PCR replicates",
+      "name": "Pcr replicates",
+      "odds": 1.3222219017017869,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          }
+        }
+      },
+      "start": 37754,
+      "end": 37768,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Brassica napa",
+      "name": "Brassica napa",
+      "odds": 130.53170791211724,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ica": 0.8073283495724448
+          },
+          "spLen": {
+            "4": 0.1580663926531313
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 44410,
+      "end": 44423,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "aa81effaf576158482694861ac8495b3",
+          "matchedName": "Brassica napus L.",
+          "matchedCanonical": "Brassica napus",
+          "currentName": "Brassica napus L.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Brassica|Brassica napus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975882|aa81effaf576158482694861ac8495b3",
+          "editDistance": 2,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "aa81effaf576158482694861ac8495b3",
+            "matchedName": "Brassica napus L.",
+            "matchedCanonical": "Brassica napus",
+            "currentName": "Brassica napus L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Brassica|Brassica napus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975882|aa81effaf576158482694861ac8495b3",
+            "editDistance": 2,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3042636",
+            "matchedName": "Brassica napus L.",
+            "matchedCanonical": "Brassica napus",
+            "currentName": "Brassica napus L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Brassica|Brassica napus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3042506|3042636",
+            "editDistance": 2,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309234",
+            "matchedName": "Brassica napus",
+            "matchedCanonical": "Brassica napus",
+            "currentName": "Brassica napus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Brassiceae|Brassica|Brassica napus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|863077|309288|309234",
+            "editDistance": 2,
+            "matchType": "FuzzyCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

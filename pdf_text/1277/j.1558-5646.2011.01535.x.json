@@ -1,0 +1,4247 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:58:50.574410471-05:00",
+    "language": "eng",
+    "total_words": 6407,
+    "total_candidates": 1099,
+    "total_names": 93
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "OCHTHEBIUS",
+      "name": "Ochthebius",
+      "odds": 139155.2073245282,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 133,
+      "end": 143,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45860200",
+          "matchedName": "Ochthebius",
+          "matchedCanonical": "Ochthebius",
+          "currentName": "Ochthebius",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45860200",
+            "matchedName": "Ochthebius",
+            "matchedCanonical": "Ochthebius",
+            "currentName": "Ochthebius",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1039042",
+            "matchedName": "Ochthebius Leach, 1815",
+            "matchedCanonical": "Ochthebius",
+            "currentName": "Ochthebius Leach, 1815",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|7829|1039042",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "915375",
+            "matchedName": "Ochthebius",
+            "matchedCanonical": "Ochthebius",
+            "currentName": "Ochthebius",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ochthebius quadricollis",
+      "name": "Ochthebius quadricollis",
+      "odds": 6401044718036.123,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 1062,
+      "end": 1085,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "matchedCanonical": "Ochthebius quadricollis",
+          "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4447854",
+            "matchedName": "Ochthebius quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7829|1039042|4447854",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "172534",
+            "matchedName": "Ochthebius quadricollis",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375|172534",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae.",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 1090,
+      "end": 1105,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 1399,
+      "end": 1414,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae,",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 1464,
+      "end": 1479,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 1578,
+      "end": 1593,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae.",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 1913,
+      "end": 1928,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Litoria genimaculata",
+      "name": "Litoria genimaculata",
+      "odds": 4935046107631.205,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 4338,
+      "end": 4358,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e17b75732ee48293874fe8112f770396",
+          "matchedName": "Litoria genimaculata (Horst, 1883)",
+          "matchedCanonical": "Litoria genimaculata",
+          "currentName": "Litoria genimaculata (Horst, 1883)",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Hylidae|Litoria|Litoria genimaculata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45846132|45846142|45846171|45890160|e17b75732ee48293874fe8112f770396",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e17b75732ee48293874fe8112f770396",
+            "matchedName": "Litoria genimaculata (Horst, 1883)",
+            "matchedCanonical": "Litoria genimaculata",
+            "currentName": "Litoria genimaculata (Horst, 1883)",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Hylidae|Litoria|Litoria genimaculata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45846132|45846142|45846171|45890160|e17b75732ee48293874fe8112f770396",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2427827",
+            "matchedName": "Litoria genimaculata (Horst, 1883)",
+            "matchedCanonical": "Litoria genimaculata",
+            "currentName": "Litoria genimaculata (Horst, 1883)",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Hylidae|Litoria|Litoria genimaculata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|6735|2427669|2427827",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1071503",
+            "matchedName": "Litoria genimaculata",
+            "matchedCanonical": "Litoria genimaculata",
+            "currentName": "Litoria genimaculata",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Neobatrachia|Hyloidea|Hylidae|Pelodryadinae|Litoria|Litoria genimaculata",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|suborder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|535804|535802|535782|245328|414588|1071503",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "L. genimaculata,",
+      "name": "L. genimaculata",
+      "odds": 85521835.43631984,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 4579,
+      "end": 4595,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. serrata",
+      "name": "D. serrata",
+      "odds": 17965040.2854013,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 5959,
+      "end": 5969,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. birchii",
+      "name": "D. birchii",
+      "odds": 1099310.0335672293,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "hii": 95.10327957963398
+          }
+        }
+      },
+      "start": 6033,
+      "end": 6043,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ochthebius quadricollis",
+      "name": "Ochthebius quadricollis",
+      "odds": 6401044718036.123,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 8055,
+      "end": 8078,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "matchedCanonical": "Ochthebius quadricollis",
+          "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4447854",
+            "matchedName": "Ochthebius quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7829|1039042|4447854",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "172534",
+            "matchedName": "Ochthebius quadricollis",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375|172534",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 8083,
+      "end": 8097,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(=Ochthebius",
+      "name": "Ochthebius",
+      "odds": 139155.2073245282,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          }
+        }
+      },
+      "start": 8098,
+      "end": 8110,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45860200",
+          "matchedName": "Ochthebius",
+          "matchedCanonical": "Ochthebius",
+          "currentName": "Ochthebius",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45860200",
+            "matchedName": "Ochthebius",
+            "matchedCanonical": "Ochthebius",
+            "currentName": "Ochthebius",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1039042",
+            "matchedName": "Ochthebius Leach, 1815",
+            "matchedCanonical": "Ochthebius",
+            "currentName": "Ochthebius Leach, 1815",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|7829|1039042",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "915375",
+            "matchedName": "Ochthebius",
+            "matchedCanonical": "Ochthebius",
+            "currentName": "Ochthebius",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 9549,
+      "end": 9564,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 9569,
+      "end": 9583,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 9813,
+      "end": 9828,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae.",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 9836,
+      "end": 9851,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 10039,
+      "end": 10054,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae,",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 10059,
+      "end": 10074,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 10676,
+      "end": 10691,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae,",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 10699,
+      "end": 10714,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 11146,
+      "end": 11161,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 11166,
+      "end": 11180,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 11276,
+      "end": 11291,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 11331,
+      "end": 11345,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 11406,
+      "end": 11421,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 11426,
+      "end": 11440,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Octhebius quadricollis",
+      "name": "Octhebius quadricollis",
+      "odds": 90641.99745432578,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 12254,
+      "end": 12276,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "matchedCanonical": "Ochthebius quadricollis",
+          "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4447854",
+            "matchedName": "Ochthebius quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7829|1039042|4447854",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "172534",
+            "matchedName": "Ochthebius quadricollis",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375|172534",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 12281,
+      "end": 12295,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 12628,
+      "end": 12642,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis).",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 12660,
+      "end": 12677,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 13964,
+      "end": 13979,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 13984,
+      "end": 13998,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ochthebius quadricollis",
+      "name": "Ochthebius quadricollis",
+      "odds": 6401044718036.123,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 15346,
+      "end": 15369,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "matchedCanonical": "Ochthebius quadricollis",
+          "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4447854",
+            "matchedName": "Ochthebius quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7829|1039042|4447854",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "172534",
+            "matchedName": "Ochthebius quadricollis",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375|172534",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae.",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 15425,
+      "end": 15440,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 15495,
+      "end": 15509,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ochthebius quadricollis",
+      "name": "Ochthebius quadricollis",
+      "odds": 6401044718036.123,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 15565,
+      "end": 15588,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "matchedCanonical": "Ochthebius quadricollis",
+          "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4447854",
+            "matchedName": "Ochthebius quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7829|1039042|4447854",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "172534",
+            "matchedName": "Ochthebius quadricollis",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375|172534",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ochthebius urbanelliae",
+      "name": "Ochthebius urbanelliae",
+      "odds": 3344733270819.4927,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          }
+        }
+      },
+      "start": 17591,
+      "end": 17613,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "cbe49adad19d20b74556448ab24b0e04",
+          "matchedName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+          "matchedCanonical": "Ochthebius urbanelliae",
+          "currentName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|cbe49adad19d20b74556448ab24b0e04",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "cbe49adad19d20b74556448ab24b0e04",
+            "matchedName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|cbe49adad19d20b74556448ab24b0e04",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6005379",
+            "matchedName": "Ochthebius urbanelliae (Audisio et al., 2009)",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius urbanelliae (Audisio et al., 2009)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7829|1039042|6005379",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "284799",
+            "matchedName": "Ochthebius urbanelliae",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius urbanelliae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375|284799",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ochthebius quadricollis.",
+      "name": "Ochthebius quadricollis",
+      "odds": 6401044718036.123,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 17681,
+      "end": 17705,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "matchedCanonical": "Ochthebius quadricollis",
+          "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4447854",
+            "matchedName": "Ochthebius quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7829|1039042|4447854",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "172534",
+            "matchedName": "Ochthebius quadricollis",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375|172534",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 17760,
+      "end": 17775,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ochthebius urbanelliae",
+      "name": "Ochthebius urbanelliae",
+      "odds": 3344733270819.4927,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 17831,
+      "end": 17853,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "cbe49adad19d20b74556448ab24b0e04",
+          "matchedName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+          "matchedCanonical": "Ochthebius urbanelliae",
+          "currentName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|cbe49adad19d20b74556448ab24b0e04",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "cbe49adad19d20b74556448ab24b0e04",
+            "matchedName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|cbe49adad19d20b74556448ab24b0e04",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6005379",
+            "matchedName": "Ochthebius urbanelliae (Audisio et al., 2009)",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius urbanelliae (Audisio et al., 2009)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7829|1039042|6005379",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "284799",
+            "matchedName": "Ochthebius urbanelliae",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius urbanelliae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375|284799",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ochthebius urbanelliae",
+      "name": "Ochthebius urbanelliae",
+      "odds": 3344733270819.4927,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 20424,
+      "end": 20446,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "cbe49adad19d20b74556448ab24b0e04",
+          "matchedName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+          "matchedCanonical": "Ochthebius urbanelliae",
+          "currentName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|cbe49adad19d20b74556448ab24b0e04",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "cbe49adad19d20b74556448ab24b0e04",
+            "matchedName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|cbe49adad19d20b74556448ab24b0e04",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6005379",
+            "matchedName": "Ochthebius urbanelliae (Audisio et al., 2009)",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius urbanelliae (Audisio et al., 2009)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7829|1039042|6005379",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "284799",
+            "matchedName": "Ochthebius urbanelliae",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius urbanelliae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375|284799",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ochthebius quadricollis",
+      "name": "Ochthebius quadricollis",
+      "odds": 6401044718036.123,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 22221,
+      "end": 22244,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "matchedCanonical": "Ochthebius quadricollis",
+          "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4447854",
+            "matchedName": "Ochthebius quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7829|1039042|4447854",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "172534",
+            "matchedName": "Ochthebius quadricollis",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375|172534",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 22379,
+      "end": 22393,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ochthebius quadricollis.",
+      "name": "Ochthebius quadricollis",
+      "odds": 6401044718036.123,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 23147,
+      "end": 23171,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "matchedCanonical": "Ochthebius quadricollis",
+          "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchedName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius (Calobius) quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|1f80fa8f74e9de05e045d481e74e7b7c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4447854",
+            "matchedName": "Ochthebius quadricollis Mulsant, 1844",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis Mulsant, 1844",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7829|1039042|4447854",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "172534",
+            "matchedName": "Ochthebius quadricollis",
+            "matchedCanonical": "Ochthebius quadricollis",
+            "currentName": "Ochthebius quadricollis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius quadricollis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375|172534",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae.",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 23454,
+      "end": 23469,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 23641,
+      "end": 23656,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 23693,
+      "end": 23707,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 23712,
+      "end": 23727,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 25049,
+      "end": 25064,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae.",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 25068,
+      "end": 25083,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 25442,
+      "end": 25457,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae,",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 25462,
+      "end": 25477,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ochthebius urbanelliae",
+      "name": "Ochthebius urbanelliae",
+      "odds": 3344733270819.4927,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 26834,
+      "end": 26856,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "cbe49adad19d20b74556448ab24b0e04",
+          "matchedName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+          "matchedCanonical": "Ochthebius urbanelliae",
+          "currentName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|cbe49adad19d20b74556448ab24b0e04",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "cbe49adad19d20b74556448ab24b0e04",
+            "matchedName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|cbe49adad19d20b74556448ab24b0e04",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6005379",
+            "matchedName": "Ochthebius urbanelliae (Audisio et al., 2009)",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius urbanelliae (Audisio et al., 2009)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7829|1039042|6005379",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "284799",
+            "matchedName": "Ochthebius urbanelliae",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius urbanelliae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375|284799",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 27448,
+      "end": 27463,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ochthebius urbanelliae.",
+      "name": "Ochthebius urbanelliae",
+      "odds": 3344733270819.4927,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 28480,
+      "end": 28503,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "cbe49adad19d20b74556448ab24b0e04",
+          "matchedName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+          "matchedCanonical": "Ochthebius urbanelliae",
+          "currentName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|cbe49adad19d20b74556448ab24b0e04",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "cbe49adad19d20b74556448ab24b0e04",
+            "matchedName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius (Calobius) urbanelliae (Audisio et al., 2009)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200|cbe49adad19d20b74556448ab24b0e04",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6005379",
+            "matchedName": "Ochthebius urbanelliae (Audisio et al., 2009)",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius urbanelliae (Audisio et al., 2009)",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|1470|7829|1039042|6005379",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "284799",
+            "matchedName": "Ochthebius urbanelliae",
+            "matchedCanonical": "Ochthebius urbanelliae",
+            "currentName": "Ochthebius urbanelliae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius|Ochthebius urbanelliae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375|284799",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 29319,
+      "end": 29334,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae,",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 29342,
+      "end": 29357,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 29761,
+      "end": 29775,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis,",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 30262,
+      "end": 30278,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae,",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 30415,
+      "end": 30430,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae,",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 30566,
+      "end": 30581,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae,",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 30686,
+      "end": 30701,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 30812,
+      "end": 30827,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 30832,
+      "end": 30846,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis,",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 33398,
+      "end": 33414,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis.",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 33647,
+      "end": 33663,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 34014,
+      "end": 34028,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 34065,
+      "end": 34079,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 34084,
+      "end": 34099,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae,",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 34348,
+      "end": 34363,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 34799,
+      "end": 34813,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 34933,
+      "end": 34948,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 35474,
+      "end": 35488,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 36296,
+      "end": 36310,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis.",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 37177,
+      "end": 37193,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae,",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 37307,
+      "end": 37322,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 37768,
+      "end": 37783,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae,",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 37788,
+      "end": 37803,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 39511,
+      "end": 39525,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ochthebius",
+      "name": "Ochthebius",
+      "odds": 139155.2073245282,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ius": 24.818619013106236
+          }
+        }
+      },
+      "start": 39889,
+      "end": 39899,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45860200",
+          "matchedName": "Ochthebius",
+          "matchedCanonical": "Ochthebius",
+          "currentName": "Ochthebius",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45860200",
+            "matchedName": "Ochthebius",
+            "matchedCanonical": "Ochthebius",
+            "currentName": "Ochthebius",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinoidea|Hydraenidae|Ochthebius",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841412|45844016|45844074|45860200",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1039042",
+            "matchedName": "Ochthebius Leach, 1815",
+            "matchedCanonical": "Ochthebius",
+            "currentName": "Ochthebius Leach, 1815",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Hydraenidae|Ochthebius",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|7829|1039042",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "915375",
+            "matchedName": "Ochthebius",
+            "matchedCanonical": "Ochthebius",
+            "currentName": "Ochthebius",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Staphyliniformia|Staphylinoidea|Hydraenidae|Ochthebius",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|254363|504364|738374|915375",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Spea multiplicata",
+      "name": "Spea multiplicata",
+      "odds": 55086715765.22971,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "pea": 2.5027178836745785
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          }
+        }
+      },
+      "start": 40235,
+      "end": 40252,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b922264459369834db15b2def214c46a",
+          "matchedName": "Spea multiplicata (Cope, 1863)",
+          "matchedCanonical": "Spea multiplicata",
+          "currentName": "Spea multiplicata (Cope, 1863)",
+          "classificationPath": "Animalia|Chordata|Amphibia|Anura|Scaphiopodidae|Spea|Spea multiplicata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45846132|45846142|45846145|45978961|b922264459369834db15b2def214c46a",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b922264459369834db15b2def214c46a",
+            "matchedName": "Spea multiplicata (Cope, 1863)",
+            "matchedCanonical": "Spea multiplicata",
+            "currentName": "Spea multiplicata (Cope, 1863)",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Scaphiopodidae|Spea|Spea multiplicata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45846132|45846142|45846145|45978961|b922264459369834db15b2def214c46a",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2429785",
+            "matchedName": "Spea multiplicata (Cope, 1863)",
+            "matchedCanonical": "Spea multiplicata",
+            "currentName": "Spea multiplicata (Cope, 1863)",
+            "classificationPath": "Animalia|Chordata|Amphibia|Anura|Scaphiopodidae|Spea|Spea multiplicata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|131|952|3098|2429782|2429785",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1013104",
+            "matchedName": "Spea multiplicata",
+            "matchedCanonical": "Spea multiplicata",
+            "currentName": "Spea multiplicata",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amphibia|Batrachia|Anura|Pelobatoidea|Pelobatidae|Spea|Spea multiplicata",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|class|superorder|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|544595|471197|991547|485820|485821|1013103|1013104",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. bombifrons.",
+      "name": "S. bombifrons",
+      "odds": 34288.91125399293,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ons": 0.5268879755104376
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 40257,
+      "end": 40271,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. multiplicata",
+      "name": "S. multiplicata",
+      "odds": 85521835.43631984,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 40512,
+      "end": 40527,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 40891,
+      "end": 40906,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae,",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 40911,
+      "end": 40926,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 41419,
+      "end": 41434,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae,",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 41439,
+      "end": 41454,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 41734,
+      "end": 41748,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. quadricollis",
+      "name": "O. quadricollis",
+      "odds": 21346029.778791584,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 41764,
+      "end": 41779,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "O. urbanelliae",
+      "name": "O. urbanelliae",
+      "odds": 11153925.51466705,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iae": 160.17394455517302
+          }
+        }
+      },
+      "start": 41838,
+      "end": 41852,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Lauria,",
+      "name": "Lauria",
+      "odds": 13573.131603588225,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 42061,
+      "end": 42068,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45904869",
+          "matchedName": "Lauria",
+          "matchedCanonical": "Lauria",
+          "currentName": "Lauria",
+          "classificationPath": "Animalia|Mollusca|Gastropoda|Stylommatophora|Pupilloidea|Lauriidae|Lauria",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841999|45842000|45842088|45842291|45850177|45904869",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45904869",
+            "matchedName": "Lauria",
+            "matchedCanonical": "Lauria",
+            "currentName": "Lauria",
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Stylommatophora|Pupilloidea|Lauriidae|Lauria",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841999|45842000|45842088|45842291|45850177|45904869",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8643104",
+            "matchedName": "Lauria Gray, 1840",
+            "matchedCanonical": "Lauria",
+            "currentName": "Lauria Gray, 1840",
+            "classificationPath": "Animalia|Mollusca|Gastropoda|Stylommatophora|Pupillidae|Lauria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|52|225|1456|2623|8643104",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "74918",
+            "matchedName": "Lauria",
+            "matchedCanonical": "Lauria",
+            "currentName": "Lauria",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Mollusca|Gastropoda|Heterobranchia|Euthyneura|Panpulmonata|Eupulmonata|Stylommatophora|Sigmurethra|Punctoidea|Punctidae|Lauria",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|subclass|no rank|no rank|no rank|infraorder|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|802117|409995|178260|178262|933373|379916|844843|329706|955839|74924|74918",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

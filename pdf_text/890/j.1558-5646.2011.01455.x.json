@@ -1,0 +1,1060 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:08:04.795452065-05:00",
+    "language": "eng",
+    "total_words": 7155,
+    "total_candidates": 968,
+    "total_names": 13
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Clelia",
+      "name": "Clelia",
+      "odds": 6962.8402382043505,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          }
+        }
+      },
+      "start": 105,
+      "end": 111,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45920249",
+          "matchedName": "Clelia",
+          "matchedCanonical": "Clelia",
+          "currentName": "Clelia",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dipsadidae|Clelia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842576|45920249",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45920249",
+            "matchedName": "Clelia",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dipsadidae|Clelia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842576|45920249",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2971147",
+            "matchedName": "Clelia Casaretto, 1845",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia Casaretto, 1845",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Clelia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1370|5386|2971147",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5332143",
+            "matchedName": "Clelia",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fabales|Fabaceae|Clelia",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|956360|560323|5332143",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Poecilia reticulata,",
+      "name": "Poecilia reticulata",
+      "odds": 2780412043807.8804,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 818,
+      "end": 838,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1a2112979142994cc7c0ac7710256715",
+          "matchedName": "Poecilia reticulata Peters, 1859",
+          "matchedCanonical": "Poecilia reticulata",
+          "currentName": "Poecilia reticulata Peters, 1859",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|Poecilia reticulata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45849047|45849051|45863748|1a2112979142994cc7c0ac7710256715",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1a2112979142994cc7c0ac7710256715",
+            "matchedName": "Poecilia reticulata Peters, 1859",
+            "matchedCanonical": "Poecilia reticulata",
+            "currentName": "Poecilia reticulata Peters, 1859",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|Poecilia reticulata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45849047|45849051|45863748|1a2112979142994cc7c0ac7710256715",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2350050",
+            "matchedName": "Poecilia reticulata Peters, 1859",
+            "matchedCanonical": "Poecilia reticulata",
+            "currentName": "Poecilia reticulata Peters, 1859",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|Poecilia reticulata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|547|7659|2347767|2350050",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "312452",
+            "matchedName": "Poecilia reticulata",
+            "matchedCanonical": "Poecilia reticulata",
+            "currentName": "Poecilia reticulata",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Neoteleostei|Eurypterygia|Ctenosquamata|Acanthomorphata|Euacanthomorphacea|Percomorphaceae|Ovalentaria|Atherinomorphae|Cyprinodontiformes|Cyprinodontoidei|Poeciliidae|Poeciliinae|Poecilia|Poecilia reticulata",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|no rank|order|no rank|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|108736|108735|108734|108720|108719|5551466|5553750|976556|338836|312448|583631|399706|312449|312452",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 28,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Poecilia reticulata)",
+      "name": "Poecilia reticulata",
+      "odds": 2780412043807.8804,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 5137,
+      "end": 5158,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1a2112979142994cc7c0ac7710256715",
+          "matchedName": "Poecilia reticulata Peters, 1859",
+          "matchedCanonical": "Poecilia reticulata",
+          "currentName": "Poecilia reticulata Peters, 1859",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|Poecilia reticulata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45849047|45849051|45863748|1a2112979142994cc7c0ac7710256715",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1a2112979142994cc7c0ac7710256715",
+            "matchedName": "Poecilia reticulata Peters, 1859",
+            "matchedCanonical": "Poecilia reticulata",
+            "currentName": "Poecilia reticulata Peters, 1859",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|Poecilia reticulata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45849047|45849051|45863748|1a2112979142994cc7c0ac7710256715",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2350050",
+            "matchedName": "Poecilia reticulata Peters, 1859",
+            "matchedCanonical": "Poecilia reticulata",
+            "currentName": "Poecilia reticulata Peters, 1859",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|Poecilia reticulata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|547|7659|2347767|2350050",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "312452",
+            "matchedName": "Poecilia reticulata",
+            "matchedCanonical": "Poecilia reticulata",
+            "currentName": "Poecilia reticulata",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Neoteleostei|Eurypterygia|Ctenosquamata|Acanthomorphata|Euacanthomorphacea|Percomorphaceae|Ovalentaria|Atherinomorphae|Cyprinodontiformes|Cyprinodontoidei|Poeciliidae|Poeciliinae|Poecilia|Poecilia reticulata",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|no rank|order|no rank|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|108736|108735|108734|108720|108719|5551466|5553750|976556|338836|312448|583631|399706|312449|312452",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 28,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Gambusia),",
+      "name": "Gambusia",
+      "odds": 7638.882459238714,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sia": 2.9705156189408553
+          }
+        }
+      },
+      "start": 6330,
+      "end": 6340,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45863070",
+          "matchedName": "Gambusia",
+          "matchedCanonical": "Gambusia",
+          "currentName": "Gambusia",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Gambusia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841293|45849047|45849051|45863070",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45863070",
+            "matchedName": "Gambusia",
+            "matchedCanonical": "Gambusia",
+            "currentName": "Gambusia",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Gambusia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841293|45849047|45849051|45863070",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2349552",
+            "matchedName": "Gambusia Poey, 1854",
+            "matchedCanonical": "Gambusia",
+            "currentName": "Gambusia Poey, 1854",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Gambusia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|204|547|7659|2349552",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "617459",
+            "matchedName": "Gambusia",
+            "matchedCanonical": "Gambusia",
+            "currentName": "Gambusia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Neoteleostei|Eurypterygia|Ctenosquamata|Acanthomorphata|Euacanthomorphacea|Percomorphaceae|Ovalentaria|Atherinomorphae|Cyprinodontiformes|Cyprinodontoidei|Poeciliidae|Poeciliinae|Gambusia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|no rank|order|no rank|no rank|no rank|superorder|order|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|108736|108735|108734|108720|108719|5551466|5553750|976556|338836|312448|583631|399706|617459",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Artemia salina)",
+      "name": "Artemia salina",
+      "odds": 19774463.08363391,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mia": 15.731369554525925
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 8599,
+      "end": 8615,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3cc1ee83b1dc5703495a4d507a3e4580",
+          "matchedName": "Artemia salina (Linnaeus, 1758)",
+          "matchedCanonical": "Artemia salina",
+          "currentName": "Artemia salina (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Arthropoda|Branchiopoda|Anostraca|Artemiidae|Artemia|Artemia salina",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841424|45844532|45844540|45871523|3cc1ee83b1dc5703495a4d507a3e4580",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3cc1ee83b1dc5703495a4d507a3e4580",
+            "matchedName": "Artemia salina (Linnaeus, 1758)",
+            "matchedCanonical": "Artemia salina",
+            "currentName": "Artemia salina (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Anostraca|Artemiidae|Artemia|Artemia salina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841424|45844532|45844540|45871523|3cc1ee83b1dc5703495a4d507a3e4580",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2235237",
+            "matchedName": "Artemia salina (Linnaeus, 1758)",
+            "matchedCanonical": "Artemia salina",
+            "currentName": "Artemia salina (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Arthropoda|Branchiopoda|Anostraca|Artemiidae|Artemia|Artemia salina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|281|544|3674|2235232|2235237",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "558087",
+            "matchedName": "Artemia salina",
+            "matchedCanonical": "Artemia salina",
+            "currentName": "Artemia salina",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Branchiopoda|Sarsostraca|Anostraca|Artemiidae|Artemia|Artemia salina",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|632175|180188|632173|235435|59091|558087",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "CLELIA",
+      "name": "Clelia",
+      "odds": 6962.8402382043505,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 9687,
+      "end": 9693,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45920249",
+          "matchedName": "Clelia",
+          "matchedCanonical": "Clelia",
+          "currentName": "Clelia",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dipsadidae|Clelia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842576|45920249",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45920249",
+            "matchedName": "Clelia",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dipsadidae|Clelia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842576|45920249",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2971147",
+            "matchedName": "Clelia Casaretto, 1845",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia Casaretto, 1845",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Clelia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1370|5386|2971147",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5332143",
+            "matchedName": "Clelia",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fabales|Fabaceae|Clelia",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|956360|560323|5332143",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "CLELIA",
+      "name": "Clelia",
+      "odds": 6962.8402382043505,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          }
+        }
+      },
+      "start": 21112,
+      "end": 21118,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45920249",
+          "matchedName": "Clelia",
+          "matchedCanonical": "Clelia",
+          "currentName": "Clelia",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dipsadidae|Clelia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842576|45920249",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45920249",
+            "matchedName": "Clelia",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dipsadidae|Clelia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842576|45920249",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2971147",
+            "matchedName": "Clelia Casaretto, 1845",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia Casaretto, 1845",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Clelia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1370|5386|2971147",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5332143",
+            "matchedName": "Clelia",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fabales|Fabaceae|Clelia",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|956360|560323|5332143",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "CLELIA",
+      "name": "Clelia",
+      "odds": 6962.8402382043505,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          }
+        }
+      },
+      "start": 29817,
+      "end": 29823,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45920249",
+          "matchedName": "Clelia",
+          "matchedCanonical": "Clelia",
+          "currentName": "Clelia",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dipsadidae|Clelia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842576|45920249",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45920249",
+            "matchedName": "Clelia",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dipsadidae|Clelia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842576|45920249",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2971147",
+            "matchedName": "Clelia Casaretto, 1845",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia Casaretto, 1845",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Clelia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1370|5386|2971147",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5332143",
+            "matchedName": "Clelia",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fabales|Fabaceae|Clelia",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|956360|560323|5332143",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Gambusia affinis",
+      "name": "Gambusia affinis",
+      "odds": 56193064570.485245,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sia": 2.9705156189408553
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nis": 295.3207102736003
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 36507,
+      "end": 36523,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e591c7c5adde1340a7de7de638a0b83c",
+          "matchedName": "Gambusia affinis (Baird \u0026 Girard, 1853)",
+          "matchedCanonical": "Gambusia affinis",
+          "currentName": "Gambusia affinis (Baird \u0026 Girard, 1853)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Gambusia|Gambusia affinis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45849047|45849051|45863070|e591c7c5adde1340a7de7de638a0b83c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e591c7c5adde1340a7de7de638a0b83c",
+            "matchedName": "Gambusia affinis (Baird \u0026 Girard, 1853)",
+            "matchedCanonical": "Gambusia affinis",
+            "currentName": "Gambusia affinis (Baird \u0026 Girard, 1853)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Gambusia|Gambusia affinis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45849047|45849051|45863070|e591c7c5adde1340a7de7de638a0b83c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2350580",
+            "matchedName": "Gambusia affinis (Baird \u0026 Girard, 1853)",
+            "matchedCanonical": "Gambusia affinis",
+            "currentName": "Gambusia affinis (Baird \u0026 Girard, 1853)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Gambusia|Gambusia affinis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|547|7659|2349552|2350580",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "617445",
+            "matchedName": "Gambusia affinis",
+            "matchedCanonical": "Gambusia affinis",
+            "currentName": "Gambusia affinis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Neoteleostei|Eurypterygia|Ctenosquamata|Acanthomorphata|Euacanthomorphacea|Percomorphaceae|Ovalentaria|Atherinomorphae|Cyprinodontiformes|Cyprinodontoidei|Poeciliidae|Poeciliinae|Gambusia|Gambusia affinis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|no rank|order|no rank|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|108736|108735|108734|108720|108719|5551466|5553750|976556|338836|312448|583631|399706|617459|617445",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "CLELIA",
+      "name": "Clelia",
+      "odds": 6962.8402382043505,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          }
+        }
+      },
+      "start": 36765,
+      "end": 36771,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45920249",
+          "matchedName": "Clelia",
+          "matchedCanonical": "Clelia",
+          "currentName": "Clelia",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dipsadidae|Clelia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842576|45920249",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45920249",
+            "matchedName": "Clelia",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Dipsadidae|Clelia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842576|45920249",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2971147",
+            "matchedName": "Clelia Casaretto, 1845",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia Casaretto, 1845",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Clelia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1370|5386|2971147",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5332143",
+            "matchedName": "Clelia",
+            "matchedCanonical": "Clelia",
+            "currentName": "Clelia",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fabales|Fabaceae|Clelia",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|956360|560323|5332143",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Hetaerina americana",
+      "name": "Hetaerina americana",
+      "odds": 44925796.209709294,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 37068,
+      "end": 37087,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "006b8925d56c14d0da12a3c10ca91361",
+          "matchedName": "Hetaerina americana Fabricius, 1798",
+          "matchedCanonical": "Hetaerina americana",
+          "currentName": "Hetaerina americana Fabricius, 1798",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Odonata|Calopterygidae|Hetaerina|Hetaerina americana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841270|45841271|45841650|45842965|45871223|006b8925d56c14d0da12a3c10ca91361",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "006b8925d56c14d0da12a3c10ca91361",
+            "matchedName": "Hetaerina americana Fabricius, 1798",
+            "matchedCanonical": "Hetaerina americana",
+            "currentName": "Hetaerina americana Fabricius, 1798",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Odonata|Calopterygidae|Hetaerina|Hetaerina americana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841270|45841271|45841650|45842965|45871223|006b8925d56c14d0da12a3c10ca91361",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1427142",
+            "matchedName": "Hetaerina americana Fabricius, 1798",
+            "matchedCanonical": "Hetaerina americana",
+            "currentName": "Hetaerina americana Fabricius, 1798",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Odonata|Calopterygidae|Hetaerina|Hetaerina americana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|54|216|789|4211|1427106|1427142",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "797868",
+            "matchedName": "Hetaerina americana",
+            "matchedCanonical": "Hetaerina americana",
+            "currentName": "Hetaerina americana",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Palaeoptera|Odonata|Zygoptera|Calopterygoidea|Calopterygidae|Hetaerina|Hetaerina americana",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|order|suborder|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|240538|133665|866414|346418|866417|797853|797868",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. polyacanthus,",
+      "name": "A. polyacanthus",
+      "odds": 4269205.955758317,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "hus": 77.58425439391193
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 41837,
+      "end": 41853,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Barbosa",
+      "name": "Barbosa",
+      "odds": 22822.25246464615,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "osa": 15.641986772966117
+          }
+        }
+      },
+      "start": 43854,
+      "end": 43862,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145096857",
+          "matchedName": "Barbosa Becc.",
+          "matchedCanonical": "Barbosa",
+          "currentName": "Barbosa Becc.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2732073",
+            "matchedName": "Barbosa Becc.",
+            "matchedCanonical": "Barbosa",
+            "currentName": "Syagrus Mart.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Arecales|Arecaceae|Syagrus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|552|7681|2737041",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

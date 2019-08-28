@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:58:20.294197651-05:00",
+    "language": "eng",
+    "total_words": 6530,
+    "total_candidates": 770,
+    "total_names": 1
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Scirus,",
+      "name": "Scirus",
+      "odds": 51824.68430460959,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          }
+        }
+      },
+      "start": 9618,
+      "end": 9625,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1381282",
+          "matchedName": "Scirus Hermann, 1804",
+          "matchedCanonical": "Scirus",
+          "currentName": "Cunaxa von Heyden, 1826",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Chelicerata|Arachnida|Actinedida|Cunaxidae|Cunaxa",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905094|1136|10191|108929|1109716",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7796417",
+            "matchedName": "Scirus Hermann, 1804",
+            "matchedCanonical": "Scirus",
+            "currentName": "Cunaxa von Heyden, 1826",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Prostigmata|Cunaxidae|Cunaxa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|372|2819|7894089",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

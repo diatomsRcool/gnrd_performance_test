@@ -1,0 +1,2019 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:07:26.078337678-05:00",
+    "language": "eng",
+    "total_words": 8526,
+    "total_candidates": 1107,
+    "total_names": 42
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Seriatopora hystrix,",
+      "name": "Seriatopora hystrix",
+      "odds": 1111906066043.3782,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ora": 300.3261460409494
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 881,
+      "end": 901,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+          "matchedName": "Seriatopora hystrix Dana, 1846",
+          "matchedCanonical": "Seriatopora hystrix",
+          "currentName": "Seriatopora hystrix Dana, 1846",
+          "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2259471",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|43|206|714|5174|2259469|2259471",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "957750",
+            "matchedName": "Seriatopora hystrix",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|class|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|641033|1084488|1084485|712383|990296|431909|957750",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Seriatopora hystrix",
+      "name": "Seriatopora hystrix",
+      "odds": 1111906066043.3782,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ora": 300.3261460409494
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 2136,
+      "end": 2155,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+          "matchedName": "Seriatopora hystrix Dana, 1846",
+          "matchedCanonical": "Seriatopora hystrix",
+          "currentName": "Seriatopora hystrix Dana, 1846",
+          "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2259471",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|43|206|714|5174|2259469|2259471",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "957750",
+            "matchedName": "Seriatopora hystrix",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|class|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|641033|1084488|1084485|712383|990296|431909|957750",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Seriatopora hystrix",
+      "name": "Seriatopora hystrix",
+      "odds": 1111906066043.3782,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ora": 300.3261460409494
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 6528,
+      "end": 6547,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+          "matchedName": "Seriatopora hystrix Dana, 1846",
+          "matchedCanonical": "Seriatopora hystrix",
+          "currentName": "Seriatopora hystrix Dana, 1846",
+          "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2259471",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|43|206|714|5174|2259469|2259471",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "957750",
+            "matchedName": "Seriatopora hystrix",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|class|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|641033|1084488|1084485|712383|990296|431909|957750",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 6666,
+      "end": 6676,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 7376,
+      "end": 7386,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 7890,
+      "end": 7900,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 8100,
+      "end": 8110,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 8555,
+      "end": 8565,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 9082,
+      "end": 9092,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 9641,
+      "end": 9651,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 10167,
+      "end": 10177,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 10335,
+      "end": 10345,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Seriatopora hystrix",
+      "name": "Seriatopora hystrix",
+      "odds": 1111906066043.3782,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ora": 300.3261460409494
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 11135,
+      "end": 11154,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+          "matchedName": "Seriatopora hystrix Dana, 1846",
+          "matchedCanonical": "Seriatopora hystrix",
+          "currentName": "Seriatopora hystrix Dana, 1846",
+          "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2259471",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|43|206|714|5174|2259469|2259471",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "957750",
+            "matchedName": "Seriatopora hystrix",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|class|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|641033|1084488|1084485|712383|990296|431909|957750",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 11834,
+      "end": 11844,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Seriatopora hystrix",
+      "name": "Seriatopora hystrix",
+      "odds": 1111906066043.3782,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ora": 300.3261460409494
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          }
+        }
+      },
+      "start": 13525,
+      "end": 13544,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+          "matchedName": "Seriatopora hystrix Dana, 1846",
+          "matchedCanonical": "Seriatopora hystrix",
+          "currentName": "Seriatopora hystrix Dana, 1846",
+          "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2259471",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|43|206|714|5174|2259469|2259471",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "957750",
+            "matchedName": "Seriatopora hystrix",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|class|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|641033|1084488|1084485|712383|990296|431909|957750",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Seriatopora",
+      "name": "Seriatopora",
+      "odds": 2229498.7323586266,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ora": 300.3261460409494
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 13585,
+      "end": 13596,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46099256",
+          "matchedName": "Seriatopora",
+          "matchedCanonical": "Seriatopora",
+          "currentName": "Seriatopora",
+          "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46099256",
+            "matchedName": "Seriatopora",
+            "matchedCanonical": "Seriatopora",
+            "currentName": "Seriatopora",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2259469",
+            "matchedName": "Seriatopora Lamarck, 1816",
+            "matchedCanonical": "Seriatopora",
+            "currentName": "Seriatopora Lamarck, 1816",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|43|206|714|5174|2259469",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "431909",
+            "matchedName": "Seriatopora",
+            "matchedCanonical": "Seriatopora",
+            "currentName": "Seriatopora",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae|Seriatopora",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|class|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|641033|1084488|1084485|712383|990296|431909",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "S. hystrix larvae",
+      "name": "S. hystrix larvae",
+      "odds": 117655959.95605525,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 16090,
+      "end": 16107,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 16198,
+      "end": 16208,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Seriatopora hystrix",
+      "name": "Seriatopora hystrix",
+      "odds": 1111906066043.3782,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ora": 300.3261460409494
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 19996,
+      "end": 20015,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+          "matchedName": "Seriatopora hystrix Dana, 1846",
+          "matchedCanonical": "Seriatopora hystrix",
+          "currentName": "Seriatopora hystrix Dana, 1846",
+          "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2259471",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|43|206|714|5174|2259469|2259471",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "957750",
+            "matchedName": "Seriatopora hystrix",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|class|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|641033|1084488|1084485|712383|990296|431909|957750",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 24019,
+      "end": 24029,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 28577,
+      "end": 28587,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 28799,
+      "end": 28809,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix.",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 31250,
+      "end": 31261,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "ChangesinpercentagecoverofSeriatopora hystrix",
+      "name": "Changesinpercentagecoverofseriatopora hystrix",
+      "odds": 452.6482295699088,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ora": 300.3261460409494
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          }
+        }
+      },
+      "start": 32043,
+      "end": 32088,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 32206,
+      "end": 32216,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Seriatopora hystrix",
+      "name": "Seriatopora hystrix",
+      "odds": 1111906066043.3782,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ora": 300.3261460409494
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 32515,
+      "end": 32534,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+          "matchedName": "Seriatopora hystrix Dana, 1846",
+          "matchedCanonical": "Seriatopora hystrix",
+          "currentName": "Seriatopora hystrix Dana, 1846",
+          "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2259471",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|43|206|714|5174|2259469|2259471",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "957750",
+            "matchedName": "Seriatopora hystrix",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|class|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|641033|1084488|1084485|712383|990296|431909|957750",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 33350,
+      "end": 33360,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Seriatopora hystrix",
+      "name": "Seriatopora hystrix",
+      "odds": 1111906066043.3782,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ora": 300.3261460409494
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 34491,
+      "end": 34510,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+          "matchedName": "Seriatopora hystrix Dana, 1846",
+          "matchedCanonical": "Seriatopora hystrix",
+          "currentName": "Seriatopora hystrix Dana, 1846",
+          "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "87b741c36c0c0ad3d7227b268910de01",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841277|45841278|45841279|45853837|46099256|87b741c36c0c0ad3d7227b268910de01",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2259471",
+            "matchedName": "Seriatopora hystrix Dana, 1846",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix Dana, 1846",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|43|206|714|5174|2259469|2259471",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "957750",
+            "matchedName": "Seriatopora hystrix",
+            "matchedCanonical": "Seriatopora hystrix",
+            "currentName": "Seriatopora hystrix",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|class|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|641033|1084488|1084485|712383|990296|431909|957750",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 36214,
+      "end": 36224,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 40197,
+      "end": 40207,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pocilloporidae",
+      "name": "Pocilloporidae",
+      "odds": 178732.40691123632,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 41998,
+      "end": 42012,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45853837",
+          "matchedName": "Pocilloporidae",
+          "matchedCanonical": "Pocilloporidae",
+          "currentName": "Pocilloporidae",
+          "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841277|45841278|45841279|45853837",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45853837",
+            "matchedName": "Pocilloporidae",
+            "matchedCanonical": "Pocilloporidae",
+            "currentName": "Pocilloporidae",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841277|45841278|45841279|45853837",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5174",
+            "matchedName": "Pocilloporidae",
+            "matchedCanonical": "Pocilloporidae",
+            "currentName": "Pocilloporidae",
+            "classificationPath": "Animalia|Cnidaria|Anthozoa|Scleractinia|Pocilloporidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|43|206|714|5174",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "990296",
+            "matchedName": "Pocilloporidae",
+            "matchedCanonical": "Pocilloporidae",
+            "currentName": "Pocilloporidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|class|subclass|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|641033|1084488|1084485|712383|990296",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 43284,
+      "end": 43294,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 45055,
+      "end": 45065,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 47263,
+      "end": 47273,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "S. hystrix larvae",
+      "name": "S. hystrix larvae",
+      "odds": 117655959.95605525,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 47617,
+      "end": 47634,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 48356,
+      "end": 48366,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 49070,
+      "end": 49080,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 51249,
+      "end": 51259,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 52561,
+      "end": 52571,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 52991,
+      "end": 53001,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 53328,
+      "end": 53338,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. hystrix",
+      "name": "S. hystrix",
+      "odds": 231433.69127731145,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rix": 20.021743069396628
+          }
+        }
+      },
+      "start": 53633,
+      "end": 53643,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

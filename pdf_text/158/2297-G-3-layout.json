@@ -1,0 +1,3028 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:00:35.609361311-05:00",
+    "language": "eng",
+    "total_words": 1408,
+    "total_candidates": 322,
+    "total_names": 43
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Eriocaulon madayiparense",
+      "name": "Eriocaulon madayiparense",
+      "odds": 61165300946.02149,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nse": 18.20158460854239
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 37,
+      "end": 61,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+          "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "matchedCanonical": "Eriocaulon madayiparense",
+          "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7885621",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243|7885621",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6020999",
+            "matchedName": "Eriocaulon madayiparense",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091|6020999",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Eriocaulaceae)",
+      "name": "Eriocaulaceae",
+      "odds": 28693.85721838869,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 62,
+      "end": 77,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844448",
+          "matchedName": "Eriocaulaceae",
+          "matchedCanonical": "Eriocaulaceae",
+          "currentName": "Eriocaulaceae",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844448",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3741",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|196|1369|3741",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "495053",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Eriocaulon madayiparense",
+      "name": "Eriocaulon madayiparense",
+      "odds": 61165300946.02149,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nse": 18.20158460854239
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 268,
+      "end": 292,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+          "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "matchedCanonical": "Eriocaulon madayiparense",
+          "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7885621",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243|7885621",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6020999",
+            "matchedName": "Eriocaulon madayiparense",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091|6020999",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Eriocaulaceae)",
+      "name": "Eriocaulaceae",
+      "odds": 28693.85721838869,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 293,
+      "end": 308,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844448",
+          "matchedName": "Eriocaulaceae",
+          "matchedCanonical": "Eriocaulaceae",
+          "currentName": "Eriocaulaceae",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844448",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3741",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|196|1369|3741",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "495053",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Eriocaulon madayiparense",
+      "name": "Eriocaulon madayiparense",
+      "odds": 61165300946.02149,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nse": 18.20158460854239
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 840,
+      "end": 864,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+          "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "matchedCanonical": "Eriocaulon madayiparense",
+          "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7885621",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243|7885621",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6020999",
+            "matchedName": "Eriocaulon madayiparense",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091|6020999",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Eriocaulaceae)",
+      "name": "Eriocaulaceae",
+      "odds": 28693.85721838869,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 865,
+      "end": 880,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844448",
+          "matchedName": "Eriocaulaceae",
+          "matchedCanonical": "Eriocaulaceae",
+          "currentName": "Eriocaulaceae",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844448",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3741",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|196|1369|3741",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "495053",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Eriocaulon madayiparense",
+      "name": "Eriocaulon madayiparense",
+      "odds": 61165300946.02149,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spEnd3": {
+            "nse": 18.20158460854239
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          }
+        }
+      },
+      "start": 1009,
+      "end": 1033,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+          "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "matchedCanonical": "Eriocaulon madayiparense",
+          "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7885621",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243|7885621",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6020999",
+            "matchedName": "Eriocaulon madayiparense",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091|6020999",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. eurypeplon",
+      "name": "E. eurypeplon",
+      "odds": 343261.88562839443,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lon": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 1221,
+      "end": 1234,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Eriocaulon madayiparense,",
+      "name": "Eriocaulon madayiparense",
+      "odds": 61165300946.02149,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nse": 18.20158460854239
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 1681,
+      "end": 1706,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+          "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "matchedCanonical": "Eriocaulon madayiparense",
+          "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7885621",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243|7885621",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6020999",
+            "matchedName": "Eriocaulon madayiparense",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091|6020999",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Eriocaulaceae,",
+      "name": "Eriocaulaceae",
+      "odds": 28693.85721838869,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 1707,
+      "end": 1721,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844448",
+          "matchedName": "Eriocaulaceae",
+          "matchedCanonical": "Eriocaulaceae",
+          "currentName": "Eriocaulaceae",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844448",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3741",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|196|1369|3741",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "495053",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Eriocaulon",
+      "name": "Eriocaulon",
+      "odds": 26505.753776100613,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          }
+        }
+      },
+      "start": 1793,
+      "end": 1803,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45879232",
+          "matchedName": "Eriocaulon",
+          "matchedCanonical": "Eriocaulon",
+          "currentName": "Eriocaulon",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45879232",
+            "matchedName": "Eriocaulon",
+            "matchedCanonical": "Eriocaulon",
+            "currentName": "Eriocaulon",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2690243",
+            "matchedName": "Eriocaulon Gronov. ex L.",
+            "matchedCanonical": "Eriocaulon",
+            "currentName": "Eriocaulon Gronov. ex L.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "791091",
+            "matchedName": "Eriocaulon",
+            "matchedCanonical": "Eriocaulon",
+            "currentName": "Eriocaulon",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Eriocaulon epedunculatum",
+      "name": "Eriocaulon epedunculatum",
+      "odds": 1623174173855.0452,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tum": 483.02455154919363
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          }
+        }
+      },
+      "start": 2015,
+      "end": 2039,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "97ebd5b9b4c6862f24c36391a26d0a2f",
+          "matchedName": "Eriocaulon epedunculatum Potdar, Anil Kumar bis, Otaghvari \u0026 Sonkar",
+          "matchedCanonical": "Eriocaulon epedunculatum",
+          "currentName": "Eriocaulon epedunculatum Potdar, Anil Kumar bis, Otaghvari \u0026 Sonkar",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon epedunculatum bis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|97ebd5b9b4c6862f24c36391a26d0a2f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "97ebd5b9b4c6862f24c36391a26d0a2f",
+            "matchedName": "Eriocaulon epedunculatum Potdar, Anil Kumar bis, Otaghvari \u0026 Sonkar",
+            "matchedCanonical": "Eriocaulon epedunculatum",
+            "currentName": "Eriocaulon epedunculatum Potdar, Anil Kumar bis, Otaghvari \u0026 Sonkar",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon epedunculatum bis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|97ebd5b9b4c6862f24c36391a26d0a2f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3987626",
+            "matchedName": "Eriocaulon epedunculatum",
+            "matchedCanonical": "Eriocaulon epedunculatum",
+            "currentName": "Eriocaulon epedunculatum",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon epedunculatum",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243|3987626",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3966334",
+            "matchedName": "Eriocaulon epedunculatum",
+            "matchedCanonical": "Eriocaulon epedunculatum",
+            "currentName": "Eriocaulon epedunculatum",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon|Eriocaulon epedunculatum",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091|3966334",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. baramaticum",
+      "name": "E. baramaticum",
+      "odds": 14465247.151833832,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cum": 207.72558434499
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 2076,
+      "end": 2090,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. belgaumensis",
+      "name": "E. belgaumensis",
+      "odds": 34429080.28837352,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 2115,
+      "end": 2130,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. wayanadense",
+      "name": "E. wayanadense",
+      "odds": 1267491.5357576194,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nse": 18.20158460854239
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 2156,
+      "end": 2170,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. malabaricum",
+      "name": "E. malabaricum",
+      "odds": 14465247.151833832,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "cum": 207.72558434499
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 2192,
+      "end": 2206,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. pykarense",
+      "name": "E. pykarense",
+      "odds": 479300.1398908676,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nse": 18.20158460854239
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 2227,
+      "end": 2239,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. eurypeplon",
+      "name": "E. eurypeplon",
+      "odds": 343261.88562839443,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lon": 10.010871534698314
+          }
+        }
+      },
+      "start": 2789,
+      "end": 2802,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Eriocaulon eurypeplon",
+      "name": "Eriocaulon eurypeplon",
+      "odds": 19606498058.306473,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lon": 10.010871534698314
+          }
+        }
+      },
+      "start": 3489,
+      "end": 3510,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b64d454247cb00e9f985d3973c948eda",
+          "matchedName": "Eriocaulon eurypeplon Körn.",
+          "matchedCanonical": "Eriocaulon eurypeplon",
+          "currentName": "Eriocaulon eurypeplon Körn.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon eurypeplon",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|b64d454247cb00e9f985d3973c948eda",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b64d454247cb00e9f985d3973c948eda",
+            "matchedName": "Eriocaulon eurypeplon Körn.",
+            "matchedCanonical": "Eriocaulon eurypeplon",
+            "currentName": "Eriocaulon eurypeplon Körn.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon eurypeplon",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|b64d454247cb00e9f985d3973c948eda",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2690378",
+            "matchedName": "Eriocaulon eurypeplon Körn.",
+            "matchedCanonical": "Eriocaulon eurypeplon",
+            "currentName": "Eriocaulon eurypeplon Körn.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon eurypeplon",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243|2690378",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3966165",
+            "matchedName": "Eriocaulon eurypeplon",
+            "matchedCanonical": "Eriocaulon eurypeplon",
+            "currentName": "Eriocaulon eurypeplon",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon|Eriocaulon eurypeplon",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091|3966165",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. madayiparense",
+      "name": "E. madayiparense",
+      "odds": 1070855.0030363288,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nse": 18.20158460854239
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          }
+        }
+      },
+      "start": 3515,
+      "end": 3531,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Eriocaulon eurypeplon",
+      "name": "Eriocaulon eurypeplon",
+      "odds": 19606498058.306473,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lon": 10.010871534698314
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 3548,
+      "end": 3569,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b64d454247cb00e9f985d3973c948eda",
+          "matchedName": "Eriocaulon eurypeplon Körn.",
+          "matchedCanonical": "Eriocaulon eurypeplon",
+          "currentName": "Eriocaulon eurypeplon Körn.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon eurypeplon",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|b64d454247cb00e9f985d3973c948eda",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b64d454247cb00e9f985d3973c948eda",
+            "matchedName": "Eriocaulon eurypeplon Körn.",
+            "matchedCanonical": "Eriocaulon eurypeplon",
+            "currentName": "Eriocaulon eurypeplon Körn.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon eurypeplon",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|b64d454247cb00e9f985d3973c948eda",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2690378",
+            "matchedName": "Eriocaulon eurypeplon Körn.",
+            "matchedCanonical": "Eriocaulon eurypeplon",
+            "currentName": "Eriocaulon eurypeplon Körn.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon eurypeplon",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243|2690378",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3966165",
+            "matchedName": "Eriocaulon eurypeplon",
+            "matchedCanonical": "Eriocaulon eurypeplon",
+            "currentName": "Eriocaulon eurypeplon",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon|Eriocaulon eurypeplon",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091|3966165",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. madayiparense",
+      "name": "E. madayiparense",
+      "odds": 1070855.0030363288,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nse": 18.20158460854239
+          }
+        }
+      },
+      "start": 3572,
+      "end": 3588,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Eriocaulon madayiparense",
+      "name": "Eriocaulon madayiparense",
+      "odds": 61165300946.02149,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nse": 18.20158460854239
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 4184,
+      "end": 4208,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+          "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "matchedCanonical": "Eriocaulon madayiparense",
+          "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7885621",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243|7885621",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6020999",
+            "matchedName": "Eriocaulon madayiparense",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091|6020999",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Eriocaulon madayiparense",
+      "name": "Eriocaulon madayiparense",
+      "odds": 61165300946.02149,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nse": 18.20158460854239
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 4354,
+      "end": 4378,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+          "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "matchedCanonical": "Eriocaulon madayiparense",
+          "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7885621",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243|7885621",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6020999",
+            "matchedName": "Eriocaulon madayiparense",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091|6020999",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. eurypeplon",
+      "name": "E. eurypeplon",
+      "odds": 343261.88562839443,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lon": 10.010871534698314
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 4392,
+      "end": 4405,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Eriocaulon madayiparense",
+      "name": "Eriocaulon madayiparense",
+      "odds": 61165300946.02149,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nse": 18.20158460854239
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 5518,
+      "end": 5542,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+          "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "matchedCanonical": "Eriocaulon madayiparense",
+          "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7885621",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243|7885621",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6020999",
+            "matchedName": "Eriocaulon madayiparense",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091|6020999",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Eriocaulaceae)",
+      "name": "Eriocaulaceae",
+      "odds": 28693.85721838869,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 5543,
+      "end": 5558,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844448",
+          "matchedName": "Eriocaulaceae",
+          "matchedCanonical": "Eriocaulaceae",
+          "currentName": "Eriocaulaceae",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844448",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3741",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|196|1369|3741",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "495053",
+            "matchedName": "Eriocaulaceae",
+            "matchedCanonical": "Eriocaulaceae",
+            "currentName": "Eriocaulaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Nymphoides krishnakesara",
+      "name": "Nymphoides krishnakesara",
+      "odds": 234268637944.61487,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "des": 21.94691067222323
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ara": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 7085,
+      "end": 7109,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "8e647aa8080f8968ac8f4aa03f0348b4",
+          "matchedName": "Nymphoides krishnakesara K.T. Joseph \u0026 V.V. Sivarajan",
+          "matchedCanonical": "Nymphoides krishnakesara",
+          "currentName": "Nymphoides krishnakesara K.T. Joseph \u0026 V.V. Sivarajan",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Menyanthaceae|Nymphoides|Nymphoides krishnakesara",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45844422|45856704|46042449|8e647aa8080f8968ac8f4aa03f0348b4",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "8e647aa8080f8968ac8f4aa03f0348b4",
+            "matchedName": "Nymphoides krishnakesara K.T. Joseph \u0026 V.V. Sivarajan",
+            "matchedCanonical": "Nymphoides krishnakesara",
+            "currentName": "Nymphoides krishnakesara K.T. Joseph \u0026 V.V. Sivarajan",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Menyanthaceae|Nymphoides|Nymphoides krishnakesara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45844422|45856704|46042449|8e647aa8080f8968ac8f4aa03f0348b4",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5592385",
+            "matchedName": "Nymphoides krishnakesara K.T. Joseph \u0026 V.V. Sivarajan",
+            "matchedCanonical": "Nymphoides krishnakesara",
+            "currentName": "Nymphoides krishnakesara K.T. Joseph \u0026 V.V. Sivarajan",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Menyanthaceae|Nymphoides|Nymphoides krishnakesara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|414|2386|7460897|5592385",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6060714",
+            "matchedName": "Nymphoides krishnakesara",
+            "matchedCanonical": "Nymphoides krishnakesara",
+            "currentName": "Nymphoides krishnakesara",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Asterales|Menyanthaceae|Nymphoides|Nymphoides krishnakesara",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596121|1042120|694622|128308|6060714",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rotala malabarica",
+      "name": "Rotala malabarica",
+      "odds": 1487880849995.293,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ala": 52.55707555716615
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 7139,
+      "end": 7156,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "fed8c037df9c5f3c97d7c731e0d22c58",
+          "matchedName": "Rotala malabarica A.K. Pradeep, K.T. Joseph \u0026 V.V. Sivarajan",
+          "matchedCanonical": "Rotala malabarica",
+          "currentName": "Rotala malabarica A.K. Pradeep, K.T. Joseph \u0026 V.V. Sivarajan",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Lythraceae|Rotala|Rotala malabarica",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45848880|45848887|46030931|fed8c037df9c5f3c97d7c731e0d22c58",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "fed8c037df9c5f3c97d7c731e0d22c58",
+            "matchedName": "Rotala malabarica A.K. Pradeep, K.T. Joseph \u0026 V.V. Sivarajan",
+            "matchedCanonical": "Rotala malabarica",
+            "currentName": "Rotala malabarica A.K. Pradeep, K.T. Joseph \u0026 V.V. Sivarajan",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Lythraceae|Rotala|Rotala malabarica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45848880|45848887|46030931|fed8c037df9c5f3c97d7c731e0d22c58",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3989197",
+            "matchedName": "Rotala malabarica A.K. Pradeep, K.T. Joseph \u0026 V.V. Sivarajan",
+            "matchedCanonical": "Rotala malabarica",
+            "currentName": "Rotala malabarica A.K. Pradeep, K.T. Joseph \u0026 V.V. Sivarajan",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Lythraceae|Rotala|Rotala malabarica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|690|6684|3188668|3989197",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6120552",
+            "matchedName": "Rotala malabarica",
+            "matchedCanonical": "Rotala malabarica",
+            "currentName": "Rotala malabarica",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Myrtales|Lythraceae|Rotala|Rotala malabarica",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|648898|489493|195312|6120552",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Justicia ekakusuma",
+      "name": "Justicia ekakusuma",
+      "odds": 345498547217.03644,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uma": 17.51902518572205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cia": 135.14676571842725
+          }
+        }
+      },
+      "start": 7180,
+      "end": 7198,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "48b44eff700fd0ca00332b5ef58185c8",
+          "matchedName": "Justicia ekakusuma A.K. Pradeep \u0026 V.V. Sivarajan",
+          "matchedCanonical": "Justicia ekakusuma",
+          "currentName": "Justicia ekakusuma A.K. Pradeep \u0026 V.V. Sivarajan",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Acanthaceae|Justicia|Justicia ekakusuma",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45841436|45856680|45972493|48b44eff700fd0ca00332b5ef58185c8",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "48b44eff700fd0ca00332b5ef58185c8",
+            "matchedName": "Justicia ekakusuma A.K. Pradeep \u0026 V.V. Sivarajan",
+            "matchedCanonical": "Justicia ekakusuma",
+            "currentName": "Justicia ekakusuma A.K. Pradeep \u0026 V.V. Sivarajan",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Acanthaceae|Justicia|Justicia ekakusuma",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45841436|45856680|45972493|48b44eff700fd0ca00332b5ef58185c8",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3780735",
+            "matchedName": "Justicia ekakusuma A.K. Pradeep \u0026 V.V. Sivarajan",
+            "matchedCanonical": "Justicia ekakusuma",
+            "currentName": "Justicia ekakusuma A.K. Pradeep \u0026 V.V. Sivarajan",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Acanthaceae|Justicia|Justicia ekakusuma",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|408|2393|2904597|3780735",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6077184",
+            "matchedName": "Justicia ekakusuma",
+            "matchedCanonical": "Justicia ekakusuma",
+            "currentName": "Justicia ekakusuma",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Lamiales|Core||Acanthaceae|Acanthoideae|Ruellieae|Justiciinae|Justicia|Justicia ekakusuma",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|no rank|no rank|family|subfamily|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|23736|5263556|5264061|504642|777113|777110|777115|659743|6077184",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Lepidagathis keralensis",
+      "name": "Lepidagathis keralensis",
+      "odds": 682033064652.6394,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "his": 0.3033597434757065
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 7225,
+      "end": 7248,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "40e591b65d3639be05c2bf05e7f8fae2",
+          "matchedName": "Lepidagathis keralensis P.V. Madhusoodanan \u0026 N.P. Singh",
+          "matchedCanonical": "Lepidagathis keralensis",
+          "currentName": "Lepidagathis keralensis P.V. Madhusoodanan \u0026 N.P. Singh",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Acanthaceae|Lepidagathis|Lepidagathis keralensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45841436|45856680|45972429|40e591b65d3639be05c2bf05e7f8fae2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "40e591b65d3639be05c2bf05e7f8fae2",
+            "matchedName": "Lepidagathis keralensis P.V. Madhusoodanan \u0026 N.P. Singh",
+            "matchedCanonical": "Lepidagathis keralensis",
+            "currentName": "Lepidagathis keralensis P.V. Madhusoodanan \u0026 N.P. Singh",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Acanthaceae|Lepidagathis|Lepidagathis keralensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45841436|45856680|45972429|40e591b65d3639be05c2bf05e7f8fae2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3776456",
+            "matchedName": "Lepidagathis keralensis P.V. Madhusoodanan \u0026 N.P. Singh",
+            "matchedCanonical": "Lepidagathis keralensis",
+            "currentName": "Lepidagathis keralensis P.V. Madhusoodanan \u0026 N.P. Singh",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Acanthaceae|Lepidagathis|Lepidagathis keralensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|408|2393|6360058|3776456",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6076239",
+            "matchedName": "Lepidagathis keralensis",
+            "matchedCanonical": "Lepidagathis keralensis",
+            "currentName": "Lepidagathis keralensis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Lamiales|Core||Acanthaceae|Acanthoideae|Ruellieae|Barleriinae|Lepidagathis|Lepidagathis keralensis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|no rank|no rank|family|subfamily|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|23736|5263556|5264061|504642|777113|777110|777116|24773|6076239",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Eriocaulon",
+      "name": "Eriocaulon",
+      "odds": 26505.753776100613,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          }
+        }
+      },
+      "start": 7829,
+      "end": 7839,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45879232",
+          "matchedName": "Eriocaulon",
+          "matchedCanonical": "Eriocaulon",
+          "currentName": "Eriocaulon",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45879232",
+            "matchedName": "Eriocaulon",
+            "matchedCanonical": "Eriocaulon",
+            "currentName": "Eriocaulon",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2690243",
+            "matchedName": "Eriocaulon Gronov. ex L.",
+            "matchedCanonical": "Eriocaulon",
+            "currentName": "Eriocaulon Gronov. ex L.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "791091",
+            "matchedName": "Eriocaulon",
+            "matchedCanonical": "Eriocaulon",
+            "currentName": "Eriocaulon",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. cuspidatum,",
+      "name": "E. cuspidatum",
+      "odds": 16562385.981570031,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tum": 483.02455154919363
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 7904,
+      "end": 7918,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. heterolepis,",
+      "name": "E. heterolepis",
+      "odds": 3659881.8095001266,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "pis": 52.55707555716615
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 7919,
+      "end": 7934,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. lanceolatum,",
+      "name": "E. lanceolatum",
+      "odds": 33636056.63016783,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tum": 483.02455154919363
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 7935,
+      "end": 7950,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. parviflorum",
+      "name": "E. parviflorum",
+      "odds": 22307851.0293341,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rum": 320.34788911034605
+          }
+        }
+      },
+      "start": 7951,
+      "end": 7965,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "E. xeranthemum.",
+      "name": "E. xeranthemum",
+      "odds": 697120.3446666908,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "mum": 10.010871534698316
+          }
+        }
+      },
+      "start": 7970,
+      "end": 7985,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Utricularia reticulata,",
+      "name": "Utricularia reticulata",
+      "odds": 15646560728192.695,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 8072,
+      "end": 8095,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "76cfbdfeb0d380a18fdb91d3b6af62ff",
+          "matchedName": "Utricularia reticulata Sm.",
+          "matchedCanonical": "Utricularia reticulata",
+          "currentName": "Utricularia reticulata Sm.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Lentibulariaceae|Utricularia|Utricularia reticulata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45841436|45856681|45972377|76cfbdfeb0d380a18fdb91d3b6af62ff",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "76cfbdfeb0d380a18fdb91d3b6af62ff",
+            "matchedName": "Utricularia reticulata Sm.",
+            "matchedCanonical": "Utricularia reticulata",
+            "currentName": "Utricularia reticulata Sm.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Lentibulariaceae|Utricularia|Utricularia reticulata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45841436|45856681|45972377|76cfbdfeb0d380a18fdb91d3b6af62ff",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7297846",
+            "matchedName": "Utricularia reticulata Sm.",
+            "matchedCanonical": "Utricularia reticulata",
+            "currentName": "Utricularia reticulata Sm.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Lentibulariaceae|Utricularia|Utricularia reticulata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|408|2391|3172398|7297846",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5783747",
+            "matchedName": "Utricularia reticulata",
+            "matchedCanonical": "Utricularia reticulata",
+            "currentName": "Utricularia reticulata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Lamiales|Core||Lentibulariaceae|Utricularia|Utricularia reticulata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|no rank|no rank|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|23736|5263556|5264061|659713|512422|5783747",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rotala malabarica,",
+      "name": "Rotala malabarica",
+      "odds": 1487880849995.293,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ala": 52.55707555716615
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 8096,
+      "end": 8114,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "fed8c037df9c5f3c97d7c731e0d22c58",
+          "matchedName": "Rotala malabarica A.K. Pradeep, K.T. Joseph \u0026 V.V. Sivarajan",
+          "matchedCanonical": "Rotala malabarica",
+          "currentName": "Rotala malabarica A.K. Pradeep, K.T. Joseph \u0026 V.V. Sivarajan",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Lythraceae|Rotala|Rotala malabarica",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45848880|45848887|46030931|fed8c037df9c5f3c97d7c731e0d22c58",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "fed8c037df9c5f3c97d7c731e0d22c58",
+            "matchedName": "Rotala malabarica A.K. Pradeep, K.T. Joseph \u0026 V.V. Sivarajan",
+            "matchedCanonical": "Rotala malabarica",
+            "currentName": "Rotala malabarica A.K. Pradeep, K.T. Joseph \u0026 V.V. Sivarajan",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Lythraceae|Rotala|Rotala malabarica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45848880|45848887|46030931|fed8c037df9c5f3c97d7c731e0d22c58",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3989197",
+            "matchedName": "Rotala malabarica A.K. Pradeep, K.T. Joseph \u0026 V.V. Sivarajan",
+            "matchedCanonical": "Rotala malabarica",
+            "currentName": "Rotala malabarica A.K. Pradeep, K.T. Joseph \u0026 V.V. Sivarajan",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Lythraceae|Rotala|Rotala malabarica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|690|6684|3188668|3989197",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6120552",
+            "matchedName": "Rotala malabarica",
+            "matchedCanonical": "Rotala malabarica",
+            "currentName": "Rotala malabarica",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Myrtales|Lythraceae|Rotala|Rotala malabarica",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|648898|489493|195312|6120552",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rotala malampuzhensis,",
+      "name": "Rotala malampuzhensis",
+      "odds": 3546719396626.531,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ala": 52.55707555716615
+          }
+        }
+      },
+      "start": 8115,
+      "end": 8137,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "cfa4e94dc7dc289d985cffe7f23a6928",
+          "matchedName": "Rotala malampuzhensis R.V. Nair",
+          "matchedCanonical": "Rotala malampuzhensis",
+          "currentName": "Rotala malampuzhensis R.V. Nair ex C.D.K. Cook",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Lythraceae|Rotala|Rotala malampuzhensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45848880|45848887|46030931|e6a7c9a6dc0cc60a9aa4a5c9284cc3b1",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "cfa4e94dc7dc289d985cffe7f23a6928",
+            "matchedName": "Rotala malampuzhensis R.V. Nair",
+            "matchedCanonical": "Rotala malampuzhensis",
+            "currentName": "Rotala malampuzhensis R.V. Nair ex C.D.K. Cook",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Lythraceae|Rotala|Rotala malampuzhensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45848880|45848887|46030931|e6a7c9a6dc0cc60a9aa4a5c9284cc3b1",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8346934",
+            "matchedName": "Rotala malampuzhensis R. V. Nair",
+            "matchedCanonical": "Rotala malampuzhensis",
+            "currentName": "Rotala malampuzhensis R.V. Nair ex C.D.K. Cook",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Myrtales|Lythraceae|Rotala|Rotala malampuzhensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|690|6684|3188668|3989167",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5922532",
+            "matchedName": "Rotala malampuzhensis",
+            "matchedCanonical": "Rotala malampuzhensis",
+            "currentName": "Rotala malampuzhensis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Myrtales|Lythraceae|Rotala|Rotala malampuzhensis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|648898|489493|195312|5922532",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Rhamphicarpa longiflora,",
+      "name": "Rhamphicarpa longiflora",
+      "odds": 3792700428039.8354,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rpa": 25.027178836745787
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ora": 160.17394455517302
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 8138,
+      "end": 8162,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "30dd058a2af2dbd593183a60995ecaf4",
+          "matchedName": "Rhamphicarpa longiflora Benth.",
+          "matchedCanonical": "Rhamphicarpa longiflora",
+          "currentName": "Rhamphicarpa elongata (Hochst.) O.J. Hansen",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Orobanchaceae|Rhamphicarpa|Rhamphicarpa elongata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45841436|45841548|45973291|d5dfa8a13cdd12b9d59622b4b1c9cdc4",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "30dd058a2af2dbd593183a60995ecaf4",
+            "matchedName": "Rhamphicarpa longiflora Benth.",
+            "matchedCanonical": "Rhamphicarpa longiflora",
+            "currentName": "Rhamphicarpa elongata (Hochst.) O.J. Hansen",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Orobanchaceae|Rhamphicarpa|Rhamphicarpa elongata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45841436|45841548|45973291|d5dfa8a13cdd12b9d59622b4b1c9cdc4",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3723932",
+            "matchedName": "Rhamphicarpa longiflora Benth.",
+            "matchedCanonical": "Rhamphicarpa longiflora",
+            "currentName": "Rhamphicarpa elongata (Hochst.) O.J. Hansen O.J. Hansen (Hochst.)",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Orobanchaceae|Rhamphicarpa|Rhamphicarpa elongata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|408|6651|7331530|3724017",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Oryza rufipogon,",
+      "name": "Oryza rufipogon",
+      "odds": 1887874021.2515383,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "yza": 25.027178836745787
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gon": 2.5027178836745785
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 8163,
+      "end": 8179,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "4b1f5c5ca90a5e6c14c71e22d10f887a",
+          "matchedName": "Oryza rufipogon Griff.",
+          "matchedCanonical": "Oryza rufipogon",
+          "currentName": "Oryza rufipogon Griff.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Oryza|Oryza rufipogon",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112322|4b1f5c5ca90a5e6c14c71e22d10f887a",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "4b1f5c5ca90a5e6c14c71e22d10f887a",
+            "matchedName": "Oryza rufipogon Griff.",
+            "matchedCanonical": "Oryza rufipogon",
+            "currentName": "Oryza rufipogon Griff.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Oryza|Oryza rufipogon",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|46112322|4b1f5c5ca90a5e6c14c71e22d10f887a",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2703463",
+            "matchedName": "Oryza rufipogon Griff.",
+            "matchedCanonical": "Oryza rufipogon",
+            "currentName": "Oryza rufipogon Griff.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Oryza|Oryza rufipogon",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2703455|2703463",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "135756",
+            "matchedName": "Oryza rufipogon",
+            "matchedCanonical": "Oryza rufipogon",
+            "currentName": "Oryza rufipogon",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Oryzoideae|Oryzeae|Oryzinae|Oryza|Oryza rufipogon",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|17811|641467|415723|5744622|135764|135756",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Eriocaulon madayiparense,",
+      "name": "Eriocaulon madayiparense",
+      "odds": 61165300946.02149,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "13": 22.52446095307121
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nse": 18.20158460854239
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lon": 4.7273560024964265
+          }
+        }
+      },
+      "start": 9077,
+      "end": 9102,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+          "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "matchedCanonical": "Eriocaulon madayiparense",
+          "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "10301712eea8f3b4501a1af66d9e1537",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844448|45879232|10301712eea8f3b4501a1af66d9e1537",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7885621",
+            "matchedName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense Swapna, K.P.Rajesh, Manju \u0026 Prakashk.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3741|2690243|7885621",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6020999",
+            "matchedName": "Eriocaulon madayiparense",
+            "matchedCanonical": "Eriocaulon madayiparense",
+            "currentName": "Eriocaulon madayiparense",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Eriocaulaceae|Eriocaulon|Eriocaulon madayiparense",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|495053|791091|6020999",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

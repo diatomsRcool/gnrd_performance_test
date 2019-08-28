@@ -1,0 +1,581 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:03:16.283988234-05:00",
+    "language": "eng",
+    "total_words": 5855,
+    "total_candidates": 572,
+    "total_names": 7
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Ficedula albicollis):",
+      "name": "Ficedula albicollis",
+      "odds": 1947253792477.7456,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 227,
+      "end": 249,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f9c6b339beabbc56ed441abababbbff2",
+          "matchedName": "Ficedula albicollis (Temminck, 1815)",
+          "matchedCanonical": "Ficedula albicollis",
+          "currentName": "Ficedula albicollis (Temminck, 1815)",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Muscicapidae|Ficedula|Ficedula albicollis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45841775|45841835|45958717|f9c6b339beabbc56ed441abababbbff2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f9c6b339beabbc56ed441abababbbff2",
+            "matchedName": "Ficedula albicollis (Temminck, 1815)",
+            "matchedCanonical": "Ficedula albicollis",
+            "currentName": "Ficedula albicollis (Temminck, 1815)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Muscicapidae|Ficedula|Ficedula albicollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45841775|45841835|45958717|f9c6b339beabbc56ed441abababbbff2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9040090",
+            "matchedName": "Ficedula albicollis (Pallas, 1811)",
+            "matchedCanonical": "Ficedula albicollis",
+            "currentName": "Ficedula albicollis (Pallas, 1811)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Muscicapidae|Ficedula|Ficedula albicollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|729|9322|2492596|9040090",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "107840",
+            "matchedName": "Ficedula albicollis",
+            "matchedCanonical": "Ficedula albicollis",
+            "currentName": "Ficedula albicollis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Passeriformes|Muscicapidae|Ficedula|Ficedula albicollis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|1041547|131990|131998|107840",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Ficedula albicollis).",
+      "name": "Ficedula albicollis",
+      "odds": 1947253792477.7456,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 902,
+      "end": 924,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f9c6b339beabbc56ed441abababbbff2",
+          "matchedName": "Ficedula albicollis (Temminck, 1815)",
+          "matchedCanonical": "Ficedula albicollis",
+          "currentName": "Ficedula albicollis (Temminck, 1815)",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Muscicapidae|Ficedula|Ficedula albicollis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45841775|45841835|45958717|f9c6b339beabbc56ed441abababbbff2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f9c6b339beabbc56ed441abababbbff2",
+            "matchedName": "Ficedula albicollis (Temminck, 1815)",
+            "matchedCanonical": "Ficedula albicollis",
+            "currentName": "Ficedula albicollis (Temminck, 1815)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Muscicapidae|Ficedula|Ficedula albicollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45841775|45841835|45958717|f9c6b339beabbc56ed441abababbbff2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9040090",
+            "matchedName": "Ficedula albicollis (Pallas, 1811)",
+            "matchedCanonical": "Ficedula albicollis",
+            "currentName": "Ficedula albicollis (Pallas, 1811)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Muscicapidae|Ficedula|Ficedula albicollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|729|9322|2492596|9040090",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "107840",
+            "matchedName": "Ficedula albicollis",
+            "matchedCanonical": "Ficedula albicollis",
+            "currentName": "Ficedula albicollis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Passeriformes|Muscicapidae|Ficedula|Ficedula albicollis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|1041547|131990|131998|107840",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pelayo",
+      "name": "Pelayo",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 4238,
+      "end": 4244,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1127567",
+          "matchedName": "Pelayo Cambridge, 1896",
+          "matchedCanonical": "Pelayo",
+          "currentName": "Josa Keyserling \u0026 Marx, 1891",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Chelicerata|Arachnida|Araneae|Anyphaenidae|Josa",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905094|1136|12065|104966|1022316",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4665351",
+            "matchedName": "Pelayo Cambridge, 1896",
+            "matchedCanonical": "Pelayo",
+            "currentName": "Josa Keyserling \u0026 Marx, 1891",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Anyphaenidae|Josa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|7358|2154654",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Ficedula albicollis),",
+      "name": "Ficedula albicollis",
+      "odds": 1947253792477.7456,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ula": 26.417577661009442
+          }
+        }
+      },
+      "start": 6931,
+      "end": 6953,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f9c6b339beabbc56ed441abababbbff2",
+          "matchedName": "Ficedula albicollis (Temminck, 1815)",
+          "matchedCanonical": "Ficedula albicollis",
+          "currentName": "Ficedula albicollis (Temminck, 1815)",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Muscicapidae|Ficedula|Ficedula albicollis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45841775|45841835|45958717|f9c6b339beabbc56ed441abababbbff2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f9c6b339beabbc56ed441abababbbff2",
+            "matchedName": "Ficedula albicollis (Temminck, 1815)",
+            "matchedCanonical": "Ficedula albicollis",
+            "currentName": "Ficedula albicollis (Temminck, 1815)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Muscicapidae|Ficedula|Ficedula albicollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45841775|45841835|45958717|f9c6b339beabbc56ed441abababbbff2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "9040090",
+            "matchedName": "Ficedula albicollis (Pallas, 1811)",
+            "matchedCanonical": "Ficedula albicollis",
+            "currentName": "Ficedula albicollis (Pallas, 1811)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Muscicapidae|Ficedula|Ficedula albicollis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|729|9322|2492596|9040090",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "107840",
+            "matchedName": "Ficedula albicollis",
+            "matchedCanonical": "Ficedula albicollis",
+            "currentName": "Ficedula albicollis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Passeriformes|Muscicapidae|Ficedula|Ficedula albicollis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|1041547|131990|131998|107840",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Picea abies)",
+      "name": "Picea abies",
+      "odds": 51913268.79171547,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cea": 25.027178836745787
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ies": 0.023610546072401685
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 7847,
+      "end": 7860,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b9f99a1f126b6b9d3d8c560386dea188",
+          "matchedName": "Picea abies (L.) H. Karst.",
+          "matchedCanonical": "Picea abies",
+          "currentName": "Picea abies (L.) H. Karst.",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Picea|Picea abies",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45878669|b9f99a1f126b6b9d3d8c560386dea188",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b9f99a1f126b6b9d3d8c560386dea188",
+            "matchedName": "Picea abies (L.) H. Karst.",
+            "matchedCanonical": "Picea abies",
+            "currentName": "Picea abies (L.) H. Karst.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Picea|Picea abies",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45878669|b9f99a1f126b6b9d3d8c560386dea188",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5284884",
+            "matchedName": "Picea abies (L.) H. Karst. H. Karst. (L.)",
+            "matchedCanonical": "Picea abies",
+            "currentName": "Picea abies (L.) H. Karst. H. Karst. (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Picea|Picea abies",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|3925|7606064|5284884",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "517943",
+            "matchedName": "Picea abies",
+            "matchedCanonical": "Picea abies",
+            "currentName": "Picea abies",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Picea|Picea abies",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|517942|517943",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Quercus petrea)",
+      "name": "Quercus petrea",
+      "odds": 38268173211.13475,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rea": 5.29987316542852
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 7892,
+      "end": 7908,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 12,
+          "dataSourceTitle": "EOL",
+          "taxonId": "s_5125982",
+          "matchedName": "Quercus petrea",
+          "matchedCanonical": "Quercus petrea",
+          "currentName": "Quercus petraea",
+          "isSynonym": true,
+          "matchType": "ExactMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "Unknown",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Passer domesticus)",
+      "name": "Passer domesticus",
+      "odds": 703107.2062287539,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ser": 0.6256794709186446
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "cus": 282.80712085522737
+          }
+        }
+      },
+      "start": 31516,
+      "end": 31535,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "9cd9581803902beb26aee9ddcc6e4575",
+          "matchedName": "Passer domesticus (Linnaeus, 1758)",
+          "matchedCanonical": "Passer domesticus",
+          "currentName": "Passer domesticus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Passeridae|Passer|Passer domesticus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45841775|45841820|45870078|9cd9581803902beb26aee9ddcc6e4575",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "9cd9581803902beb26aee9ddcc6e4575",
+            "matchedName": "Passer domesticus (Linnaeus, 1758)",
+            "matchedCanonical": "Passer domesticus",
+            "currentName": "Passer domesticus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Passeridae|Passer|Passer domesticus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45841775|45841820|45870078|9cd9581803902beb26aee9ddcc6e4575",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5231190",
+            "matchedName": "Passer domesticus (Linnaeus, 1758)",
+            "matchedCanonical": "Passer domesticus",
+            "currentName": "Passer domesticus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Passeriformes|Passeridae|Passer|Passer domesticus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|729|5264|2492321|5231190",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "745175",
+            "matchedName": "Passer domesticus",
+            "matchedCanonical": "Passer domesticus",
+            "currentName": "Passer domesticus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Passeriformes|Passeroidea|Passeridae|Passer|Passer domesticus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|1041547|176458|1011209|515158|745175",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 29,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

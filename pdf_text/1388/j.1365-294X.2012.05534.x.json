@@ -1,0 +1,757 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:59:31.61928979-05:00",
+    "language": "eng",
+    "total_words": 6944,
+    "total_candidates": 915,
+    "total_names": 12
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Glomerales",
+      "name": "Glomerales",
+      "odds": 213.75788682564587,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "les": 0.5582986048197137
+          }
+        }
+      },
+      "start": 11527,
+      "end": 11537,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45845029",
+          "matchedName": "Glomerales",
+          "matchedCanonical": "Glomerales",
+          "currentName": "Glomerales",
+          "classificationPath": "Fungi|Glomeromycota|Glomeromycetes|Glomerales",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841305|45845025|45845026|45845029",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45845029",
+            "matchedName": "Glomerales",
+            "matchedCanonical": "Glomerales",
+            "currentName": "Glomerales",
+            "classificationPath": "Fungi|Glomeromycota|Glomeromycetes|Glomerales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841305|45845025|45845026|45845029",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1148",
+            "matchedName": "Glomerales",
+            "matchedCanonical": "Glomerales",
+            "currentName": "Glomerales",
+            "classificationPath": "Fungi|Glomeromycota|Glomeromycetes|Glomerales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "5|18|156|1148",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "157948",
+            "matchedName": "Glomerales",
+            "matchedCanonical": "Glomerales",
+            "currentName": "Glomerales",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi||Glomeromycota|Glomeromycetes|Glomerales",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|class|order",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|385878|265358|157948",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Arbuscular mycorrhizal fungi",
+      "name": "Arbuscular mycorrhizal fungi",
+      "odds": 194.79605514260217,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "uniEnd3": {
+            "lar": 0.06951994121318274
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          }
+        }
+      },
+      "start": 12701,
+      "end": 12729,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Phytophthora infestans),",
+      "name": "Phytophthora infestans",
+      "odds": 107606040.01896635,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ora": 300.3261460409494
+          },
+          "spEnd3": {
+            "ans": 6.781558136408536
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          }
+        }
+      },
+      "start": 13159,
+      "end": 13184,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "c85744113c6708cd78de618a4af2e540",
+          "matchedName": "Phytophthora infestans (Mont.) de Bary 1876",
+          "matchedCanonical": "Phytophthora infestans",
+          "currentName": "Phytophthora infestans (Mont.) de Bary 1876",
+          "classificationPath": "Chromista|Oomycota|Peronosporea|Peronosporales|Peronosporaceae|Phytophthora|Phytophthora infestans",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841310|45850477|45850478|45850485|45850491|45867541|c85744113c6708cd78de618a4af2e540",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "c85744113c6708cd78de618a4af2e540",
+            "matchedName": "Phytophthora infestans (Mont.) de Bary 1876",
+            "matchedCanonical": "Phytophthora infestans",
+            "currentName": "Phytophthora infestans (Mont.) de Bary 1876",
+            "classificationPath": "Chromista|Oomycota|Peronosporea|Peronosporales|Peronosporaceae|Phytophthora|Phytophthora infestans",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841310|45850477|45850478|45850485|45850491|45867541|c85744113c6708cd78de618a4af2e540",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3203716",
+            "matchedName": "Phytophthora infestans (Mont.) de Bary, 1876 de Bary, 1876 (Mont.)",
+            "matchedCanonical": "Phytophthora infestans",
+            "currentName": "Phytophthora infestans (Mont.) de Bary, 1876 de Bary, 1876 (Mont.)",
+            "classificationPath": "Chromista|Oomycota|Peronosporea|Peronosporales|Peronosporaceae|Phytophthora|Phytophthora infestans de",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|32|8179345|1259|4785|3203589|3203716",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "157464",
+            "matchedName": "Phytophthora infestans 90128",
+            "matchedCanonical": "Phytophthora infestans",
+            "currentName": "Phytophthora infestans 90128",
+            "classificationPath": "||Eukaryota||Stramenopiles|Peronosporomycetes|Phytophthora|Phytophthora infestans|Phytophthora infestans",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|class|genus|species|no rank - terminal",
+            "classificationIDs": "805080|93302|304358|5246039|266745|555765|775740|775725|157464",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Arbuscular mycorrhizal fungi",
+      "name": "Arbuscular mycorrhizal fungi",
+      "odds": 194.79605514260217,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "uniEnd3": {
+            "lar": 0.06951994121318274
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          }
+        }
+      },
+      "start": 13322,
+      "end": 13350,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Arbuscular mycorrhizal fungi",
+      "name": "Arbuscular mycorrhizal fungi",
+      "odds": 194.79605514260217,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "uniEnd3": {
+            "lar": 0.06951994121318274
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          }
+        }
+      },
+      "start": 20832,
+      "end": 20860,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Arbuscular mycorrhizal fungi",
+      "name": "Arbuscular mycorrhizal fungi",
+      "odds": 194.79605514260217,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lar": 0.06951994121318274
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          }
+        }
+      },
+      "start": 20894,
+      "end": 20922,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Arbuscular mycorrhizal fungi",
+      "name": "Arbuscular mycorrhizal fungi",
+      "odds": 194.79605514260217,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lar": 0.06951994121318274
+          }
+        }
+      },
+      "start": 26039,
+      "end": 26067,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Arbuscular mycorrhizal fungi",
+      "name": "Arbuscular mycorrhizal fungi",
+      "odds": 194.79605514260217,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniEnd3": {
+            "lar": 0.06951994121318274
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 27512,
+      "end": 27540,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Arbuscular mycorrhizal fungi",
+      "name": "Arbuscular mycorrhizal fungi",
+      "odds": 194.79605514260217,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lar": 0.06951994121318274
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispDict": {
+            "GreySpecies": 0.5199710671561338
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "ispLen": {
+            "5": 0.2990330302345299
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          }
+        }
+      },
+      "start": 29617,
+      "end": 29645,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paraglomus",
+      "name": "Paraglomus",
+      "odds": 308714.07339223067,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mus": 55.05979344084073
+          }
+        }
+      },
+      "start": 41578,
+      "end": 41588,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46066151",
+          "matchedName": "Paraglomus",
+          "matchedCanonical": "Paraglomus",
+          "currentName": "Paraglomus",
+          "classificationPath": "Fungi|Glomeromycota|Glomeromycetes|Paraglomerales|Paraglomeraceae|Paraglomus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45845025|45845026|45853956|45853957|46066151",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46066151",
+            "matchedName": "Paraglomus",
+            "matchedCanonical": "Paraglomus",
+            "currentName": "Paraglomus",
+            "classificationPath": "Fungi|Glomeromycota|Glomeromycetes|Paraglomerales|Paraglomeraceae|Paraglomus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45845025|45845026|45853956|45853957|46066151",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2560238",
+            "matchedName": "Paraglomus J.B.Morton \u0026 D.Redecker",
+            "matchedCanonical": "Paraglomus",
+            "currentName": "Paraglomus J.B.Morton \u0026 D.Redecker",
+            "classificationPath": "Fungi|Glomeromycota|Glomeromycetes|Paraglomerales|Paraglomeraceae|Paraglomus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|18|156|1147|3299|2560238",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "398095",
+            "matchedName": "Paraglomus",
+            "matchedCanonical": "Paraglomus",
+            "currentName": "Paraglomus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi||Glomeromycota|Paraglomerales|Paraglomeraceae|Paraglomus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|385878|385883|398097|398095",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Glomerales",
+      "name": "Glomerales",
+      "odds": 213.75788682564587,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "les": 0.5582986048197137
+          }
+        }
+      },
+      "start": 41756,
+      "end": 41766,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45845029",
+          "matchedName": "Glomerales",
+          "matchedCanonical": "Glomerales",
+          "currentName": "Glomerales",
+          "classificationPath": "Fungi|Glomeromycota|Glomeromycetes|Glomerales",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841305|45845025|45845026|45845029",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45845029",
+            "matchedName": "Glomerales",
+            "matchedCanonical": "Glomerales",
+            "currentName": "Glomerales",
+            "classificationPath": "Fungi|Glomeromycota|Glomeromycetes|Glomerales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841305|45845025|45845026|45845029",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1148",
+            "matchedName": "Glomerales",
+            "matchedCanonical": "Glomerales",
+            "currentName": "Glomerales",
+            "classificationPath": "Fungi|Glomeromycota|Glomeromycetes|Glomerales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "5|18|156|1148",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "157948",
+            "matchedName": "Glomerales",
+            "matchedCanonical": "Glomerales",
+            "currentName": "Glomerales",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi||Glomeromycota|Glomeromycetes|Glomerales",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|class|order",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|385878|265358|157948",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paraglomus.",
+      "name": "Paraglomus",
+      "odds": 308714.07339223067,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mus": 55.05979344084073
+          }
+        }
+      },
+      "start": 41775,
+      "end": 41786,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46066151",
+          "matchedName": "Paraglomus",
+          "matchedCanonical": "Paraglomus",
+          "currentName": "Paraglomus",
+          "classificationPath": "Fungi|Glomeromycota|Glomeromycetes|Paraglomerales|Paraglomeraceae|Paraglomus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841305|45845025|45845026|45853956|45853957|46066151",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46066151",
+            "matchedName": "Paraglomus",
+            "matchedCanonical": "Paraglomus",
+            "currentName": "Paraglomus",
+            "classificationPath": "Fungi|Glomeromycota|Glomeromycetes|Paraglomerales|Paraglomeraceae|Paraglomus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841305|45845025|45845026|45853956|45853957|46066151",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2560238",
+            "matchedName": "Paraglomus J.B.Morton \u0026 D.Redecker",
+            "matchedCanonical": "Paraglomus",
+            "currentName": "Paraglomus J.B.Morton \u0026 D.Redecker",
+            "classificationPath": "Fungi|Glomeromycota|Glomeromycetes|Paraglomerales|Paraglomeraceae|Paraglomus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "5|18|156|1147|3299|2560238",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "398095",
+            "matchedName": "Paraglomus",
+            "matchedCanonical": "Paraglomus",
+            "currentName": "Paraglomus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi||Glomeromycota|Paraglomerales|Paraglomeraceae|Paraglomus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|385878|385883|398097|398095",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

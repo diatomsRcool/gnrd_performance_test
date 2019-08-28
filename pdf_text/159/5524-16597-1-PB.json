@@ -1,0 +1,1183 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:00:37.201244-05:00",
+    "language": "eng",
+    "total_words": 4932,
+    "total_candidates": 582,
+    "total_names": 15
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Vieira**",
+      "name": "Vieira",
+      "odds": 11568.009889421783,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ira": 15.641986772966117
+          }
+        }
+      },
+      "start": 130,
+      "end": 138,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45965097",
+          "matchedName": "Vieira",
+          "matchedCanonical": "Vieira",
+          "currentName": "Vieira",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841688|45841696|45965097",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45965097",
+            "matchedName": "Vieira",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841688|45841696|45965097",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2105587",
+            "matchedName": "Vieira Navás, 1913",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira Navás, 1913",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1501|9265|2105587",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3014942",
+            "matchedName": "Vieira",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Neuropterida|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|779644|81974|337148|3014942",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Leonardo",
+      "name": "Leonardo",
+      "odds": 2962.8300342285283,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 139,
+      "end": 147,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45946281",
+          "matchedName": "Leonardo",
+          "matchedCanonical": "Leonardo",
+          "currentName": "Leonardo",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Crambidae|Leonardo",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847826|45946281",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45946281",
+            "matchedName": "Leonardo",
+            "matchedCanonical": "Leonardo",
+            "currentName": "Leonardo",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Crambidae|Leonardo",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847826|45946281",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1889373",
+            "matchedName": "Leonardo Błeszyński, 1965",
+            "matchedCanonical": "Leonardo",
+            "currentName": "Leonardo Błeszyński, 1965",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Crambidae|Leonardo",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|8841|1889373",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3172851",
+            "matchedName": "Leonardo",
+            "matchedCanonical": "Leonardo",
+            "currentName": "Leonardo",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Crambidae|Leonardo",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|271925|3172851",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Vieira**",
+      "name": "Vieira",
+      "odds": 11568.009889421783,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ira": 15.641986772966117
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 184,
+      "end": 192,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45965097",
+          "matchedName": "Vieira",
+          "matchedCanonical": "Vieira",
+          "currentName": "Vieira",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841688|45841696|45965097",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45965097",
+            "matchedName": "Vieira",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841688|45841696|45965097",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2105587",
+            "matchedName": "Vieira Navás, 1913",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira Navás, 1913",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1501|9265|2105587",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3014942",
+            "matchedName": "Vieira",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Neuropterida|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|779644|81974|337148|3014942",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Escala",
+      "name": "Escala",
+      "odds": 38868.51322845719,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ala": 52.55707555716615
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 492,
+      "end": 498,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46041444",
+          "matchedName": "Escala",
+          "matchedCanonical": "Escala",
+          "currentName": "Escala",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Blaberoidea|Ectobiidae|Escala",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841560|45849430|45849431|46041444",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46041444",
+            "matchedName": "Escala",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Blaberoidea|Ectobiidae|Escala",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841560|45849430|45849431|46041444",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1999013",
+            "matchedName": "Escala Shelford, 1906",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala Shelford, 1906",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Ectobiidae|Escala",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|800|4802341|1999013",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4178318",
+            "matchedName": "Escala",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Orthopteroidea|Dictyoptera|Blattodea|Blaberoidea|Ectobiidae|Escala",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815351|48286|920179|492334|226906|4178318",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Escala",
+      "name": "Escala",
+      "odds": 38868.51322845719,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ala": 52.55707555716615
+          }
+        }
+      },
+      "start": 534,
+      "end": 540,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46041444",
+          "matchedName": "Escala",
+          "matchedCanonical": "Escala",
+          "currentName": "Escala",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Blaberoidea|Ectobiidae|Escala",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841560|45849430|45849431|46041444",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46041444",
+            "matchedName": "Escala",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Blaberoidea|Ectobiidae|Escala",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841560|45849430|45849431|46041444",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1999013",
+            "matchedName": "Escala Shelford, 1906",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala Shelford, 1906",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Ectobiidae|Escala",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|800|4802341|1999013",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4178318",
+            "matchedName": "Escala",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Orthopteroidea|Dictyoptera|Blattodea|Blaberoidea|Ectobiidae|Escala",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815351|48286|920179|492334|226906|4178318",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Nessa perspectiva,",
+      "name": "Nessa perspectiva",
+      "odds": 56904.38950806501,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ssa": 14.18206800748928
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "iva": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 3741,
+      "end": 3759,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45955976",
+          "matchedName": "Nessa",
+          "matchedCanonical": "Nessa",
+          "currentName": "Nessa",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Orthoptera|Grylloidea|Gryllidae|Nessa",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841564|45849398|45849406|45955976",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45955976",
+            "matchedName": "Nessa",
+            "matchedCanonical": "Nessa",
+            "currentName": "Nessa",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Orthoptera|Grylloidea|Gryllidae|Nessa",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841564|45849398|45849406|45955976",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1716525",
+            "matchedName": "Nessa Walker, 1869",
+            "matchedCanonical": "Nessa",
+            "currentName": "Nessa Walker, 1869",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Orthoptera|Gryllidae|Nessa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1458|5925|1716525",
+            "matchType": "ExactPartialMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4183992",
+            "matchedName": "Nessa",
+            "matchedCanonical": "Nessa",
+            "currentName": "Nessa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Orthopteroidea|Orthoptera|Ensifera|Grylloidea|Gryllidae|Nessa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815351|1095594|1095582|1051857|1095585|4183992",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Vallerand (2001) complementa",
+      "name": "Vallerand complementa",
+      "odds": 80.14034244481394,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nta": 45.04892190614242
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "and": 0.006016148758833122
+          }
+        }
+      },
+      "start": 3760,
+      "end": 3788,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(SERPA;",
+      "name": "Serpa",
+      "odds": 13293.167245404271,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rpa": 25.027178836745787
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 5668,
+      "end": 5675,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873900",
+          "matchedName": "Serpa",
+          "matchedCanonical": "Serpa",
+          "currentName": "Serpa",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Membracoidea|Cicadellidae|Serpa",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841287|45841288|45849157|45873900",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873900",
+            "matchedName": "Serpa",
+            "matchedCanonical": "Serpa",
+            "currentName": "Serpa",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Membracoidea|Cicadellidae|Serpa",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841287|45841288|45849157|45873900",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2405844",
+            "matchedName": "Serpa Cloquet, 1827",
+            "matchedCanonical": "Serpa",
+            "currentName": "Lampanyctus Bonaparte, 1840",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Myctophiformes|Myctophidae|Lampanyctus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|204|1306|4217|2405956",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4215982",
+            "matchedName": "Serpa",
+            "matchedCanonical": "Serpa",
+            "currentName": "Serpa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Clypeorrhyncha|Membracoidea|Cicadellidae|Serpa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|genus|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|866089|627449|990675|4215982",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Vieira",
+      "name": "Vieira",
+      "odds": 11568.009889421783,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ira": 15.641986772966117
+          }
+        }
+      },
+      "start": 6531,
+      "end": 6537,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45965097",
+          "matchedName": "Vieira",
+          "matchedCanonical": "Vieira",
+          "currentName": "Vieira",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841688|45841696|45965097",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45965097",
+            "matchedName": "Vieira",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841688|45841696|45965097",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2105587",
+            "matchedName": "Vieira Navás, 1913",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira Navás, 1913",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1501|9265|2105587",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3014942",
+            "matchedName": "Vieira",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Neuropterida|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|779644|81974|337148|3014942",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Escala",
+      "name": "Escala",
+      "odds": 38868.51322845719,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ala": 52.55707555716615
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 10880,
+      "end": 10886,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46041444",
+          "matchedName": "Escala",
+          "matchedCanonical": "Escala",
+          "currentName": "Escala",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Blaberoidea|Ectobiidae|Escala",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841560|45849430|45849431|46041444",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46041444",
+            "matchedName": "Escala",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Blaberoidea|Ectobiidae|Escala",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841560|45849430|45849431|46041444",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1999013",
+            "matchedName": "Escala Shelford, 1906",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala Shelford, 1906",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Ectobiidae|Escala",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|800|4802341|1999013",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4178318",
+            "matchedName": "Escala",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Orthopteroidea|Dictyoptera|Blattodea|Blaberoidea|Ectobiidae|Escala",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815351|48286|920179|492334|226906|4178318",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "VERNA",
+      "name": "Verna",
+      "odds": 65.97984238176242,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "rna": 3.7540768255118677
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 11962,
+      "end": 11967,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145787891",
+          "matchedName": "Calanthe sect. Verna K. Kakadzu",
+          "matchedCanonical": "Calanthe sect. Verna",
+          "currentName": "Calanthe sect. Verna K. Kakadzu",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 3,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Escala",
+      "name": "Escala",
+      "odds": 38868.51322845719,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ala": 52.55707555716615
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 12046,
+      "end": 12052,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46041444",
+          "matchedName": "Escala",
+          "matchedCanonical": "Escala",
+          "currentName": "Escala",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Blaberoidea|Ectobiidae|Escala",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841560|45849430|45849431|46041444",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46041444",
+            "matchedName": "Escala",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Blaberoidea|Ectobiidae|Escala",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841560|45849430|45849431|46041444",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1999013",
+            "matchedName": "Escala Shelford, 1906",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala Shelford, 1906",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Ectobiidae|Escala",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|800|4802341|1999013",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4178318",
+            "matchedName": "Escala",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Orthopteroidea|Dictyoptera|Blattodea|Blaberoidea|Ectobiidae|Escala",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815351|48286|920179|492334|226906|4178318",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(SERPA;",
+      "name": "Serpa",
+      "odds": 13293.167245404271,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rpa": 25.027178836745787
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 12189,
+      "end": 12196,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45873900",
+          "matchedName": "Serpa",
+          "matchedCanonical": "Serpa",
+          "currentName": "Serpa",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Membracoidea|Cicadellidae|Serpa",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841287|45841288|45849157|45873900",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45873900",
+            "matchedName": "Serpa",
+            "matchedCanonical": "Serpa",
+            "currentName": "Serpa",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Membracoidea|Cicadellidae|Serpa",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841287|45841288|45849157|45873900",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2405844",
+            "matchedName": "Serpa Cloquet, 1827",
+            "matchedCanonical": "Serpa",
+            "currentName": "Lampanyctus Bonaparte, 1840",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Myctophiformes|Myctophidae|Lampanyctus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|204|1306|4217|2405956",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4215982",
+            "matchedName": "Serpa",
+            "matchedCanonical": "Serpa",
+            "currentName": "Serpa",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Hemiptera|Euhemiptera|Clypeorrhyncha|Membracoidea|Cicadellidae|Serpa",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|no rank|genus|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|603650|563395|866089|627449|990675|4215982",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Escala",
+      "name": "Escala",
+      "odds": 38868.51322845719,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ala": 52.55707555716615
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 12329,
+      "end": 12335,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46041444",
+          "matchedName": "Escala",
+          "matchedCanonical": "Escala",
+          "currentName": "Escala",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Blaberoidea|Ectobiidae|Escala",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841560|45849430|45849431|46041444",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46041444",
+            "matchedName": "Escala",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Blaberoidea|Ectobiidae|Escala",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841560|45849430|45849431|46041444",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1999013",
+            "matchedName": "Escala Shelford, 1906",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala Shelford, 1906",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Blattodea|Ectobiidae|Escala",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|800|4802341|1999013",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4178318",
+            "matchedName": "Escala",
+            "matchedCanonical": "Escala",
+            "currentName": "Escala",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Orthopteroidea|Dictyoptera|Blattodea|Blaberoidea|Ectobiidae|Escala",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815351|48286|920179|492334|226906|4178318",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(VIEIRA,",
+      "name": "Vieira",
+      "odds": 11568.009889421783,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ira": 15.641986772966117
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 29114,
+      "end": 29122,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45965097",
+          "matchedName": "Vieira",
+          "matchedCanonical": "Vieira",
+          "currentName": "Vieira",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841688|45841696|45965097",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45965097",
+            "matchedName": "Vieira",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841688|45841696|45965097",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2105587",
+            "matchedName": "Vieira Navás, 1913",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira Navás, 1913",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1501|9265|2105587",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3014942",
+            "matchedName": "Vieira",
+            "matchedCanonical": "Vieira",
+            "currentName": "Vieira",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Neuropterida|Neuroptera|Chrysopidae|Vieira",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|779644|81974|337148|3014942",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

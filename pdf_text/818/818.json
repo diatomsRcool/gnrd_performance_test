@@ -1,0 +1,1115 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:07:35.351386155-05:00",
+    "language": "eng",
+    "total_words": 7756,
+    "total_candidates": 995,
+    "total_names": 16
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Zootoca vivipara",
+      "name": "Zootoca vivipara",
+      "odds": 12835390020.772734,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ara": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oca": 15.01630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 2764,
+      "end": 2780,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "edf3ef806acc57651af26814c6a616d7",
+          "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "matchedCanonical": "Zootoca vivipara",
+          "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "edf3ef806acc57651af26814c6a616d7",
+            "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468551",
+            "matchedName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|5201|2468550|2468551",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "87626",
+            "matchedName": "Zootoca vivipara",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Laterata|Lacertibaenia|Lacertidae|Lacertinae|Zootoca|Zootoca vivipara",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945817|4945863|87620|638609|693169|87626",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Zootoca vivipara.",
+      "name": "Zootoca vivipara",
+      "odds": 12835390020.772734,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oca": 15.01630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ara": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 3842,
+      "end": 3859,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "edf3ef806acc57651af26814c6a616d7",
+          "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "matchedCanonical": "Zootoca vivipara",
+          "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "edf3ef806acc57651af26814c6a616d7",
+            "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468551",
+            "matchedName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|5201|2468550|2468551",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "87626",
+            "matchedName": "Zootoca vivipara",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Laterata|Lacertibaenia|Lacertidae|Lacertinae|Zootoca|Zootoca vivipara",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945817|4945863|87620|638609|693169|87626",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Zootoca vivipara,",
+      "name": "Zootoca vivipara",
+      "odds": 12835390020.772734,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "oca": 15.01630730204747
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ara": 15.01630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 10974,
+      "end": 10991,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "edf3ef806acc57651af26814c6a616d7",
+          "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "matchedCanonical": "Zootoca vivipara",
+          "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "edf3ef806acc57651af26814c6a616d7",
+            "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468551",
+            "matchedName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|5201|2468550|2468551",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "87626",
+            "matchedName": "Zootoca vivipara",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Laterata|Lacertibaenia|Lacertidae|Lacertinae|Zootoca|Zootoca vivipara",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945817|4945863|87620|638609|693169|87626",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Zootoca vivipara",
+      "name": "Zootoca vivipara",
+      "odds": 12835390020.772734,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oca": 15.01630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ara": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 15183,
+      "end": 15199,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "edf3ef806acc57651af26814c6a616d7",
+          "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "matchedCanonical": "Zootoca vivipara",
+          "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "edf3ef806acc57651af26814c6a616d7",
+            "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468551",
+            "matchedName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|5201|2468550|2468551",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "87626",
+            "matchedName": "Zootoca vivipara",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Laterata|Lacertibaenia|Lacertidae|Lacertinae|Zootoca|Zootoca vivipara",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945817|4945863|87620|638609|693169|87626",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Lacertidae",
+      "name": "Lacertidae",
+      "odds": 38074.93281159937,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 15283,
+      "end": 15293,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45842183",
+          "matchedName": "Lacertidae",
+          "matchedCanonical": "Lacertidae",
+          "currentName": "Lacertidae",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842183",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45842183",
+            "matchedName": "Lacertidae",
+            "matchedCanonical": "Lacertidae",
+            "currentName": "Lacertidae",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842183",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5201",
+            "matchedName": "Lacertidae",
+            "matchedCanonical": "Lacertidae",
+            "currentName": "Lacertidae",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|358|715|5201",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "87620",
+            "matchedName": "Lacertidae",
+            "matchedCanonical": "Lacertidae",
+            "currentName": "Lacertidae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Laterata|Lacertibaenia|Lacertidae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|no rank|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945817|4945863|87620",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Zootoca vivipara",
+      "name": "Zootoca vivipara",
+      "odds": 12835390020.772734,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oca": 15.01630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ara": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 15718,
+      "end": 15734,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "edf3ef806acc57651af26814c6a616d7",
+          "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "matchedCanonical": "Zootoca vivipara",
+          "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "edf3ef806acc57651af26814c6a616d7",
+            "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468551",
+            "matchedName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|5201|2468550|2468551",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "87626",
+            "matchedName": "Zootoca vivipara",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Laterata|Lacertibaenia|Lacertidae|Lacertinae|Zootoca|Zootoca vivipara",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945817|4945863|87620|638609|693169|87626",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Zootoca vivipara",
+      "name": "Zootoca vivipara",
+      "odds": 12835390020.772734,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oca": 15.01630730204747
+          },
+          "spEnd3": {
+            "ara": 15.01630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 18027,
+      "end": 18043,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "edf3ef806acc57651af26814c6a616d7",
+          "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "matchedCanonical": "Zootoca vivipara",
+          "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "edf3ef806acc57651af26814c6a616d7",
+            "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468551",
+            "matchedName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|5201|2468550|2468551",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "87626",
+            "matchedName": "Zootoca vivipara",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Laterata|Lacertibaenia|Lacertidae|Lacertinae|Zootoca|Zootoca vivipara",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945817|4945863|87620|638609|693169|87626",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Z. vivipara",
+      "name": "Z. vivipara",
+      "odds": 271859.8318355689,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ara": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 20789,
+      "end": 20800,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Z. vivipara",
+      "name": "Z. vivipara",
+      "odds": 271859.8318355689,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ara": 15.01630730204747
+          }
+        }
+      },
+      "start": 27321,
+      "end": 27332,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Z. vivipara",
+      "name": "Z. vivipara",
+      "odds": 271859.8318355689,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ara": 15.01630730204747
+          }
+        }
+      },
+      "start": 27479,
+      "end": 27490,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Z. vivipara",
+      "name": "Z. vivipara",
+      "odds": 271859.8318355689,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ara": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 28052,
+      "end": 28063,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Thamnophis sirtalis fitchi",
+      "name": "Thamnophis sirtalis fitchi",
+      "odds": 951593595.4267269,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "his": 0.3033597434757065
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          }
+        }
+      },
+      "start": 28433,
+      "end": 28459,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "bf75675af42b79b669198ae147d108ab",
+          "matchedName": "Thamnophis sirtalis fitchi Fox, 1951",
+          "matchedCanonical": "Thamnophis sirtalis fitchi",
+          "currentName": "Thamnophis sirtalis fitchi Fox, 1951",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Natricidae|Thamnophis||Thamnophis sirtalis fitchi",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "bf75675af42b79b669198ae147d108ab",
+            "matchedName": "Thamnophis sirtalis fitchi Fox, 1951",
+            "matchedCanonical": "Thamnophis sirtalis fitchi",
+            "currentName": "Thamnophis sirtalis fitchi Fox, 1951",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Natricidae|Thamnophis||Thamnophis sirtalis fitchi",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6161471",
+            "matchedName": "Thamnophis sirtalis subsp. fitchi Fox, 1951",
+            "matchedCanonical": "Thamnophis sirtalis ssp. fitchi",
+            "currentName": "Thamnophis sirtalis subsp. fitchi Fox, 1951",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Colubridae|Thamnophis|Thamnophis sirtalis|Thamnophis sirtalis fitchi",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|358|715|6172|2457825|2457522|6161471",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 11,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Uta stansburiana",
+      "name": "Uta stansburiana",
+      "odds": 34564.110145506005,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          }
+        }
+      },
+      "start": 28574,
+      "end": 28590,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "97cb1cfca2419972960d1040ee4e3c38",
+          "matchedName": "Uta stansburiana Baird \u0026 Girard, 1852",
+          "matchedCanonical": "Uta stansburiana",
+          "currentName": "Uta stansburiana Baird \u0026 Girard, 1852",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Phrynosomatidae|Uta|Uta stansburiana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842045|46009813|97cb1cfca2419972960d1040ee4e3c38",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "97cb1cfca2419972960d1040ee4e3c38",
+            "matchedName": "Uta stansburiana Baird \u0026 Girard, 1852",
+            "matchedCanonical": "Uta stansburiana",
+            "currentName": "Uta stansburiana Baird \u0026 Girard, 1852",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Phrynosomatidae|Uta|Uta stansburiana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842045|46009813|97cb1cfca2419972960d1040ee4e3c38",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2451029",
+            "matchedName": "Uta stansburiana Baird \u0026 Girard, 1852",
+            "matchedCanonical": "Uta stansburiana",
+            "currentName": "Uta stansburiana Baird \u0026 Girard, 1852",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Phrynosomatidae|Uta|Uta stansburiana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|5016|2451479|2451029",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "867320",
+            "matchedName": "Uta stansburiana",
+            "matchedCanonical": "Uta stansburiana",
+            "currentName": "Uta stansburiana",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Toxicofera|Iguania|Iguanidae|Phrynosomatinae|Uta|Uta stansburiana",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945872|608979|608975|106818|427279|867320",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Z. vivipara",
+      "name": "Z. vivipara",
+      "odds": 271859.8318355689,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ara": 15.01630730204747
+          }
+        }
+      },
+      "start": 28907,
+      "end": 28918,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Zootoca vivipara.",
+      "name": "Zootoca vivipara",
+      "odds": 12835390020.772734,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oca": 15.01630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ara": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 40404,
+      "end": 40421,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "edf3ef806acc57651af26814c6a616d7",
+          "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "matchedCanonical": "Zootoca vivipara",
+          "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+          "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "edf3ef806acc57651af26814c6a616d7",
+            "matchedName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Lichtenstein, 1823)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841427|45841428|45842183|45908101|edf3ef806acc57651af26814c6a616d7",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2468551",
+            "matchedName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara (Von Jacquin, 1787)",
+            "classificationPath": "Animalia|Chordata|Reptilia|Squamata|Lacertidae|Zootoca|Zootoca vivipara",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|358|715|5201|2468550|2468551",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "87626",
+            "matchedName": "Zootoca vivipara",
+            "matchedCanonical": "Zootoca vivipara",
+            "currentName": "Zootoca vivipara",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Lepidosauria|Squamata|Bifurcata|Unidentata|Episquamata|Laterata|Lacertibaenia|Lacertidae|Lacertinae|Zootoca|Zootoca vivipara",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|superorder|order|no rank|no rank|no rank|no rank|no rank|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|35881|35888|4945781|4945815|4945816|4945817|4945863|87620|638609|693169|87626",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Z. vivipara,",
+      "name": "Z. vivipara",
+      "odds": 271859.8318355689,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ara": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          }
+        }
+      },
+      "start": 48549,
+      "end": 48561,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    }
+  ]
+}

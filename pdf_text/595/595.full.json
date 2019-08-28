@@ -1,0 +1,823 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:06:14.313060051-05:00",
+    "language": "eng",
+    "total_words": 7722,
+    "total_candidates": 1522,
+    "total_names": 14
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "VALERIA",
+      "name": "Valeria",
+      "odds": 26778.109558518143,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ria": 18.35326448028024
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 178,
+      "end": 185,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45887330",
+          "matchedName": "Valeria",
+          "matchedCanonical": "Valeria",
+          "currentName": "Valeria",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Noctuoidea|Noctuidae|Valeria",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847794|45847813|45887330",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45887330",
+            "matchedName": "Valeria",
+            "matchedCanonical": "Valeria",
+            "currentName": "Valeria",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Noctuoidea|Noctuidae|Valeria",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847794|45847813|45887330",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3267915",
+            "matchedName": "Valeria Gistl, 1847",
+            "matchedCanonical": "Valeria",
+            "currentName": "Valeria Gistl, 1847",
+            "classificationPath": "Animalia|Bryozoa|Valeria",
+            "classificationRank": "kingdom|phylum|genus",
+            "classificationIDs": "1|53|3267915",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4266089",
+            "matchedName": "Valeria",
+            "matchedCanonical": "Valeria",
+            "currentName": "Valeria",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Noctuoidea|Noctuidae|Amphipyrinae|Valeria",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675124|742352|968470|4266089",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Emilia,",
+      "name": "Emilia",
+      "odds": 6962.8402382043505,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          }
+        }
+      },
+      "start": 650,
+      "end": 657,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46042313",
+          "matchedName": "Emilia",
+          "matchedCanonical": "Emilia",
+          "currentName": "Emilia",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Emilia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46042313",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46042313",
+            "matchedName": "Emilia",
+            "matchedCanonical": "Emilia",
+            "currentName": "Emilia",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Emilia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46042313",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3258831",
+            "matchedName": "Emilia Ashmead, 1898",
+            "matchedCanonical": "Emilia",
+            "currentName": "Emilia Ashmead, 1898",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Emilia",
+            "classificationRank": "kingdom|phylum|class|order|genus",
+            "classificationIDs": "1|54|216|1457|3258831",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "65663",
+            "matchedName": "Emilia",
+            "matchedCanonical": "Emilia",
+            "currentName": "Emilia",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Asterales|Asteraceae|Asteroideae|Senecioneae|Senecioninae|Emilia",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|tribe|subtribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596121|1042120|46248|1084160|557768|349491|65663",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Beleza",
+      "name": "Beleza",
+      "odds": 122.48987048608217,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eza": 5.005435767349157
+          }
+        }
+      },
+      "start": 6083,
+      "end": 6090,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "86235",
+          "matchedName": "Beleza Hull 1997",
+          "matchedCanonical": "Beleza",
+          "currentName": "Mictyoditra Dumitrica 1997",
+          "isSynonym": true,
+          "classificationPath": "Eucarya|Rhizaria|Retaria|Radiolaria|Polycystina|Nassellaria|Archaeodictyomitracea|Archaeodictyomitridae|Mictyoditra",
+          "classificationRank": "unranked clade|unranked clade|unranked clade|class|superorder|order|superfamily|family|genus",
+          "classificationIDs": "288516|212476|213089|4|111594|402|66327|64604|64788",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8978034",
+            "matchedName": "Beleza Hull, 1997",
+            "matchedCanonical": "Beleza",
+            "currentName": "Mictyoditra Dumitrica in Dumitrica, Immenhauser \u0026 Dumitrica-Jud, 1997",
+            "isSynonym": true,
+            "classificationPath": "Chromista|Radiozoa|Polycystina|Nassellaria|Archaeodictyomitridae|Mictyoditra",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|7231714|8065737|5955735|4908789|4892017",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pereira",
+      "name": "Pereira",
+      "odds": 22822.25246464615,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ira": 15.641986772966117
+          }
+        }
+      },
+      "start": 6768,
+      "end": 6775,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "26986-1",
+          "matchedName": "Pereira Hook.f. \u0026 Thomson",
+          "matchedCanonical": "Pereira",
+          "currentName": "Pereira Hook.f. \u0026 Thomson",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3829467",
+            "matchedName": "Pereira Hook.f. \u0026 Thomson",
+            "matchedCanonical": "Pereira",
+            "currentName": "Pereira Hook.f. \u0026 Thomson",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ranunculales|Menispermaceae|Pereira",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|399|2411|3829467",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Beleza",
+      "name": "Beleza",
+      "odds": 122.48987048608217,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eza": 5.005435767349157
+          }
+        }
+      },
+      "start": 6789,
+      "end": 6795,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "86235",
+          "matchedName": "Beleza Hull 1997",
+          "matchedCanonical": "Beleza",
+          "currentName": "Mictyoditra Dumitrica 1997",
+          "isSynonym": true,
+          "classificationPath": "Eucarya|Rhizaria|Retaria|Radiolaria|Polycystina|Nassellaria|Archaeodictyomitracea|Archaeodictyomitridae|Mictyoditra",
+          "classificationRank": "unranked clade|unranked clade|unranked clade|class|superorder|order|superfamily|family|genus",
+          "classificationIDs": "288516|212476|213089|4|111594|402|66327|64604|64788",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8978034",
+            "matchedName": "Beleza Hull, 1997",
+            "matchedCanonical": "Beleza",
+            "currentName": "Mictyoditra Dumitrica in Dumitrica, Immenhauser \u0026 Dumitrica-Jud, 1997",
+            "isSynonym": true,
+            "classificationPath": "Chromista|Radiozoa|Polycystina|Nassellaria|Archaeodictyomitridae|Mictyoditra",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|7231714|8065737|5955735|4908789|4892017",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Beleza",
+      "name": "Beleza",
+      "odds": 122.48987048608217,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eza": 5.005435767349157
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 8652,
+      "end": 8658,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "86235",
+          "matchedName": "Beleza Hull 1997",
+          "matchedCanonical": "Beleza",
+          "currentName": "Mictyoditra Dumitrica 1997",
+          "isSynonym": true,
+          "classificationPath": "Eucarya|Rhizaria|Retaria|Radiolaria|Polycystina|Nassellaria|Archaeodictyomitracea|Archaeodictyomitridae|Mictyoditra",
+          "classificationRank": "unranked clade|unranked clade|unranked clade|class|superorder|order|superfamily|family|genus",
+          "classificationIDs": "288516|212476|213089|4|111594|402|66327|64604|64788",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8978034",
+            "matchedName": "Beleza Hull, 1997",
+            "matchedCanonical": "Beleza",
+            "currentName": "Mictyoditra Dumitrica in Dumitrica, Immenhauser \u0026 Dumitrica-Jud, 1997",
+            "isSynonym": true,
+            "classificationPath": "Chromista|Radiozoa|Polycystina|Nassellaria|Archaeodictyomitridae|Mictyoditra",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|7231714|8065737|5955735|4908789|4892017",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "GATA",
+      "name": "Gata",
+      "odds": 1693.8043618874729,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 11958,
+      "end": 11962,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1133130",
+          "matchedName": "Gata Blackwelder, 1943",
+          "matchedCanonical": "Gata",
+          "currentName": "Megalopinus Eichelbaum, 1915",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Staphylinidae|Megalopinus",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|100986|1410749",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4745031",
+            "matchedName": "Gata Blackwelder, 1943",
+            "matchedCanonical": "Gata",
+            "currentName": "Megalopinus Eichelbaum, 1915",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Staphylinidae|Megalopinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|7854|4714204",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Bassa,",
+      "name": "Bassa",
+      "odds": 249.2571823311025,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ssa": 14.18206800748928
+          }
+        }
+      },
+      "start": 15734,
+      "end": 15740,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145306895",
+          "matchedName": "Bassa Cothen.",
+          "matchedCanonical": "Bassa",
+          "currentName": "Bassa Cothen.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Bassa),",
+      "name": "Bassa",
+      "odds": 249.2571823311025,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ssa": 14.18206800748928
+          }
+        }
+      },
+      "start": 23547,
+      "end": 23555,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145306895",
+          "matchedName": "Bassa Cothen.",
+          "matchedCanonical": "Bassa",
+          "currentName": "Bassa Cothen.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Beleza",
+      "name": "Beleza",
+      "odds": 122.48987048608217,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eza": 5.005435767349157
+          }
+        }
+      },
+      "start": 23934,
+      "end": 23941,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "86235",
+          "matchedName": "Beleza Hull 1997",
+          "matchedCanonical": "Beleza",
+          "currentName": "Mictyoditra Dumitrica 1997",
+          "isSynonym": true,
+          "classificationPath": "Eucarya|Rhizaria|Retaria|Radiolaria|Polycystina|Nassellaria|Archaeodictyomitracea|Archaeodictyomitridae|Mictyoditra",
+          "classificationRank": "unranked clade|unranked clade|unranked clade|class|superorder|order|superfamily|family|genus",
+          "classificationIDs": "288516|212476|213089|4|111594|402|66327|64604|64788",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8978034",
+            "matchedName": "Beleza Hull, 1997",
+            "matchedCanonical": "Beleza",
+            "currentName": "Mictyoditra Dumitrica in Dumitrica, Immenhauser \u0026 Dumitrica-Jud, 1997",
+            "isSynonym": true,
+            "classificationPath": "Chromista|Radiozoa|Polycystina|Nassellaria|Archaeodictyomitridae|Mictyoditra",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|7231714|8065737|5955735|4908789|4892017",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Bassa),",
+      "name": "Bassa",
+      "odds": 249.2571823311025,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ssa": 14.18206800748928
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 28263,
+      "end": 28271,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145306895",
+          "matchedName": "Bassa Cothen.",
+          "matchedCanonical": "Bassa",
+          "currentName": "Bassa Cothen.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "BASSA",
+      "name": "Bassa",
+      "odds": 249.2571823311025,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ssa": 14.18206800748928
+          }
+        }
+      },
+      "start": 28764,
+      "end": 28769,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145306895",
+          "matchedName": "Bassa Cothen.",
+          "matchedCanonical": "Bassa",
+          "currentName": "Bassa Cothen.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Mona",
+      "name": "Mona",
+      "odds": 328.7973173075683,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ona": 2.7529896720420366
+          }
+        }
+      },
+      "start": 40909,
+      "end": 40913,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145079776",
+          "matchedName": "Mona O. Nilsson",
+          "matchedCanonical": "Mona",
+          "currentName": "Mona O. Nilsson",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3257422",
+            "matchedName": "Mona Hulst, 1888",
+            "matchedCanonical": "Mona",
+            "currentName": "Mona Hulst, 1888",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Mona",
+            "classificationRank": "kingdom|phylum|class|order|genus",
+            "classificationIDs": "1|54|216|797|3257422",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Beleza",
+      "name": "Beleza",
+      "odds": 122.48987048608217,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eza": 5.005435767349157
+          }
+        }
+      },
+      "start": 41531,
+      "end": 41537,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 172,
+          "dataSourceTitle": "The Paleobiology Database",
+          "taxonId": "86235",
+          "matchedName": "Beleza Hull 1997",
+          "matchedCanonical": "Beleza",
+          "currentName": "Mictyoditra Dumitrica 1997",
+          "isSynonym": true,
+          "classificationPath": "Eucarya|Rhizaria|Retaria|Radiolaria|Polycystina|Nassellaria|Archaeodictyomitracea|Archaeodictyomitridae|Mictyoditra",
+          "classificationRank": "unranked clade|unranked clade|unranked clade|class|superorder|order|superfamily|family|genus",
+          "classificationIDs": "288516|212476|213089|4|111594|402|66327|64604|64788",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8978034",
+            "matchedName": "Beleza Hull, 1997",
+            "matchedCanonical": "Beleza",
+            "currentName": "Mictyoditra Dumitrica in Dumitrica, Immenhauser \u0026 Dumitrica-Jud, 1997",
+            "isSynonym": true,
+            "classificationPath": "Chromista|Radiozoa|Polycystina|Nassellaria|Archaeodictyomitridae|Mictyoditra",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "4|7231714|8065737|5955735|4908789|4892017",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

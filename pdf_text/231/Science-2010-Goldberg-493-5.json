@@ -1,0 +1,955 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:02:34.433846264-05:00",
+    "language": "eng",
+    "total_words": 2316,
+    "total_candidates": 349,
+    "total_names": 12
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "Emma",
+      "name": "Emma",
+      "odds": 8070.479606640311,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mma": 67.57338285921362
+          }
+        }
+      },
+      "start": 51,
+      "end": 55,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46030335",
+          "matchedName": "Emma",
+          "matchedCanonical": "Emma",
+          "currentName": "Emma",
+          "classificationPath": "Animalia|Bryozoa|Gymnolaemata|Cheilostomatida|Buguloidea|Candidae|Emma",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45843536|45843537|45843538|45845176|45856341|46030335",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46030335",
+            "matchedName": "Emma",
+            "matchedCanonical": "Emma",
+            "currentName": "Emma",
+            "classificationPath": "Animalia|Bryozoa|Gymnolaemata|Cheilostomatida|Buguloidea|Candidae|Emma",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45843536|45843537|45843538|45845176|45856341|46030335",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3261176",
+            "matchedName": "Emma Escalera, 1913",
+            "matchedCanonical": "Emma",
+            "currentName": "Emmita Escalera, 1914",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Dascillidae|Emmita",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|4731|4575534",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2936309",
+            "matchedName": "Emma",
+            "matchedCanonical": "Emma",
+            "currentName": "Emma",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Bryozoa|Gymnolaemata|Cheilostomatida|Neocheilostomatina|Flustrina|Buguloidea|Candidae|Emma",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|442934|622391|622392|375421|165380|165365|848801|2936309",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Emma",
+      "name": "Emma",
+      "odds": 8070.479606640311,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mma": 67.57338285921362
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1932,
+      "end": 1936,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46030335",
+          "matchedName": "Emma",
+          "matchedCanonical": "Emma",
+          "currentName": "Emma",
+          "classificationPath": "Animalia|Bryozoa|Gymnolaemata|Cheilostomatida|Buguloidea|Candidae|Emma",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45843536|45843537|45843538|45845176|45856341|46030335",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46030335",
+            "matchedName": "Emma",
+            "matchedCanonical": "Emma",
+            "currentName": "Emma",
+            "classificationPath": "Animalia|Bryozoa|Gymnolaemata|Cheilostomatida|Buguloidea|Candidae|Emma",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45843536|45843537|45843538|45845176|45856341|46030335",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3261176",
+            "matchedName": "Emma Escalera, 1913",
+            "matchedCanonical": "Emma",
+            "currentName": "Emmita Escalera, 1914",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Dascillidae|Emmita",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|4731|4575534",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2936309",
+            "matchedName": "Emma",
+            "matchedCanonical": "Emma",
+            "currentName": "Emma",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Bryozoa|Gymnolaemata|Cheilostomatida|Neocheilostomatina|Flustrina|Buguloidea|Candidae|Emma",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|order|suborder|infraorder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|442934|622391|622392|375421|165380|165365|848801|2936309",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Solanaceae),",
+      "name": "Solanaceae",
+      "odds": 10215.225876282757,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 2512,
+      "end": 2525,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856684",
+          "matchedName": "Solanaceae",
+          "matchedCanonical": "Solanaceae",
+          "currentName": "Solanaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856684",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7717",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|1176|7717",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "473827",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Solanales|Solanaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|1050255|473827",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Solanaceae",
+      "name": "Solanaceae",
+      "odds": 10215.225876282757,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 5464,
+      "end": 5474,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856684",
+          "matchedName": "Solanaceae",
+          "matchedCanonical": "Solanaceae",
+          "currentName": "Solanaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856684",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7717",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|1176|7717",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "473827",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Solanales|Solanaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|1050255|473827",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Solanaceae",
+      "name": "Solanaceae",
+      "odds": 10215.225876282757,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 6220,
+      "end": 6230,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856684",
+          "matchedName": "Solanaceae",
+          "matchedCanonical": "Solanaceae",
+          "currentName": "Solanaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856684",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7717",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|1176|7717",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "473827",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Solanales|Solanaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|1050255|473827",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Solanaceae",
+      "name": "Solanaceae",
+      "odds": 10215.225876282757,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          }
+        }
+      },
+      "start": 6549,
+      "end": 6559,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856684",
+          "matchedName": "Solanaceae",
+          "matchedCanonical": "Solanaceae",
+          "currentName": "Solanaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856684",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7717",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|1176|7717",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "473827",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Solanales|Solanaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|1050255|473827",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Solanaceae",
+      "name": "Solanaceae",
+      "odds": 10215.225876282757,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 6738,
+      "end": 6748,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856684",
+          "matchedName": "Solanaceae",
+          "matchedCanonical": "Solanaceae",
+          "currentName": "Solanaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856684",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7717",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|1176|7717",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "473827",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Solanales|Solanaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|1050255|473827",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Solanaceae.",
+      "name": "Solanaceae",
+      "odds": 10215.225876282757,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 7468,
+      "end": 7479,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856684",
+          "matchedName": "Solanaceae",
+          "matchedCanonical": "Solanaceae",
+          "currentName": "Solanaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856684",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7717",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|1176|7717",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "473827",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Solanales|Solanaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|1050255|473827",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Solanoideae",
+      "name": "Solanoideae",
+      "odds": 13525.09145482151,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 8129,
+      "end": 8140,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145906312",
+          "matchedName": "Solanoideae Kostel.",
+          "matchedCanonical": "Solanoideae",
+          "currentName": "Solanoideae Kostel.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "13867",
+            "matchedName": "Solanoideae",
+            "matchedCanonical": "Solanoideae",
+            "currentName": "Solanoideae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Solanales|Solanaceae|Solanoideae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|1050255|473827|13867",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Nicotianoideae",
+      "name": "Nicotianoideae",
+      "odds": 47952.59697618535,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 8145,
+      "end": 8159,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 2,
+          "dataSourceTitle": "Wikispecies",
+          "taxonId": "243882",
+          "matchedName": "Nicotianoideae Miers",
+          "matchedCanonical": "Nicotianoideae",
+          "currentName": "Nicotianoideae Miers",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "13859",
+            "matchedName": "Nicotianoideae",
+            "matchedCanonical": "Nicotianoideae",
+            "currentName": "Nicotianoideae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Solanales|Solanaceae|Nicotianoideae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|1050255|473827|13859",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Solanaceae",
+      "name": "Solanaceae",
+      "odds": 10215.225876282757,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 8615,
+      "end": 8625,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856684",
+          "matchedName": "Solanaceae",
+          "matchedCanonical": "Solanaceae",
+          "currentName": "Solanaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856684",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7717",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|1176|7717",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "473827",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Solanales|Solanaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|1050255|473827",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Solanaceae.",
+      "name": "Solanaceae",
+      "odds": 10215.225876282757,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 9441,
+      "end": 9452,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45856684",
+          "matchedName": "Solanaceae",
+          "matchedCanonical": "Solanaceae",
+          "currentName": "Solanaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45856684",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45848065|45856684",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7717",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|1176|7717",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "473827",
+            "matchedName": "Solanaceae",
+            "matchedCanonical": "Solanaceae",
+            "currentName": "Solanaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Solanales|Solanaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|1050255|473827",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

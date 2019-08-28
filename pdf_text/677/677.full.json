@@ -1,0 +1,1118 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:06:35.321267594-05:00",
+    "language": "eng",
+    "total_words": 6074,
+    "total_candidates": 1155,
+    "total_names": 14
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "GUILLERMO",
+      "name": "Guillermo",
+      "odds": 4384.395517246239,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 288,
+      "end": 297,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1274130",
+          "matchedName": "Guillermo Slipinski, 2007",
+          "matchedCanonical": "Guillermo",
+          "currentName": "Guillermo Slipinski, 2007",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Coccinellidae|Guillermo",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|100973|1274130",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4741569",
+            "matchedName": "Guillermo Slipinski, 2007",
+            "matchedCanonical": "Guillermo",
+            "currentName": "Guillermo Slipinski, 2007",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Coccinellidae|Guillermo",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|7782|4741569",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "381727",
+            "matchedName": "Guillermo",
+            "matchedCanonical": "Guillermo",
+            "currentName": "Guillermo",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Coleoptera|Polyphaga|Cucujiformia|Cucujoidea|Coccinellidae|Coccidulinae|Coccidulini|Guillermo",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|no rank|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|865243|684689|684692|765495|965942|629409|267413|381727",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Neophron percnopterus).",
+      "name": "Neophron percnopterus",
+      "odds": 427836273573.0063,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ron": 7.786233415876468
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rus": 180.19568762456967
+          }
+        }
+      },
+      "start": 1757,
+      "end": 1781,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b209dec88cafe4aeec24aa1d83280319",
+          "matchedName": "Neophron percnopterus (Linnaeus, 1758)",
+          "matchedCanonical": "Neophron percnopterus",
+          "currentName": "Neophron percnopterus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae|Neophron|Neophron percnopterus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45850618|45850622|45897690|b209dec88cafe4aeec24aa1d83280319",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b209dec88cafe4aeec24aa1d83280319",
+            "matchedName": "Neophron percnopterus (Linnaeus, 1758)",
+            "matchedCanonical": "Neophron percnopterus",
+            "currentName": "Neophron percnopterus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae|Neophron|Neophron percnopterus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45850618|45850622|45897690|b209dec88cafe4aeec24aa1d83280319",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2480696",
+            "matchedName": "Neophron percnopterus (Linnaeus, 1758)",
+            "matchedCanonical": "Neophron percnopterus",
+            "currentName": "Neophron percnopterus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae|Neophron|Neophron percnopterus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|7191147|2877|2480695|2480696",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "891414",
+            "matchedName": "Neophron percnopterus",
+            "matchedCanonical": "Neophron percnopterus",
+            "currentName": "Neophron percnopterus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Falconiformes|Accipitridae|Accipitrinae|Neophron|Neophron percnopterus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|212187|1036185|786440|891419|891414",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Neophron percnopterus",
+      "name": "Neophron percnopterus",
+      "odds": 427836273573.0063,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ron": 7.786233415876468
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "rus": 180.19568762456967
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 2602,
+      "end": 2623,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b209dec88cafe4aeec24aa1d83280319",
+          "matchedName": "Neophron percnopterus (Linnaeus, 1758)",
+          "matchedCanonical": "Neophron percnopterus",
+          "currentName": "Neophron percnopterus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae|Neophron|Neophron percnopterus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45850618|45850622|45897690|b209dec88cafe4aeec24aa1d83280319",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b209dec88cafe4aeec24aa1d83280319",
+            "matchedName": "Neophron percnopterus (Linnaeus, 1758)",
+            "matchedCanonical": "Neophron percnopterus",
+            "currentName": "Neophron percnopterus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae|Neophron|Neophron percnopterus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45850618|45850622|45897690|b209dec88cafe4aeec24aa1d83280319",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2480696",
+            "matchedName": "Neophron percnopterus (Linnaeus, 1758)",
+            "matchedCanonical": "Neophron percnopterus",
+            "currentName": "Neophron percnopterus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae|Neophron|Neophron percnopterus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|7191147|2877|2480695|2480696",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "891414",
+            "matchedName": "Neophron percnopterus",
+            "matchedCanonical": "Neophron percnopterus",
+            "currentName": "Neophron percnopterus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Falconiformes|Accipitridae|Accipitrinae|Neophron|Neophron percnopterus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|212187|1036185|786440|891419|891414",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ferna",
+      "name": "Ferna",
+      "odds": 1993.9750868106407,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rna": 3.7540768255118677
+          }
+        }
+      },
+      "start": 3577,
+      "end": 3582,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1415459",
+          "matchedName": "Ferna Malaise, 1961",
+          "matchedCanonical": "Ferna",
+          "currentName": "Ferna Malaise, 1961",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Hymenoptera|Hymenoptera|Ferna",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10830|105021|1415459",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4676713",
+            "matchedName": "Ferna Malaise, 1961",
+            "matchedCanonical": "Ferna",
+            "currentName": "Ferna Malaise, 1961",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hymenoptera|Ferna",
+            "classificationRank": "kingdom|phylum|class|order|genus",
+            "classificationIDs": "1|54|216|1457|4676713",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4578294",
+            "matchedName": "Ferna",
+            "matchedCanonical": "Ferna",
+            "currentName": "Ferna",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Hymenoptera|Tenthredinoidea|Tenthredinidae|Allantinae|Ferna",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|753726|789567|597938|359160|4578294",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Mona",
+      "name": "Mona",
+      "odds": 328.7973173075683,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ona": 2.7529896720420366
+          }
+        }
+      },
+      "start": 6182,
+      "end": 6186,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145079776",
+          "matchedName": "Mona O. Nilsson",
+          "matchedCanonical": "Mona",
+          "currentName": "Mona O. Nilsson",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3257422",
+            "matchedName": "Mona Hulst, 1888",
+            "matchedCanonical": "Mona",
+            "currentName": "Mona Hulst, 1888",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Mona",
+            "classificationRank": "kingdom|phylum|class|order|genus",
+            "classificationIDs": "1|54|216|797|3257422",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 14,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Accipitridae).",
+      "name": "Accipitridae",
+      "odds": 86950.9006595204,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 7277,
+      "end": 7291,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850622",
+          "matchedName": "Accipitridae",
+          "matchedCanonical": "Accipitridae",
+          "currentName": "Accipitridae",
+          "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45850618|45850622",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850622",
+            "matchedName": "Accipitridae",
+            "matchedCanonical": "Accipitridae",
+            "currentName": "Accipitridae",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45850618|45850622",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2877",
+            "matchedName": "Accipitridae",
+            "matchedCanonical": "Accipitridae",
+            "currentName": "Accipitridae",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|7191147|2877",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1036185",
+            "matchedName": "Accipitridae",
+            "matchedCanonical": "Accipitridae",
+            "currentName": "Accipitridae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Falconiformes|Accipitridae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|212187|1036185",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Accipitridae",
+      "name": "Accipitridae",
+      "odds": 86950.9006595204,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 31662,
+      "end": 31674,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850622",
+          "matchedName": "Accipitridae",
+          "matchedCanonical": "Accipitridae",
+          "currentName": "Accipitridae",
+          "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45850618|45850622",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850622",
+            "matchedName": "Accipitridae",
+            "matchedCanonical": "Accipitridae",
+            "currentName": "Accipitridae",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45850618|45850622",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2877",
+            "matchedName": "Accipitridae",
+            "matchedCanonical": "Accipitridae",
+            "currentName": "Accipitridae",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|7191147|2877",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1036185",
+            "matchedName": "Accipitridae",
+            "matchedCanonical": "Accipitridae",
+            "currentName": "Accipitridae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Falconiformes|Accipitridae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|212187|1036185",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Vultur gryphus)",
+      "name": "Vultur gryphus",
+      "odds": 3576936336.619497,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "hus": 77.58425439391193
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tur": 2.5027178836745785
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 31932,
+      "end": 31948,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e012d92f1ab45b81706d72e36c5512e0",
+          "matchedName": "Vultur gryphus Linnaeus, 1758",
+          "matchedCanonical": "Vultur gryphus",
+          "currentName": "Vultur gryphus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Cathartidae|Vultur|Vultur gryphus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45850618|45850621|46066952|e012d92f1ab45b81706d72e36c5512e0",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e012d92f1ab45b81706d72e36c5512e0",
+            "matchedName": "Vultur gryphus Linnaeus, 1758",
+            "matchedCanonical": "Vultur gryphus",
+            "currentName": "Vultur gryphus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Cathartidae|Vultur|Vultur gryphus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45850618|45850621|46066952|e012d92f1ab45b81706d72e36c5512e0",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2481907",
+            "matchedName": "Vultur gryphus Linnaeus, 1758",
+            "matchedCanonical": "Vultur gryphus",
+            "currentName": "Vultur gryphus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Cathartidae|Vultur|Vultur gryphus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|7191147|3242141|2481906|2481907",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "363015",
+            "matchedName": "Vultur gryphus",
+            "matchedCanonical": "Vultur gryphus",
+            "currentName": "Vultur gryphus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Ciconiiformes|Cathartidae|Vultur|Vultur gryphus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|363022|363021|363020|363015",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Accipitridae",
+      "name": "Accipitridae",
+      "odds": 86950.9006595204,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 35675,
+      "end": 35687,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850622",
+          "matchedName": "Accipitridae",
+          "matchedCanonical": "Accipitridae",
+          "currentName": "Accipitridae",
+          "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45850618|45850622",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850622",
+            "matchedName": "Accipitridae",
+            "matchedCanonical": "Accipitridae",
+            "currentName": "Accipitridae",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45850618|45850622",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2877",
+            "matchedName": "Accipitridae",
+            "matchedCanonical": "Accipitridae",
+            "currentName": "Accipitridae",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|7191147|2877",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1036185",
+            "matchedName": "Accipitridae",
+            "matchedCanonical": "Accipitridae",
+            "currentName": "Accipitridae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Falconiformes|Accipitridae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|212187|1036185",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Accipitridae",
+      "name": "Accipitridae",
+      "odds": 86950.9006595204,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 36282,
+      "end": 36294,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850622",
+          "matchedName": "Accipitridae",
+          "matchedCanonical": "Accipitridae",
+          "currentName": "Accipitridae",
+          "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841265|45841266|45841267|45850618|45850622",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850622",
+            "matchedName": "Accipitridae",
+            "matchedCanonical": "Accipitridae",
+            "currentName": "Accipitridae",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841265|45841266|45841267|45850618|45850622",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2877",
+            "matchedName": "Accipitridae",
+            "matchedCanonical": "Accipitridae",
+            "currentName": "Accipitridae",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "1|44|212|7191147|2877",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1036185",
+            "matchedName": "Accipitridae",
+            "matchedCanonical": "Accipitridae",
+            "currentName": "Accipitridae",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Falconiformes|Accipitridae",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|212187|1036185",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Milvus migrans)",
+      "name": "Milvus migrans",
+      "odds": 937968737.5942909,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ans": 6.781558136408536
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "vus": 7.508153651023735
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 36325,
+      "end": 36341,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "dc651ed46a2a3a2a859492ba7e14951b",
+          "matchedName": "Milvus migrans (Boddaert, 1783)",
+          "matchedCanonical": "Milvus migrans",
+          "currentName": "Milvus migrans (Boddaert, 1783)",
+          "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae|Milvus|Milvus migrans",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45850618|45850622|45939607|dc651ed46a2a3a2a859492ba7e14951b",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "dc651ed46a2a3a2a859492ba7e14951b",
+            "matchedName": "Milvus migrans (Boddaert, 1783)",
+            "matchedCanonical": "Milvus migrans",
+            "currentName": "Milvus migrans (Boddaert, 1783)",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae|Milvus|Milvus migrans",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45850618|45850622|45939607|dc651ed46a2a3a2a859492ba7e14951b",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5229167",
+            "matchedName": "Milvus migrans (Boddaert, 1783)",
+            "matchedCanonical": "Milvus migrans",
+            "currentName": "Milvus migrans (Boddaert, 1783)",
+            "classificationPath": "Animalia|Chordata|Aves|Accipitriformes|Accipitridae|Milvus|Milvus migrans",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|7191147|2877|5229166|5229167",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "548448",
+            "matchedName": "Milvus migrans",
+            "matchedCanonical": "Milvus migrans",
+            "currentName": "Milvus migrans",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Falconiformes|Accipitridae|Accipitrinae|Milvus|Milvus migrans",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|212187|1036185|786440|38966|548448",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 28,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Gallus gallus.",
+      "name": "Gallus gallus",
+      "odds": 544796437548.91034,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          }
+        }
+      },
+      "start": 37232,
+      "end": 37246,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e9bd1de9ad04b90064cf96a24cf98310",
+          "matchedName": "Gallus gallus (Linnaeus, 1758)",
+          "matchedCanonical": "Gallus gallus",
+          "currentName": "Gallus gallus (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|e9bd1de9ad04b90064cf96a24cf98310",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e9bd1de9ad04b90064cf96a24cf98310",
+            "matchedName": "Gallus gallus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45848177|45848178|45896508|e9bd1de9ad04b90064cf96a24cf98310",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5227769",
+            "matchedName": "Gallus gallus (Linnaeus, 1758)",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Galliformes|Phasianidae|Gallus|Gallus gallus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|723|9331|2473720|5227769",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "153563",
+            "matchedName": "Gallus gallus",
+            "matchedCanonical": "Gallus gallus",
+            "currentName": "Gallus gallus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Galliformes|Phasianidae|Phasianinae|Gallus|Gallus gallus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|837585|728070|51353|153562|153563",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Tella",
+      "name": "Tella",
+      "odds": 220001.9179114407,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 39167,
+      "end": 39173,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1447384",
+          "matchedName": "Tella Palmer, 1942",
+          "matchedCanonical": "Tella",
+          "currentName": "Tella Palmer, 1942",
+          "classificationPath": "Biota|Animalia|Mollusca|Mollusca|Mollusca|Mollusca|Tella",
+          "classificationRank": "|Kingdom|Phylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|175|1197|10781|103222|1447384",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4584499",
+            "matchedName": "Tella Palmer, 1942",
+            "matchedCanonical": "Tella",
+            "currentName": "Tella Palmer, 1942",
+            "classificationPath": "Animalia|Mollusca|Tella",
+            "classificationRank": "kingdom|phylum|genus",
+            "classificationIDs": "1|52|4584499",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Felix",
+      "name": "Felix",
+      "odds": 9305.21707178299,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lix": 17.51902518572205
+          }
+        }
+      },
+      "start": 39795,
+      "end": 39800,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1331757",
+          "matchedName": "Felix Voigt, 1818",
+          "matchedCanonical": "Felix",
+          "currentName": "Felis Linnaeus, 1758",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Mammalia|Carnivora|Felidae|Felis",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|148|11905117|1310|12116|104889|1012185",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4833927",
+            "matchedName": "Felix Voigt, 1818",
+            "matchedCanonical": "Felix",
+            "currentName": "Felis Linnaeus, 1758",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|732|9703|2435022",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

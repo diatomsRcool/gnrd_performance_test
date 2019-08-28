@@ -1,0 +1,2786 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:03:08.186217391-05:00",
+    "language": "eng",
+    "total_words": 5794,
+    "total_candidates": 686,
+    "total_names": 38
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "PAMELA",
+      "name": "Pamela",
+      "odds": 14807.052658459881,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ela": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 168,
+      "end": 174,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45905585",
+          "matchedName": "Pamela",
+          "matchedCanonical": "Pamela",
+          "currentName": "Pamela",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Papilionoidea|Lycaenidae|Pamela",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45841633|45847847|45905585",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45905585",
+            "matchedName": "Pamela",
+            "matchedCanonical": "Pamela",
+            "currentName": "Pamela",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Papilionoidea|Lycaenidae|Pamela",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45841633|45847847|45905585",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1926414",
+            "matchedName": "Pamela Hemming, 1935",
+            "matchedCanonical": "Pamela",
+            "currentName": "Pamela Hemming, 1935",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Lycaenidae|Pamela",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5473|1926414",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3149492",
+            "matchedName": "Pamela",
+            "matchedCanonical": "Pamela",
+            "currentName": "Pamela",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Papilionoidea|Lycaenidae|Pamela",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675118|1022101|3149492",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ephedra sinica,",
+      "name": "Ephedra sinica",
+      "odds": 76961066.3443,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "dra": 32.53533248776952
+          },
+          "spEnd3": {
+            "ica": 518.0626019206378
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 8067,
+      "end": 8082,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "8e255b8272b9719388037247e4050629",
+          "matchedName": "Ephedra sinica Stapf",
+          "matchedCanonical": "Ephedra sinica",
+          "currentName": "Ephedra sinica Stapf",
+          "classificationPath": "Plantae|Tracheophyta|Gnetopsida|Ephedrales|Ephedraceae|Ephedra|Ephedra sinica",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45853775|45853780|45853781|45869490|8e255b8272b9719388037247e4050629",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "8e255b8272b9719388037247e4050629",
+            "matchedName": "Ephedra sinica Stapf",
+            "matchedCanonical": "Ephedra sinica",
+            "currentName": "Ephedra sinica Stapf",
+            "classificationPath": "Plantae|Tracheophyta|Gnetopsida|Ephedrales|Ephedraceae|Ephedra|Ephedra sinica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45853775|45853780|45853781|45869490|8e255b8272b9719388037247e4050629",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2653377",
+            "matchedName": "Ephedra sinica Stapf",
+            "matchedCanonical": "Ephedra sinica",
+            "currentName": "Ephedra sinica Stapf",
+            "classificationPath": "Plantae|Tracheophyta|Gnetopsida|Ephedrales|Ephedraceae|Ephedra|Ephedra sinica",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|282|424|3114|2653237|2653377",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "332582",
+            "matchedName": "Ephedra sinica",
+            "matchedCanonical": "Ephedra sinica",
+            "currentName": "Ephedra sinica",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Gnetidae|Ephedrales|Ephedraceae|Ephedra|Ephedra sinica",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|5422413|673434|673429|673430|332582",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 18,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ginkgo biloba,",
+      "name": "Ginkgo biloba",
+      "odds": 9553.3601077523,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "oba": 17.51902518572205
+          }
+        }
+      },
+      "start": 8083,
+      "end": 8097,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b0109d3f39b48e77fe739645f3d9d8fa",
+          "matchedName": "Ginkgo biloba L.",
+          "matchedCanonical": "Ginkgo biloba",
+          "currentName": "Ginkgo biloba L.",
+          "classificationPath": "Plantae|Tracheophyta|Ginkgoopsida|Ginkgoales|Ginkgoaceae|Ginkgo|Ginkgo biloba",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45853782|45853783|45853784|45869577|b0109d3f39b48e77fe739645f3d9d8fa",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b0109d3f39b48e77fe739645f3d9d8fa",
+            "matchedName": "Ginkgo biloba L.",
+            "matchedCanonical": "Ginkgo biloba",
+            "currentName": "Ginkgo biloba L.",
+            "classificationPath": "Plantae|Tracheophyta|Ginkgoopsida|Ginkgoales|Ginkgoaceae|Ginkgo|Ginkgo biloba",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45853782|45853783|45853784|45869577|b0109d3f39b48e77fe739645f3d9d8fa",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2687885",
+            "matchedName": "Ginkgo biloba L.",
+            "matchedCanonical": "Ginkgo biloba",
+            "currentName": "Ginkgo biloba L.",
+            "classificationPath": "Plantae|Tracheophyta|Ginkgoopsida|Ginkgoales|Ginkgoaceae|Ginkgo|Ginkgo biloba",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|244|418|3070|2687884|2687885",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "994084",
+            "matchedName": "Ginkgo biloba",
+            "matchedCanonical": "Ginkgo biloba",
+            "currentName": "Ginkgo biloba",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Ginkgoidae|Ginkgoales|Ginkgoaceae|Ginkgo|Ginkgo biloba",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|5422412|616598|616599|950165|994084",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Pseudotsuga menziesii",
+      "name": "Pseudotsuga menziesii",
+      "odds": 166230639113.58835,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "sii": 157.67122667149846
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uga": 2.5027178836745785
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 8102,
+      "end": 8123,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "af32b916a06e60a0f20d75a632181f7d",
+          "matchedName": "Pseudotsuga menziesii (Mirb.) Franco",
+          "matchedCanonical": "Pseudotsuga menziesii",
+          "currentName": "Pseudotsuga menziesii (Mirb.) Franco",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pseudotsuga|Pseudotsuga menziesii",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45878652|af32b916a06e60a0f20d75a632181f7d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "af32b916a06e60a0f20d75a632181f7d",
+            "matchedName": "Pseudotsuga menziesii (Mirb.) Franco",
+            "matchedCanonical": "Pseudotsuga menziesii",
+            "currentName": "Pseudotsuga menziesii (Mirb.) Franco",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pseudotsuga|Pseudotsuga menziesii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45878652|af32b916a06e60a0f20d75a632181f7d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2685796",
+            "matchedName": "Pseudotsuga menziesii (Mirb.) Franco Franco (Mirb.)",
+            "matchedCanonical": "Pseudotsuga menziesii",
+            "currentName": "Pseudotsuga menziesii (Mirb.) Franco Franco (Mirb.)",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pseudotsuga|Pseudotsuga menziesii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|194|640|3925|2685775|2685796",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1075713",
+            "matchedName": "Pseudotsuga menziesii",
+            "matchedCanonical": "Pseudotsuga menziesii",
+            "currentName": "Pseudotsuga menziesii",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pseudotsuga|Pseudotsuga menziesii",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|1075718|1075713",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 25,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pinus",
+      "name": "Pinus",
+      "odds": 79759.00347242563,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 8135,
+      "end": 8140,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45869825",
+          "matchedName": "Pinus",
+          "matchedCanonical": "Pinus",
+          "currentName": "Pinus",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45869825",
+            "matchedName": "Pinus",
+            "matchedCanonical": "Pinus",
+            "currentName": "Pinus",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45869825",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2684241",
+            "matchedName": "Pinus L.",
+            "matchedCanonical": "Pinus",
+            "currentName": "Pinus L.",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pinus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|194|640|3925|2684241",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "771683",
+            "matchedName": "Pinus",
+            "matchedCanonical": "Pinus",
+            "currentName": "Pinus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pinus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|771683",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pseudotsuga).",
+      "name": "Pseudotsuga",
+      "odds": 18579.156102988552,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "uga": 2.5027178836745785
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 8162,
+      "end": 8175,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45878652",
+          "matchedName": "Pseudotsuga",
+          "matchedCanonical": "Pseudotsuga",
+          "currentName": "Pseudotsuga",
+          "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pseudotsuga",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45878652",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45878652",
+            "matchedName": "Pseudotsuga",
+            "matchedCanonical": "Pseudotsuga",
+            "currentName": "Pseudotsuga",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pseudotsuga",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45842555|45842556|45843507|45878652",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2685775",
+            "matchedName": "Pseudotsuga Carrière",
+            "matchedCanonical": "Pseudotsuga",
+            "currentName": "Pseudotsuga Carrière",
+            "classificationPath": "Plantae|Tracheophyta|Pinopsida|Pinales|Pinaceae|Pseudotsuga",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|194|640|3925|2685775",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1075718",
+            "matchedName": "Pseudotsuga",
+            "matchedCanonical": "Pseudotsuga",
+            "currentName": "Pseudotsuga",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Acrogymnospermae|Pinidae|Pinales|Pinaceae|Pseudotsuga",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|5296507|950174|4736806|994067|1075718",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Cyperus",
+      "name": "Cyperus",
+      "odds": 102243.69104161474,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 8568,
+      "end": 8575,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45869521",
+          "matchedName": "Cyperus",
+          "matchedCanonical": "Cyperus",
+          "currentName": "Cyperus",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Cyperus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844450|45869521",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45869521",
+            "matchedName": "Cyperus",
+            "matchedCanonical": "Cyperus",
+            "currentName": "Cyperus",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Cyperus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844450|45869521",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2713455",
+            "matchedName": "Cyperus L.",
+            "matchedCanonical": "Cyperus",
+            "currentName": "Cyperus L.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Cyperus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1369|7708|2713455",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "627033",
+            "matchedName": "Cyperus",
+            "matchedCanonical": "Cyperus",
+            "currentName": "Cyperus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Cyperaceae|Cyperoideae|Cypereae|Cyperus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|subfamily|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|105574|423248|423245|627033",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Cyperaceae)",
+      "name": "Cyperaceae",
+      "odds": 10215.225876282757,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 8576,
+      "end": 8588,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844450",
+          "matchedName": "Cyperaceae",
+          "matchedCanonical": "Cyperaceae",
+          "currentName": "Cyperaceae",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844450",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844450",
+            "matchedName": "Cyperaceae",
+            "matchedCanonical": "Cyperaceae",
+            "currentName": "Cyperaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844450",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7708",
+            "matchedName": "Cyperaceae",
+            "matchedCanonical": "Cyperaceae",
+            "currentName": "Cyperaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|196|1369|7708",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "105574",
+            "matchedName": "Cyperaceae",
+            "matchedCanonical": "Cyperaceae",
+            "currentName": "Cyperaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Cyperaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|105574",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Juncus",
+      "name": "Juncus",
+      "odds": 283184.8820930452,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "cus": 382.9158362022105
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 8629,
+      "end": 8635,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46036090",
+          "matchedName": "Juncus",
+          "matchedCanonical": "Juncus",
+          "currentName": "Juncus",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Juncaceae|Juncus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45850809|46036090",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46036090",
+            "matchedName": "Juncus",
+            "matchedCanonical": "Juncus",
+            "currentName": "Juncus",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Juncaceae|Juncus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45850809|46036090",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2701072",
+            "matchedName": "Juncus L.",
+            "matchedCanonical": "Juncus",
+            "currentName": "Juncus L.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Juncaceae|Juncus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|196|1369|5353|2701072",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "545838",
+            "matchedName": "Juncus",
+            "matchedCanonical": "Juncus",
+            "currentName": "Juncus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Juncaceae|Juncus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|931271|545838",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 28,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Juncaceae)",
+      "name": "Juncaceae",
+      "odds": 6933.094145055521,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 8636,
+      "end": 8647,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850809",
+          "matchedName": "Juncaceae",
+          "matchedCanonical": "Juncaceae",
+          "currentName": "Juncaceae",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Juncaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45850809",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850809",
+            "matchedName": "Juncaceae",
+            "matchedCanonical": "Juncaceae",
+            "currentName": "Juncaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Juncaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45850809",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5353",
+            "matchedName": "Juncaceae",
+            "matchedCanonical": "Juncaceae",
+            "currentName": "Juncaceae",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Juncaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|196|1369|5353",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "931271",
+            "matchedName": "Juncaceae",
+            "matchedCanonical": "Juncaceae",
+            "currentName": "Juncaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Juncaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|931271",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Aristolochiaceae;",
+      "name": "Aristolochiaceae",
+      "odds": 92908.1566413591,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "16": 29.094095397716973
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 14715,
+      "end": 14732,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850823",
+          "matchedName": "Aristolochiaceae",
+          "matchedCanonical": "Aristolochiaceae",
+          "currentName": "Aristolochiaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45850822|45850823",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850823",
+            "matchedName": "Aristolochiaceae",
+            "matchedCanonical": "Aristolochiaceae",
+            "currentName": "Aristolochiaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45850822|45850823",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3066",
+            "matchedName": "Aristolochiaceae",
+            "matchedCanonical": "Aristolochiaceae",
+            "currentName": "Aristolochiaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|404|3066",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "37785",
+            "matchedName": "Aristolochiaceae",
+            "matchedCanonical": "Aristolochiaceae",
+            "currentName": "Aristolochiaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Magnoliidae|Piperales|Aristolochiaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|31010|1022514|37785",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Saururus",
+      "name": "Saururus",
+      "odds": 180205.44762109595,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 16130,
+      "end": 16138,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46036512",
+          "matchedName": "Saururus",
+          "matchedCanonical": "Saururus",
+          "currentName": "Saururus",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Saururaceae|Saururus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45850822|45853720|46036512",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46036512",
+            "matchedName": "Saururus",
+            "matchedCanonical": "Saururus",
+            "currentName": "Saururus",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Saururaceae|Saururus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45850822|45853720|46036512",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3086510",
+            "matchedName": "Saururus L.",
+            "matchedCanonical": "Saururus",
+            "currentName": "Saururus L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Saururaceae|Saururus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|404|2421|3086510",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "382279",
+            "matchedName": "Saururus",
+            "matchedCanonical": "Saururus",
+            "currentName": "Saururus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Magnoliidae|Piperales|Saururaceae|Saururus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|31010|1022514|445974|382279",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Houttuynia",
+      "name": "Houttuynia",
+      "odds": 15857.81825628975,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nia": 2.8282746815509467
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 16143,
+      "end": 16153,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46036513",
+          "matchedName": "Houttuynia",
+          "matchedCanonical": "Houttuynia",
+          "currentName": "Houttuynia",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Saururaceae|Houttuynia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45850822|45853720|46036513",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46036513",
+            "matchedName": "Houttuynia",
+            "matchedCanonical": "Houttuynia",
+            "currentName": "Houttuynia",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Saururaceae|Houttuynia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45850822|45853720|46036513",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3268476",
+            "matchedName": "Houttuynia Fuhrmann, 1920",
+            "matchedCanonical": "Houttuynia",
+            "currentName": "Houttuynia Fuhrmann, 1920",
+            "classificationPath": "Animalia|Platyhelminthes|Cestoda|Cyclophyllidea|Davaineidae|Houttuynia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|108|144|780|5963|3268476",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5136173",
+            "matchedName": "Houttuynia",
+            "matchedCanonical": "Houttuynia",
+            "currentName": "Houttuynia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Lophotrochozoa|Platyhelminthes|Cestoda|Eucestoda|Cyclophyllidea|Davaineidae|Houttuynia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|phylum|class|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|155737|555379|765784|498242|635260|282488|5136173",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Peperomia",
+      "name": "Peperomia",
+      "odds": 59864.244683202785,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "mia": 15.731369554525925
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 16159,
+      "end": 16168,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46036459",
+          "matchedName": "Peperomia",
+          "matchedCanonical": "Peperomia",
+          "currentName": "Peperomia",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Piperaceae|Peperomia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45850822|45850859|46036459",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46036459",
+            "matchedName": "Peperomia",
+            "matchedCanonical": "Peperomia",
+            "currentName": "Peperomia",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Piperaceae|Peperomia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45850822|45850859|46036459",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3086367",
+            "matchedName": "Peperomia Ruiz \u0026 Pav.",
+            "matchedCanonical": "Peperomia",
+            "currentName": "Peperomia Ruiz \u0026 Pav.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Piperaceae|Peperomia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|404|6678|3086367",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "108956",
+            "matchedName": "Peperomia",
+            "matchedCanonical": "Peperomia",
+            "currentName": "Peperomia",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Magnoliidae|Piperales|Piperaceae|Peperomia",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|31010|1022514|1022519|108956",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Aristolochiaceae",
+      "name": "Aristolochiaceae",
+      "odds": 92908.1566413591,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "16": 29.094095397716973
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 17922,
+      "end": 17938,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850823",
+          "matchedName": "Aristolochiaceae",
+          "matchedCanonical": "Aristolochiaceae",
+          "currentName": "Aristolochiaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45850822|45850823",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850823",
+            "matchedName": "Aristolochiaceae",
+            "matchedCanonical": "Aristolochiaceae",
+            "currentName": "Aristolochiaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45850822|45850823",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3066",
+            "matchedName": "Aristolochiaceae",
+            "matchedCanonical": "Aristolochiaceae",
+            "currentName": "Aristolochiaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|404|3066",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "37785",
+            "matchedName": "Aristolochiaceae",
+            "matchedCanonical": "Aristolochiaceae",
+            "currentName": "Aristolochiaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Magnoliidae|Piperales|Aristolochiaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|31010|1022514|37785",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Saxifragaceae",
+      "name": "Saxifragaceae",
+      "odds": 28693.85721838869,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 18187,
+      "end": 18200,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850117",
+          "matchedName": "Saxifragaceae",
+          "matchedCanonical": "Saxifragaceae",
+          "currentName": "Saxifragaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45841855|45850117",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850117",
+            "matchedName": "Saxifragaceae",
+            "matchedCanonical": "Saxifragaceae",
+            "currentName": "Saxifragaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45841855|45850117",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2402",
+            "matchedName": "Saxifragaceae",
+            "matchedCanonical": "Saxifragaceae",
+            "currentName": "Saxifragaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|7219248|2402",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1035588",
+            "matchedName": "Saxifragaceae",
+            "matchedCanonical": "Saxifragaceae",
+            "currentName": "Saxifragaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|Saxifragales|Saxifragaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|648890|1035588",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Crassulaceae",
+      "name": "Crassulaceae",
+      "odds": 23328.290420846934,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 18212,
+      "end": 18224,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850123",
+          "matchedName": "Crassulaceae",
+          "matchedCanonical": "Crassulaceae",
+          "currentName": "Crassulaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Crassulaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45841855|45850123",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850123",
+            "matchedName": "Crassulaceae",
+            "matchedCanonical": "Crassulaceae",
+            "currentName": "Crassulaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Crassulaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45841855|45850123",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2406",
+            "matchedName": "Crassulaceae",
+            "matchedCanonical": "Crassulaceae",
+            "currentName": "Crassulaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Crassulaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|7219248|2406",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "509332",
+            "matchedName": "Crassulaceae",
+            "matchedCanonical": "Crassulaceae",
+            "currentName": "Crassulaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|Saxifragales|Crassulaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|648890|509332",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Saxifragaceae",
+      "name": "Saxifragaceae",
+      "odds": 28693.85721838869,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 18234,
+      "end": 18247,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850117",
+          "matchedName": "Saxifragaceae",
+          "matchedCanonical": "Saxifragaceae",
+          "currentName": "Saxifragaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45841855|45850117",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850117",
+            "matchedName": "Saxifragaceae",
+            "matchedCanonical": "Saxifragaceae",
+            "currentName": "Saxifragaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45841855|45850117",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2402",
+            "matchedName": "Saxifragaceae",
+            "matchedCanonical": "Saxifragaceae",
+            "currentName": "Saxifragaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|7219248|2402",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1035588",
+            "matchedName": "Saxifragaceae",
+            "matchedCanonical": "Saxifragaceae",
+            "currentName": "Saxifragaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|Saxifragales|Saxifragaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|648890|1035588",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "S. mertensiana",
+      "name": "S. mertensiana",
+      "odds": 16847074.996111695,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          }
+        }
+      },
+      "start": 18259,
+      "end": 18273,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Fagales",
+      "name": "Fagales",
+      "odds": 55.624598349378566,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "les": 0.5582986048197137
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 18948,
+      "end": 18955,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45844406",
+          "matchedName": "Fagales",
+          "matchedCanonical": "Fagales",
+          "currentName": "Fagales",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales",
+          "classificationRank": "kingdom|phylum|class|order",
+          "classificationIDs": "45841433|45841434|45841435|45844406",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45844406",
+            "matchedName": "Fagales",
+            "matchedCanonical": "Fagales",
+            "currentName": "Fagales",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "45841433|45841434|45841435|45844406",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1354",
+            "matchedName": "Fagales",
+            "matchedCanonical": "Fagales",
+            "currentName": "Fagales",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales",
+            "classificationRank": "kingdom|phylum|class|order",
+            "classificationIDs": "6|7707728|220|1354",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "267709",
+            "matchedName": "Fagales",
+            "matchedCanonical": "Fagales",
+            "currentName": "Fagales",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fagales",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|267709",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Asteridae",
+      "name": "Asteridae",
+      "odds": 25841.532722479667,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 19896,
+      "end": 19905,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145655974",
+          "matchedName": "Asteridae Takht.",
+          "matchedCanonical": "Asteridae",
+          "currentName": "Asteridae Takht.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Asteridae",
+      "name": "Asteridae",
+      "odds": 25841.532722479667,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 19923,
+      "end": 19932,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145655974",
+          "matchedName": "Asteridae Takht.",
+          "matchedCanonical": "Asteridae",
+          "currentName": "Asteridae Takht.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Saxifragaceae",
+      "name": "Saxifragaceae",
+      "odds": 28693.85721838869,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 20482,
+      "end": 20495,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850117",
+          "matchedName": "Saxifragaceae",
+          "matchedCanonical": "Saxifragaceae",
+          "currentName": "Saxifragaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45841855|45850117",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850117",
+            "matchedName": "Saxifragaceae",
+            "matchedCanonical": "Saxifragaceae",
+            "currentName": "Saxifragaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45841855|45850117",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2402",
+            "matchedName": "Saxifragaceae",
+            "matchedCanonical": "Saxifragaceae",
+            "currentName": "Saxifragaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|7219248|2402",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1035588",
+            "matchedName": "Saxifragaceae",
+            "matchedCanonical": "Saxifragaceae",
+            "currentName": "Saxifragaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|Saxifragales|Saxifragaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|648890|1035588",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Asteridae",
+      "name": "Asteridae",
+      "odds": 25841.532722479667,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 22528,
+      "end": 22537,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145655974",
+          "matchedName": "Asteridae Takht.",
+          "matchedCanonical": "Asteridae",
+          "currentName": "Asteridae Takht.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Asteridae",
+      "name": "Asteridae",
+      "odds": 25841.532722479667,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 22548,
+      "end": 22557,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145655974",
+          "matchedName": "Asteridae Takht.",
+          "matchedCanonical": "Asteridae",
+          "currentName": "Asteridae Takht.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Asteridae",
+      "name": "Asteridae",
+      "odds": 25841.532722479667,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 22707,
+      "end": 22716,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145655974",
+          "matchedName": "Asteridae Takht.",
+          "matchedCanonical": "Asteridae",
+          "currentName": "Asteridae Takht.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Asteridae",
+      "name": "Asteridae",
+      "odds": 25841.532722479667,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 23962,
+      "end": 23971,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145655974",
+          "matchedName": "Asteridae Takht.",
+          "matchedCanonical": "Asteridae",
+          "currentName": "Asteridae Takht.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Asteridae",
+      "name": "Asteridae",
+      "odds": 25841.532722479667,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 23986,
+      "end": 23995,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145655974",
+          "matchedName": "Asteridae Takht.",
+          "matchedCanonical": "Asteridae",
+          "currentName": "Asteridae Takht.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Asteridae",
+      "name": "Asteridae",
+      "odds": 25841.532722479667,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dae": 205.22286646131545
+          }
+        }
+      },
+      "start": 24319,
+      "end": 24328,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145655974",
+          "matchedName": "Asteridae Takht.",
+          "matchedCanonical": "Asteridae",
+          "currentName": "Asteridae Takht.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Aristolochiaceae.",
+      "name": "Aristolochiaceae",
+      "odds": 92908.1566413591,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "16": 29.094095397716973
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 24871,
+      "end": 24888,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850823",
+          "matchedName": "Aristolochiaceae",
+          "matchedCanonical": "Aristolochiaceae",
+          "currentName": "Aristolochiaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45850822|45850823",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850823",
+            "matchedName": "Aristolochiaceae",
+            "matchedCanonical": "Aristolochiaceae",
+            "currentName": "Aristolochiaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45850822|45850823",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3066",
+            "matchedName": "Aristolochiaceae",
+            "matchedCanonical": "Aristolochiaceae",
+            "currentName": "Aristolochiaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|404|3066",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "37785",
+            "matchedName": "Aristolochiaceae",
+            "matchedCanonical": "Aristolochiaceae",
+            "currentName": "Aristolochiaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Magnoliidae|Piperales|Aristolochiaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|31010|1022514|37785",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Aristolochiaceae",
+      "name": "Aristolochiaceae",
+      "odds": 92908.1566413591,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "16": 29.094095397716973
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 25044,
+      "end": 25060,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45850823",
+          "matchedName": "Aristolochiaceae",
+          "matchedCanonical": "Aristolochiaceae",
+          "currentName": "Aristolochiaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45850822|45850823",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45850823",
+            "matchedName": "Aristolochiaceae",
+            "matchedCanonical": "Aristolochiaceae",
+            "currentName": "Aristolochiaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45850822|45850823",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3066",
+            "matchedName": "Aristolochiaceae",
+            "matchedCanonical": "Aristolochiaceae",
+            "currentName": "Aristolochiaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|404|3066",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "37785",
+            "matchedName": "Aristolochiaceae",
+            "matchedCanonical": "Aristolochiaceae",
+            "currentName": "Aristolochiaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Magnoliidae|Piperales|Aristolochiaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|31010|1022514|37785",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Aristolochia)",
+      "name": "Aristolochia",
+      "odds": 87296.69060065574,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hia": 6.817748717596267
+          }
+        }
+      },
+      "start": 25061,
+      "end": 25075,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46036417",
+          "matchedName": "Aristolochia",
+          "matchedCanonical": "Aristolochia",
+          "currentName": "Aristolochia",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae|Aristolochia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45850822|45850823|46036417",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46036417",
+            "matchedName": "Aristolochia",
+            "matchedCanonical": "Aristolochia",
+            "currentName": "Aristolochia",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae|Aristolochia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45850822|45850823|46036417",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2873978",
+            "matchedName": "Aristolochia L.",
+            "matchedCanonical": "Aristolochia",
+            "currentName": "Aristolochia L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae|Aristolochia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|404|3066|2873978",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "9821",
+            "matchedName": "Aristolochia",
+            "matchedCanonical": "Aristolochia",
+            "currentName": "Aristolochia",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Magnoliidae|Piperales|Aristolochiaceae|Aristolochia",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|31010|1022514|37785|9821",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Lactoridaceae.",
+      "name": "Lactoridaceae",
+      "odds": 28693.85721838869,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 25089,
+      "end": 25103,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 2,
+          "dataSourceTitle": "Wikispecies",
+          "taxonId": "48785",
+          "matchedName": "Lactoridaceae Engl. 1888, nom. cons.",
+          "matchedCanonical": "Lactoridaceae",
+          "currentName": "Lactoridaceae Engl. 1888, nom. cons.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4195610",
+            "matchedName": "Lactoridaceae",
+            "matchedCanonical": "Lactoridaceae",
+            "currentName": "Aristolochiaceae",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Piperales|Aristolochiaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|404|3066",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Alnus,",
+      "name": "Alnus",
+      "odds": 79759.00347242563,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nus": 150.1630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 25219,
+      "end": 25226,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45869160",
+          "matchedName": "Alnus",
+          "matchedCanonical": "Alnus",
+          "currentName": "Alnus",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Betulaceae|Alnus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45844406|45844408|45869160",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45869160",
+            "matchedName": "Alnus",
+            "matchedCanonical": "Alnus",
+            "currentName": "Alnus",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Betulaceae|Alnus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45844406|45844408|45869160",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2876099",
+            "matchedName": "Alnus Mill.",
+            "matchedCanonical": "Alnus",
+            "currentName": "Alnus Mill.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Betulaceae|Alnus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1354|4688|2876099",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "791135",
+            "matchedName": "Alnus",
+            "matchedCanonical": "Alnus",
+            "currentName": "Alnus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fagales|Betulaceae|Alnus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|267709|791138|791135",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Casuarina,",
+      "name": "Casuarina",
+      "odds": 13514.806754238203,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          }
+        }
+      },
+      "start": 25227,
+      "end": 25237,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46031212",
+          "matchedName": "Casuarina",
+          "matchedCanonical": "Casuarina",
+          "currentName": "Casuarina",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Casuarinaceae|Casuarina",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45844406|45848893|46031212",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46031212",
+            "matchedName": "Casuarina",
+            "matchedCanonical": "Casuarina",
+            "currentName": "Casuarina",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Casuarinaceae|Casuarina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45844406|45848893|46031212",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7728442",
+            "matchedName": "Casuarina J.R.Forst. \u0026 G.Forst.",
+            "matchedCanonical": "Casuarina",
+            "currentName": "Casuarina J.R.Forst. \u0026 G.Forst.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Casuarinaceae|Casuarina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1354|5352|7728442",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "216644",
+            "matchedName": "Casuarina",
+            "matchedCanonical": "Casuarina",
+            "currentName": "Casuarina",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fagales|Casuarinaceae|Casuarina",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|267709|216643|216644",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Carya,",
+      "name": "Carya",
+      "odds": 6646.5836227021355,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rya": 12.513589418372893
+          }
+        }
+      },
+      "start": 25246,
+      "end": 25252,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46031216",
+          "matchedName": "Carya",
+          "matchedCanonical": "Carya",
+          "currentName": "Carya",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Juglandaceae|Carya",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45844406|45848894|46031216",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46031216",
+            "matchedName": "Carya",
+            "matchedCanonical": "Carya",
+            "currentName": "Carya",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Juglandaceae|Carya",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45844406|45848894|46031216",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3054287",
+            "matchedName": "Carya Nutt.",
+            "matchedCanonical": "Carya",
+            "currentName": "Carya Nutt.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Juglandaceae|Carya",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1354|2499|3054287",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "899021",
+            "matchedName": "Carya",
+            "matchedCanonical": "Carya",
+            "currentName": "Carya",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fagales|Juglandaceae|Carya",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|267709|438186|899021",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Fagus),",
+      "name": "Fagus",
+      "odds": 53172.668981617084,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "gus": 100.10871534698315
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 25257,
+      "end": 25264,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45869383",
+          "matchedName": "Fagus",
+          "matchedCanonical": "Fagus",
+          "currentName": "Fagus",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Fagus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45844406|45844409|45869383",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45869383",
+            "matchedName": "Fagus",
+            "matchedCanonical": "Fagus",
+            "currentName": "Fagus",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Fagus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45844406|45844409|45869383",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2874875",
+            "matchedName": "Fagus L.",
+            "matchedCanonical": "Fagus",
+            "currentName": "Fagus L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Fagus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1354|4689|2874875",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "1028998",
+            "matchedName": "Fagus",
+            "matchedCanonical": "Fagus",
+            "currentName": "Fagus",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fagales|Fagaceae|Fagus",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|267709|267713|1028998",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Celtis",
+      "name": "Celtis",
+      "odds": 124009.0660146015,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "tis": 167.68209820619674
+          }
+        }
+      },
+      "start": 25501,
+      "end": 25507,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46032816",
+          "matchedName": "Celtis",
+          "matchedCanonical": "Celtis",
+          "currentName": "Celtis",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Rosales|Cannabaceae|Celtis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45848902|45848905|46032816",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46032816",
+            "matchedName": "Celtis",
+            "matchedCanonical": "Celtis",
+            "currentName": "Celtis",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Rosales|Cannabaceae|Celtis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45848902|45848905|46032816",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2984479",
+            "matchedName": "Celtis L.",
+            "matchedCanonical": "Celtis",
+            "currentName": "Celtis L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Rosales|Cannabaceae|Celtis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|691|2384|2984479",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "997898",
+            "matchedName": "Celtis",
+            "matchedCanonical": "Celtis",
+            "currentName": "Celtis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Rosales|Cannabaceae|Celtis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|208031|83996|997898",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

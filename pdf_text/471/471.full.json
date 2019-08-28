@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:05:31.684315341-05:00",
+    "language": "eng",
+    "total_words": 3161,
+    "total_candidates": 404,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Cynodon dactylon",
+      "name": "Cynodon dactylon",
+      "odds": 2241099844.8968267,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "don": 3.932842388631481
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lon": 10.010871534698314
+          }
+        }
+      },
+      "start": 11917,
+      "end": 11934,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6581586a68ab2331b5c681de84a69973",
+          "matchedName": "Cynodon dactylon (L.) Pers.",
+          "matchedCanonical": "Cynodon dactylon",
+          "currentName": "Cynodon dactylon (L.) Pers.",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Cynodon|Cynodon dactylon",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45867032|6581586a68ab2331b5c681de84a69973",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6581586a68ab2331b5c681de84a69973",
+            "matchedName": "Cynodon dactylon (L.) Pers.",
+            "matchedCanonical": "Cynodon dactylon",
+            "currentName": "Cynodon dactylon (L.) Pers.",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Cynodon|Cynodon dactylon",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45867032|6581586a68ab2331b5c681de84a69973",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6109637",
+            "matchedName": "Cynodon dactylon (L.) Pers. Pers. (L.)",
+            "matchedCanonical": "Cynodon dactylon",
+            "currentName": "Cynodon dactylon (L.) Pers. Pers. (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Cynodon|Cynodon dactylon",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2703525|6109637",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "927435",
+            "matchedName": "Cynodon dactylon",
+            "matchedCanonical": "Cynodon dactylon",
+            "currentName": "Cynodon dactylon",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Chloridoideae|Cynodonteae|Eleusininae|Cynodon|Cynodon dactylon",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|119855|1001523|928157|596405|927435",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 29,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Cynodon transvaalensis",
+      "name": "Cynodon transvaalensis",
+      "odds": 523602889519.6848,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "don": 3.932842388631481
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 11937,
+      "end": 11959,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "644d77e4b7734de74aaf3edddf2e3a96",
+          "matchedName": "Cynodon transvaalensis Burtt Davy",
+          "matchedCanonical": "Cynodon transvaalensis",
+          "currentName": "Cynodon transvaalensis Burtt Davy",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Cynodon|Cynodon transvaalensis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45867032|644d77e4b7734de74aaf3edddf2e3a96",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "644d77e4b7734de74aaf3edddf2e3a96",
+            "matchedName": "Cynodon transvaalensis Burtt Davy",
+            "matchedCanonical": "Cynodon transvaalensis",
+            "currentName": "Cynodon transvaalensis Burtt Davy",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Cynodon|Cynodon transvaalensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45867032|644d77e4b7734de74aaf3edddf2e3a96",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5289803",
+            "matchedName": "Cynodon transvaalensis Burtt Davy",
+            "matchedCanonical": "Cynodon transvaalensis",
+            "currentName": "Cynodon transvaalensis Burtt Davy",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Cynodon|Cynodon transvaalensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2703525|5289803",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "113008",
+            "matchedName": "Cynodon transvaalensis",
+            "matchedCanonical": "Cynodon transvaalensis",
+            "currentName": "Cynodon transvaalensis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Chloridoideae|Cynodonteae|Eleusininae|Cynodon|Cynodon transvaalensis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|119852|119855|1001523|928157|596405|113008",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

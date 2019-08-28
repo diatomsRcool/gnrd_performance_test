@@ -1,0 +1,2840 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:08:32.441014336-05:00",
+    "language": "eng",
+    "total_words": 7424,
+    "total_candidates": 1485,
+    "total_names": 33
+  },
+  "names": [
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Benthic foraminifera,",
+      "name": "Benthic foraminifera",
+      "odds": 3297.5633227481994,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyUninomial": 0.029794260519935462
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hic": 0.07820993386483058
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "era": 165.17938032252218
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 2778,
+      "end": 2799,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ostracoda",
+      "name": "Ostracoda",
+      "odds": 5042.250287313106,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "oda": 40.043486138793256
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 8825,
+      "end": 8834,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841899",
+          "matchedName": "Ostracoda",
+          "matchedCanonical": "Ostracoda",
+          "currentName": "Ostracoda",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda",
+          "classificationRank": "kingdom|phylum|class",
+          "classificationIDs": "45841265|45841270|45841899",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841899",
+            "matchedName": "Ostracoda",
+            "matchedCanonical": "Ostracoda",
+            "currentName": "Ostracoda",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "45841265|45841270|45841899",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "353",
+            "matchedName": "Ostracoda",
+            "matchedCanonical": "Ostracoda",
+            "currentName": "Ostracoda",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda",
+            "classificationRank": "kingdom|phylum|class",
+            "classificationIDs": "1|54|353",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "580068",
+            "matchedName": "Ostracoda",
+            "matchedCanonical": "Ostracoda",
+            "currentName": "Ostracoda",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Foraminifera",
+      "name": "Foraminifera",
+      "odds": 15434.373965307821,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          }
+        }
+      },
+      "start": 8851,
+      "end": 8863,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45841311",
+          "matchedName": "Foraminifera",
+          "matchedCanonical": "Foraminifera",
+          "currentName": "Foraminifera",
+          "classificationPath": "Chromista|Foraminifera",
+          "classificationRank": "kingdom|phylum",
+          "classificationIDs": "45841310|45841311",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45841311",
+            "matchedName": "Foraminifera",
+            "matchedCanonical": "Foraminifera",
+            "currentName": "Foraminifera",
+            "classificationPath": "Chromista|Foraminifera",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "45841310|45841311",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8376456",
+            "matchedName": "Foraminifera",
+            "matchedCanonical": "Foraminifera",
+            "currentName": "Foraminifera",
+            "classificationPath": "Chromista|Foraminifera",
+            "classificationRank": "kingdom|phylum",
+            "classificationIDs": "4|8376456",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "936399",
+            "matchedName": "Foraminifera",
+            "matchedCanonical": "Foraminifera",
+            "currentName": "Foraminifera",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Krithe",
+      "name": "Krithe",
+      "odds": 9871.368438973255,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "the": 13.347828712931086
+          }
+        }
+      },
+      "start": 12885,
+      "end": 12891,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45994076",
+          "matchedName": "Krithe",
+          "matchedCanonical": "Krithe",
+          "currentName": "Krithe",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45994076",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1029795",
+            "matchedName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9263|1029795",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2964610",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|1004742|2964610",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Globorotalia inflata)",
+      "name": "Globorotalia inflata",
+      "odds": 4667012522084.201,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          }
+        }
+      },
+      "start": 13401,
+      "end": 13423,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a2cca225735792f91729f74c236f978c",
+          "matchedName": "Globorotalia inflata (d'Orbigny, 1839)",
+          "matchedCanonical": "Globorotalia inflata",
+          "currentName": "Globoconella inflata (d’Orbigny, 1839)",
+          "isSynonym": true,
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Globorotalioidea|Globorotaliidae|Globoconella|Globoconella inflata",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45849208|45850634|45997078|ebd1f4c6e8da2e67947d745b12b7c21c",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a2cca225735792f91729f74c236f978c",
+            "matchedName": "Globorotalia inflata (d'Orbigny, 1839)",
+            "matchedCanonical": "Globorotalia inflata",
+            "currentName": "Globoconella inflata (d’Orbigny, 1839)",
+            "isSynonym": true,
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Globorotalioidea|Globorotaliidae|Globoconella|Globoconella inflata",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45849208|45850634|45997078|ebd1f4c6e8da2e67947d745b12b7c21c",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8417863",
+            "matchedName": "Globorotalia inflata (d'Orbigny, 1839)",
+            "matchedCanonical": "Globorotalia inflata",
+            "currentName": "Globorotalia inflata (d'Orbigny, 1839)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Globorotaliidae|Globorotalia|Globorotalia inflata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|7415654|7649046|8417863",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "732301",
+            "matchedName": "Globorotalia inflata",
+            "matchedCanonical": "Globorotalia inflata",
+            "currentName": "Globorotalia inflata",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Globigerinacea|Globorotaliidae|Globorotalia|Globorotalia inflata",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|145067|856984|766375|732301",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Epistominella exigua",
+      "name": "Epistominella exigua",
+      "odds": 1266013064965.753,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gua": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 17216,
+      "end": 17236,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5d218d69173e15e540596b78b46cf118",
+          "matchedName": "Epistominella exigua (Brady, 1884)",
+          "matchedCanonical": "Epistominella exigua",
+          "currentName": "Epistominella exigua (Brady, 1884)",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorbinelloidea|Pseudoparrellidae|Epistominella|Epistominella exigua",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45849162|45853108|45862343|5d218d69173e15e540596b78b46cf118",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5d218d69173e15e540596b78b46cf118",
+            "matchedName": "Epistominella exigua (Brady, 1884)",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua (Brady, 1884)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorbinelloidea|Pseudoparrellidae|Epistominella|Epistominella exigua",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45849162|45853108|45862343|5d218d69173e15e540596b78b46cf118",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8344061",
+            "matchedName": "Epistominella exigua (Brady, 1884)",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua (Brady, 1884)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Pseudoparrellidae|Epistominella|Epistominella exigua",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|7580615|8360382|8344061",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "726167",
+            "matchedName": "Epistominella exigua",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Discorbinellacea|Pseudoparrellidae|Pseudoparrellinae|Epistominella|Epistominella exigua",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|976480|21270|5666903|1052664|726167",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Alabaminella weddellensis",
+      "name": "Alabaminella weddellensis",
+      "odds": 393483380397413.6,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 17241,
+      "end": 17266,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15b0eb1b852dac94c8fb85183d9c6d7d",
+          "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+          "matchedCanonical": "Alabaminella weddellensis",
+          "currentName": "Alabaminella weddellensis (Earland, 1936)",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Alabaminella|Alabaminella weddellensis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45846352|45850639|45996165|15b0eb1b852dac94c8fb85183d9c6d7d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15b0eb1b852dac94c8fb85183d9c6d7d",
+            "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis (Earland, 1936)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45846352|45850639|45996165|15b0eb1b852dac94c8fb85183d9c6d7d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7815154",
+            "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis (Earland, 1936)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Eponididae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|7951922|8197135|7815154",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4804141",
+            "matchedName": "Alabaminella weddellensis",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Eponidinae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|208715|4804130|5666922|4804140|4804141",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "For foraminifera,",
+      "name": "For foraminifera",
+      "odds": 3.968262915158314,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "era": 165.17938032252218
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          },
+          "uniDict": {
+            "CommonWords": 0.00019373880505299418
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 25149,
+      "end": 25166,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Krithe",
+      "name": "Krithe",
+      "odds": 9871.368438973255,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "the": 13.347828712931086
+          }
+        }
+      },
+      "start": 33086,
+      "end": 33092,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45994076",
+          "matchedName": "Krithe",
+          "matchedCanonical": "Krithe",
+          "currentName": "Krithe",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45994076",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1029795",
+            "matchedName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9263|1029795",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2964610",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|1004742|2964610",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Henryhowella,",
+      "name": "Henryhowella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 33097,
+      "end": 33110,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45918388",
+          "matchedName": "Henryhowella",
+          "matchedCanonical": "Henryhowella",
+          "currentName": "Henryhowella",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Trachyleberididae|Henryhowella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853099|45918388",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45918388",
+            "matchedName": "Henryhowella",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Trachyleberididae|Henryhowella",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853099|45918388",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1030072",
+            "matchedName": "Henryhowella Puri, 1957",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella Puri, 1957",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Trachyleberididae|Henryhowella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9274|1030072",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2965206",
+            "matchedName": "Henryhowella",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Trachyleberididae|Henryhowella",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|174557|2965206",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Henryhowella:",
+      "name": "Henryhowella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 33186,
+      "end": 33199,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45918388",
+          "matchedName": "Henryhowella",
+          "matchedCanonical": "Henryhowella",
+          "currentName": "Henryhowella",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Trachyleberididae|Henryhowella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853099|45918388",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45918388",
+            "matchedName": "Henryhowella",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Trachyleberididae|Henryhowella",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853099|45918388",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1030072",
+            "matchedName": "Henryhowella Puri, 1957",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella Puri, 1957",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Trachyleberididae|Henryhowella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9274|1030072",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2965206",
+            "matchedName": "Henryhowella",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Trachyleberididae|Henryhowella",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|174557|2965206",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Krithe:",
+      "name": "Krithe",
+      "odds": 9871.368438973255,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "the": 13.347828712931086
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 33224,
+      "end": 33231,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45994076",
+          "matchedName": "Krithe",
+          "matchedCanonical": "Krithe",
+          "currentName": "Krithe",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45994076",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1029795",
+            "matchedName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9263|1029795",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2964610",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|1004742|2964610",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Alabaminella weddelensis",
+      "name": "Alabaminella weddelensis",
+      "odds": 497953451460426.25,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 33505,
+      "end": 33529,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15b0eb1b852dac94c8fb85183d9c6d7d",
+          "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+          "matchedCanonical": "Alabaminella weddellensis",
+          "currentName": "Alabaminella weddellensis (Earland, 1936)",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Alabaminella|Alabaminella weddellensis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45846352|45850639|45996165|15b0eb1b852dac94c8fb85183d9c6d7d",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15b0eb1b852dac94c8fb85183d9c6d7d",
+            "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis (Earland, 1936)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45846352|45850639|45996165|15b0eb1b852dac94c8fb85183d9c6d7d",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7815154",
+            "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis (Earland, 1936)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Eponididae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|7951922|8197135|7815154",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4804141",
+            "matchedName": "Alabaminella weddellensis",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Eponidinae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|208715|4804130|5666922|4804140|4804141",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Uvigerina peregrina",
+      "name": "Uvigerina peregrina",
+      "odds": 211128599473.68927,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 33534,
+      "end": 33553,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "09b5619ecb704bb38ed12569e632c02f",
+          "matchedName": "Uvigerina peregrina Cushman, 1923",
+          "matchedCanonical": "Uvigerina peregrina",
+          "currentName": "Uvigerina peregrina Cushman, 1923",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Buliminoidea|Uvigerinidae|Uvigerina|Uvigerina peregrina",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45848023|45849915|45858958|09b5619ecb704bb38ed12569e632c02f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "09b5619ecb704bb38ed12569e632c02f",
+            "matchedName": "Uvigerina peregrina Cushman, 1923",
+            "matchedCanonical": "Uvigerina peregrina",
+            "currentName": "Uvigerina peregrina Cushman, 1923",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Buliminoidea|Uvigerinidae|Uvigerina|Uvigerina peregrina",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45848023|45849915|45858958|09b5619ecb704bb38ed12569e632c02f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7519513",
+            "matchedName": "Uvigerina peregrina Cushman, 1923",
+            "matchedCanonical": "Uvigerina peregrina",
+            "currentName": "Uvigerina peregrina Cushman, 1923",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Uvigerinidae|Uvigerina|Uvigerina peregrina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|8277186|8059326|7519513",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "85734",
+            "matchedName": "Uvigerina peregrina",
+            "matchedCanonical": "Uvigerina peregrina",
+            "currentName": "Uvigerina peregrina",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Buliminacea|Uvigerinidae|Uvigerininae|Uvigerina|Uvigerina peregrina",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|137896|660116|5666849|660115|85734",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Alabaminella weddelensis:",
+      "name": "Alabaminella weddelensis",
+      "odds": 497953451460426.25,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 33575,
+      "end": 33600,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15b0eb1b852dac94c8fb85183d9c6d7d",
+          "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+          "matchedCanonical": "Alabaminella weddellensis",
+          "currentName": "Alabaminella weddellensis (Earland, 1936)",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Alabaminella|Alabaminella weddellensis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45846352|45850639|45996165|15b0eb1b852dac94c8fb85183d9c6d7d",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15b0eb1b852dac94c8fb85183d9c6d7d",
+            "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis (Earland, 1936)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45846352|45850639|45996165|15b0eb1b852dac94c8fb85183d9c6d7d",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7815154",
+            "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis (Earland, 1936)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Eponididae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|7951922|8197135|7815154",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4804141",
+            "matchedName": "Alabaminella weddellensis",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Eponidinae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|208715|4804130|5666922|4804140|4804141",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Epistominella exigua:",
+      "name": "Epistominella exigua",
+      "odds": 1266013064965.753,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gua": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 33625,
+      "end": 33646,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5d218d69173e15e540596b78b46cf118",
+          "matchedName": "Epistominella exigua (Brady, 1884)",
+          "matchedCanonical": "Epistominella exigua",
+          "currentName": "Epistominella exigua (Brady, 1884)",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorbinelloidea|Pseudoparrellidae|Epistominella|Epistominella exigua",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45849162|45853108|45862343|5d218d69173e15e540596b78b46cf118",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5d218d69173e15e540596b78b46cf118",
+            "matchedName": "Epistominella exigua (Brady, 1884)",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua (Brady, 1884)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorbinelloidea|Pseudoparrellidae|Epistominella|Epistominella exigua",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45849162|45853108|45862343|5d218d69173e15e540596b78b46cf118",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8344061",
+            "matchedName": "Epistominella exigua (Brady, 1884)",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua (Brady, 1884)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Pseudoparrellidae|Epistominella|Epistominella exigua",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|7580615|8360382|8344061",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "726167",
+            "matchedName": "Epistominella exigua",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Discorbinellacea|Pseudoparrellidae|Pseudoparrellinae|Epistominella|Epistominella exigua",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|976480|21270|5666903|1052664|726167",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Uvigerina peregrina:",
+      "name": "Uvigerina peregrina",
+      "odds": 211128599473.68927,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 33671,
+      "end": 33691,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "09b5619ecb704bb38ed12569e632c02f",
+          "matchedName": "Uvigerina peregrina Cushman, 1923",
+          "matchedCanonical": "Uvigerina peregrina",
+          "currentName": "Uvigerina peregrina Cushman, 1923",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Buliminoidea|Uvigerinidae|Uvigerina|Uvigerina peregrina",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45848023|45849915|45858958|09b5619ecb704bb38ed12569e632c02f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "09b5619ecb704bb38ed12569e632c02f",
+            "matchedName": "Uvigerina peregrina Cushman, 1923",
+            "matchedCanonical": "Uvigerina peregrina",
+            "currentName": "Uvigerina peregrina Cushman, 1923",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Buliminoidea|Uvigerinidae|Uvigerina|Uvigerina peregrina",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45848023|45849915|45858958|09b5619ecb704bb38ed12569e632c02f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7519513",
+            "matchedName": "Uvigerina peregrina Cushman, 1923",
+            "matchedCanonical": "Uvigerina peregrina",
+            "currentName": "Uvigerina peregrina Cushman, 1923",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Uvigerinidae|Uvigerina|Uvigerina peregrina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|8277186|8059326|7519513",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "85734",
+            "matchedName": "Uvigerina peregrina",
+            "matchedCanonical": "Uvigerina peregrina",
+            "currentName": "Uvigerina peregrina",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Buliminacea|Uvigerinidae|Uvigerininae|Uvigerina|Uvigerina peregrina",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|137896|660116|5666849|660115|85734",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Epistominella exigua",
+      "name": "Epistominella exigua",
+      "odds": 1266013064965.753,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gua": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 35796,
+      "end": 35817,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5d218d69173e15e540596b78b46cf118",
+          "matchedName": "Epistominella exigua (Brady, 1884)",
+          "matchedCanonical": "Epistominella exigua",
+          "currentName": "Epistominella exigua (Brady, 1884)",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorbinelloidea|Pseudoparrellidae|Epistominella|Epistominella exigua",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45849162|45853108|45862343|5d218d69173e15e540596b78b46cf118",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5d218d69173e15e540596b78b46cf118",
+            "matchedName": "Epistominella exigua (Brady, 1884)",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua (Brady, 1884)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorbinelloidea|Pseudoparrellidae|Epistominella|Epistominella exigua",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45849162|45853108|45862343|5d218d69173e15e540596b78b46cf118",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8344061",
+            "matchedName": "Epistominella exigua (Brady, 1884)",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua (Brady, 1884)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Pseudoparrellidae|Epistominella|Epistominella exigua",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|7580615|8360382|8344061",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "726167",
+            "matchedName": "Epistominella exigua",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Discorbinellacea|Pseudoparrellidae|Pseudoparrellinae|Epistominella|Epistominella exigua",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|976480|21270|5666903|1052664|726167",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Alabaminella weddellensis),",
+      "name": "Alabaminella weddellensis",
+      "odds": 393483380397413.6,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spLen": {
+            "12": 21.06718218536196
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          }
+        }
+      },
+      "start": 35822,
+      "end": 35849,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15b0eb1b852dac94c8fb85183d9c6d7d",
+          "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+          "matchedCanonical": "Alabaminella weddellensis",
+          "currentName": "Alabaminella weddellensis (Earland, 1936)",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Alabaminella|Alabaminella weddellensis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45846352|45850639|45996165|15b0eb1b852dac94c8fb85183d9c6d7d",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15b0eb1b852dac94c8fb85183d9c6d7d",
+            "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis (Earland, 1936)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45846352|45850639|45996165|15b0eb1b852dac94c8fb85183d9c6d7d",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7815154",
+            "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis (Earland, 1936)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Eponididae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|7951922|8197135|7815154",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4804141",
+            "matchedName": "Alabaminella weddellensis",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Eponidinae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|208715|4804130|5666922|4804140|4804141",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Krithe",
+      "name": "Krithe",
+      "odds": 9871.368438973255,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "the": 13.347828712931086
+          }
+        }
+      },
+      "start": 36681,
+      "end": 36687,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45994076",
+          "matchedName": "Krithe",
+          "matchedCanonical": "Krithe",
+          "currentName": "Krithe",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45994076",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1029795",
+            "matchedName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9263|1029795",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2964610",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|1004742|2964610",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Henryhowella",
+      "name": "Henryhowella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 36696,
+      "end": 36708,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45918388",
+          "matchedName": "Henryhowella",
+          "matchedCanonical": "Henryhowella",
+          "currentName": "Henryhowella",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Trachyleberididae|Henryhowella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853099|45918388",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45918388",
+            "matchedName": "Henryhowella",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Trachyleberididae|Henryhowella",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853099|45918388",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1030072",
+            "matchedName": "Henryhowella Puri, 1957",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella Puri, 1957",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Trachyleberididae|Henryhowella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9274|1030072",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2965206",
+            "matchedName": "Henryhowella",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Trachyleberididae|Henryhowella",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|174557|2965206",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Epistominella exigua",
+      "name": "Epistominella exigua",
+      "odds": 1266013064965.753,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gua": 15.01630730204747
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 37933,
+      "end": 37953,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5d218d69173e15e540596b78b46cf118",
+          "matchedName": "Epistominella exigua (Brady, 1884)",
+          "matchedCanonical": "Epistominella exigua",
+          "currentName": "Epistominella exigua (Brady, 1884)",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorbinelloidea|Pseudoparrellidae|Epistominella|Epistominella exigua",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45849162|45853108|45862343|5d218d69173e15e540596b78b46cf118",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5d218d69173e15e540596b78b46cf118",
+            "matchedName": "Epistominella exigua (Brady, 1884)",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua (Brady, 1884)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorbinelloidea|Pseudoparrellidae|Epistominella|Epistominella exigua",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45849162|45853108|45862343|5d218d69173e15e540596b78b46cf118",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8344061",
+            "matchedName": "Epistominella exigua (Brady, 1884)",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua (Brady, 1884)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Pseudoparrellidae|Epistominella|Epistominella exigua",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|7580615|8360382|8344061",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "726167",
+            "matchedName": "Epistominella exigua",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Discorbinellacea|Pseudoparrellidae|Pseudoparrellinae|Epistominella|Epistominella exigua",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|976480|21270|5666903|1052664|726167",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Alabaminella weddelensis",
+      "name": "Alabaminella weddelensis",
+      "odds": 497953451460426.25,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sis": 625.6794709186446
+          }
+        }
+      },
+      "start": 37959,
+      "end": 37983,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15b0eb1b852dac94c8fb85183d9c6d7d",
+          "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+          "matchedCanonical": "Alabaminella weddellensis",
+          "currentName": "Alabaminella weddellensis (Earland, 1936)",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Alabaminella|Alabaminella weddellensis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45846352|45850639|45996165|15b0eb1b852dac94c8fb85183d9c6d7d",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15b0eb1b852dac94c8fb85183d9c6d7d",
+            "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis (Earland, 1936)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45846352|45850639|45996165|15b0eb1b852dac94c8fb85183d9c6d7d",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7815154",
+            "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis (Earland, 1936)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Eponididae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|7951922|8197135|7815154",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4804141",
+            "matchedName": "Alabaminella weddellensis",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Eponidinae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|208715|4804130|5666922|4804140|4804141",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Uvigerina peregrine",
+      "name": "Uvigerina peregrine",
+      "odds": 185697.9641988845,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ina": 3.551475853976307
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "ine": 0.2502717883674579
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 37993,
+      "end": 38012,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "09b5619ecb704bb38ed12569e632c02f",
+          "matchedName": "Uvigerina peregrina Cushman, 1923",
+          "matchedCanonical": "Uvigerina peregrina",
+          "currentName": "Uvigerina peregrina Cushman, 1923",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Buliminoidea|Uvigerinidae|Uvigerina|Uvigerina peregrina",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45848023|45849915|45858958|09b5619ecb704bb38ed12569e632c02f",
+          "editDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "09b5619ecb704bb38ed12569e632c02f",
+            "matchedName": "Uvigerina peregrina Cushman, 1923",
+            "matchedCanonical": "Uvigerina peregrina",
+            "currentName": "Uvigerina peregrina Cushman, 1923",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Buliminoidea|Uvigerinidae|Uvigerina|Uvigerina peregrina",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45848023|45849915|45858958|09b5619ecb704bb38ed12569e632c02f",
+            "editDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7519513",
+            "matchedName": "Uvigerina peregrina Cushman, 1923",
+            "matchedCanonical": "Uvigerina peregrina",
+            "currentName": "Uvigerina peregrina Cushman, 1923",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Uvigerinidae|Uvigerina|Uvigerina peregrina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|8277186|8059326|7519513",
+            "editDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "85734",
+            "matchedName": "Uvigerina peregrina",
+            "matchedCanonical": "Uvigerina peregrina",
+            "currentName": "Uvigerina peregrina",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Buliminacea|Uvigerinidae|Uvigerininae|Uvigerina|Uvigerina peregrina",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|137896|660116|5666849|660115|85734",
+            "editDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 16,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Krithe",
+      "name": "Krithe",
+      "odds": 9871.368438973255,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "the": 13.347828712931086
+          }
+        }
+      },
+      "start": 40810,
+      "end": 40816,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45994076",
+          "matchedName": "Krithe",
+          "matchedCanonical": "Krithe",
+          "currentName": "Krithe",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45994076",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1029795",
+            "matchedName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9263|1029795",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2964610",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|1004742|2964610",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Henryhowella",
+      "name": "Henryhowella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 40883,
+      "end": 40895,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45918388",
+          "matchedName": "Henryhowella",
+          "matchedCanonical": "Henryhowella",
+          "currentName": "Henryhowella",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Trachyleberididae|Henryhowella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853099|45918388",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45918388",
+            "matchedName": "Henryhowella",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Trachyleberididae|Henryhowella",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853099|45918388",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1030072",
+            "matchedName": "Henryhowella Puri, 1957",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella Puri, 1957",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Trachyleberididae|Henryhowella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9274|1030072",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2965206",
+            "matchedName": "Henryhowella",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Trachyleberididae|Henryhowella",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|174557|2965206",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Eucythere,",
+      "name": "Eucythere",
+      "odds": 4384.395517246239,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ere": 0.04533909209555396
+          }
+        }
+      },
+      "start": 40995,
+      "end": 41005,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45994084",
+          "matchedName": "Eucythere",
+          "matchedCanonical": "Eucythere",
+          "currentName": "Eucythere",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Eucytheridae|Eucythere",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853092|45994084",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45994084",
+            "matchedName": "Eucythere",
+            "matchedCanonical": "Eucythere",
+            "currentName": "Eucythere",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Eucytheridae|Eucythere",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853092|45994084",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1029563",
+            "matchedName": "Eucythere Brady, 1868",
+            "matchedCanonical": "Eucythere",
+            "currentName": "Eucythere Brady, 1868",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Eucytheridae|Eucythere",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9262|1029563",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2965698",
+            "matchedName": "Eucythere",
+            "matchedCanonical": "Eucythere",
+            "currentName": "Eucythere",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Eucytheridae|Eucythere",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|632222|2965698",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Krithe",
+      "name": "Krithe",
+      "odds": 9871.368438973255,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "the": 13.347828712931086
+          }
+        }
+      },
+      "start": 41687,
+      "end": 41693,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45994076",
+          "matchedName": "Krithe",
+          "matchedCanonical": "Krithe",
+          "currentName": "Krithe",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45994076",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1029795",
+            "matchedName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9263|1029795",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2964610",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|1004742|2964610",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Henryhowella",
+      "name": "Henryhowella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 41737,
+      "end": 41749,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45918388",
+          "matchedName": "Henryhowella",
+          "matchedCanonical": "Henryhowella",
+          "currentName": "Henryhowella",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Trachyleberididae|Henryhowella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853099|45918388",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45918388",
+            "matchedName": "Henryhowella",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Trachyleberididae|Henryhowella",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853099|45918388",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1030072",
+            "matchedName": "Henryhowella Puri, 1957",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella Puri, 1957",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Trachyleberididae|Henryhowella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9274|1030072",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2965206",
+            "matchedName": "Henryhowella",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Trachyleberididae|Henryhowella",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|174557|2965206",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Krithe",
+      "name": "Krithe",
+      "odds": 9871.368438973255,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "the": 13.347828712931086
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 43457,
+      "end": 43463,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45994076",
+          "matchedName": "Krithe",
+          "matchedCanonical": "Krithe",
+          "currentName": "Krithe",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45994076",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853089|45994076",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1029795",
+            "matchedName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe Brady, Crosskey \u0026 Robertson, 1874",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Krithidae|Krithe",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9263|1029795",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2964610",
+            "matchedName": "Krithe",
+            "matchedCanonical": "Krithe",
+            "currentName": "Krithe",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Krithidae|Krithe",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|1004742|2964610",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Henryhowella",
+      "name": "Henryhowella",
+      "odds": 5303550.209339838,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 43468,
+      "end": 43480,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45918388",
+          "matchedName": "Henryhowella",
+          "matchedCanonical": "Henryhowella",
+          "currentName": "Henryhowella",
+          "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Trachyleberididae|Henryhowella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853099|45918388",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45918388",
+            "matchedName": "Henryhowella",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Cytheroidea|Trachyleberididae|Henryhowella",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841899|45841900|45841901|45853099|45918388",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1030072",
+            "matchedName": "Henryhowella Puri, 1957",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella Puri, 1957",
+            "classificationPath": "Animalia|Arthropoda|Ostracoda|Podocopida|Trachyleberididae|Henryhowella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|353|1438|9274|1030072",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "2965206",
+            "matchedName": "Henryhowella",
+            "matchedCanonical": "Henryhowella",
+            "currentName": "Henryhowella",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Ostracoda|Podocopa|Podocopida|Cytherocopina|Cytheroidea|Trachyleberididae|Henryhowella",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|580068|341240|521946|231082|632219|174557|2965206",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Alabaminella weddelensis",
+      "name": "Alabaminella weddelensis",
+      "odds": 497953451460426.25,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "sis": 625.6794709186446
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 43790,
+      "end": 43814,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15b0eb1b852dac94c8fb85183d9c6d7d",
+          "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+          "matchedCanonical": "Alabaminella weddellensis",
+          "currentName": "Alabaminella weddellensis (Earland, 1936)",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Alabaminella|Alabaminella weddellensis",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45846352|45850639|45996165|15b0eb1b852dac94c8fb85183d9c6d7d",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15b0eb1b852dac94c8fb85183d9c6d7d",
+            "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis (Earland, 1936)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45846352|45850639|45996165|15b0eb1b852dac94c8fb85183d9c6d7d",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7815154",
+            "matchedName": "Alabaminella weddellensis (Earland, 1936)",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis (Earland, 1936)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Eponididae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|7951922|8197135|7815154",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4804141",
+            "matchedName": "Alabaminella weddellensis",
+            "matchedCanonical": "Alabaminella weddellensis",
+            "currentName": "Alabaminella weddellensis",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Discorboidea|Eponididae|Eponidinae|Alabaminella|Alabaminella weddellensis",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|208715|4804130|5666922|4804140|4804141",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 7,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Epistominella exigua,",
+      "name": "Epistominella exigua",
+      "odds": 1266013064965.753,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "gua": 15.01630730204747
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          }
+        }
+      },
+      "start": 43819,
+      "end": 43840,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "5d218d69173e15e540596b78b46cf118",
+          "matchedName": "Epistominella exigua (Brady, 1884)",
+          "matchedCanonical": "Epistominella exigua",
+          "currentName": "Epistominella exigua (Brady, 1884)",
+          "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorbinelloidea|Pseudoparrellidae|Epistominella|Epistominella exigua",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841310|45841311|45841312|45841313|45849162|45853108|45862343|5d218d69173e15e540596b78b46cf118",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "5d218d69173e15e540596b78b46cf118",
+            "matchedName": "Epistominella exigua (Brady, 1884)",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua (Brady, 1884)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Discorbinelloidea|Pseudoparrellidae|Epistominella|Epistominella exigua",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841310|45841311|45841312|45841313|45849162|45853108|45862343|5d218d69173e15e540596b78b46cf118",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8344061",
+            "matchedName": "Epistominella exigua (Brady, 1884)",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua (Brady, 1884)",
+            "classificationPath": "Chromista|Foraminifera|Globothalamea|Rotaliida|Pseudoparrellidae|Epistominella|Epistominella exigua",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "4|8376456|7434778|7692889|7580615|8360382|8344061",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "726167",
+            "matchedName": "Epistominella exigua",
+            "matchedCanonical": "Epistominella exigua",
+            "currentName": "Epistominella exigua",
+            "classificationPath": "||Eukaryota||Rhizaria|Retaria|Foraminifera|Globothalamea|Rotaliida|Discorbinellacea|Pseudoparrellidae|Pseudoparrellinae|Epistominella|Epistominella exigua",
+            "classificationRank": "no rank|no rank|domain|subkingdom|infrakingdom|no rank|phylum|class|order|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|5246039|6929|4972641|936399|5248762|158516|976480|21270|5666903|1052664|726167",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

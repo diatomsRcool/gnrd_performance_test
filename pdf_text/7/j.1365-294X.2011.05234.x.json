@@ -1,0 +1,1011 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:06:42.831947612-05:00",
+    "language": "eng",
+    "total_words": 4935,
+    "total_candidates": 430,
+    "total_names": 18
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "MELISSA",
+      "name": "Melissa",
+      "odds": 20692.17556794584,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ssa": 14.18206800748928
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 190,
+      "end": 197,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45880052",
+          "matchedName": "Melissa",
+          "matchedCanonical": "Melissa",
+          "currentName": "Melissa",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Lamiaceae|Melissa",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45841436|45842930|45880052",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45880052",
+            "matchedName": "Melissa",
+            "matchedCanonical": "Melissa",
+            "currentName": "Melissa",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Lamiaceae|Melissa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45841436|45842930|45880052",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2927330",
+            "matchedName": "Melissa L.",
+            "matchedCanonical": "Melissa",
+            "currentName": "Melissa L.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Lamiaceae|Melissa",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|408|2497|2927330",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "314678",
+            "matchedName": "Melissa",
+            "matchedCanonical": "Melissa",
+            "currentName": "Melissa",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Lamiales|Core||Lamiaceae|Nepetoideae|Mentheae|Melissa",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|no rank|no rank|family|subfamily|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596112|23736|5263556|5264061|544714|394658|498490|314678",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Dipodomys spectabilis,",
+      "name": "Dipodomys spectabilis",
+      "odds": 9979278147141.867,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mys": 45.04892190614242
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1144,
+      "end": 1166,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6b8a7cd938b901eca1a63a05f5af5049",
+          "matchedName": "Dipodomys spectabilis Merriam, 1890",
+          "matchedCanonical": "Dipodomys spectabilis",
+          "currentName": "Dipodomys spectabilis Merriam, 1890",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Heteromyidae|Dipodomys|Dipodomys spectabilis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45853368|45922256|6b8a7cd938b901eca1a63a05f5af5049",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6b8a7cd938b901eca1a63a05f5af5049",
+            "matchedName": "Dipodomys spectabilis Merriam, 1890",
+            "matchedCanonical": "Dipodomys spectabilis",
+            "currentName": "Dipodomys spectabilis Merriam, 1890",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Heteromyidae|Dipodomys|Dipodomys spectabilis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45853368|45922256|6b8a7cd938b901eca1a63a05f5af5049",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2439531",
+            "matchedName": "Dipodomys spectabilis Merriam, 1890",
+            "matchedCanonical": "Dipodomys spectabilis",
+            "currentName": "Dipodomys spectabilis Merriam, 1890",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Heteromyidae|Dipodomys|Dipodomys spectabilis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|5504|2439509|2439531",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "748116",
+            "matchedName": "Dipodomys spectabilis",
+            "matchedCanonical": "Dipodomys spectabilis",
+            "currentName": "Dipodomys spectabilis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Heteromyidae|Dipodomyinae|Dipodomys|Dipodomys spectabilis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|342252|427278|342249|748116",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Dipodomys spectabilis,",
+      "name": "Dipodomys spectabilis",
+      "odds": 9979278147141.867,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "mys": 45.04892190614242
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 5309,
+      "end": 5331,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6b8a7cd938b901eca1a63a05f5af5049",
+          "matchedName": "Dipodomys spectabilis Merriam, 1890",
+          "matchedCanonical": "Dipodomys spectabilis",
+          "currentName": "Dipodomys spectabilis Merriam, 1890",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Heteromyidae|Dipodomys|Dipodomys spectabilis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45853368|45922256|6b8a7cd938b901eca1a63a05f5af5049",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6b8a7cd938b901eca1a63a05f5af5049",
+            "matchedName": "Dipodomys spectabilis Merriam, 1890",
+            "matchedCanonical": "Dipodomys spectabilis",
+            "currentName": "Dipodomys spectabilis Merriam, 1890",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Heteromyidae|Dipodomys|Dipodomys spectabilis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45853368|45922256|6b8a7cd938b901eca1a63a05f5af5049",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2439531",
+            "matchedName": "Dipodomys spectabilis Merriam, 1890",
+            "matchedCanonical": "Dipodomys spectabilis",
+            "currentName": "Dipodomys spectabilis Merriam, 1890",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Heteromyidae|Dipodomys|Dipodomys spectabilis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|5504|2439509|2439531",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "748116",
+            "matchedName": "Dipodomys spectabilis",
+            "matchedCanonical": "Dipodomys spectabilis",
+            "currentName": "Dipodomys spectabilis",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Heteromyidae|Dipodomyinae|Dipodomys|Dipodomys spectabilis",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|342252|427278|342249|748116",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. spectabilis",
+      "name": "D. spectabilis",
+      "odds": 27013413.355834264,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 5587,
+      "end": 5601,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. spectabilis",
+      "name": "D. spectabilis",
+      "odds": 27013413.355834264,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 6118,
+      "end": 6132,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. spectabilis",
+      "name": "D. spectabilis",
+      "odds": 27013413.355834264,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 7970,
+      "end": 7984,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "MHC-based haplotype",
+      "name": "Mhc-based haplotype",
+      "odds": 46.641376602063055,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sed": 0.41711964727909645
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 8513,
+      "end": 8532,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. spectabilis",
+      "name": "D. spectabilis",
+      "odds": 27013413.355834264,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 8780,
+      "end": 8794,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. spectabilis",
+      "name": "D. spectabilis",
+      "odds": 27013413.355834264,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 12428,
+      "end": 12442,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "CERVUS,",
+      "name": "Cervus",
+      "odds": 5552.644746922456,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "vus": 7.508153651023735
+          }
+        }
+      },
+      "start": 12960,
+      "end": 12967,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45923169",
+          "matchedName": "Cervus",
+          "matchedCanonical": "Cervus",
+          "currentName": "Cervus",
+          "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Cervidae|Cervus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45850563|45850570|45923169",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45923169",
+            "matchedName": "Cervus",
+            "matchedCanonical": "Cervus",
+            "currentName": "Cervus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Cervidae|Cervus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45850563|45850570|45923169",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440948",
+            "matchedName": "Cervus Linnaeus, 1758",
+            "matchedCanonical": "Cervus",
+            "currentName": "Cervus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Cervidae|Cervus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|359|731|5298|2440948",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "460519",
+            "matchedName": "Cervus",
+            "matchedCanonical": "Cervus",
+            "currentName": "Cervus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Ruminantia|Pecora|Cervidae|Cervinae|Cervus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|986971|403912|460505|534970|460519",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Homo sapiens",
+      "name": "Homo sapiens",
+      "odds": 8920.53701389635,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ens": 52.55707555716616
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 23651,
+      "end": 23663,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "e3b90576561f93a8ac8b59e185b01511",
+          "matchedName": "Homo sapiens Linnaeus, 1758",
+          "matchedCanonical": "Homo sapiens",
+          "currentName": "Homo sapiens Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominoidea|Hominidae|Homo|Homo sapiens",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841621|45841629|45841631|45923055|e3b90576561f93a8ac8b59e185b01511",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "e3b90576561f93a8ac8b59e185b01511",
+            "matchedName": "Homo sapiens Linnaeus, 1758",
+            "matchedCanonical": "Homo sapiens",
+            "currentName": "Homo sapiens Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominoidea|Hominidae|Homo|Homo sapiens",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841621|45841629|45841631|45923055|e3b90576561f93a8ac8b59e185b01511",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2436436",
+            "matchedName": "Homo sapiens Linnaeus, 1758",
+            "matchedCanonical": "Homo sapiens",
+            "currentName": "Homo sapiens Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Homo|Homo sapiens",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|798|5483|2436435|2436436",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "933436",
+            "matchedName": "Homo sapiens ssp. Denisova",
+            "matchedCanonical": "Homo sapiens",
+            "currentName": "Homo sapiens ssp. Denisova",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Primates|Haplorrhini|Simiiformes|Catarrhini|Hominoidea|Hominidae|Homininae|Homo|Homo sapiens|Homo sapiens",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|parvorder|superfamily|family|subfamily|genus|species|subspecies",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|913935|702152|386195|842867|386191|770311|312031|770309|770315|933436",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Urocitellus beldingi",
+      "name": "Urocitellus beldingi",
+      "odds": 1729413493655.681,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ngi": 27.529896720420364
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 24994,
+      "end": 25014,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "4f972888f62f2be92cb8b89ec41d7a33",
+          "matchedName": "Urocitellus beldingi (Merriam, 1888)",
+          "matchedCanonical": "Urocitellus beldingi",
+          "currentName": "Urocitellus beldingi (Merriam, 1888)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Sciuridae|Urocitellus|Urocitellus beldingi",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841275|45853377|46005441|4f972888f62f2be92cb8b89ec41d7a33",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "4f972888f62f2be92cb8b89ec41d7a33",
+            "matchedName": "Urocitellus beldingi (Merriam, 1888)",
+            "matchedCanonical": "Urocitellus beldingi",
+            "currentName": "Urocitellus beldingi (Merriam, 1888)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Sciuridae|Urocitellus|Urocitellus beldingi",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841275|45853377|46005441|4f972888f62f2be92cb8b89ec41d7a33",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8428945",
+            "matchedName": "Urocitellus beldingi (Merriam, 1888)",
+            "matchedCanonical": "Urocitellus beldingi",
+            "currentName": "Urocitellus beldingi (Merriam, 1888)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Rodentia|Sciuridae|Urocitellus|Urocitellus beldingi",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|1459|9456|7713357|8428945",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "359107",
+            "matchedName": "Urocitellus beldingi",
+            "matchedCanonical": "Urocitellus beldingi",
+            "currentName": "Urocitellus beldingi",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Sciuridae|Xerinae|Marmotini|Urocitellus|Urocitellus beldingi",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|no rank|order|suborder|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|392220|864593|44559|384218|970408|394009|462988|359107",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. spectabilis",
+      "name": "D. spectabilis",
+      "odds": 27013413.355834264,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 25896,
+      "end": 25910,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. spectabilis",
+      "name": "D. spectabilis",
+      "odds": 27013413.355834264,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 26437,
+      "end": 26451,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. spectabilis,",
+      "name": "D. spectabilis",
+      "odds": 27013413.355834264,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 27143,
+      "end": 27158,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. spectabilis",
+      "name": "D. spectabilis",
+      "odds": 27013413.355834264,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 27334,
+      "end": 27348,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "D. spectabilis",
+      "name": "D. spectabilis",
+      "odds": 27013413.355834264,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          }
+        }
+      },
+      "start": 29184,
+      "end": 29198,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Pan troglodytes)",
+      "name": "Pan troglodytes",
+      "odds": 295.86021183118055,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tes": 1.6363924624026092
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "3": 0.012048387779123407
+          }
+        }
+      },
+      "start": 31018,
+      "end": 31035,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "86b444a39d077c4e99f876aa5e8481df",
+          "matchedName": "Pan troglodytes (Blumenbach, 1775)",
+          "matchedCanonical": "Pan troglodytes",
+          "currentName": "Pan troglodytes (Blumenbach, 1775)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominoidea|Hominidae|Pan|Pan troglodytes",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45841621|45841629|45841631|46037957|86b444a39d077c4e99f876aa5e8481df",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "86b444a39d077c4e99f876aa5e8481df",
+            "matchedName": "Pan troglodytes (Blumenbach, 1775)",
+            "matchedCanonical": "Pan troglodytes",
+            "currentName": "Pan troglodytes (Blumenbach, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominoidea|Hominidae|Pan|Pan troglodytes",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45841621|45841629|45841631|46037957|86b444a39d077c4e99f876aa5e8481df",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5219534",
+            "matchedName": "Pan troglodytes (Blumenbach, 1775)",
+            "matchedCanonical": "Pan troglodytes",
+            "currentName": "Pan troglodytes (Blumenbach, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Primates|Hominidae|Pan|Pan troglodytes",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|798|5483|2436437|5219534",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "417950",
+            "matchedName": "Pan troglodytes",
+            "matchedCanonical": "Pan troglodytes",
+            "currentName": "Pan troglodytes",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Euarchontoglires|Primates|Haplorrhini|Simiiformes|Catarrhini|Hominoidea|Hominidae|Homininae|Pan|Pan troglodytes",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|parvorder|superfamily|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392222|913935|702152|386195|842867|386191|770311|312031|417957|417950",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

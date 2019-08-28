@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "date": "2019-05-10T15:58:18.855328333-05:00",
+    "language": "eng",
+    "total_words": 6769,
+    "total_candidates": 586,
+    "total_names": 2
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "Crocuta crocuta",
+      "name": "Crocuta crocuta",
+      "odds": 39837072817.1648,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "uta": 17.51902518572205
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 3000,
+      "end": 3015,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "93b93fda51bb5cdc6f82fe48dadab8b6",
+          "matchedName": "Crocuta crocuta (Erxleben, 1777)",
+          "matchedCanonical": "Crocuta crocuta",
+          "currentName": "Crocuta crocuta (Erxleben, 1777)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Hyaenidae|Crocuta|Crocuta crocuta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850236|46052925|93b93fda51bb5cdc6f82fe48dadab8b6",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "93b93fda51bb5cdc6f82fe48dadab8b6",
+            "matchedName": "Crocuta crocuta (Erxleben, 1777)",
+            "matchedCanonical": "Crocuta crocuta",
+            "currentName": "Crocuta crocuta (Erxleben, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Hyaenidae|Crocuta|Crocuta crocuta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850236|46052925|93b93fda51bb5cdc6f82fe48dadab8b6",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5218781",
+            "matchedName": "Crocuta crocuta (Erxleben, 1777)",
+            "matchedCanonical": "Crocuta crocuta",
+            "currentName": "Crocuta crocuta (Erxleben, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Hyaenidae|Crocuta|Crocuta crocuta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|5306|2433504|5218781",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "397157",
+            "matchedName": "Crocuta crocuta",
+            "matchedCanonical": "Crocuta crocuta",
+            "currentName": "Crocuta crocuta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Hyaenidae|Crocuta|Crocuta crocuta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|397138|397140|397157",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Crocuta crocuta);",
+      "name": "Crocuta crocuta",
+      "odds": 39837072817.1648,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uta": 17.51902518572205
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 4806,
+      "end": 4824,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "93b93fda51bb5cdc6f82fe48dadab8b6",
+          "matchedName": "Crocuta crocuta (Erxleben, 1777)",
+          "matchedCanonical": "Crocuta crocuta",
+          "currentName": "Crocuta crocuta (Erxleben, 1777)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Hyaenidae|Crocuta|Crocuta crocuta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850236|46052925|93b93fda51bb5cdc6f82fe48dadab8b6",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "93b93fda51bb5cdc6f82fe48dadab8b6",
+            "matchedName": "Crocuta crocuta (Erxleben, 1777)",
+            "matchedCanonical": "Crocuta crocuta",
+            "currentName": "Crocuta crocuta (Erxleben, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Hyaenidae|Crocuta|Crocuta crocuta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850236|46052925|93b93fda51bb5cdc6f82fe48dadab8b6",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5218781",
+            "matchedName": "Crocuta crocuta (Erxleben, 1777)",
+            "matchedCanonical": "Crocuta crocuta",
+            "currentName": "Crocuta crocuta (Erxleben, 1777)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Hyaenidae|Crocuta|Crocuta crocuta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|5306|2433504|5218781",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "397157",
+            "matchedName": "Crocuta crocuta",
+            "matchedCanonical": "Crocuta crocuta",
+            "currentName": "Crocuta crocuta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Hyaenidae|Crocuta|Crocuta crocuta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|397138|397140|397157",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

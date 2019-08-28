@@ -1,0 +1,1044 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:06:06.354693825-05:00",
+    "language": "eng",
+    "total_words": 8958,
+    "total_candidates": 1862,
+    "total_names": 13
+  },
+  "names": [
+    {
+      "type": "Binomial",
+      "verbatim": "(Aythya ferina):",
+      "name": "Aythya ferina",
+      "odds": 19756354328.696747,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hya": 7.508153651023735
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          }
+        }
+      },
+      "start": 79,
+      "end": 95,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "fa20a2b9ce4e05bdd94b29e04e7e1fff",
+          "matchedName": "Aythya ferina (Linnaeus, 1758)",
+          "matchedCanonical": "Aythya ferina",
+          "currentName": "Aythya ferina (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya|Aythya ferina",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45850614|45850617|46037980|fa20a2b9ce4e05bdd94b29e04e7e1fff",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "fa20a2b9ce4e05bdd94b29e04e7e1fff",
+            "matchedName": "Aythya ferina (Linnaeus, 1758)",
+            "matchedCanonical": "Aythya ferina",
+            "currentName": "Aythya ferina (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya|Aythya ferina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45850614|45850617|46037980|fa20a2b9ce4e05bdd94b29e04e7e1fff",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2498255",
+            "matchedName": "Aythya ferina (Linnaeus, 1758)",
+            "matchedCanonical": "Aythya ferina",
+            "currentName": "Aythya ferina (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya|Aythya ferina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|1108|2986|2498254|2498255",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "817989",
+            "matchedName": "Aythya ferina",
+            "matchedCanonical": "Aythya ferina",
+            "currentName": "Aythya ferina",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Anseriformes|Anatidae|Aythya|Aythya ferina",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|241841|765193|693334|817989",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Aythya ferina),",
+      "name": "Aythya ferina",
+      "odds": 19756354328.696747,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "hya": 7.508153651023735
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 2270,
+      "end": 2286,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "fa20a2b9ce4e05bdd94b29e04e7e1fff",
+          "matchedName": "Aythya ferina (Linnaeus, 1758)",
+          "matchedCanonical": "Aythya ferina",
+          "currentName": "Aythya ferina (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya|Aythya ferina",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45850614|45850617|46037980|fa20a2b9ce4e05bdd94b29e04e7e1fff",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "fa20a2b9ce4e05bdd94b29e04e7e1fff",
+            "matchedName": "Aythya ferina (Linnaeus, 1758)",
+            "matchedCanonical": "Aythya ferina",
+            "currentName": "Aythya ferina (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya|Aythya ferina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45850614|45850617|46037980|fa20a2b9ce4e05bdd94b29e04e7e1fff",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2498255",
+            "matchedName": "Aythya ferina (Linnaeus, 1758)",
+            "matchedCanonical": "Aythya ferina",
+            "currentName": "Aythya ferina (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya|Aythya ferina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|1108|2986|2498254|2498255",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "817989",
+            "matchedName": "Aythya ferina",
+            "matchedCanonical": "Aythya ferina",
+            "currentName": "Aythya ferina",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Anseriformes|Anatidae|Aythya|Aythya ferina",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|241841|765193|693334|817989",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Anas acuta)",
+      "name": "Anas acuta",
+      "odds": 153375745.81251827,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nas": 5.255707555716615
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uta": 62.56794709186447
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 4690,
+      "end": 4702,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "810f7f477f3a60dda80a1d44fb013d7e",
+          "matchedName": "Anas acuta Linnaeus, 1758",
+          "matchedCanonical": "Anas acuta",
+          "currentName": "Anas acuta Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Anas|Anas acuta",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45850614|45850617|45897107|810f7f477f3a60dda80a1d44fb013d7e",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "810f7f477f3a60dda80a1d44fb013d7e",
+            "matchedName": "Anas acuta Linnaeus, 1758",
+            "matchedCanonical": "Anas acuta",
+            "currentName": "Anas acuta Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Anas|Anas acuta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45850614|45850617|45897107|810f7f477f3a60dda80a1d44fb013d7e",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2498112",
+            "matchedName": "Anas acuta Linnaeus, 1758",
+            "matchedCanonical": "Anas acuta",
+            "currentName": "Anas acuta Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Anas|Anas acuta",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|1108|2986|2498056|2498112",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "855474",
+            "matchedName": "Anas acuta",
+            "matchedCanonical": "Anas acuta",
+            "currentName": "Anas acuta",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Anseriformes|Anatidae|Anas|Anas acuta",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|241841|765193|765185|855474",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 33,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Odocoileus virginianus),",
+      "name": "Odocoileus virginianus",
+      "odds": 36821929668932.46,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "nus": 342.8723500634173
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eus": 127.6386120674035
+          }
+        }
+      },
+      "start": 5473,
+      "end": 5498,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "49c19661f2a48ff49d60d571f9f827ca",
+          "matchedName": "Odocoileus virginianus (Zimmermann, 1780)",
+          "matchedCanonical": "Odocoileus virginianus",
+          "currentName": "Odocoileus virginianus (Zimmermann, 1780)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Cervidae|Odocoileus|Odocoileus virginianus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45850563|45850570|45897664|49c19661f2a48ff49d60d571f9f827ca",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "49c19661f2a48ff49d60d571f9f827ca",
+            "matchedName": "Odocoileus virginianus (Zimmermann, 1780)",
+            "matchedCanonical": "Odocoileus virginianus",
+            "currentName": "Odocoileus virginianus (Zimmermann, 1780)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Cervidae|Odocoileus|Odocoileus virginianus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45850563|45850570|45897664|49c19661f2a48ff49d60d571f9f827ca",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2440965",
+            "matchedName": "Odocoileus virginianus (Zimmermann, 1780)",
+            "matchedCanonical": "Odocoileus virginianus",
+            "currentName": "Odocoileus virginianus (Zimmermann, 1780)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Artiodactyla|Cervidae|Odocoileus|Odocoileus virginianus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|731|5298|2440964|2440965",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "410145",
+            "matchedName": "Odocoileus virginianus",
+            "matchedCanonical": "Odocoileus virginianus",
+            "currentName": "Odocoileus virginianus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Ruminantia|Pecora|Cervidae|Odocoileinae|Odocoileus|Odocoileus virginianus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|infraorder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|986971|403912|460505|194507|410156|410145",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Aythya ferina,",
+      "name": "Aythya ferina",
+      "odds": 19756354328.696747,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "hya": 7.508153651023735
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 6118,
+      "end": 6133,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "fa20a2b9ce4e05bdd94b29e04e7e1fff",
+          "matchedName": "Aythya ferina (Linnaeus, 1758)",
+          "matchedCanonical": "Aythya ferina",
+          "currentName": "Aythya ferina (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya|Aythya ferina",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45850614|45850617|46037980|fa20a2b9ce4e05bdd94b29e04e7e1fff",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "fa20a2b9ce4e05bdd94b29e04e7e1fff",
+            "matchedName": "Aythya ferina (Linnaeus, 1758)",
+            "matchedCanonical": "Aythya ferina",
+            "currentName": "Aythya ferina (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya|Aythya ferina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45850614|45850617|46037980|fa20a2b9ce4e05bdd94b29e04e7e1fff",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2498255",
+            "matchedName": "Aythya ferina (Linnaeus, 1758)",
+            "matchedCanonical": "Aythya ferina",
+            "currentName": "Aythya ferina (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya|Aythya ferina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|1108|2986|2498254|2498255",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "817989",
+            "matchedName": "Aythya ferina",
+            "matchedCanonical": "Aythya ferina",
+            "currentName": "Aythya ferina",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Anseriformes|Anatidae|Aythya|Aythya ferina",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|241841|765193|693334|817989",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Aythya ferina)",
+      "name": "Aythya ferina",
+      "odds": 19756354328.696747,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "hya": 7.508153651023735
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ina": 275.2989672042036
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 7401,
+      "end": 7416,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "fa20a2b9ce4e05bdd94b29e04e7e1fff",
+          "matchedName": "Aythya ferina (Linnaeus, 1758)",
+          "matchedCanonical": "Aythya ferina",
+          "currentName": "Aythya ferina (Linnaeus, 1758)",
+          "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya|Aythya ferina",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841267|45850614|45850617|46037980|fa20a2b9ce4e05bdd94b29e04e7e1fff",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "fa20a2b9ce4e05bdd94b29e04e7e1fff",
+            "matchedName": "Aythya ferina (Linnaeus, 1758)",
+            "matchedCanonical": "Aythya ferina",
+            "currentName": "Aythya ferina (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya|Aythya ferina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841267|45850614|45850617|46037980|fa20a2b9ce4e05bdd94b29e04e7e1fff",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2498255",
+            "matchedName": "Aythya ferina (Linnaeus, 1758)",
+            "matchedCanonical": "Aythya ferina",
+            "currentName": "Aythya ferina (Linnaeus, 1758)",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya|Aythya ferina",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|212|1108|2986|2498254|2498255",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "817989",
+            "matchedName": "Aythya ferina",
+            "matchedCanonical": "Aythya ferina",
+            "currentName": "Aythya ferina",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Anseriformes|Anatidae|Aythya|Aythya ferina",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|241841|765193|693334|817989",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 27,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Aythya",
+      "name": "Aythya",
+      "odds": 5552.644746922456,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "hya": 7.508153651023735
+          }
+        }
+      },
+      "start": 12810,
+      "end": 12816,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46037980",
+          "matchedName": "Aythya",
+          "matchedCanonical": "Aythya",
+          "currentName": "Aythya",
+          "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841267|45850614|45850617|46037980",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46037980",
+            "matchedName": "Aythya",
+            "matchedCanonical": "Aythya",
+            "currentName": "Aythya",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841267|45850614|45850617|46037980",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2498254",
+            "matchedName": "Aythya Boie, 1822",
+            "matchedCanonical": "Aythya",
+            "currentName": "Aythya Boie, 1822",
+            "classificationPath": "Animalia|Chordata|Aves|Anseriformes|Anatidae|Aythya",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|212|1108|2986|2498254",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "693334",
+            "matchedName": "Aythya",
+            "matchedCanonical": "Aythya",
+            "currentName": "Aythya",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Galloanserae|Anseriformes|Anatidae|Aythya",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|5839486|241841|765193|693334",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paulus",
+      "name": "Paulus",
+      "odds": 160409.7371333154,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          }
+        }
+      },
+      "start": 14063,
+      "end": 14069,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1362184",
+          "matchedName": "Paulus Solowiow, 1924",
+          "matchedCanonical": "Paulus",
+          "currentName": "Paulus Solowiow, 1924",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Thysanoptera|Thripidae|Paulus",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10617|104025|1362184",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4800060",
+            "matchedName": "Paulus Solowiow, 1924",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus Solowiow, 1924",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Thysanoptera|Thripidae|Paulus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1228|4387|4800060",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3437651",
+            "matchedName": "Paulus",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Thysanoptera|Terebrantia|Thripoidea|Thripidae|Paulus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|457399|788831|194392|626752|3437651",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "(A. fuligula;",
+      "name": "A. fuligula",
+      "odds": 3488867.841889801,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ula": 192.70927704294255
+          }
+        }
+      },
+      "start": 16917,
+      "end": 16930,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Asia revealed",
+      "name": "Asia revealed",
+      "odds": 265.83796648656613,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sia": 2.9705156189408553
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "led": 0.41711964727909645
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 37074,
+      "end": 37087,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1451180",
+          "matchedName": "Asia Pergens, 1887",
+          "matchedCanonical": "Asia",
+          "currentName": "Asia Pergens, 1887",
+          "classificationPath": "Biota|Animalia|Cnidaria|Cnidaria|Cnidaria|Cnidaria|Asia",
+          "classificationRank": "|Kingdom|Phylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|151|1506|11644|108317|1451180",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4884276",
+            "matchedName": "Asia Pergens, 1887",
+            "matchedCanonical": "Asia",
+            "currentName": "Asia Pergens, 1887",
+            "classificationPath": "Animalia|Cnidaria|Asia",
+            "classificationRank": "kingdom|phylum|genus",
+            "classificationIDs": "1|43|4884276",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Sevillia",
+      "name": "Sevillia",
+      "odds": 24211.276125963574,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          }
+        }
+      },
+      "start": 47021,
+      "end": 47029,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46117871",
+          "matchedName": "Sevillia",
+          "matchedCanonical": "Sevillia",
+          "currentName": "Sevillia",
+          "classificationPath": "Animalia|Arthropoda|Trilobita|Proetida|Proetidae|Sevillia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45851339|45851345|45855899|46117871",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46117871",
+            "matchedName": "Sevillia",
+            "matchedCanonical": "Sevillia",
+            "currentName": "Sevillia",
+            "classificationPath": "Animalia|Arthropoda|Trilobita|Proetida|Proetidae|Sevillia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45851339|45851345|45855899|46117871",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4637561",
+            "matchedName": "Sevillia Weller, 1936",
+            "matchedCanonical": "Sevillia",
+            "currentName": "Sevillia Weller, 1936",
+            "classificationPath": "Animalia|Arthropoda|Phillipsiidae|Sevillia",
+            "classificationRank": "kingdom|phylum|family|genus",
+            "classificationIDs": "1|54|3267187|4637561",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5129494",
+            "matchedName": "Sevillia",
+            "matchedCanonical": "Sevillia",
+            "currentName": "Sevillia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Phillipsiidae|Sevillia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|5129424|5129494",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paulus",
+      "name": "Paulus",
+      "odds": 160409.7371333154,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          }
+        }
+      },
+      "start": 50739,
+      "end": 50745,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1362184",
+          "matchedName": "Paulus Solowiow, 1924",
+          "matchedCanonical": "Paulus",
+          "currentName": "Paulus Solowiow, 1924",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Thysanoptera|Thripidae|Paulus",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10617|104025|1362184",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4800060",
+            "matchedName": "Paulus Solowiow, 1924",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus Solowiow, 1924",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Thysanoptera|Thripidae|Paulus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1228|4387|4800060",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3437651",
+            "matchedName": "Paulus",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Thysanoptera|Terebrantia|Thripoidea|Thripidae|Paulus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|457399|788831|194392|626752|3437651",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Paulus",
+      "name": "Paulus",
+      "odds": 160409.7371333154,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          }
+        }
+      },
+      "start": 50880,
+      "end": 50886,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1362184",
+          "matchedName": "Paulus Solowiow, 1924",
+          "matchedCanonical": "Paulus",
+          "currentName": "Paulus Solowiow, 1924",
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Thysanoptera|Thripidae|Paulus",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10617|104025|1362184",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4800060",
+            "matchedName": "Paulus Solowiow, 1924",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus Solowiow, 1924",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Thysanoptera|Thripidae|Paulus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1228|4387|4800060",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3437651",
+            "matchedName": "Paulus",
+            "matchedCanonical": "Paulus",
+            "currentName": "Paulus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Paraneoptera|Thysanoptera|Terebrantia|Thripoidea|Thripidae|Paulus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|order|suborder|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|815352|457399|788831|194392|626752|3437651",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

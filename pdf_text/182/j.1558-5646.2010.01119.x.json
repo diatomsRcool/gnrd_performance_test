@@ -1,0 +1,3030 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:01:14.918924653-05:00",
+    "language": "eng",
+    "total_words": 10647,
+    "total_candidates": 1819,
+    "total_names": 54
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "ARABIDOPSIS",
+      "name": "Arabidopsis",
+      "odds": 168760.66793547937,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          }
+        }
+      },
+      "start": 126,
+      "end": 137,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45975866",
+          "matchedName": "Arabidopsis",
+          "matchedCanonical": "Arabidopsis",
+          "currentName": "Arabidopsis",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45975866",
+            "matchedName": "Arabidopsis",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052435",
+            "matchedName": "Arabidopsis (DC.) Heynh. Heynh. (DC.)",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis (DC.) Heynh. Heynh. (DC.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309275",
+            "matchedName": "Arabidopsis",
+            "matchedCanonical": "Arabidopsis",
+            "currentName": "Arabidopsis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LYRATA",
+      "name": "Lyrata",
+      "odds": 347.0546330438995,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          }
+        }
+      },
+      "start": 138,
+      "end": 144,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "42165-1",
+          "matchedName": "Adenocaulon ser. Lyrata Golubkova",
+          "matchedCanonical": "Adenocaulon ser. Lyrata",
+          "currentName": "Adenocaulon ser. Lyrata Golubkova",
+          "classificationPath": "Asteraceae|Adenocaulon ser",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Arabidopsis lyrata,",
+      "name": "Arabidopsis lyrata",
+      "odds": 3389823363391.8687,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 697,
+      "end": 716,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a376bf04783e57a4a84260e1a730ff7f",
+          "matchedName": "Arabidopsis lyrata (L.) O'Kane \u0026 Al-Shehbaz",
+          "matchedCanonical": "Arabidopsis lyrata",
+          "currentName": "Arabidopsis lyrata (L.) O'Kane \u0026 Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis lyrata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|a376bf04783e57a4a84260e1a730ff7f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a376bf04783e57a4a84260e1a730ff7f",
+            "matchedName": "Arabidopsis lyrata (L.) O'Kane \u0026 Al-Shehbaz",
+            "matchedCanonical": "Arabidopsis lyrata",
+            "currentName": "Arabidopsis lyrata (L.) O'Kane \u0026 Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis lyrata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|a376bf04783e57a4a84260e1a730ff7f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052468",
+            "matchedName": "Arabidopsis lyrata (L.) O'Kane \u0026 Al-Shehbaz O'Kane \u0026 Al-Shehbaz (L.)",
+            "matchedCanonical": "Arabidopsis lyrata",
+            "currentName": "Arabidopsis lyrata (L.) O'Kane \u0026 Al-Shehbaz O'Kane \u0026 Al-Shehbaz (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis lyrata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435|3052468",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "840257",
+            "matchedName": "Arabidopsis lyrata",
+            "matchedCanonical": "Arabidopsis lyrata",
+            "currentName": "Arabidopsis lyrata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis|Arabidopsis lyrata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275|840257",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Later-generation hybrids",
+      "name": "Later-generation hybrids",
+      "odds": 148.1133280992968,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "16": 29.094095397716973
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ion": 0.22518027231005205
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ids": 0.8342392945581929
+          }
+        }
+      },
+      "start": 6346,
+      "end": 6370,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Arabidopsis lyrata",
+      "name": "Arabidopsis lyrata",
+      "odds": 3389823363391.8687,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 7171,
+      "end": 7189,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "a376bf04783e57a4a84260e1a730ff7f",
+          "matchedName": "Arabidopsis lyrata (L.) O'Kane \u0026 Al-Shehbaz",
+          "matchedCanonical": "Arabidopsis lyrata",
+          "currentName": "Arabidopsis lyrata (L.) O'Kane \u0026 Al-Shehbaz",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis lyrata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|a376bf04783e57a4a84260e1a730ff7f",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "a376bf04783e57a4a84260e1a730ff7f",
+            "matchedName": "Arabidopsis lyrata (L.) O'Kane \u0026 Al-Shehbaz",
+            "matchedCanonical": "Arabidopsis lyrata",
+            "currentName": "Arabidopsis lyrata (L.) O'Kane \u0026 Al-Shehbaz",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis lyrata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|a376bf04783e57a4a84260e1a730ff7f",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052468",
+            "matchedName": "Arabidopsis lyrata (L.) O'Kane \u0026 Al-Shehbaz O'Kane \u0026 Al-Shehbaz (L.)",
+            "matchedCanonical": "Arabidopsis lyrata",
+            "currentName": "Arabidopsis lyrata (L.) O'Kane \u0026 Al-Shehbaz O'Kane \u0026 Al-Shehbaz (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis lyrata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435|3052468",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "840257",
+            "matchedName": "Arabidopsis lyrata",
+            "matchedCanonical": "Arabidopsis lyrata",
+            "currentName": "Arabidopsis lyrata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis|Arabidopsis lyrata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275|840257",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Brassicaceae)",
+      "name": "Brassicaceae",
+      "odds": 23328.290420846934,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "eae": 55.05979344084073
+          }
+        }
+      },
+      "start": 7215,
+      "end": 7229,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45846125",
+          "matchedName": "Brassicaceae",
+          "matchedCanonical": "Brassicaceae",
+          "currentName": "Brassicaceae",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae",
+          "classificationRank": "kingdom|phylum|class|order|family",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45846125",
+            "matchedName": "Brassicaceae",
+            "matchedCanonical": "Brassicaceae",
+            "currentName": "Brassicaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3112",
+            "matchedName": "Brassicaceae",
+            "matchedCanonical": "Brassicaceae",
+            "currentName": "Brassicaceae",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae",
+            "classificationRank": "kingdom|phylum|class|order|family",
+            "classificationIDs": "6|7707728|220|7225535|3112",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309271",
+            "matchedName": "Brassicaceae",
+            "matchedCanonical": "Brassicaceae",
+            "currentName": "Brassicaceae",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 20,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. lyrata",
+      "name": "A. lyrata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 7253,
+      "end": 7262,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Arabidopsis thaliana",
+      "name": "Arabidopsis thaliana",
+      "odds": 1592854327927.0417,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ana": 241.92939542187594
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "11": 4.235368726218518
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 7380,
+      "end": 7400,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+          "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+          "matchedCanonical": "Arabidopsis thaliana",
+          "currentName": "Arabidopsis thaliana (L.) Heynh.",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "15f369ef1876a27d77ed279da54f96d2",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh.",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45846124|45846125|45975866|15f369ef1876a27d77ed279da54f96d2",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3052436",
+            "matchedName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana (L.) Heynh. Heynh. (L.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|7225535|3112|3052435|3052436",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "309263",
+            "matchedName": "Arabidopsis thaliana",
+            "matchedCanonical": "Arabidopsis thaliana",
+            "currentName": "Arabidopsis thaliana",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Brassicales|Brassicaceae|Camelineae|Arabidopsis|Arabidopsis thaliana",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565277|8844|309271|504672|309275|309263",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. lyrata",
+      "name": "A. lyrata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 7539,
+      "end": 7548,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "A. lyrata ssp. petraea",
+      "name": "A. lyrata ssp. petraea",
+      "odds": 72505528853699.77,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "ispRank": {
+            "true": 648.7044754484508
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "aea": 12.513589418372893
+          }
+        }
+      },
+      "start": 8494,
+      "end": 8516,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. lyrata",
+      "name": "A. lyrata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 8603,
+      "end": 8612,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. lyrata",
+      "name": "A. lyrata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 9031,
+      "end": 9040,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. lyrata",
+      "name": "A. lyrata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 9389,
+      "end": 9398,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LYRATA",
+      "name": "Lyrata",
+      "odds": 347.0546330438995,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 9753,
+      "end": 9759,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "42165-1",
+          "matchedName": "Adenocaulon ser. Lyrata Golubkova",
+          "matchedCanonical": "Adenocaulon ser. Lyrata",
+          "currentName": "Adenocaulon ser. Lyrata Golubkova",
+          "classificationPath": "Asteraceae|Adenocaulon ser",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "A. lyrata ssp. petraea",
+      "name": "A. lyrata ssp. petraea",
+      "odds": 72505528853699.77,
+      "odds_details": {
+        "Name": {
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "aea": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispRank": {
+            "true": 648.7044754484508
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          }
+        }
+      },
+      "start": 10887,
+      "end": 10909,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "A. lyrata ssp. lyrata",
+      "name": "A. lyrata ssp. lyrata",
+      "odds": 1138621555674055.8,
+      "odds_details": {
+        "Name": {
+          "ispRank": {
+            "true": 648.7044754484508
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "ata": 370.40224678383765
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          }
+        }
+      },
+      "start": 10914,
+      "end": 10935,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(A. lyrata ssp. petraea),",
+      "name": "A. lyrata ssp. petraea",
+      "odds": 72505528853699.77,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispRank": {
+            "true": 648.7044754484508
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "ispEnd3": {
+            "aea": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 11104,
+      "end": 11129,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(A. lyrata ssp. lyrata),",
+      "name": "A. lyrata ssp. lyrata",
+      "odds": 1138621555674055.8,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "ispLen": {
+            "6": 0.6885784653496194
+          },
+          "ispEnd3": {
+            "ata": 370.40224678383765
+          },
+          "ispRank": {
+            "true": 648.7044754484508
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 11228,
+      "end": 11252,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. lyrata",
+      "name": "A. lyrata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 11291,
+      "end": 11300,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. lyrata",
+      "name": "A. lyrata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 11451,
+      "end": 11460,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LYRATA",
+      "name": "Lyrata",
+      "odds": 347.0546330438995,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          }
+        }
+      },
+      "start": 21711,
+      "end": 21717,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "42165-1",
+          "matchedName": "Adenocaulon ser. Lyrata Golubkova",
+          "matchedCanonical": "Adenocaulon ser. Lyrata",
+          "currentName": "Adenocaulon ser. Lyrata Golubkova",
+          "classificationPath": "Asteraceae|Adenocaulon ser",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LYRATA",
+      "name": "Lyrata",
+      "odds": 347.0546330438995,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          }
+        }
+      },
+      "start": 31343,
+      "end": 31349,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "42165-1",
+          "matchedName": "Adenocaulon ser. Lyrata Golubkova",
+          "matchedCanonical": "Adenocaulon ser. Lyrata",
+          "currentName": "Adenocaulon ser. Lyrata Golubkova",
+          "classificationPath": "Asteraceae|Adenocaulon ser",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LYRATA",
+      "name": "Lyrata",
+      "odds": 347.0546330438995,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          }
+        }
+      },
+      "start": 35562,
+      "end": 35568,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "42165-1",
+          "matchedName": "Adenocaulon ser. Lyrata Golubkova",
+          "matchedCanonical": "Adenocaulon ser. Lyrata",
+          "currentName": "Adenocaulon ser. Lyrata Golubkova",
+          "classificationPath": "Asteraceae|Adenocaulon ser",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LYRATA",
+      "name": "Lyrata",
+      "odds": 347.0546330438995,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 43584,
+      "end": 43590,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "42165-1",
+          "matchedName": "Adenocaulon ser. Lyrata Golubkova",
+          "matchedCanonical": "Adenocaulon ser. Lyrata",
+          "currentName": "Adenocaulon ser. Lyrata Golubkova",
+          "classificationPath": "Asteraceae|Adenocaulon ser",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LYRATA",
+      "name": "Lyrata",
+      "odds": 347.0546330438995,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          }
+        }
+      },
+      "start": 47489,
+      "end": 47495,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "42165-1",
+          "matchedName": "Adenocaulon ser. Lyrata Golubkova",
+          "matchedCanonical": "Adenocaulon ser. Lyrata",
+          "currentName": "Adenocaulon ser. Lyrata Golubkova",
+          "classificationPath": "Asteraceae|Adenocaulon ser",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LYRATA",
+      "name": "Lyrata",
+      "odds": 347.0546330438995,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 47542,
+      "end": 47548,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "42165-1",
+          "matchedName": "Adenocaulon ser. Lyrata Golubkova",
+          "matchedCanonical": "Adenocaulon ser. Lyrata",
+          "currentName": "Adenocaulon ser. Lyrata Golubkova",
+          "classificationPath": "Asteraceae|Adenocaulon ser",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. lyrata",
+      "name": "A. lyrata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 47573,
+      "end": 47582,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "A. lyrata revealed",
+      "name": "A. lyrata revealed",
+      "odds": 12473497471.61069,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "ispLen": {
+            "8": 1.8125199061624047
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispEnd3": {
+            "led": 0.41711964727909645
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 48381,
+      "end": 48399,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Mimulus cardinalis",
+      "name": "Mimulus cardinalis",
+      "odds": 9071146052432.074,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          }
+        }
+      },
+      "start": 49611,
+      "end": 49629,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "26aa789a4e8d363d0eff3fa13407848c",
+          "matchedName": "Mimulus cardinalis Douglas ex Benth.",
+          "matchedCanonical": "Mimulus cardinalis",
+          "currentName": "Erythranthe cardinalis (Douglas ex Benth.) Spach",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Phrymaceae|Erythranthe|Erythranthe cardinalis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45841436|45842524|45973458|54949d9a7268472ecaff87f6bf302663",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "26aa789a4e8d363d0eff3fa13407848c",
+            "matchedName": "Mimulus cardinalis Douglas ex Benth.",
+            "matchedCanonical": "Mimulus cardinalis",
+            "currentName": "Erythranthe cardinalis (Douglas ex Benth.) Spach",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Phrymaceae|Erythranthe|Erythranthe cardinalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45841436|45842524|45973458|54949d9a7268472ecaff87f6bf302663",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8661065",
+            "matchedName": "Mimulus cardinalis Douglas",
+            "matchedCanonical": "Mimulus cardinalis",
+            "currentName": "Mimulus cardinalis Douglas",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Phrymaceae|Mimulus|Mimulus cardinalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|408|4194986|6008574|8661065",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. lewisii,",
+      "name": "M. lewisii",
+      "odds": 1822540.3188088278,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spEnd3": {
+            "sii": 157.67122667149846
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 49634,
+      "end": 49645,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Gilia",
+      "name": "Gilia",
+      "odds": 5000.762916128274,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lia": 9.414986324299607
+          }
+        }
+      },
+      "start": 50265,
+      "end": 50270,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45986690",
+          "matchedName": "Gilia",
+          "matchedCanonical": "Gilia",
+          "currentName": "Gilia",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ericales|Polemoniaceae|Gilia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45844411|45848768|45986690",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45986690",
+            "matchedName": "Gilia",
+            "matchedCanonical": "Gilia",
+            "currentName": "Gilia",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ericales|Polemoniaceae|Gilia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45844411|45848768|45986690",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2264938",
+            "matchedName": "Gilia Pugh \u0026 Pages, 1995",
+            "matchedCanonical": "Gilia",
+            "currentName": "Gilia Pugh \u0026 Pages, 1995",
+            "classificationPath": "Animalia|Cnidaria|Hydrozoa|Siphonophorae|Diphyidae|Gilia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|43|205|6180736|8188|2264938",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "884283",
+            "matchedName": "Gilia",
+            "matchedCanonical": "Gilia",
+            "currentName": "Gilia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Cnidaria|Hydrozoa|Hydroidolina|Siphonophorae|Calycophorae|Diphyidae|Giliinae|Gilia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|phylum|class|subclass|order|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|641033|641030|444336|711116|149373|358894|5673061|884283",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Mimulus hybrids,",
+      "name": "Mimulus hybrids",
+      "odds": 7882964432.598141,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ids": 0.8342392945581929
+          }
+        }
+      },
+      "start": 50356,
+      "end": 50372,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "cd47619792849421489a04ca3bf4596f",
+          "matchedName": "Mimulus hybridus Siebert \u0026 Voss",
+          "matchedCanonical": "Mimulus hybridus",
+          "currentName": "Erythranthe hybrida (Siebert \u0026 Voss) Silverside",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Phrymaceae|Erythranthe|Erythranthe hybrida",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45841436|45842524|45973458|602acae8a4ea69d436da8ce9de64cb81",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "cd47619792849421489a04ca3bf4596f",
+            "matchedName": "Mimulus hybridus Siebert \u0026 Voss",
+            "matchedCanonical": "Mimulus hybridus",
+            "currentName": "Erythranthe hybrida (Siebert \u0026 Voss) Silverside",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Phrymaceae|Erythranthe|Erythranthe hybrida",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45841436|45842524|45973458|602acae8a4ea69d436da8ce9de64cb81",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(ACIA",
+      "name": "Acia",
+      "odds": 16140.959213280623,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "cia": 135.14676571842725
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 55605,
+      "end": 55610,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145340580",
+          "matchedName": "Acia Schreb.",
+          "matchedCanonical": "Acia",
+          "currentName": "Acia Schreb.",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2043459",
+            "matchedName": "Acia McAtee, 1934",
+            "matchedCanonical": "Acia",
+            "currentName": "Acia McAtee, 1934",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Hemiptera|Acia",
+            "classificationRank": "kingdom|phylum|class|order|genus",
+            "classificationIDs": "1|54|216|809|2043459",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5438144",
+            "matchedName": "Acia subgen. Acia",
+            "matchedCanonical": "Acia subgen. Acia",
+            "currentName": "Acia subgen. Acia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Nucletmycea|Fungi|||Dikarya|Basidiomycota|Agaricomycotina|Agaricomycetes|Polyporales|Meruliaceae|Mycoacia|Acia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|subkingdom|phylum|subphylum|class|order|family|genus|no rank - terminal",
+            "classificationIDs": "805080|93302|304358|332573|5246132|352914|5576447|5584405|656316|634628|633300|1012685|633302|42234|82392|5438144",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Chamaecrista fasciculata",
+      "name": "Chamaecrista fasciculata",
+      "odds": 5095782917169.866,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sta": 1.706398557050849
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          }
+        }
+      },
+      "start": 56269,
+      "end": 56293,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d2f5844aa8b790429b39c5be054804c5",
+          "matchedName": "Chamaecrista fasciculata (Michx.)Greene",
+          "matchedCanonical": "Chamaecrista fasciculata",
+          "currentName": "Chamaecrista fasciculata (Michx.)Greene",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Chamaecrista|Chamaecrista fasciculata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45842494|45842495|45881890|d2f5844aa8b790429b39c5be054804c5",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d2f5844aa8b790429b39c5be054804c5",
+            "matchedName": "Chamaecrista fasciculata (Michx.)Greene",
+            "matchedCanonical": "Chamaecrista fasciculata",
+            "currentName": "Chamaecrista fasciculata (Michx.)Greene",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Chamaecrista|Chamaecrista fasciculata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45842494|45842495|45881890|d2f5844aa8b790429b39c5be054804c5",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2949728",
+            "matchedName": "Chamaecrista fasciculata (Michx.) Greene Greene (Michx.)",
+            "matchedCanonical": "Chamaecrista fasciculata",
+            "currentName": "Chamaecrista fasciculata (Michx.) Greene Greene (Michx.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Chamaecrista|Chamaecrista fasciculata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|1370|5386|2949492|2949728",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "959671",
+            "matchedName": "Chamaecrista fasciculata",
+            "matchedCanonical": "Chamaecrista fasciculata",
+            "currentName": "Chamaecrista fasciculata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fabales|Fabaceae|Caesalpinioideae|Cassieae|Chamaecrista|Chamaecrista fasciculata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|956360|560323|560316|792362|959682|959671",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Avena barbata,",
+      "name": "Avena barbata",
+      "odds": 1595337763554.8992,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ena": 77.58425439391193
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 56369,
+      "end": 56383,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "7ed054de6558728adcf61787b41264a6",
+          "matchedName": "Avena barbata Pott ex Link",
+          "matchedCanonical": "Avena barbata",
+          "currentName": "Avena barbata Pott ex Link",
+          "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Avena|Avena barbata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45867893|7ed054de6558728adcf61787b41264a6",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "7ed054de6558728adcf61787b41264a6",
+            "matchedName": "Avena barbata Pott ex Link",
+            "matchedCanonical": "Avena barbata",
+            "currentName": "Avena barbata Pott ex Link",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Avena|Avena barbata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45844426|45844436|45844442|45867893|7ed054de6558728adcf61787b41264a6",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8142869",
+            "matchedName": "Avena barbata Pott",
+            "matchedCanonical": "Avena barbata",
+            "currentName": "Avena barbata Pott",
+            "classificationPath": "Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Avena|Avena barbata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|196|1369|3073|2705282|8142869",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "944135",
+            "matchedName": "Avena barbata",
+            "matchedCanonical": "Avena barbata",
+            "currentName": "Avena barbata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae|Liliopsida|Petrosaviidae||Poales|Poaceae||Pooideae|Poodae|Poeae|Aveninae|Avena|Avena barbata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|class|no rank|subclass|order|family|no rank|subfamily|no rank|tribe|subtribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|1058517|5308424|225270|921871|508090|17811|641464|5737322|415737|260288|790365|944135",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 22,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LYRATA",
+      "name": "Lyrata",
+      "odds": 347.0546330438995,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 56504,
+      "end": 56510,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "42165-1",
+          "matchedName": "Adenocaulon ser. Lyrata Golubkova",
+          "matchedCanonical": "Adenocaulon ser. Lyrata",
+          "currentName": "Adenocaulon ser. Lyrata Golubkova",
+          "classificationPath": "Asteraceae|Adenocaulon ser",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. lyrata",
+      "name": "A. lyrata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 57517,
+      "end": 57526,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Mimulus hybrids",
+      "name": "Mimulus hybrids",
+      "odds": 7882964432.598141,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ids": 0.8342392945581929
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          }
+        }
+      },
+      "start": 59739,
+      "end": 59754,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "cd47619792849421489a04ca3bf4596f",
+          "matchedName": "Mimulus hybridus Siebert \u0026 Voss",
+          "matchedCanonical": "Mimulus hybridus",
+          "currentName": "Erythranthe hybrida (Siebert \u0026 Voss) Silverside",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Phrymaceae|Erythranthe|Erythranthe hybrida",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45841436|45842524|45973458|602acae8a4ea69d436da8ce9de64cb81",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "cd47619792849421489a04ca3bf4596f",
+            "matchedName": "Mimulus hybridus Siebert \u0026 Voss",
+            "matchedCanonical": "Mimulus hybridus",
+            "currentName": "Erythranthe hybrida (Siebert \u0026 Voss) Silverside",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Phrymaceae|Erythranthe|Erythranthe hybrida",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45841436|45842524|45973458|602acae8a4ea69d436da8ce9de64cb81",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 2,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Mimulus cardinalis",
+      "name": "Mimulus cardinalis",
+      "odds": 9071146052432.074,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lus": 216.90221658513016
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lis": 387.92127196955965
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          }
+        }
+      },
+      "start": 59978,
+      "end": 59996,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "26aa789a4e8d363d0eff3fa13407848c",
+          "matchedName": "Mimulus cardinalis Douglas ex Benth.",
+          "matchedCanonical": "Mimulus cardinalis",
+          "currentName": "Erythranthe cardinalis (Douglas ex Benth.) Spach",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Phrymaceae|Erythranthe|Erythranthe cardinalis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45841436|45842524|45973458|54949d9a7268472ecaff87f6bf302663",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "26aa789a4e8d363d0eff3fa13407848c",
+            "matchedName": "Mimulus cardinalis Douglas ex Benth.",
+            "matchedCanonical": "Mimulus cardinalis",
+            "currentName": "Erythranthe cardinalis (Douglas ex Benth.) Spach",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Phrymaceae|Erythranthe|Erythranthe cardinalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45841436|45842524|45973458|54949d9a7268472ecaff87f6bf302663",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8661065",
+            "matchedName": "Mimulus cardinalis Douglas",
+            "matchedCanonical": "Mimulus cardinalis",
+            "currentName": "Mimulus cardinalis Douglas",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Lamiales|Phrymaceae|Mimulus|Mimulus cardinalis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|408|4194986|6008574|8661065",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 17,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "M. lewisii",
+      "name": "M. lewisii",
+      "odds": 1822540.3188088278,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "sii": 157.67122667149846
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 60001,
+      "end": 60011,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Ipomopsis aggregata",
+      "name": "Ipomopsis aggregata",
+      "odds": 7629468150428.758,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 60074,
+      "end": 60093,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "70cdfabf6408b5b304d7636ce3f1e758",
+          "matchedName": "Ipomopsis aggregata",
+          "matchedCanonical": "Ipomopsis aggregata",
+          "currentName": "Ipomopsis aggregata",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ericales|Polemoniaceae|Ipomopsis|Ipomopsis aggregata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45844411|45848768|45986689|70cdfabf6408b5b304d7636ce3f1e758",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "70cdfabf6408b5b304d7636ce3f1e758",
+            "matchedName": "Ipomopsis aggregata",
+            "matchedCanonical": "Ipomopsis aggregata",
+            "currentName": "Ipomopsis aggregata",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ericales|Polemoniaceae|Ipomopsis|Ipomopsis aggregata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45844411|45848768|45986689|70cdfabf6408b5b304d7636ce3f1e758",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2927979",
+            "matchedName": "Ipomopsis aggregata (Pursh) V. E. Grant V. E. Grant (Pursh)",
+            "matchedCanonical": "Ipomopsis aggregata",
+            "currentName": "Ipomopsis aggregata (Pursh) V. E. Grant V. E. Grant (Pursh)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ericales|Polemoniaceae|Ipomopsis|Ipomopsis aggregata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|1353|6648|2927960|2927979",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "581695",
+            "matchedName": "Ipomopsis aggregata",
+            "matchedCanonical": "Ipomopsis aggregata",
+            "currentName": "Ipomopsis aggregata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae||Ericales|Polemoniaceae|Ipomopsis|Ipomopsis aggregata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|order|family|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|648892|814217|581707|581695",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "I. tenuituba,",
+      "name": "I. tenuituba",
+      "odds": 197711.30770498284,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uba": 7.508153651023735
+          }
+        }
+      },
+      "start": 60098,
+      "end": 60111,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Helianthus petiolaris",
+      "name": "Helianthus petiolaris",
+      "odds": 174077520.3650372,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "hus": 17.230250045298064
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ris": 335.3641964123935
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 61163,
+      "end": 61184,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+          "matchedName": "Helianthus petiolaris hort. ex DC.",
+          "matchedCanonical": "Helianthus petiolaris",
+          "currentName": "Helianthus annuus L.",
+          "isSynonym": true,
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b1f8e86098063a1b26cd420f5916cb70",
+            "matchedName": "Helianthus petiolaris hort. ex DC.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus annuus L.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus annuus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45844422|45856707|46037426|f05e095606af8ed79cbec9f488e6dbd9",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8708826",
+            "matchedName": "Helianthus petiolaris Hort.",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris Hort. ex DC.",
+            "isSynonym": true,
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|414|3065|3119134|7566229",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "515707",
+            "matchedName": "Helianthus petiolaris",
+            "matchedCanonical": "Helianthus petiolaris",
+            "currentName": "Helianthus petiolaris",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Asterales|Asteraceae|Asteroideae|Heliantheae alliance|Heliantheae|Helianthus|Helianthus petiolaris",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|no rank|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|596121|1042120|46248|1084160|757761|557772|515718|515707",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "H. annuus.",
+      "name": "H. annuus",
+      "odds": 105069.81928549067,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "uus": 17.51902518572205
+          }
+        }
+      },
+      "start": 61189,
+      "end": 61199,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ipomopsis",
+      "name": "Ipomopsis",
+      "odds": 86508.36873727977,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 61212,
+      "end": 61221,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45986689",
+          "matchedName": "Ipomopsis",
+          "matchedCanonical": "Ipomopsis",
+          "currentName": "Ipomopsis",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ericales|Polemoniaceae|Ipomopsis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45844411|45848768|45986689",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45986689",
+            "matchedName": "Ipomopsis",
+            "matchedCanonical": "Ipomopsis",
+            "currentName": "Ipomopsis",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ericales|Polemoniaceae|Ipomopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45844411|45848768|45986689",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2927960",
+            "matchedName": "Ipomopsis Michx.",
+            "matchedCanonical": "Ipomopsis",
+            "currentName": "Ipomopsis Michx.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ericales|Polemoniaceae|Ipomopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1353|6648|2927960",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "581707",
+            "matchedName": "Ipomopsis",
+            "matchedCanonical": "Ipomopsis",
+            "currentName": "Ipomopsis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae||Ericales|Polemoniaceae|Ipomopsis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|648892|814217|581707",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Chamaecrista fasciculata",
+      "name": "Chamaecrista fasciculata",
+      "odds": 5095782917169.866,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "12": 7.305230579374447
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sta": 1.706398557050849
+          },
+          "spLen": {
+            "11": 26.660531560828144
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 61443,
+      "end": 61467,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d2f5844aa8b790429b39c5be054804c5",
+          "matchedName": "Chamaecrista fasciculata (Michx.)Greene",
+          "matchedCanonical": "Chamaecrista fasciculata",
+          "currentName": "Chamaecrista fasciculata (Michx.)Greene",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Chamaecrista|Chamaecrista fasciculata",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841433|45841434|45841435|45842494|45842495|45881890|d2f5844aa8b790429b39c5be054804c5",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d2f5844aa8b790429b39c5be054804c5",
+            "matchedName": "Chamaecrista fasciculata (Michx.)Greene",
+            "matchedCanonical": "Chamaecrista fasciculata",
+            "currentName": "Chamaecrista fasciculata (Michx.)Greene",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Chamaecrista|Chamaecrista fasciculata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841433|45841434|45841435|45842494|45842495|45881890|d2f5844aa8b790429b39c5be054804c5",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2949728",
+            "matchedName": "Chamaecrista fasciculata (Michx.) Greene Greene (Michx.)",
+            "matchedCanonical": "Chamaecrista fasciculata",
+            "currentName": "Chamaecrista fasciculata (Michx.) Greene Greene (Michx.)",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Chamaecrista|Chamaecrista fasciculata",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "6|7707728|220|1370|5386|2949492|2949728",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "959671",
+            "matchedName": "Chamaecrista fasciculata",
+            "matchedCanonical": "Chamaecrista fasciculata",
+            "currentName": "Chamaecrista fasciculata",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|||Fabales|Fabaceae|Caesalpinioideae|Cassieae|Chamaecrista|Chamaecrista fasciculata",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|no rank|order|family|subfamily|tribe|genus|species",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008296|565281|956360|560323|560316|792362|959682|959671",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. lyrata",
+      "name": "A. lyrata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          }
+        }
+      },
+      "start": 61672,
+      "end": 61681,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. lyrata.",
+      "name": "A. lyrata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          }
+        }
+      },
+      "start": 62707,
+      "end": 62717,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Ipomopsis",
+      "name": "Ipomopsis",
+      "odds": 86508.36873727977,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "9": 2.171091427809083
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "sis": 22.733020776710756
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 62861,
+      "end": 62870,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45986689",
+          "matchedName": "Ipomopsis",
+          "matchedCanonical": "Ipomopsis",
+          "currentName": "Ipomopsis",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ericales|Polemoniaceae|Ipomopsis",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45844411|45848768|45986689",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45986689",
+            "matchedName": "Ipomopsis",
+            "matchedCanonical": "Ipomopsis",
+            "currentName": "Ipomopsis",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ericales|Polemoniaceae|Ipomopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45844411|45848768|45986689",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2927960",
+            "matchedName": "Ipomopsis Michx.",
+            "matchedCanonical": "Ipomopsis",
+            "currentName": "Ipomopsis Michx.",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Ericales|Polemoniaceae|Ipomopsis",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|1353|6648|2927960",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "581707",
+            "matchedName": "Ipomopsis",
+            "matchedCanonical": "Ipomopsis",
+            "currentName": "Ipomopsis",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae||Ericales|Polemoniaceae|Ipomopsis",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|subclass|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|1008294|648892|814217|581707",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. lyrata",
+      "name": "A. lyrata",
+      "odds": 9321193.968041386,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ata": 1554.1878057619133
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 65917,
+      "end": 65926,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LYRATA",
+      "name": "Lyrata",
+      "odds": 347.0546330438995,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          }
+        }
+      },
+      "start": 68385,
+      "end": 68391,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "42165-1",
+          "matchedName": "Adenocaulon ser. Lyrata Golubkova",
+          "matchedCanonical": "Adenocaulon ser. Lyrata",
+          "currentName": "Adenocaulon ser. Lyrata Golubkova",
+          "classificationPath": "Asteraceae|Adenocaulon ser",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Katja",
+      "name": "Katja",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 69286,
+      "end": 69291,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45945258",
+          "matchedName": "Katja",
+          "matchedCanonical": "Katja",
+          "currentName": "Katja",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Katja",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945258",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45945258",
+            "matchedName": "Katja",
+            "matchedCanonical": "Katja",
+            "currentName": "Katja",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Katja",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45847825|45847827|45945258",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1870323",
+            "matchedName": "Katja Amsel, 1951",
+            "matchedCanonical": "Katja",
+            "currentName": "Katja Amsel, 1951",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Pyralidae|Katja",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5336|1870323",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3159265",
+            "matchedName": "Katja",
+            "matchedCanonical": "Katja",
+            "currentName": "Katja",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Pyraloidea|Pyralidae|Katja",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675117|691929|3159265",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Elisa",
+      "name": "Elisa",
+      "odds": 6646.5836227021355,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "isa": 12.513589418372893
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 69368,
+      "end": 69373,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "998624",
+          "matchedName": "Elisa Heynemann, 1883",
+          "matchedCanonical": "Elisa",
+          "currentName": "Elisolimax Cockerell, 1893",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Mollusca|Gastropoda|Heterobranchia|Euthyneura|Tectipleura|Eupulmonata|Stylommatophora|Helicina|Limacoidei|Helicarionoidea|Urocyclidae|Urocyclinae|Urocyclini|Elisolimax",
+          "classificationRank": "|Kingdom|phylum|class|subclass|subclass|subclass|superorder|order|suborder|infraorder|superfamily|family|subfamily|tribe|genus",
+          "classificationIDs": "1|2|51|101|14712|1057247|1057250|412657|447|994701|1057259|867820|867822|995050|995054|996936",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8269687",
+            "matchedName": "Elisa Bonaparte, 1854",
+            "matchedCanonical": "Elisa",
+            "currentName": "Elisa Bonaparte, 1854",
+            "classificationPath": "Animalia|Chordata|Aves|Elisa",
+            "classificationRank": "kingdom|phylum|class|genus",
+            "classificationIDs": "1|44|212|8269687",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5270205",
+            "matchedName": "Elisa",
+            "matchedCanonical": "Elisa",
+            "currentName": "Elisa",
+            "classificationPath": "||Eukaryota|Archaeplastida|Elisa",
+            "classificationRank": "no rank|no rank|domain|kingdom|genus",
+            "classificationIDs": "805080|93302|304358|5268475|5270205",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "LYRATA",
+      "name": "Lyrata",
+      "odds": 347.0546330438995,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteUninomial": 668.2256749411124
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ata": 14.18206800748928
+          }
+        }
+      },
+      "start": 70109,
+      "end": 70115,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 167,
+          "dataSourceTitle": "The International Plant Names Index",
+          "taxonId": "42165-1",
+          "matchedName": "Adenocaulon ser. Lyrata Golubkova",
+          "matchedCanonical": "Adenocaulon ser. Lyrata",
+          "currentName": "Adenocaulon ser. Lyrata Golubkova",
+          "classificationPath": "Asteraceae|Adenocaulon ser",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "dataSourcesNum": 1,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

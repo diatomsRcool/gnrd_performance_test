@@ -1,0 +1,820 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:07:20.202272646-05:00",
+    "language": "eng",
+    "total_words": 12849,
+    "total_candidates": 2551,
+    "total_names": 10
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "SERGIO",
+      "name": "Sergio",
+      "odds": 925.4407911537426,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "gio": 1.2513589418372892
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 381,
+      "end": 387,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45893209",
+          "matchedName": "Sergio",
+          "matchedCanonical": "Sergio",
+          "currentName": "Sergio",
+          "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Callianassoidea|Callianassidae|Sergio",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841301|45841302|45842718|45843598|45893209",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45893209",
+            "matchedName": "Sergio",
+            "matchedCanonical": "Sergio",
+            "currentName": "Sergio",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Callianassoidea|Callianassidae|Sergio",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841301|45841302|45842718|45843598|45893209",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2222958",
+            "matchedName": "Sergio Manning \u0026 Lemaitre, 1994",
+            "matchedCanonical": "Sergio",
+            "currentName": "Sergio Manning \u0026 Lemaitre, 1994",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Callianassidae|Sergio",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|229|637|4477|2222958",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "394604",
+            "matchedName": "Sergio",
+            "matchedCanonical": "Sergio",
+            "currentName": "Sergio",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Pleocyemata|Axiidea|Callianassidae|Callichirinae|Sergio",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|infraorder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|169204|169205|736321|581250|340332|5764748|394604",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 15,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "MORENO",
+      "name": "Moreno",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 454,
+      "end": 460,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46001714",
+          "matchedName": "Moreno",
+          "matchedCanonical": "Moreno",
+          "currentName": "Moreno",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45841317|45841334|46001714",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46001714",
+            "matchedName": "Moreno",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45841317|45841334|46001714",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2164910",
+            "matchedName": "Moreno Mello-Leitão, 1940",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno Mello-Leitão, 1940",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|5643|2164910",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4694933",
+            "matchedName": "Moreno",
+            "matchedCanonical": "Moreno",
+            "currentName": "Moreno",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Prodidomidae|Moreno",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|4694885|4694933",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "JANICE",
+      "name": "Janice",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ice": 0.0490728996798937
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 511,
+      "end": 517,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 9,
+          "dataSourceTitle": "World Register of Marine Species",
+          "taxonId": "204427",
+          "matchedName": "Janice Griffiths, 1973",
+          "matchedCanonical": "Janice",
+          "currentName": "Janice Griffiths, 1973",
+          "classificationPath": "Biota|Animalia|Arthropoda|Crustacea|Multicrustacea|Malacostraca|Eumalacostraca|Peracarida|Amphipoda|Senticaudata|Corophiida|Corophiidira|Aoroidea|Unciolidae|Unciolinae|Janice",
+          "classificationRank": "|Kingdom|phylum|subphylum|superclass|class|subclass|superorder|order|suborder|infraorder|order|superfamily|family|subfamily|genus",
+          "classificationIDs": "1|2|1065|1066|845959|1071|1086|1090|1135|719424|719474|719477|716532|248352|465705|204427",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4314653",
+            "matchedName": "Janice Griffiths, 1973",
+            "matchedCanonical": "Janice",
+            "currentName": "Janice Griffiths, 1973",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Amphipoda|Unciolidae|Janice",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|229|1231|4314559|4314653",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5092145",
+            "matchedName": "Janice",
+            "matchedCanonical": "Janice",
+            "currentName": "Janice",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Peracarida|Amphipoda|Senticaudata|Corophiida|Corophiidira|Aoroidea|Unciolidae|Unciolinae|Janice",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|suborder|infraorder|parvorder|superfamily|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|737016|737019|5730436|5741910|5755473|5764941|5092142|5799473|5092145",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "**Cascadia",
+      "name": "Cascadia",
+      "odds": 8159.812998149116,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "dia": 3.1730887453731267
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 1365,
+      "end": 1375,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46069454",
+          "matchedName": "Cascadia",
+          "matchedCanonical": "Cascadia",
+          "currentName": "Cascadia",
+          "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae|Cascadia",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841433|45841434|45841435|45841855|45850117|46069454",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46069454",
+            "matchedName": "Cascadia",
+            "matchedCanonical": "Cascadia",
+            "currentName": "Cascadia",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae|Cascadia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841433|45841434|45841435|45841855|45850117|46069454",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7177551",
+            "matchedName": "Cascadia",
+            "matchedCanonical": "Cascadia",
+            "currentName": "Cascadia",
+            "classificationPath": "Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Saxifragaceae|Cascadia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "6|7707728|220|7219248|2402|7177551",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "78737",
+            "matchedName": "Cascadia",
+            "matchedCanonical": "Cascadia",
+            "currentName": "Cascadia",
+            "classificationPath": "||Eukaryota|Archaeplastida|Chloroplastida|Streptophyta|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|Mesangiospermae||Gunneridae|Pentapetalae|Saxifragales|Saxifragaceae|Cascadia",
+            "classificationRank": "no rank|no rank|domain|kingdom|kingdom|phylum|no rank|phylum|no rank|no rank|phylum|no rank|no rank|no rank|no rank|order|family|genus",
+            "classificationIDs": "805080|93302|304358|5268475|361838|916750|56610|10210|1007992|10218|99252|5298374|431495|853757|5316182|648890|1035588|78737",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Physeter macrocephalus)",
+      "name": "Physeter macrocephalus",
+      "odds": 98710577626.56009,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          },
+          "spLen": {
+            "13": 22.52446095307121
+          }
+        }
+      },
+      "start": 2256,
+      "end": 2280,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b3ea740b176c587935272fe4f127db73",
+          "matchedName": "Physeter macrocephalus Linnaeus, 1758",
+          "matchedCanonical": "Physeter macrocephalus",
+          "currentName": "Physeter macrocephalus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Physeteridae|Physeter|Physeter macrocephalus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849128|46037949|b3ea740b176c587935272fe4f127db73",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b3ea740b176c587935272fe4f127db73",
+            "matchedName": "Physeter macrocephalus Linnaeus, 1758",
+            "matchedCanonical": "Physeter macrocephalus",
+            "currentName": "Physeter macrocephalus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Physeteridae|Physeter|Physeter macrocephalus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849128|46037949|b3ea740b176c587935272fe4f127db73",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8123917",
+            "matchedName": "Physeter macrocephalus Linnaeus, 1758",
+            "matchedCanonical": "Physeter macrocephalus",
+            "currentName": "Physeter macrocephalus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Physeteridae|Physeter|Physeter macrocephalus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5446|2440349|8123917",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial(nlp)",
+      "verbatim": "(Physeter macropcephalus)",
+      "name": "Physeter macropcephalus",
+      "odds": 1075047.746989833,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ter": 0.8727426466147249
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "spEnd3": {
+            "lus": 262.78537778583075
+          },
+          "spLen": {
+            "14": 25.91049103098387
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 6737,
+      "end": 6762,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "b3ea740b176c587935272fe4f127db73",
+          "matchedName": "Physeter macrocephalus Linnaeus, 1758",
+          "matchedCanonical": "Physeter macrocephalus",
+          "currentName": "Physeter macrocephalus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Physeteridae|Physeter|Physeter macrocephalus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849128|46037949|b3ea740b176c587935272fe4f127db73",
+          "editDistance": 1,
+          "stemEditDistance": 1,
+          "matchType": "FuzzyCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "b3ea740b176c587935272fe4f127db73",
+            "matchedName": "Physeter macrocephalus Linnaeus, 1758",
+            "matchedCanonical": "Physeter macrocephalus",
+            "currentName": "Physeter macrocephalus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Physeteridae|Physeter|Physeter macrocephalus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849128|46037949|b3ea740b176c587935272fe4f127db73",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8123917",
+            "matchedName": "Physeter macrocephalus Linnaeus, 1758",
+            "matchedCanonical": "Physeter macrocephalus",
+            "currentName": "Physeter macrocephalus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Physeteridae|Physeter|Physeter macrocephalus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5446|2440349|8123917",
+            "editDistance": 1,
+            "stemEditDistance": 1,
+            "matchType": "FuzzyCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Anoplopoma fimbria)",
+      "name": "Anoplopoma fimbria",
+      "odds": 35303522.27965069,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "oma": 33.36957178232771
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          },
+          "spEnd3": {
+            "ria": 31.283973545932234
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "10": 3.1988876638791726
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 12029,
+      "end": 12049,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "3de38185591bbc2b5e02b8477dcd55ff",
+          "matchedName": "Anoplopoma fimbria (Pallas, 1814)",
+          "matchedCanonical": "Anoplopoma fimbria",
+          "currentName": "Anoplopoma fimbria (Pallas, 1814)",
+          "classificationPath": "Animalia|Chordata|Actinopterygii|Scorpaeniformes|Anoplopomatidae|Anoplopoma|Anoplopoma fimbria",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841293|45842856|45842912|46050938|3de38185591bbc2b5e02b8477dcd55ff",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "3de38185591bbc2b5e02b8477dcd55ff",
+            "matchedName": "Anoplopoma fimbria (Pallas, 1814)",
+            "matchedCanonical": "Anoplopoma fimbria",
+            "currentName": "Anoplopoma fimbria (Pallas, 1814)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Scorpaeniformes|Anoplopomatidae|Anoplopoma|Anoplopoma fimbria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841293|45842856|45842912|46050938|3de38185591bbc2b5e02b8477dcd55ff",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2335062",
+            "matchedName": "Anoplopoma fimbria (Pallas, 1814)",
+            "matchedCanonical": "Anoplopoma fimbria",
+            "currentName": "Anoplopoma fimbria (Pallas, 1814)",
+            "classificationPath": "Animalia|Chordata|Actinopterygii|Scorpaeniformes|Anoplopomatidae|Anoplopoma|Anoplopoma fimbria",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|204|590|5090|2335061|2335062",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "441856",
+            "matchedName": "Anoplopoma fimbria",
+            "matchedCanonical": "Anoplopoma fimbria",
+            "currentName": "Anoplopoma fimbria",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Osteoglossocephalai|Clupeocephala|Euteleosteomorpha|Neoteleostei|Eurypterygia|Ctenosquamata|Acanthomorphata|Euacanthomorphacea|Percomorphaceae|Eupercaria|Perciformes|Cottioidei|Anoplopomatales|Anoplopomatidae|Anoplopoma|Anoplopoma fimbria",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|superclass|class|subclass|infraclass|no rank|no rank|no rank|no rank|no rank|no rank|order|no rank|no rank|no rank|order|suborder|infraorder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|773483|285821|471203|212201|5506109|285819|5517919|108736|108735|108734|108720|108719|5551466|5553753|811928|237343|1024056|441562|967647|441856",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 24,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Delphinapterus leucas)",
+      "name": "Delphinapterus leucas",
+      "odds": 5771954.9226055015,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "14": 15.01630730204747
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "rus": 70.0761007428882
+          },
+          "spLen": {
+            "6": 2.296153847821055
+          },
+          "spDict": {
+            "GreySpecies": 1.3629063353560105
+          }
+        }
+      },
+      "start": 24945,
+      "end": 24968,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "d9b93553f1483a53529684b92f3e0872",
+          "matchedName": "Delphinapterus leucas (Pallas, 1776)",
+          "matchedCanonical": "Delphinapterus leucas",
+          "currentName": "Delphinapterus leucas (Pallas, 1776)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Monodontidae|Delphinapterus|Delphinapterus leucas",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849126|45849131|46005473|d9b93553f1483a53529684b92f3e0872",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "d9b93553f1483a53529684b92f3e0872",
+            "matchedName": "Delphinapterus leucas (Pallas, 1776)",
+            "matchedCanonical": "Delphinapterus leucas",
+            "currentName": "Delphinapterus leucas (Pallas, 1776)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Monodontidae|Delphinapterus|Delphinapterus leucas",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849126|45849131|46005473|d9b93553f1483a53529684b92f3e0872",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "5220003",
+            "matchedName": "Delphinapterus leucas (Pallas, 1776)",
+            "matchedCanonical": "Delphinapterus leucas",
+            "currentName": "Delphinapterus leucas (Pallas, 1776)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Cetacea|Monodontidae|Delphinapterus|Delphinapterus leucas",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|733|5445|2440356|5220003",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "851318",
+            "matchedName": "Delphinapterus leucas",
+            "matchedCanonical": "Delphinapterus leucas",
+            "currentName": "Delphinapterus leucas",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Cetartiodactyla|Cetacea|Odontoceti|Monodontidae|Delphinapterus|Delphinapterus leucas",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|order|suborder|family|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|622916|698424|698417|851307|851317|851318",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 28,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Gabriella",
+      "name": "Gabriella",
+      "odds": 1576198.3514884184,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "9": 2.171091427809083
+          }
+        }
+      },
+      "start": 80127,
+      "end": 80136,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46083592",
+          "matchedName": "Gabriella",
+          "matchedCanonical": "Gabriella",
+          "currentName": "Gabriella",
+          "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Homolodromioidea|Tanidromitidae|Gabriella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841301|45841302|45847302|45852798|46083592",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46083592",
+            "matchedName": "Gabriella",
+            "matchedCanonical": "Gabriella",
+            "currentName": "Gabriella",
+            "classificationPath": "Animalia|Arthropoda|Malacostraca|Decapoda|Homolodromioidea|Tanidromitidae|Gabriella",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841301|45841302|45847302|45852798|46083592",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7345071",
+            "matchedName": "Gabriella",
+            "matchedCanonical": "Gabriella",
+            "currentName": "Garbiella Lazarenko \u0026 Datsenko, 1967",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Garbiella",
+            "classificationRank": "kingdom|phylum|genus",
+            "classificationIDs": "1|54|3266746",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5090635",
+            "matchedName": "Gabriella",
+            "matchedCanonical": "Gabriella",
+            "currentName": "Gabriella",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Malacostraca|Eumalacostraca|Eucarida|Decapoda|Tanidromitidae|Gabriella",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|subphylum|class|subclass|superorder|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|632176|212701|1007062|169204|169205|5090634|5090635",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 8,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Lisa",
+      "name": "Lisa",
+      "odds": 1494.5332604889466,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "isa": 12.513589418372893
+          }
+        }
+      },
+      "start": 81015,
+      "end": 81019,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1335781",
+          "matchedName": "Lisa Haag-Rutenberg, 1879",
+          "matchedCanonical": "Lisa",
+          "currentName": "Metistete Pascoe, 1866",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Tenebrionidae|Metistete",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|105034|1194900",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4724181",
+            "matchedName": "Lisa Haag-Rutenberg, 1879",
+            "matchedCanonical": "Lisa",
+            "currentName": "Metistete Pascoe, 1866",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Tenebrionidae|Metistete",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|7857|4724173",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}

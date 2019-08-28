@@ -1,0 +1,1943 @@
+{
+  "metadata": {
+    "date": "2019-05-10T16:04:35.807231838-05:00",
+    "language": "eng",
+    "total_words": 9831,
+    "total_candidates": 2525,
+    "total_names": 26
+  },
+  "names": [
+    {
+      "type": "Uninomial",
+      "verbatim": "–Panthera,",
+      "name": "Panthera",
+      "odds": 93678.22872366496,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "era": 36.428449195707756
+          }
+        }
+      },
+      "start": 994,
+      "end": 1004,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45894454",
+          "matchedName": "Panthera",
+          "matchedCanonical": "Panthera",
+          "currentName": "Panthera",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Panthera",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45894454",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45894454",
+            "matchedName": "Panthera",
+            "matchedCanonical": "Panthera",
+            "currentName": "Panthera",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Panthera",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45894454",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3256230",
+            "matchedName": "Panthera Hübner, 1823",
+            "matchedCanonical": "Panthera",
+            "currentName": "Pantherodes Guenée, 1857",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Geometridae|Pantherodes",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|6950|1978948",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "563154",
+            "matchedName": "Panthera",
+            "matchedCanonical": "Panthera",
+            "currentName": "Panthera",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Pantherinae|Panthera",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626917|563154",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 19,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Brion,",
+      "name": "Brion",
+      "odds": 611.9632226271765,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ion": 0.22518027231005205
+          }
+        }
+      },
+      "start": 1616,
+      "end": 1622,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1122603",
+          "matchedName": "Brion Fischer de Waldheim, 1803",
+          "matchedCanonical": "Brion",
+          "currentName": "Brion Fischer de Waldheim, 1803",
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Aves|Aves|Aves|Brion",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|148|11905117|1142|10015|100483|1122603",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4848589",
+            "matchedName": "Brion Fischer de Waldheim, 1803",
+            "matchedCanonical": "Brion",
+            "currentName": "Brion Fischer de Waldheim, 1803",
+            "classificationPath": "Animalia|Chordata|Aves|Brion",
+            "classificationRank": "kingdom|phylum|class|genus",
+            "classificationIDs": "1|44|212|4848589",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Acinonyx jubatus)",
+      "name": "Acinonyx jubatus",
+      "odds": 492294892192.3419,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "nyx": 7.508153651023735
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 1831,
+      "end": 1849,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6ce647e8a93e5794b622e28d477a7113",
+          "matchedName": "Acinonyx jubatus (Schreber, 1775)",
+          "matchedCanonical": "Acinonyx jubatus",
+          "currentName": "Acinonyx jubatus (Schreber, 1775)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46043339|6ce647e8a93e5794b622e28d477a7113",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6ce647e8a93e5794b622e28d477a7113",
+            "matchedName": "Acinonyx jubatus (Schreber, 1775)",
+            "matchedCanonical": "Acinonyx jubatus",
+            "currentName": "Acinonyx jubatus (Schreber, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46043339|6ce647e8a93e5794b622e28d477a7113",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435270",
+            "matchedName": "Acinonyx jubatus (Schreber, 1775)",
+            "matchedCanonical": "Acinonyx jubatus",
+            "currentName": "Acinonyx jubatus (Schreber, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435269|2435270",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "752759",
+            "matchedName": "Acinonyx jubatus",
+            "matchedCanonical": "Acinonyx jubatus",
+            "currentName": "Acinonyx jubatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Acinonychinae|Acinonyx|Acinonyx jubatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626920|752758|752759",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Acinonyx jubatus soemmeringii).",
+      "name": "Acinonyx jubatus soemmeringii",
+      "odds": 27282831375357320,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispEnd3": {
+            "gii": 12.513589418372893
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nyx": 7.508153651023735
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "ispLen": {
+            "12": 5.998577784680339
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          }
+        }
+      },
+      "start": 2579,
+      "end": 2611,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "bc06637ff40b19ff7c49616215a1f0e8",
+          "matchedName": "Acinonyx jubatus soemmeringii (Fitzinger, 1855)",
+          "matchedCanonical": "Acinonyx jubatus soemmeringii",
+          "currentName": "Acinonyx jubatus soemmeringii (Fitzinger, 1855)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx||Acinonyx jubatus soemmeringii",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "bc06637ff40b19ff7c49616215a1f0e8",
+            "matchedName": "Acinonyx jubatus soemmeringii (Fitzinger, 1855)",
+            "matchedCanonical": "Acinonyx jubatus soemmeringii",
+            "currentName": "Acinonyx jubatus soemmeringii (Fitzinger, 1855)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx||Acinonyx jubatus soemmeringii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164724",
+            "matchedName": "Acinonyx jubatus subsp. soemmeringii (Fitzinger, 1855)",
+            "matchedCanonical": "Acinonyx jubatus ssp. soemmeringii",
+            "currentName": "Acinonyx jubatus subsp. soemmeringii (Fitzinger, 1855)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus|Acinonyx jubatus soemmeringii",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435269|2435270|6164724",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 9,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Acinonyx jubatus venaticus)",
+      "name": "Acinonyx jubatus venaticus",
+      "odds": 73148521962753540,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniEnd3": {
+            "nyx": 7.508153651023735
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "ispLen": {
+            "9": 3.2165803672730324
+          },
+          "ispEnd3": {
+            "cus": 62.56794709186447
+          }
+        }
+      },
+      "start": 2706,
+      "end": 2734,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1f310401c04b807f37195f5958796668",
+          "matchedName": "Acinonyx jubatus venaticus (Griffith, 1821)",
+          "matchedCanonical": "Acinonyx jubatus venaticus",
+          "currentName": "Acinonyx jubatus venaticus (Griffith, 1821)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx||Acinonyx jubatus venaticus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1f310401c04b807f37195f5958796668",
+            "matchedName": "Acinonyx jubatus venaticus (Griffith, 1821)",
+            "matchedCanonical": "Acinonyx jubatus venaticus",
+            "currentName": "Acinonyx jubatus venaticus (Griffith, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx||Acinonyx jubatus venaticus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164720",
+            "matchedName": "Acinonyx jubatus subsp. venaticus (Griffith, 1821)",
+            "matchedCanonical": "Acinonyx jubatus ssp. venaticus",
+            "currentName": "Acinonyx jubatus subsp. venaticus (Griffith, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus|Acinonyx jubatus venaticus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435269|2435270|6164720",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Acinonyx jubatus jubatus)",
+      "name": "Acinonyx jubatus jubatus",
+      "odds": 53127639977505660,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "ispEnd3": {
+            "tus": 112.62230476535605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniEnd3": {
+            "nyx": 7.508153651023735
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          }
+        }
+      },
+      "start": 2912,
+      "end": 2938,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "cdf6666d250de621e8ab27a00eafd448",
+          "matchedName": "Acinonyx jubatus jubatus (Schreber, 1775)",
+          "matchedCanonical": "Acinonyx jubatus jubatus",
+          "currentName": "Acinonyx jubatus jubatus (Schreber, 1775)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx||Acinonyx jubatus jubatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "cdf6666d250de621e8ab27a00eafd448",
+            "matchedName": "Acinonyx jubatus jubatus (Schreber, 1775)",
+            "matchedCanonical": "Acinonyx jubatus jubatus",
+            "currentName": "Acinonyx jubatus jubatus (Schreber, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx||Acinonyx jubatus jubatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7193906",
+            "matchedName": "Acinonyx jubatus subsp. jubatus",
+            "matchedCanonical": "Acinonyx jubatus ssp. jubatus",
+            "currentName": "Acinonyx jubatus subsp. jubatus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus|Acinonyx jubatus jubatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435269|2435270|7193906",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Pamela",
+      "name": "Pamela",
+      "odds": 14807.052658459881,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "ela": 20.021743069396628
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 3869,
+      "end": 3875,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "45905585",
+          "matchedName": "Pamela",
+          "matchedCanonical": "Pamela",
+          "currentName": "Pamela",
+          "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Papilionoidea|Lycaenidae|Pamela",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45841270|45841271|45841616|45841633|45847847|45905585",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "45905585",
+            "matchedName": "Pamela",
+            "matchedCanonical": "Pamela",
+            "currentName": "Pamela",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Papilionoidea|Lycaenidae|Pamela",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45841270|45841271|45841616|45841633|45847847|45905585",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "1926414",
+            "matchedName": "Pamela Hemming, 1935",
+            "matchedCanonical": "Pamela",
+            "currentName": "Pamela Hemming, 1935",
+            "classificationPath": "Animalia|Arthropoda|Insecta|Lepidoptera|Lycaenidae|Pamela",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|797|5473|1926414",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "3149492",
+            "matchedName": "Pamela",
+            "matchedCanonical": "Pamela",
+            "currentName": "Pamela",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Amphiesmenoptera|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Ditrysia|Obtectomera|Papilionoidea|Lycaenidae|Pamela",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|no rank|no rank|superclass|class|no rank|subclass|subclass|infraclass|superorder|order|suborder|infraorder|parvorder|no rank|no rank|superfamily|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|985907|985906|568991|1062253|983656|1048707|815350|1082885|436623|965954|89155|89151|795150|596629|371732|675118|1022101|3149492",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Acinonyx jubatus,",
+      "name": "Acinonyx jubatus",
+      "odds": 492294892192.3419,
+      "odds_details": {
+        "Name": {
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nyx": 7.508153651023735
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 4041,
+      "end": 4058,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6ce647e8a93e5794b622e28d477a7113",
+          "matchedName": "Acinonyx jubatus (Schreber, 1775)",
+          "matchedCanonical": "Acinonyx jubatus",
+          "currentName": "Acinonyx jubatus (Schreber, 1775)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46043339|6ce647e8a93e5794b622e28d477a7113",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6ce647e8a93e5794b622e28d477a7113",
+            "matchedName": "Acinonyx jubatus (Schreber, 1775)",
+            "matchedCanonical": "Acinonyx jubatus",
+            "currentName": "Acinonyx jubatus (Schreber, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46043339|6ce647e8a93e5794b622e28d477a7113",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435270",
+            "matchedName": "Acinonyx jubatus (Schreber, 1775)",
+            "matchedCanonical": "Acinonyx jubatus",
+            "currentName": "Acinonyx jubatus (Schreber, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435269|2435270",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "752759",
+            "matchedName": "Acinonyx jubatus",
+            "matchedCanonical": "Acinonyx jubatus",
+            "currentName": "Acinonyx jubatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Acinonychinae|Acinonyx|Acinonyx jubatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626920|752758|752759",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Manati",
+      "name": "Manati",
+      "odds": 852.0704185090011,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "6": 0.42193337125672775
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ati": 0.35753112623922556
+          },
+          "PriorOdds": {
+            "true": 0.1
+          }
+        }
+      },
+      "start": 7001,
+      "end": 7008,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1261089",
+          "matchedName": "Manati Steller, 1774",
+          "matchedCanonical": "Manati",
+          "currentName": "Hydrodamalis Retzius, 1794",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Chordata|Vertebrata|Mammalia|Sirenia|Dugongidae|Hydrodamalis",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|148|11905117|1310|10878|104766|1036448",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "8359855",
+            "matchedName": "Manati",
+            "matchedCanonical": "Manati",
+            "currentName": "Manati",
+            "classificationPath": "Animalia|Manati",
+            "classificationRank": "kingdom|genus",
+            "classificationIDs": "1|8359855",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "6372948",
+            "matchedName": "Manati",
+            "matchedCanonical": "Manati",
+            "currentName": "Manati",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Manati",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|6372948",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 6,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "Acinonyx jubatus jubatus",
+      "name": "Acinonyx jubatus jubatus",
+      "odds": 53127639977505660,
+      "odds_details": {
+        "Name": {
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "uniEnd3": {
+            "nyx": 7.508153651023735
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "ispEnd3": {
+            "tus": 112.62230476535605
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          }
+        }
+      },
+      "start": 9613,
+      "end": 9637,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "cdf6666d250de621e8ab27a00eafd448",
+          "matchedName": "Acinonyx jubatus jubatus (Schreber, 1775)",
+          "matchedCanonical": "Acinonyx jubatus jubatus",
+          "currentName": "Acinonyx jubatus jubatus (Schreber, 1775)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx||Acinonyx jubatus jubatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "cdf6666d250de621e8ab27a00eafd448",
+            "matchedName": "Acinonyx jubatus jubatus (Schreber, 1775)",
+            "matchedCanonical": "Acinonyx jubatus jubatus",
+            "currentName": "Acinonyx jubatus jubatus (Schreber, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx||Acinonyx jubatus jubatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "7193906",
+            "matchedName": "Acinonyx jubatus subsp. jubatus",
+            "matchedCanonical": "Acinonyx jubatus ssp. jubatus",
+            "currentName": "Acinonyx jubatus subsp. jubatus",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus|Acinonyx jubatus jubatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435269|2435270|7193906",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 10,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Claudia",
+      "name": "Claudia",
+      "odds": 4629.656928542505,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "dia": 3.1730887453731267
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 11600,
+      "end": 11607,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 165,
+          "dataSourceTitle": "Tropicos - Missouri Botanical Garden",
+          "taxonId": "145097587",
+          "matchedName": "Claudia Opiz",
+          "matchedCanonical": "Claudia",
+          "currentName": "Claudia Opiz",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3242666",
+            "matchedName": "Claudia Hartert, 1892",
+            "matchedCanonical": "Claudia",
+            "currentName": "Claudia Hartert, 1892",
+            "classificationPath": "Animalia|Chordata|Aves|Apodiformes|Apodidae|Claudia",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|44|212|1448|2993|3242666",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5340745",
+            "matchedName": "Claudia",
+            "matchedCanonical": "Claudia",
+            "currentName": "Claudia",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Sauropsida|Sauria|Archelosauria|Archosauria|Dinosauria|Saurischia|Theropoda|Coelurosauria|Aves|Neognathae|Apodiformes|Apodidae|Claudia",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|no rank|order|no rank|no rank|no rank|order|no rank|no rank|class|superorder|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|639642|329823|4947372|335588|90215|90223|664350|664351|81461|241846|609798|609796|5340745",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Palmyre,",
+      "name": "Palmyre",
+      "odds": 1681.0295283937664,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          }
+        }
+      },
+      "start": 12708,
+      "end": 12716,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1446664",
+          "matchedName": "Palmyre Cuvier, 1836",
+          "matchedCanonical": "Palmyre",
+          "currentName": "Palmyra Savigny in Lamarck, 1818",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Annelida|Polychaeta|Phyllodocida|Aphroditidae|Palmyra",
+          "classificationRank": "|Kingdom|Phylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|234|1321|12234|108204|1310800",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4811637",
+            "matchedName": "Palmyre Cuvier, 1836",
+            "matchedCanonical": "Palmyre",
+            "currentName": "Palmyra Savigny, 1818",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Annelida|Polychaeta|Phyllodocida|Aphroditidae|Palmyra",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|42|256|1079|3579|2312796",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Puma concolor",
+      "name": "Puma concolor",
+      "odds": 30604.601912738162,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "uma": 15.01630730204747
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lor": 115.12502264903061
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          }
+        }
+      },
+      "start": 13997,
+      "end": 14010,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0b4c73f8591ab777e49e32be159e3a18",
+          "matchedName": "Puma concolor (Linnaeus, 1771)",
+          "matchedCanonical": "Puma concolor",
+          "currentName": "Puma concolor (Linnaeus, 1771)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Puma|Puma concolor",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45943541|0b4c73f8591ab777e49e32be159e3a18",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0b4c73f8591ab777e49e32be159e3a18",
+            "matchedName": "Puma concolor (Linnaeus, 1771)",
+            "matchedCanonical": "Puma concolor",
+            "currentName": "Puma concolor (Linnaeus, 1771)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Puma|Puma concolor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45943541|0b4c73f8591ab777e49e32be159e3a18",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435099",
+            "matchedName": "Puma concolor (Linnaeus, 1771)",
+            "matchedCanonical": "Puma concolor",
+            "currentName": "Puma concolor (Linnaeus, 1771)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Puma|Puma concolor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435098|2435099",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "42307",
+            "matchedName": "Puma concolor",
+            "matchedCanonical": "Puma concolor",
+            "currentName": "Puma concolor",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Puma|Puma concolor",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|86161|42307",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Palmyre,",
+      "name": "Palmyre",
+      "odds": 1681.0295283937664,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          }
+        }
+      },
+      "start": 14861,
+      "end": 14869,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1446664",
+          "matchedName": "Palmyre Cuvier, 1836",
+          "matchedCanonical": "Palmyre",
+          "currentName": "Palmyra Savigny in Lamarck, 1818",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Annelida|Polychaeta|Phyllodocida|Aphroditidae|Palmyra",
+          "classificationRank": "|Kingdom|Phylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|234|1321|12234|108204|1310800",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4811637",
+            "matchedName": "Palmyre Cuvier, 1836",
+            "matchedCanonical": "Palmyre",
+            "currentName": "Palmyra Savigny, 1818",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Annelida|Polychaeta|Phyllodocida|Aphroditidae|Palmyra",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|42|256|1079|3579|2312796",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Palmyre:",
+      "name": "Palmyre",
+      "odds": 1681.0295283937664,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 15880,
+      "end": 15888,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1446664",
+          "matchedName": "Palmyre Cuvier, 1836",
+          "matchedCanonical": "Palmyre",
+          "currentName": "Palmyra Savigny in Lamarck, 1818",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Annelida|Polychaeta|Phyllodocida|Aphroditidae|Palmyra",
+          "classificationRank": "|Kingdom|Phylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|234|1321|12234|108204|1310800",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4811637",
+            "matchedName": "Palmyre Cuvier, 1836",
+            "matchedCanonical": "Palmyre",
+            "currentName": "Palmyra Savigny, 1818",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Annelida|Polychaeta|Phyllodocida|Aphroditidae|Palmyra",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|42|256|1079|3579|2312796",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "Palmyre,",
+      "name": "Palmyre",
+      "odds": 1681.0295283937664,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "7": 0.8324223452545503
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 15911,
+      "end": 15919,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1446664",
+          "matchedName": "Palmyre Cuvier, 1836",
+          "matchedCanonical": "Palmyre",
+          "currentName": "Palmyra Savigny in Lamarck, 1818",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Annelida|Polychaeta|Phyllodocida|Aphroditidae|Palmyra",
+          "classificationRank": "|Kingdom|Phylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|234|1321|12234|108204|1310800",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4811637",
+            "matchedName": "Palmyre Cuvier, 1836",
+            "matchedCanonical": "Palmyre",
+            "currentName": "Palmyra Savigny, 1818",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Annelida|Polychaeta|Phyllodocida|Aphroditidae|Palmyra",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|42|256|1079|3579|2312796",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 4,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Acinonyx jubatus.",
+      "name": "Acinonyx jubatus",
+      "odds": 492294892192.3419,
+      "odds_details": {
+        "Name": {
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nyx": 7.508153651023735
+          }
+        }
+      },
+      "start": 16882,
+      "end": 16899,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "6ce647e8a93e5794b622e28d477a7113",
+          "matchedName": "Acinonyx jubatus (Schreber, 1775)",
+          "matchedCanonical": "Acinonyx jubatus",
+          "currentName": "Acinonyx jubatus (Schreber, 1775)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46043339|6ce647e8a93e5794b622e28d477a7113",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "6ce647e8a93e5794b622e28d477a7113",
+            "matchedName": "Acinonyx jubatus (Schreber, 1775)",
+            "matchedCanonical": "Acinonyx jubatus",
+            "currentName": "Acinonyx jubatus (Schreber, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|46043339|6ce647e8a93e5794b622e28d477a7113",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435270",
+            "matchedName": "Acinonyx jubatus (Schreber, 1775)",
+            "matchedCanonical": "Acinonyx jubatus",
+            "currentName": "Acinonyx jubatus (Schreber, 1775)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435269|2435270",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "752759",
+            "matchedName": "Acinonyx jubatus",
+            "matchedCanonical": "Acinonyx jubatus",
+            "currentName": "Acinonyx jubatus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Acinonychinae|Acinonyx|Acinonyx jubatus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626920|752758|752759",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 26,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. jubatus,",
+      "name": "A. jubatus",
+      "odds": 11832047.466552548,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          }
+        }
+      },
+      "start": 17362,
+      "end": 17373,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial",
+      "verbatim": "(Acinonyx jubatus venaticus)",
+      "name": "Acinonyx jubatus venaticus",
+      "odds": 73148521962753540,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "ispEnd3": {
+            "cus": 62.56794709186447
+          },
+          "ispLen": {
+            "9": 3.2165803672730324
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "nyx": 7.508153651023735
+          }
+        }
+      },
+      "start": 20912,
+      "end": 20940,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "1f310401c04b807f37195f5958796668",
+          "matchedName": "Acinonyx jubatus venaticus (Griffith, 1821)",
+          "matchedCanonical": "Acinonyx jubatus venaticus",
+          "currentName": "Acinonyx jubatus venaticus (Griffith, 1821)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx||Acinonyx jubatus venaticus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "1f310401c04b807f37195f5958796668",
+            "matchedName": "Acinonyx jubatus venaticus (Griffith, 1821)",
+            "matchedCanonical": "Acinonyx jubatus venaticus",
+            "currentName": "Acinonyx jubatus venaticus (Griffith, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx||Acinonyx jubatus venaticus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|subgenus|infraspecies",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "6164720",
+            "matchedName": "Acinonyx jubatus subsp. venaticus (Griffith, 1821)",
+            "matchedCanonical": "Acinonyx jubatus ssp. venaticus",
+            "currentName": "Acinonyx jubatus subsp. venaticus (Griffith, 1821)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Acinonyx|Acinonyx jubatus|Acinonyx jubatus venaticus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species|subspecies",
+            "classificationIDs": "1|44|359|732|9703|2435269|2435270|6164720",
+            "matchType": "ExactCanonicalMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Roche",
+      "name": "Roche",
+      "odds": 4652.608535891495,
+      "odds_details": {
+        "Name": {
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "che": 8.759512592861025
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          }
+        }
+      },
+      "start": 21174,
+      "end": 21180,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46002088",
+          "matchedName": "Roche",
+          "matchedCanonical": "Roche",
+          "currentName": "Roche",
+          "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Ochyroceratidae|Roche",
+          "classificationRank": "kingdom|phylum|class|order|family|genus",
+          "classificationIDs": "45841265|45841270|45841316|45841317|45844863|46002088",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46002088",
+            "matchedName": "Roche",
+            "matchedCanonical": "Roche",
+            "currentName": "Roche",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Ochyroceratidae|Roche",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "45841265|45841270|45841316|45841317|45844863|46002088",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2142862",
+            "matchedName": "Roche Saaristo, 1998",
+            "matchedCanonical": "Roche",
+            "currentName": "Roche Saaristo, 1998",
+            "classificationPath": "Animalia|Arthropoda|Arachnida|Araneae|Ochyroceratidae|Roche",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|367|1496|9566|2142862",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "4696953",
+            "matchedName": "Roche",
+            "matchedCanonical": "Roche",
+            "currentName": "Roche",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Araneae|Ochyroceratidae|Roche",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|order|family|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|614523|4696786|4696953",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 13,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "Felis catus",
+      "name": "Felis catus",
+      "odds": 10779630760.936901,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "lis": 5.0769419925970025
+          },
+          "spLen": {
+            "5": 0.6938227796325565
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "5": 0.3030356411856684
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 22880,
+      "end": 22891,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "f2f6a853436bfab907efa771b6ae38f1",
+          "matchedName": "Felis catus Linnaeus, 1758",
+          "matchedCanonical": "Felis catus",
+          "currentName": "Felis catus Linnaeus, 1758",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|f2f6a853436bfab907efa771b6ae38f1",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "f2f6a853436bfab907efa771b6ae38f1",
+            "matchedName": "Felis catus Linnaeus, 1758",
+            "matchedCanonical": "Felis catus",
+            "currentName": "Felis catus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45922405|f2f6a853436bfab907efa771b6ae38f1",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435035",
+            "matchedName": "Felis catus Linnaeus, 1758",
+            "matchedCanonical": "Felis catus",
+            "currentName": "Felis catus Linnaeus, 1758",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435022|2435035",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "563166",
+            "matchedName": "Felis catus",
+            "matchedCanonical": "Felis catus",
+            "currentName": "Felis catus",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Felis|Felis catus",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|563165|563166",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 21,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "Mitochondrial haplotype",
+      "name": "Mitochondrial haplotype",
+      "odds": 38.606745348846694,
+      "odds_details": {
+        "Name": {
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "ial": 0.08342392945581928
+          },
+          "spLen": {
+            "9": 10.081642477424332
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "13": 8.985452401803869
+          },
+          "uniDict": {
+            "NotInDictionary": 0.01045703851117512
+          }
+        }
+      },
+      "start": 24239,
+      "end": 24262,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Uninomial",
+      "verbatim": "(Langella",
+      "name": "Langella",
+      "odds": 1065142.9136175492,
+      "odds_details": {
+        "Name": {
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "8": 1.467152054157978
+          },
+          "uniDict": {
+            "WhiteGenus": 20194.430603370172
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          },
+          "uniEnd3": {
+            "lla": 414.19980974814274
+          }
+        }
+      },
+      "start": 26296,
+      "end": 26305,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "46083665",
+          "matchedName": "Langella",
+          "matchedCanonical": "Langella",
+          "currentName": "Langella",
+          "classificationPath": "Animalia|Brachiopoda|Lingulata|Lingulida|Linguloidea|Lingulidae|Langella",
+          "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+          "classificationIDs": "45841265|45846221|45848016|45848017|45848572|45848573|46083665",
+          "matchType": "ExactMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "46083665",
+            "matchedName": "Langella",
+            "matchedCanonical": "Langella",
+            "currentName": "Langella",
+            "classificationPath": "Animalia|Brachiopoda|Lingulata|Lingulida|Linguloidea|Lingulidae|Langella",
+            "classificationRank": "kingdom|phylum|class|order|superfamily|family|genus",
+            "classificationIDs": "45841265|45846221|45848016|45848017|45848572|45848573|46083665",
+            "matchType": "ExactMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "3252607",
+            "matchedName": "Langella Mendes, 1961",
+            "matchedCanonical": "Langella",
+            "currentName": "Langella Mendes, 1961",
+            "classificationPath": "Animalia|Brachiopoda|Lingulata|Lingulida|Lingulidae|Langella",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|110|209|1440|5230|3252607",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "5113975",
+            "matchedName": "Langella",
+            "matchedCanonical": "Langella",
+            "currentName": "Langella",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Chelicerata|Arachnida|Acari|Acariformes|Trombidiformes|Prostigmata|Eleutherengona|Raphignathae|Tetranychoidea|Tetranychidae|Neopetrobia|Langella",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|no rank|no rank|phylum|subphylum|class|subclass|superorder|order|suborder|no rank|no rank|superfamily|family|genus|genus",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|189832|611099|816442|632179|1041457|511967|150772|621064|87287|621063|608665|166710|608669|106109|4682200|5113975",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 12,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "Binomial",
+      "verbatim": "(Puma concolor)",
+      "name": "Puma concolor",
+      "odds": 30604.601912738162,
+      "odds_details": {
+        "Name": {
+          "uniEnd3": {
+            "uma": 15.01630730204747
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          },
+          "spEnd3": {
+            "lor": 115.12502264903061
+          },
+          "spLen": {
+            "8": 6.931302160594205
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "uniLen": {
+            "4": 0.06813979490435608
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 28490,
+      "end": 28505,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 1,
+          "dataSourceTitle": "Catalogue of Life",
+          "taxonId": "0b4c73f8591ab777e49e32be159e3a18",
+          "matchedName": "Puma concolor (Linnaeus, 1771)",
+          "matchedCanonical": "Puma concolor",
+          "currentName": "Puma concolor (Linnaeus, 1771)",
+          "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Puma|Puma concolor",
+          "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+          "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45943541|0b4c73f8591ab777e49e32be159e3a18",
+          "matchType": "ExactCanonicalMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 1,
+            "dataSourceTitle": "Catalogue of Life",
+            "taxonId": "0b4c73f8591ab777e49e32be159e3a18",
+            "matchedName": "Puma concolor (Linnaeus, 1771)",
+            "matchedCanonical": "Puma concolor",
+            "currentName": "Puma concolor (Linnaeus, 1771)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Puma|Puma concolor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "45841265|45841266|45841274|45849139|45850559|45943541|0b4c73f8591ab777e49e32be159e3a18",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "2435099",
+            "matchedName": "Puma concolor (Linnaeus, 1771)",
+            "matchedCanonical": "Puma concolor",
+            "currentName": "Puma concolor (Linnaeus, 1771)",
+            "classificationPath": "Animalia|Chordata|Mammalia|Carnivora|Felidae|Puma|Puma concolor",
+            "classificationRank": "kingdom|phylum|class|order|family|genus|species",
+            "classificationIDs": "1|44|359|732|9703|2435098|2435099",
+            "matchType": "ExactCanonicalMatch"
+          },
+          {
+            "dataSourceId": 179,
+            "dataSourceTitle": "Open Tree of Life Reference Taxonomy",
+            "taxonId": "42307",
+            "matchedName": "Puma concolor",
+            "matchedCanonical": "Puma concolor",
+            "currentName": "Puma concolor",
+            "classificationPath": "||Eukaryota|Opisthokonta|Holozoa|Metazoa|Eumetazoa|Bilateria|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Dipnotetrapodomorpha|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Boreoeutheria|Laurasiatheria|Carnivora|Feliformia|Felidae|Felinae|Puma|Puma concolor",
+            "classificationRank": "no rank|no rank|domain|no rank|no rank|kingdom|no rank|no rank|no rank|phylum|subphylum|subphylum|superclass|no rank|no rank|class|no rank|superclass|no rank|class|subclass|no rank|no rank|superorder|order|suborder|family|subfamily|genus|species",
+            "classificationIDs": "805080|93302|304358|332573|5246131|691846|641038|117569|147604|125642|947318|801601|278114|114656|114654|458402|4940726|229562|229560|244265|229558|683263|5334778|392223|44565|827259|563159|626916|86161|42307",
+            "matchType": "ExactMatch"
+          }
+        ],
+        "dataSourcesNum": 23,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    },
+    {
+      "type": "PossibleBinomial",
+      "verbatim": "A. jubatus",
+      "name": "A. jubatus",
+      "odds": 11832047.466552548,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "tus": 1023.6116144229026
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "true": 4.640509995272512
+          },
+          "spLen": {
+            "7": 4.425451988126818
+          },
+          "spDict": {
+            "WhiteSpecies": 5628.6125203841275
+          }
+        }
+      },
+      "start": 34525,
+      "end": 34535,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "matchType": "NoMatch"
+        },
+        "retries": 1
+      }
+    },
+    {
+      "type": "Trinomial(nlp)",
+      "verbatim": "As largescale genomic",
+      "name": "As largescale genomic",
+      "odds": 1.513991065454975,
+      "odds_details": {
+        "Name": {
+          "spEnd3": {
+            "ale": 18.77038412755934
+          },
+          "spLen": {
+            "10": 13.127639159348814
+          },
+          "ispDict": {
+            "WhiteSpecies": 738.3017756840007
+          },
+          "ispLen": {
+            "7": 1.297886965114997
+          },
+          "uniLen": {
+            "2": 0.0012032297517666245
+          },
+          "uniDict": {
+            "GreyGenus": 1.4684399638974754
+          },
+          "spDict": {
+            "NotInDictionary": 0.05328981045086555
+          },
+          "PriorOdds": {
+            "true": 0.1
+          },
+          "abbr": {
+            "false": 0.8679430877999654
+          }
+        }
+      },
+      "start": 58272,
+      "end": 58293,
+      "annotation": "",
+      "verification": {
+        "BestResult": {
+          "dataSourceId": 181,
+          "dataSourceTitle": "The Interim Register of Marine and Nonmarine Genera",
+          "taxonId": "1165223",
+          "matchedName": "As Slipinski, 1982",
+          "matchedCanonical": "As",
+          "currentName": "Pathelus Dajoz, 1974",
+          "isSynonym": true,
+          "classificationPath": "Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Cerylonidae|Pathelus",
+          "classificationRank": "|Kingdom|Phylum|Subphylum|Class|Order|Family|Genus",
+          "classificationIDs": "1|2|235|11905095|1096|10279|101773|1322300",
+          "matchType": "ExactPartialMatch"
+        },
+        "preferredResults": [
+          {
+            "dataSourceId": 11,
+            "dataSourceTitle": "GBIF Backbone Taxonomy",
+            "taxonId": "4747359",
+            "matchedName": "As Slipinski, 1982",
+            "matchedCanonical": "As",
+            "currentName": "Pathelus Dajoz, 1974",
+            "isSynonym": true,
+            "classificationPath": "Animalia|Arthropoda|Insecta|Coleoptera|Cerylonidae|Pathelus",
+            "classificationRank": "kingdom|phylum|class|order|family|genus",
+            "classificationIDs": "1|54|216|1470|7778|3260359",
+            "matchType": "ExactPartialMatch"
+          }
+        ],
+        "dataSourcesNum": 5,
+        "dataSourceQuality": "HasCuratedSources",
+        "retries": 1
+      }
+    }
+  ]
+}
