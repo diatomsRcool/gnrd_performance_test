@@ -552,7 +552,6 @@ Tribolium	18	pdf	annotator_1	false negative	reading figure	scientific name	pdf	n
 Tunicata	18	pdf	annotator_1	false negative	reading figure	scientific name	pdf	name in figure
 Vertebrata	18	pdf	annotator_1	false negative	reading figure	scientific name	pdf	name in figure
 Xenopus	18	pdf	annotator_1	false negative	reading figure	scientific name	pdf	name in figure
-deuterostomes	18	pdf	annotator_1			scientific name	pdf	duplicate
 OLFACTORES	18	pdf	annotator_1			duplicate	pdf	
 animals	18	pdf	annotator_1			vernacular	pdf	
 appendicularians	18	pdf	annotator_1			vernacular	pdf	
@@ -567,7 +566,7 @@ Chordate	18	pdf	annotator_1			vernacular	pdf
 cnidarians	18	pdf	annotator_1			vernacular	pdf	
 cyclostomes	18	pdf	annotator_1			vernacular	pdf	
 echinoderms	18	pdf	annotator_1			vernacular	pdf	
-hag?sh	18	pdf	annotator_1			vernacular	pdf	
+hagfish	18	pdf	annotator_1			vernacular	pdf	
 hemichordates	18	pdf	annotator_1			vernacular	pdf	
 insects	18	pdf	annotator_1			vernacular	pdf	
 lamprey	18	pdf	annotator_1			vernacular	pdf	
@@ -581,15 +580,11 @@ Tunicates	18	pdf	annotator_1			vernacular	pdf
 tunicates	18	pdf	annotator_1			vernacular	pdf	
 urochordates	18	pdf	annotator_1			vernacular	pdf	
 vertebrates	18	pdf	annotator_1			vernacular	pdf	
-protostomes	18	pdf	annotator_1			vernacular	pdf	
 Ciona	18	pdf	annotator_1			scientific name	pdf	
-deuterostome	18	pdf	annotator_1			scientific name	pdf	
-metazoans	18	pdf	annotator_1			scientific name	pdf	
 O. dioica	18	pdf	annotator_1			scientific name	pdf	
 Oikopleura	18	pdf	annotator_1			scientific name	pdf	
 Oikopleura dioica	18	pdf	annotator_1			scientific name	pdf	
 Ciona	18	pdf	GNRD_1			scientific name	pdf	
-Deuterostome	18	pdf	GNRD_1			scientific name	pdf	
 Metazoa	18	pdf	GNRD_1			scientific name	pdf	
 O. dioica	18	pdf	GNRD_1			scientific name	pdf	
 Oikopleura	18	pdf	GNRD_1			scientific name	pdf	
@@ -1024,7 +1019,6 @@ Cyclosalpa quadriluminis	22	pdf	annotator_1			scientific name	pdf
 Cystodytes	22	pdf	annotator_1			scientific name	pdf	
 Danio rerio	22	pdf	annotator_1			scientific name	pdf	
 Dendrodoa grossularia	22	pdf	annotator_1			scientific name	pdf	
-Deuterostome	22	pdf	annotator_1			scientific name	pdf	
 Diazonidae	22	pdf	annotator_1			scientific name	pdf	
 Didemnidae	22	pdf	annotator_1			scientific name	pdf	
 Didemnum	22	pdf	annotator_1			scientific name	pdf	
@@ -1131,7 +1125,6 @@ Symplegma viride	22	pdf	annotator_1			scientific name	pdf
 Thalia democratica	22	pdf	annotator_1			scientific name	pdf	
 Thaliacea	22	pdf	annotator_1			scientific name	pdf	
 Trididemnum paracyclops	22	pdf	annotator_1			scientific name	pdf	
-urochordates	22	pdf	annotator_1			scientific name	pdf	
 Vertebrata	22	pdf	annotator_1			scientific name	pdf	
 Pycnoclavella	22	pdf	GNRD_1	false positive	extra words inside name	orphan genus	pdf	orphan genus, aff.
 Molgula	22	pdf	GNRD_1	false positive	separate lines	orphan genus	pdf	orphan genus, name at end of column
@@ -1176,7 +1169,6 @@ Cyclosalpa quadriluminis	22	pdf	GNRD_1			scientific name	pdf
 Cystodytes	22	pdf	GNRD_1			scientific name	pdf	
 Danio rerio	22	pdf	GNRD_1			scientific name	pdf	
 Dendrodoa grossularia	22	pdf	GNRD_1			scientific name	pdf	
-Deuterostome	22	pdf	GNRD_1			scientific name	pdf	
 Diazonidae	22	pdf	GNRD_1			scientific name	pdf	
 Didemnidae	22	pdf	GNRD_1			scientific name	pdf	
 Didemnum	22	pdf	GNRD_1			scientific name	pdf	
@@ -2073,8 +2065,8 @@ Mountain lion	39	pdf	annotator_1			vernacular	pdf
 Ocelot	39	pdf	annotator_1			vernacular	pdf	
 Pallas's cat	39	pdf	annotator_1			vernacular	pdf	
 Pampas cat	39	pdf	annotator_1			vernacular	pdf	
-Lynx	39	pdf	annotator_1			vernacular	pdf	
-Puma	39	pdf	annotator_1			vernacular	pdf	
+Lynx	39	pdf	annotator_1				pdf	
+Puma	39	pdf	annotator_1				pdf	
 Raccoon dog	39	pdf	annotator_1			vernacular	pdf	
 Red fox	39	pdf	annotator_1			vernacular	pdf	
 Sand cat	39	pdf	annotator_1			vernacular	pdf	
@@ -3150,13 +3142,13 @@ Asparagus officinalis	94	data	GNRD_1			scientific name
 Chlorophytum	94	data	GNRD_1			scientific name		
 Hosta venusta	94	data	GNRD_1			scientific name		
 Leochilus labiatus	94	data	GNRD_1			scientific name		
-Asparagus of?cinalis	94	pdf	annotator_1	false negative	reading table		pdf	in table
+Asparagus officinalis	94	pdf	annotator_1	false negative	reading table		pdf	in table
 Agave	94	pdf	annotator_1	false negative	unknown		pdf	not sure, nothing odd
 Aloe	94	pdf	annotator_1	false negative	unknown		pdf	not sure, nothing odd
 Behnia	94	pdf	annotator_1	false negative	unknown		pdf	not sure, nothing odd
 Leochilus	94	pdf	annotator_1	false negative	unknown		pdf	not sure, nothing odd
 A. cepa	94	pdf	annotator_1			duplicate	pdf	
-A. of?cinalis	94	pdf	annotator_1			duplicate	pdf	
+A. officinalis	94	pdf	annotator_1			duplicate	pdf	
 A. tequilana	94	pdf	annotator_1			duplicate	pdf	
 AGAVOIDEAE	94	pdf	annotator_1			duplicate	pdf	
 H. venusta	94	pdf	annotator_1			duplicate	pdf	
@@ -4891,7 +4883,7 @@ Timema cristinae	127	data	GNRD_1			scientific name
 T. californicum	127	data	GNRD_1			scientific name		
 T. poppensis	127	data	GNRD_1			scientific name		
 T. cristinae	127	data	GNRD_1			scientific name		
-fungi	127	pdf	annotator_1	false negative	reading table		pdf	in table
+fungi	127	pdf	annotator_1	false negative	reading table	vernacular	pdf	in table
 Aden	127	pdf	annotator_1			duplicate	pdf	
 T. californicum	127	pdf	annotator_1			duplicate	pdf	
 T. cristinae	127	pdf	annotator_1			duplicate	pdf	
@@ -4909,7 +4901,7 @@ Bombyx mori	127	pdf	annotator_1			scientific name	pdf
 Ceanothus	127	pdf	annotator_1			scientific name	pdf	
 Drosophila melanogaster	127	pdf	annotator_1			scientific name	pdf	
 Helioconius	127	pdf	annotator_1			scientific name	pdf	
-protozoa	127	pdf	annotator_1			scientific name	pdf	
+protozoa	127	pdf	annotator_1			vernacular	pdf	
 Pediculus humanus corporis	127	pdf	annotator_1			scientific name	pdf	
 T. popp	127	pdf	annotator_1			scientific name	pdf	
 Timema	127	pdf	annotator_1			scientific name	pdf	
@@ -5110,6 +5102,11 @@ Oikopleura	137	pdf	annotator_1			scientific name	pdf
 Oikopleura dioica	137	pdf	annotator_1			scientific name	pdf	
 Petromyzon marinus	137	pdf	annotator_1			scientific name	pdf	
 Strongylocentrotus purpuratus	137	pdf	annotator_1			scientific name	pdf	
+Capitella teleta	137	pdf	annotator_1			scientific name	pdf	
+Daphnia pulex	137	pdf	annotator_1			scientific name	pdf	
+Helobdella robusta	137	pdf	annotator_1			scientific name	pdf	
+Lottia gigantea	137	pdf	annotator_1			scientific name	pdf	
+O. dioica	137	pdf	annotator_1			scientific name	pdf	
 Betina	137	pdf	GNRD_1	false positive	name of something else		pdf	person name
 Crollius	137	pdf	GNRD_1	false positive	name of something else		pdf	person name
 Ugolini	137	pdf	GNRD_1	false positive	name of something else		pdf	person name
@@ -5233,7 +5230,8 @@ T. fulvus	149	pdf	annotator_1	false negative	unknown		pdf	not sure, possible, oc
 T. japonicus	149	pdf	annotator_1	false negative	unknown		pdf	not sure, possible, ocr, may want to rerun with better pdf
 T. californicus	149	pdf	annotator_1			duplicate	pdf	
 TIGRIOPUS CALIFORNICUS	149	pdf	annotator_1				pdf	
-copepod	149	pdf	annotator_1				pdf	
+Tigriopus californicus	149	pdf	annotator_1				pdf	
+copepod	149	pdf	annotator_1		vernacular		pdf	
 Drosophila	149	pdf	annotator_1				pdf	
 Tigriopus	149	pdf	annotator_1				pdf	
 Aquar- ium	149	pdf	GNRD_1	false positive	name of something else		pdf	company name on two lines
@@ -6676,7 +6674,7 @@ Zeus_faber	160	data	annotator_1	false negative				i think GNRD missed this file
 Armadillos	160	pdf	annotator_1			vernacular	pdf	
 Bark beetles	160	pdf	annotator_1			vernacular	pdf	
 Clearwing butterflies	160	pdf	annotator_1			vernacular	pdf	
-Eudicots	160	pdf	annotator_1			vernacular	pdf	
+Eudicots	160	pdf	annotator_1				pdf	
 Hummingbirds	160	pdf	annotator_1			vernacular	pdf	
 Midges	160	pdf	annotator_1			vernacular	pdf	
 Moths	160	pdf	annotator_1			vernacular	pdf	
@@ -19098,6 +19096,7 @@ A. lyrata ssp. lyrata	182	pdf	annotator_1	false negative	unknown		pdf	not sure, 
 ssp. lyrata	182	pdf	annotator_1			duplicate	pdf	
 plant	182	pdf	annotator_1			vernacular	pdf	
 ARABIDOPSIS LYRATA	182	pdf	annotator_1				pdf	
+Arabidopsis lyrata	182	pdf	annotator_1				pdf	
 A. lyrata	182	pdf	annotator_1				pdf	
 A. lyrata ssp. petraea	182	pdf	annotator_1				pdf	
 Arabidopsis thaliana	182	pdf	annotator_1				pdf	
@@ -22793,7 +22792,7 @@ C. maculata	333	pdf	annotator_1				pdf
 C. striata	333	pdf	annotator_1				pdf	
 Corallorhiza	333	pdf	annotator_1				pdf	
 Corallorhiza striata	333	pdf	annotator_1				pdf	
-orchid	333	pdf	annotator_1				pdf	
+orchid	333	pdf	annotator_1			vernacular	pdf	
 Orchidaceae	333	pdf	annotator_1				pdf	
 Picea	333	pdf	annotator_1				pdf	
 Pinus	333	pdf	annotator_1				pdf	
@@ -23852,30 +23851,30 @@ Xyrolnotidae	379	pdf	annotator_1				pdf
 Xyronotidae	379	pdf	annotator_1				pdf	
 Xyronotus	379	pdf	annotator_1				pdf	
 Xyronotus aztecus	379	pdf	annotator_1				pdf	
-cave crickets	379	pdf	annotator_1				pdf	
-cockroaches	379	pdf	annotator_1				pdf	
-crickets	379	pdf	annotator_1				pdf	
-desert longhorned grasshoppers	379	pdf	annotator_1				pdf	
-false mole crickets	379	pdf	annotator_1				pdf	
-false stick insects	379	pdf	annotator_1				pdf	
-flying gooseberries	379	pdf	annotator_1				pdf	
-grasshoppers	379	pdf	annotator_1				pdf	
-grouse locusts	379	pdf	annotator_1				pdf	
-hump-winged crickets	379	pdf	annotator_1				pdf	
-ice-crawlers	379	pdf	annotator_1				pdf	
-Jerusalem crickets	379	pdf	annotator_1				pdf	
-katydids	379	pdf	annotator_1				pdf	
-locusts	379	pdf	annotator_1				pdf	
-long-horned grasshoppers	379	pdf	annotator_1				pdf	
-mole crickets	379	pdf	annotator_1				pdf	
-monkey grasshoppers	379	pdf	annotator_1				pdf	
-pygmy grasshoppers	379	pdf	annotator_1				pdf	
-razor-back bushhoppers	379	pdf	annotator_1				pdf	
-rugged earth hoppers	379	pdf	annotator_1				pdf	
-sand gropers	379	pdf	annotator_1				pdf	
-true bush-hoppers	379	pdf	annotator_1				pdf	
-walking sticks	379	pdf	annotator_1				pdf	
-wetas	379	pdf	annotator_1				pdf	
+cave crickets	379	pdf	annotator_1			vernacular	pdf	
+cockroaches	379	pdf	annotator_1			varnacular	pdf	
+crickets	379	pdf	annotator_1			vernacular	pdf	
+desert longhorned grasshoppers	379	pdf	annotator_1			vernacular	pdf	
+false mole crickets	379	pdf	annotator_1			vernacular	pdf	
+false stick insects	379	pdf	annotator_1			vernacular	pdf	
+flying gooseberries	379	pdf	annotator_1			vernacular	pdf	
+grasshoppers	379	pdf	annotator_1			vernacular	pdf	
+grouse locusts	379	pdf	annotator_1			vernacular	pdf	
+hump-winged crickets	379	pdf	annotator_1			vernacular	pdf	
+ice-crawlers	379	pdf	annotator_1			vernacular	pdf	
+Jerusalem crickets	379	pdf	annotator_1			vernacular	pdf	
+katydids	379	pdf	annotator_1			vernacular	pdf	
+locusts	379	pdf	annotator_1			vernacular	pdf	
+long-horned grasshoppers	379	pdf	annotator_1			vernacular	pdf	
+mole crickets	379	pdf	annotator_1			vernacular	pdf	
+monkey grasshoppers	379	pdf	annotator_1			vernacular	pdf	
+pygmy grasshoppers	379	pdf	annotator_1			vernacular	pdf	
+razor-back bushhoppers	379	pdf	annotator_1			vernacular	pdf	
+rugged earth hoppers	379	pdf	annotator_1			vernacular	pdf	
+sand gropers	379	pdf	annotator_1			vernacular	pdf	
+true bush-hoppers	379	pdf	annotator_1			vernacular	pdf	
+walking sticks	379	pdf	annotator_1			vernacular	pdf	
+wetas	379	pdf	annotator_1			vernacular	pdf	
 None	379	pdf	GNRD_1	false positive	unknown		pdf	not sure
 Orthoptera kirby	379	pdf	GNRD_1	false positive	unknown		pdf	not sure, kirby is a person name
 Acheta	379	pdf	GNRD_1				pdf	
@@ -35168,6 +35167,7 @@ P. antipodarum	999	pdf	annotator_1				pdf
 Poecilia formosa	999	pdf	annotator_1				pdf	
 Potamopyrgus antipodarum	999	pdf	annotator_1				pdf	
 P. estuarinus	999	pdf	annotator_1				pdf	
+Isoetes	999	pdf	annotator_1				pdf	
 Poecilia antipodarum	999	pdf	GNRD_1	false positive	guessed wrong genus		pdf	guessed wrong genus
 Alexandrina	999	pdf	GNRD_1	false positive	name of something else		pdf	place name
 Isoetes	999	pdf	GNRD_1	false positive	name of something else		pdf	sample name
@@ -37791,7 +37791,7 @@ Pocillopora	1158	pdf	annotator_2				pdf
 S. glynni	1158	pdf	annotator_2				pdf	
 Symbiodinium	1158	pdf	annotator_2				pdf	
 Symbiodinium glynni	1158	pdf	annotator_2				pdf	
-zooxanthellae	1158	pdf	annotator_2				pdf	
+Zooxanthellae	1158	pdf	annotator_2				pdf	
 Symbiodinium glynni clonal	1158	pdf	GNRD_1	false positive	add extra word		pdf	added extra word
 Bonilla	1158	pdf	GNRD_1	false positive	name of something else		pdf	person name
 S. Ô¨Åtti	1158	pdf	GNRD_1	false positive	ocr error		pdf	ocr error
@@ -39626,8 +39626,8 @@ mountain lion	1261	pdf	annotator_2			vernacular	pdf
 mountain lions	1261	pdf	annotator_2			vernacular	pdf	
 Mountain lions	1261	pdf	annotator_2			vernacular	pdf	
 Quail	1261	pdf	annotator_2			vernacular	pdf	
-Canis lupus (L.)	1261	pdf	annotator_2				pdf	
-Ursus arctos (L.)	1261	pdf	annotator_2				pdf	
+Canis lupus	1261	pdf	annotator_2				pdf	
+Ursus arctos	1261	pdf	annotator_2				pdf	
 Canis lupus	1261	pdf	GNRD_1				pdf	
 Ursus arctos	1261	pdf	GNRD_1				pdf	
 Oncorhynchus	1273	pdf	annotator_1	false negative	unknown		pdf	not sure, spp.
@@ -39712,7 +39712,7 @@ D. serrata	1277	pdf	annotator_2			duplicate	pdf
 L. genimaculata	1277	pdf	annotator_2			duplicate	pdf	
 O. quadricollis	1277	pdf	annotator_2			duplicate	pdf	
 O. urbanelliae	1277	pdf	annotator_2			duplicate	pdf	
-Ochthebius sp. A	1277	pdf	annotator_2			duplicate	pdf	
+Ochthebius	1277	pdf	annotator_2			duplicate	pdf	
 OCHTHEBIUS URBANELLIAE	1277	pdf	annotator_2			duplicate	pdf	
 S. multiplicata	1277	pdf	annotator_2			duplicate	pdf	
 beetles	1277	pdf	annotator_2			vernacular	pdf	
@@ -40900,7 +40900,7 @@ Syrrophus zeus	1332	pdf	GNRD_1				pdf
 Trachycephalus venulosus	1332	pdf	GNRD_1				pdf	
 Manihot	1332	pdf	GNRD_1				pdf	
 S. aurata	1338	pdf	annotator_2			duplicate	pdf	
-Sparus aurata L.	1338	pdf	annotator_2			duplicate	pdf	
+Sparus aurata	1338	pdf	annotator_2			duplicate	pdf	
 fish	1338	pdf	annotator_2			vernacular	pdf	
 Fish	1338	pdf	annotator_2			vernacular	pdf	
 gilthead	1338	pdf	annotator_2			vernacular	pdf	
@@ -41766,7 +41766,7 @@ plant	1414	data	annotator_1			vernacular
 aphid	1414	data	annotator_1			vernacular		
 Epichloe	1414	pdf	annotator_2	false negative	unknown		pdf	not sure
 L. multiflorum	1414	pdf	annotator_2			duplicate	pdf	
-Rhopalosiphum padi L.	1414	pdf	annotator_2			duplicate	pdf	
+Rhopalosiphum padi	1414	pdf	annotator_2			duplicate	pdf	
 aphid	1414	pdf	annotator_2			vernacular	pdf	
 aphids	1414	pdf	annotator_2			vernacular	pdf	
 Aphids	1414	pdf	annotator_2			vernacular	pdf	
