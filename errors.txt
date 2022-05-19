@@ -1,654 +1,654 @@
 data_package	name	error_type
-2	Milla	false positive
 2	Soler	false positive
-2	Age refugia	false positive
 2	Navarro	false positive
-2	Staphylococcus	false negative
+2	Age refugia	false positive
+2	Milla	false positive
 2	Enterococcus	false negative
+2	Staphylococcus	false negative
 12	Scirus	false positive
-18	Xenopus	false negative
-18	Brachyura	false negative
-18	Haementeria	false negative
-18	Crassostrea	false negative
-18	Apis	false negative
-18	Branchiostoma	false negative
-18	Strongylocentrotus	false negative
-18	Acropora	false negative
-18	Monosiga brevicollis	false negative
-18	Petromyzon	false negative
-18	Homo	false negative
-18	Diplosoma	false negative
-18	Ambystoma	false negative
-18	Gallus	false negative
-18	Pectinidae	false negative
-18	Rhizopus	false negative
-18	Monosiga ovata	false negative
-18	Choanoflagellata	false negative
-18	Astacidea	false negative
+18	Echinodermata	false negative
 18	Proterospongia	false negative
-18	Hydractinia	false negative
+18	Gastropoda	false negative
+18	Penaeidae	false negative
 18	Protostomia	false negative
-18	Blastocladiella	false negative
+18	Xenopus	false negative
+18	Crassostrea	false negative
+18	Tunicata	false negative
+18	Acropora	false negative
+18	Ambystoma	false negative
+18	Euprymna	false negative
+18	Tetraodon	false negative
+18	Brachyura	false negative
+18	Branchiostoma	false negative
+18	Choanoflagellata	false negative
+18	Haementeria	false negative
+18	Tribolium	false negative
+18	Diplosoma	false negative
+18	Rhizopus	false negative
+18	Homo	false negative
+18	Hydra	false negative
+18	Ixodidae	false negative
+18	Nematostella	false negative
+18	Cephalochordata	false negative
+18	Fungi	false negative
+18	Astacidea	false negative
+18	Strongylocentrotus	false negative
+18	Cnidaria	false negative
+18	Danio	false negative
+18	Apis	false negative
+18	Vertebrata	false negative
+18	Lumbricidae	false negative
+18	Locusta	false negative
+18	Monosiga ovata	false negative
+18	Gallus	false negative
+18	Ciona savignyi	false negative
+18	Pectinidae	false negative
 18	Mytilus	false negative
 18	Bombyx	false negative
+18	Hydractinia	false negative
 18	Olfactores	false negative
-18	Cnidaria	false negative
-18	Echinodermata	false negative
-18	Lumbricidae	false negative
-18	Tunicata	false negative
-18	Eptatretus	false negative
-18	Ambulacraria	false negative
-18	Penaeidae	false negative
-18	Ciona savignyi	false negative
-18	Locusta	false negative
-18	Tetraodon	false negative
-18	Cephalochordata	false negative
 18	Ciona intestinalis	false negative
-18	Danio	false negative
-18	Ixodidae	false negative
-18	Hydra	false negative
-18	Tribolium	false negative
-18	Vertebrata	false negative
-18	Gastropoda	false negative
-18	Nematostella	false negative
-18	Fungi	false negative
-18	Euprymna	false negative
+18	Eptatretus	false negative
+18	Monosiga brevicollis	false negative
+18	Petromyzon	false negative
+18	Ambulacraria	false negative
+18	Blastocladiella	false negative
 22	Pycnoclavella	false positive
 22	Taxon	false positive
-22	Ambulacriaria	false negative
-22	Chrysemys	false negative
 22	Pycnoclavella aff. detorta	false negative
 22	Octanemidae	false negative
+22	Ambulacriaria	false negative
+22	Chrysemys	false negative
+29	Turdus philomelos versus	false positive
 29	Sylvia atricapilla versus	false positive
 29	Streptopelia turtur versus	false positive
-29	Turdus philomelos versus	false positive
 29	Phylloscopus collybita versus	false positive
-39	Speothos venaticus	false positive
-39	Panthera pardus	false positive
 39	Canis	false positive
-39	Leopardus pardalis	false positive
+39	Manul	false positive
 39	Manus	false positive
 39	Puma yagouroundi	false positive
-39	Manul	false positive
+39	Leopardus pardalis	false positive
+39	Panthera pardus	false positive
 39	Felis silvestris lybica	false positive
+39	Speothos venaticus	false positive
 39	Serval	false negative
-39	Leopardus paradalis	false negative
 39	Felis silvestri lybica	false negative
+39	Leopardus paradalis	false negative
 45	D. arida versus	false positive
-45	Oamaru	false positive
 45	D. arida data	false positive
 45	Tongarewa	false positive
-45	D. durvillea	false negative
+45	Oamaru	false positive
 45	D. antarctica	false negative
-51	Brachymeles may	false positive
+45	D. durvillea	false negative
 51	Siler	false positive
 51	Skinks muntingkamay	false positive
-51	Taxon	false positive
-51	Manus	false positive
 51	Morphological	false positive
-51	bonitae	false negative
-51	boulengeri	false negative
-51	B. boulengeri	false negative
-51	Brachymeles cf. samarensis	false negative
-51	B. muntingkamay	false negative
-51	B. makusog	false negative
-51	boholensis	false negative
-51	makusog	false negative
-51	Gymnopthalmidae	false negative
+51	Manus	false positive
+51	Taxon	false positive
+51	Brachymeles may	false positive
 51	muntingkamay	false negative
-51	Scincella reevesii	false negative
-51	B. minimus	false negative
-51	samarensis	false negative
-51	pathfinderi	false negative
-51	B. bicolor	false negative
-51	Eutropis multifasciata	false negative
-51	B. cf. samarensis	false negative
-51	tungaoi	false negative
-51	Larutioa seribuatensis	false negative
-51	elerae	false negative
-51	orientalis	false negative
-51	vermis	false negative
-51	schadenbergi	false negative
-51	bicolor	false negative
-51	Lygosoma quadrupes	false negative
-51	B. kadwa	false negative
-51	miriamae	false negative
-51	B. orientalis	false negative
-51	B. mindorensis	false negative
-51	Scincella lateralis	false negative
-51	Plestiodon antracinus	false negative
-51	B. cf. bonitae	false negative
-51	B. apus	false negative
-51	talinis	false negative
-51	B. gracilis gracilis	false negative
-51	tridactylus	false negative
-51	gracilis	false negative
-51	mindorensis	false negative
-51	Emoia atrocostata	false negative
-51	B. tungaoi	false negative
-51	Dasia grisea	false negative
-51	cebuensis	false negative
-51	B. boholensis	false negative
-51	Sphenomorphus abdictus abdictus	false negative
-51	B. cf. apus	false negative
-51	Lipinia pulchella pulchella	false negative
-51	B. talinis	false negative
 51	wrighti	false negative
-51	B. gracilis hilong	false negative
-51	Anomolopus	false negative
+51	B. cf. apus	false negative
+51	Larutioa seribuatensis	false negative
+51	bonitae	false negative
 51	Lygosoma bowringii	false negative
-51	B. schadenbergi	false negative
-51	lukbani	false negative
-51	B. taylori	false negative
-51	Eumeces	false negative
-51	kadwa	false negative
-51	minimus	false negative
-51	vindumi	false negative
+51	B. cf. samarensis	false negative
+51	B. muntingkamay	false negative
+51	pathfinderi	false negative
+51	Scincella reevesii	false negative
+51	B. tungaoi	false negative
 51	taylori	false negative
+51	schadenbergi	false negative
+51	makusog	false negative
+51	B. boholensis	false negative
+51	Emoia atrocostata	false negative
+51	B. gracilis hilong	false negative
+51	B. makusog	false negative
+51	Eutropis multifasciata	false negative
+51	B. gracilis gracilis	false negative
+51	gracilis	false negative
+51	B. minimus	false negative
+51	vindumi	false negative
+51	miriamae	false negative
 51	apus	false negative
-51	Brachymeles cf. bonitae	false negative
-51	Lamprolepis smaragdina	false negative
+51	Lipinia pulchella pulchella	false negative
+51	B. kadwa	false negative
+51	B. orientalis	false negative
+51	elerae	false negative
+51	bicolor	false negative
+51	B. schadenbergi	false negative
+51	boulengeri	false negative
+51	Sphenomorphus abdictus abdictus	false negative
+51	B. talinis	false negative
+51	orientalis	false negative
 51	Plestiodon fasciatus	false negative
+51	B. taylori	false negative
+51	B. apus	false negative
+51	boholensis	false negative
+51	Brachymeles cf. bonitae	false negative
+51	mindorensis	false negative
+51	Plestiodon antracinus	false negative
+51	minimus	false negative
+51	B. bicolor	false negative
+51	talinis	false negative
+51	B. cf. bonitae	false negative
+51	Scincella lateralis	false negative
+51	samarensis	false negative
+51	vermis	false negative
+51	tungaoi	false negative
+51	B. mindorensis	false negative
+51	B. boulengeri	false negative
+51	Lygosoma quadrupes	false negative
+51	kadwa	false negative
+51	Lamprolepis smaragdina	false negative
+51	tridactylus	false negative
+51	Anomolopus	false negative
+51	Dasia grisea	false negative
+51	lukbani	false negative
+51	Brachymeles cf. samarensis	false negative
+51	Gymnopthalmidae	false negative
+51	Eumeces	false negative
+51	cebuensis	false negative
 67	Claudia	false positive
+78	Gorilla	false positive
+78	Andreas	false positive
 78	Lemur	false positive
 78	Bonobo	false positive
-78	Andreas	false positive
-78	Gorilla	false positive
+78	S. oedipus	false negative
 78	gorilla	false negative
 78	bonobos	false negative
-78	S. oedipus	false negative
+84	Pelagibacter ubique	false positive
 84	Myxococcus xanthus	false positive
 84	Spades	false positive
-84	Pelagibacter ubique	false positive
-84	Acaryochloris marina	false negative
-84	Gloeobacter violaceus	false negative
-84	S. elongatus	false negative
-84	Synechocystis	false negative
-84	Candidatus	false negative
 84	Lactobacillus	false negative
+84	Acaryochloris marina	false negative
+84	Candidatus	false negative
+84	Synechocystis	false negative
+84	S. elongatus	false negative
 84	Cyanothece	false negative
+84	Gloeobacter violaceus	false negative
+88	Canisius	false positive
 88	Morphological	false positive
 88	Morphological data	false positive
-88	Canisius	false positive
-88	ascensus	false negative
-88	Retiolitoidea	false negative
+88	Normalograptus kukersianis	false negative
 88	Pipiograptus hesperus	false negative
-88	Rivagraptus bellulus	false negative
-88	Monograptus priodon	false negative
-88	Dicranograptoidea	false negative
-88	uncinatus	false negative
-88	atavus	false negative
-88	Climacograptoidea	false negative
-88	Climacograptus cruciformis	false negative
-88	cyphus	false negative
-88	pacificus	false negative
-88	acinaces	false negative
-88	complexus	false negative
-88	extraordinarius	false negative
-88	Neograptina	false negative
-88	Dicellograptus sextans	false negative
 88	Diplograptidae	false negative
-88	Lasiograptidae	false negative
+88	uncinatus	false negative
 88	Monograptoidea	false negative
 88	Rectograptus abbreviatus	false negative
-88	persculptus	false negative
-88	Normalograptus kukersianis	false negative
+88	extraordinarius	false negative
+88	acinaces	false negative
 88	acumin.	false negative
+88	Climacograptus cruciformis	false negative
+88	Dicranograptoidea	false negative
+88	ascensus	false negative
+88	atavus	false negative
+88	Rivagraptus bellulus	false negative
+88	Neograptina	false negative
+88	cyphus	false negative
+88	persculptus	false negative
+88	Climacograptoidea	false negative
+88	Dicellograptus sextans	false negative
+88	Retiolitoidea	false negative
+88	complexus	false negative
+88	pacificus	false negative
+88	Monograptus priodon	false negative
+88	Lasiograptidae	false negative
 88	Normalograptidae	false negative
+94	Chlorophytum may	false positive
 94	Chlorophytum gene	false positive
 94	Taxon	false positive
 94	C. rhizopendulum may	false positive
-94	Chlorophytum may	false positive
-94	A. tequliana	false negative
-94	Anthericaeae	false negative
 94	Aloe	false negative
+94	A. tequliana	false negative
 94	Furcraea	false negative
+94	Anthericaeae	false negative
 94	Yucca	false negative
-100	Akko	false positive
 100	Caulophacus arcticus	false positive
-100	Cf. nucula	false positive
-100	Oscarella carmella	false positive
 100	Neurospora crassa	false positive
 100	Ectyoplasia ferox	false positive
-100	Stylophora	false negative
-100	Crassostrea	false negative
-100	Apis	false negative
-100	Branchiostoma	false negative
-100	Monosiga	false negative
-100	Strongylocentrotus	false negative
-100	Calulophacus arcticus	false negative
-100	Ectyoplasia ferax	false negative
-100	Homo	false negative
+100	Akko	false positive
+100	Oscarella carmella	false positive
+100	Cf. nucula	false positive
 100	Neurospora	false negative
-100	Leucetta	false negative
-100	Leuconia	false negative
-100	Neurospora crass	false negative
-100	Saccoglossus	false negative
-100	Trichoplax	false negative
-100	Ixodes	false negative
-100	Hydractinia	false negative
-100	Schizosaccharomyces	false negative
-100	Cryptococcus	false negative
-100	Amphimedon	false negative
-100	Aplysia	false negative
-100	Aphrocalystes	false negative
-100	Cnidaria	false negative
-100	cnidarians	false negative
 100	Hydrozoa	false negative
-100	Homoscleromopha	false negative
-100	Hydra	false negative
+100	Amphimedon	false negative
+100	cnidarians	false negative
+100	Crassostrea	false negative
+100	Ectyoplasia ferax	false negative
+100	Branchiostoma	false negative
+100	Ixodes	false negative
 100	Tribolium	false negative
+100	Stylophora	false negative
+100	Aphrocalystes	false negative
+100	Leucetta	false negative
+100	Homo	false negative
+100	Hydra	false negative
+100	Homoscleromopha	false negative
 100	Pelagia	false negative
 100	Fungi	false negative
+100	Calulophacus arcticus	false negative
+100	Aplysia	false negative
+100	Strongylocentrotus	false negative
+100	Cnidaria	false negative
+100	Apis	false negative
+100	Saccoglossus	false negative
+100	Cryptococcus	false negative
+100	Leuconia	false negative
+100	Monosiga	false negative
+100	Hydractinia	false negative
 100	Rhopilema	false negative
+100	Trichoplax	false negative
+100	Neurospora crass	false negative
+100	Schizosaccharomyces	false negative
 104	Robusta	false positive
 104	Processus	false positive
 104	Melampsora laricipopulina	false positive
-104	P. interamericana	false negative
 104	P. euramericana	false negative
+104	P. interamericana	false negative
 110	Sellaphora laevissima	false positive
-110	Grunow	false positive
+110	Hustedt	false positive
+110	Topo	false positive
 110	Morphological	false positive
 110	Krammer	false positive
-110	Hustedt	false positive
+110	Grunow	false positive
 110	S. pupula	false positive
-110	Topo	false positive
-110	eustigmatophyceae	false negative
-110	G. gracile	false negative
-110	chrysophyceae	false negative
 110	Sellalphora laevissima	false negative
 110	raphidophyceae	false negative
+110	G. gracile	false negative
+110	eustigmatophyceae	false negative
+110	chrysophyceae	false negative
 110	Bacillariophyceae	false negative
 117	T. areolata	false positive
-121	Nycticeius humeralis	false positive
-121	A. lituratus data	false positive
-121	Taxon	false positive
 121	P. subflavus may	false positive
+121	A. lituratus data	false positive
 121	P. subflavus data	false positive
+121	Taxon	false positive
+121	Nycticeius humeralis	false positive
 121	Nycticieus humeralis	false negative
+121	Eukaryotes	false negative
 121	Lasiurus	false negative
 121	Nycticieus	false negative
-121	Eukaryotes	false negative
-127	Heliconius	false positive
 127	Protozoa	false positive
-127	Aden	false negative
-127	T. popp	false negative
+127	Heliconius	false positive
 127	T. californium	false negative
+127	Aden	false negative
 127	Helioconius	false negative
-137	Crollius	false positive
+127	T. popp	false negative
 137	Jana	false positive
-137	Amphioxus	false negative
-137	S.p.	false negative
+137	Crollius	false positive
 137	B.f.	false negative
 137	P.m.	false negative
-137	H.s.	false negative
+137	Amphioxus	false negative
+137	S.p.	false negative
 137	O.d.	false negative
-137	C.i.	false negative
 137	D.m.	false negative
+137	H.s.	false negative
+137	C.i.	false negative
 143	P. gallinaceum	false positive
-143	P. gonderi	false negative
-143	P. yoelii	false negative
 143	P. simiovale	false negative
 143	Plasmodium gallinaceum	false negative
-143	P. simium	false negative
 143	P. juxtanucleare	false negative
-149	Californicus	false positive
+143	P. gonderi	false negative
+143	P. yoelii	false negative
+143	P. simium	false negative
 149	Californica	false positive
 149	T. californicus copepod	false positive
+149	Californicus	false positive
 149	Tigriopus Californicus	false negative
 149	copepod	false negative
-153	Tytthoscincus aesculeticolus	false positive
-153	Siler	false positive
-153	Tytthoscincus aesculeticola	false positive
-153	P. sisoni	false positive
 153	Otosaurus cumingii	false positive
-153	Parvoscincus palawanensis	false positive
-153	Plestiodon quadrilinectus	false positive
-153	Sphenomorphus simus	false positive
-153	Sphenomorphus indica	false positive
-153	Lissonota maculata	false positive
-153	P. palawanensis	false positive
-153	Sphenomorphus simus may	false positive
-153	Sphenomorphus maculata	false positive
-153	Hemiergis decresiencsis	false positive
-153	Scincella cherrei	false positive
-153	Sphenomorphus malayanus	false positive
-153	Emoia schmidti	false positive
-153	Leiolepisma	false positive
-153	Latin scincus	false positive
-153	Pinoyscincus character	false positive
-153	Scincella incertus	false positive
-153	Taxon	false positive
-153	Morphological data	false positive
-153	Insulasaurus wrigthi	false positive
-153	Ctenotus	false positive
 153	Sulu	false positive
-153	Morphological	false positive
+153	Scincella incertus	false positive
+153	Sphenomorphus indica	false positive
+153	Sphenomorphus malayanus	false positive
+153	Plestiodon quadrilinectus	false positive
+153	Tytthoscincus aesculeticolus	false positive
+153	Lissonota maculata	false positive
+153	Ctenotus	false positive
+153	Latin scincus	false positive
+153	Sphenomorphus simus	false positive
+153	Emoia schmidti	false positive
+153	Sphenomorphus simus may	false positive
+153	Siler	false positive
+153	Parvoscincus palawanensis	false positive
+153	Insulasaurus wrigthi	false positive
+153	Taxon	false positive
+153	Pinoyscincus character	false positive
+153	P. sisoni	false positive
+153	Hemiergis decresiencsis	false positive
 153	Parvoscincus boyingi	false positive
-153	Parvoscincus palawansensis	false negative
+153	Scincella cherrei	false positive
+153	Morphological	false positive
+153	Leiolepisma	false positive
+153	Tytthoscincus aesculeticola	false positive
+153	P. palawanensis	false positive
+153	Sphenomorphus maculata	false positive
+153	Morphological data	false positive
 153	Sphenomorpus cranei	false negative
 153	Tytthoscincus easculeticolus	false negative
+153	Parvoscincus palawansensis	false negative
 153	Sphenomorpus acutus	false negative
 160	Taxon	false positive
 166	Arge	false positive
-170	Wakea	false positive
 170	Aromobatidae	false positive
-170	Hynobiinae	false positive
 170	Pristimantsi lanthanites	false positive
-170	Leiuperidae	false positive
-170	Incertae sedis	false positive
-170	Necturus lewis	false positive
 170	Stumpffia	false positive
 170	Batrachyla fitzroya	false positive
+170	Necturus lewis	false positive
+170	Incertae sedis	false positive
+170	Hynobiinae	false positive
+170	Leiuperidae	false positive
 170	Wolterstorffina	false positive
-170	Phyllomedusa araguari	false negative
-170	Platyplectrum spenceri	false negative
-170	Necturus lewis i	false negative
-170	Pipoidea	false negative
-170	Asterophryninae	false negative
-170	Crotaphotrema	false negative
-170	Athroleptis	false negative
-170	Bufo brauni	false negative
-170	Pristimantis lanthanites	false negative
-170	Nymphargus griffithsi	false negative
-170	Oedipina complex	false negative
-170	Chiropterotriton multid entatus	false negative
-170	Notaden melanoscaphus	false negative
-170	Leptolalax bourreti	false negative
-170	Acanthixalus spinosus	false negative
-170	Barbaroula	false negative
-170	Homo	false negative
-170	Leptolalax pelodytoides	false negative
-170	Phyllomedusa itacolomi	false negative
-170	Dendropsophus minusculus	false negative
-170	Calyptocephallelidae	false negative
-170	Afrixalus dorsalis	false negative
-170	Telmatobius vilamensis	false negative
-170	Stumpf?a	false negative
-170	Phyllomedusa oreades	false negative
-170	Callulina kreffti	false negative
-170	Odontophrynini	false negative
-170	Occidozygina	false negative
-170	Wolterstorf?na	false negative
-170	Limnodynastinae	false negative
-170	Bufo lemairii	false negative
+170	Wakea	false positive
 170	Platyplectrum ornatum	false negative
-170	Phyllodytes luteolus	false negative
-170	Xenopus gilli	false negative
-170	Uperoleia laevigata	false negative
+170	Hemiphractus proboscideus	false negative
 170	Triturus carn ifex	false negative
-170	Batrachyla ?tzroya	false negative
-170	Cylcoramphidae	false negative
-170	Pristimantinae	false negative
-170	Dendrobates captivus	false negative
-170	Cardioglossa oreas	false negative
-170	Kurixalus odontotarsu s	false negative
-170	Batrachophrynidae	false negative
 170	Phyllomedusa neildi	false negative
 170	Mantidactylus op iparis	false negative
-170	Allobates gasconi	false negative
-170	Leuiperinae	false negative
-170	Neobatrachia	false negative
-170	Pyxicepha	false negative
-170	Phrynopus pesantesi	false negative
-170	Hemidactylinae	false negative
-170	Syncope	false negative
+170	Pristimantis lanthanites	false negative
+170	Phyllomedusa itacolomi	false negative
+170	Dendropsophus minusculus	false negative
+170	Nymphargus griffithsi	false negative
 170	Discoglossoidea	false negative
-170	Cthonerpeton	false negative
 170	Melanophryniscus rubriventris	false negative
-170	Herpelinae	false negative
+170	Bufo lemairii	false negative
+170	Necturus lewis i	false negative
+170	Dendrobates captivus	false negative
+170	Asterophryninae	false negative
+170	Cthonerpeton	false negative
+170	Callulina kreffti	false negative
+170	Calyptocephallelidae	false negative
+170	Oedipina complex	false negative
+170	Odontophrynini	false negative
 170	Hoplobatrachus occipitali s	false negative
-170	Hemiphractus proboscideus	false negative
+170	Notaden melanoscaphus	false negative
+170	Leptolalax pelodytoides	false negative
+170	Leuiperinae	false negative
+170	Barbaroula	false negative
+170	Limnodynastinae	false negative
+170	Hemidactylinae	false negative
+170	Phyllomedusa oreades	false negative
+170	Homo	false negative
+170	Herpelinae	false negative
+170	Neobatrachia	false negative
+170	Syncope	false negative
+170	Pyxicepha	false negative
+170	Cylcoramphidae	false negative
+170	Pristimantinae	false negative
+170	Telmatobius vilamensis	false negative
+170	Batrachyla ?tzroya	false negative
+170	Phyllodytes luteolus	false negative
+170	Athroleptis	false negative
+170	Xenopus gilli	false negative
+170	Acanthixalus spinosus	false negative
 170	Myobatrachinae	false negative
-182	Johanna	false positive
-182	Elisa	false positive
-182	Arabidopsis	false positive
+170	Phyllomedusa araguari	false negative
+170	Cardioglossa oreas	false negative
+170	Phrynopus pesantesi	false negative
+170	Batrachophrynidae	false negative
+170	Pipoidea	false negative
+170	Leptolalax bourreti	false negative
+170	Bufo brauni	false negative
+170	Occidozygina	false negative
+170	Crotaphotrema	false negative
+170	Platyplectrum spenceri	false negative
+170	Uperoleia laevigata	false negative
+170	Chiropterotriton multid entatus	false negative
+170	Stumpf?a	false negative
+170	Allobates gasconi	false negative
+170	Afrixalus dorsalis	false negative
+170	Wolterstorf?na	false negative
+170	Kurixalus odontotarsu s	false negative
 182	Katja	false positive
+182	Elisa	false positive
 182	Lyrata	false positive
+182	Arabidopsis	false positive
+182	Johanna	false positive
+182	Iris	false negative
 182	ssp. lyrata	false negative
 182	Arabidopsis Lyrata	false negative
-182	Iris	false negative
 186	Multiclavula	false positive
-186	Cryptococcus	false positive
-186	Lepidostroma vilgalysii	false positive
-186	Marta	false positive
-186	Peltula inversa	false positive
+186	Parmelia barrenoae	false positive
 186	Morphological	false positive
 186	Coriscium-type thalli	false positive
 186	Hedwigia	false positive
-186	Diversa	false positive
-186	Parmelia barrenoae	false positive
-186	L. vilgalysii	false positive
 186	Kuma	false positive
-186	Acantholichen pannarloides	false negative
-186	Hygrophorus flavodiscus	false negative
-186	Junghuhnia subundata	false negative
-186	Xerocomus chryseriteron	false negative
-186	Piloderma byssinum	false negative
-186	Paxillus vernalis	false negative
-186	Hygrophorus pudorinus	false negative
-186	Exidia uvapsassa	false negative
-186	L. vigalysii	false negative
-186	Bondarcevomyces taxi	false negative
-186	Multiclavula mucida	false negative
-186	Laetisaria fuciformis	false negative
-186	Piloderma olivaceum	false negative
-186	Athelopsis subinconspicua	false negative
-186	Tylospora asterophora	false negative
-186	Botrydina	false negative
-186	Hydnum albidum	false negative
-186	Echinodontium tinctorium	false negative
-186	Cantharellales	false negative
-186	Hydnum rufescens	false negative
-186	Sistotrema eximum	false negative
-186	Thelephora	false negative
-186	Boletales	false negative
-186	Fibulorhizoctonia	false negative
+186	Marta	false positive
+186	L. vilgalysii	false positive
+186	Lepidostroma vilgalysii	false positive
+186	Cryptococcus	false positive
+186	Peltula inversa	false positive
+186	Diversa	false positive
+186	Athalia arachnoidea	false negative
+186	Lepidostroma vigalysii	false negative
 186	Lachnella villosa	false negative
-186	Pterula echo	false negative
+186	Stephanospora caroticolor	false negative
+186	Dacrymyces	false negative
+186	Bondarcevomyces taxi	false negative
+186	basidiomycete	false negative
+186	L. vigalysii	false negative
+186	Polyporoletus sublivius	false negative
+186	Pinus	false negative
+186	Serpula himantioides	false negative
+186	Cantharellales	false negative
+186	Calocera cornea	false negative
+186	Piloderma olivaceum	false negative
+186	fungi	false negative
+186	Exidiopsis calcea	false negative
+186	Echinodontium tinctorium	false negative
+186	Tylospora asterophora	false negative
+186	Laetisaria fuciformis	false negative
+186	Paxillus vernalis	false negative
+186	Athelopsis subinconspicua	false negative
+186	Boletales	false negative
+186	basidiolichen	false negative
+186	Plicaturopsis crispa	false negative
+186	Piloderma byssinum	false negative
+186	Polyporus squamosus	false negative
+186	Russulales	false negative
+186	Galerina marginata	false negative
+186	Hydnum albidum	false negative
+186	Dendrocorticium roseocarneum	false negative
+186	Acantholichen pannarloides	false negative
+186	Sarcodon imbricatus	false negative
+186	Thelephora	false negative
+186	Gautieria otthii	false negative
+186	Agaricales	false negative
+186	Hydnum rufescens	false negative
+186	Coriscium	false negative
+186	Botrydina	false negative
 186	Athelia pyriformis	false negative
 186	Leptosporomyces galzinii	false negative
-186	Hygrophoropsis aurantiaca	false negative
-186	Albatrellus skamanius	false negative
-186	basidiomycete	false negative
-186	Agaricales	false negative
-186	Sarcodon imbricatus	false negative
-186	Dictyonema glabratum	false negative
-186	Athalia decipiens	false negative
-186	Exidiopsis calcea	false negative
+186	Junghuhnia subundata	false negative
 186	Multiclavula cornyoides	false negative
-186	Serpula himantioides	false negative
-186	Byssocorticium pulchrum	false negative
-186	Galerina marginata	false negative
-186	Russulales	false negative
-186	Piloderma lanatum	false negative
-186	Dendrocorticium roseocarneum	false negative
-186	Kuehneromyces rostratus	false negative
-186	fungi	false negative
-186	Dacrymyces	false negative
-186	Stephanospora caroticolor	false negative
-186	Plicaturopsis crispa	false negative
-186	Coriscium	false negative
-186	Gautieria otthii	false negative
-186	Fomitiporia mediterranea	false negative
-186	Lepidostroma vigalysii	false negative
-186	Polyporoletus sublivius	false negative
-186	Calocera cornea	false negative
-186	Gloeophyllum sepiarium	false negative
-186	Pinus	false negative
+186	Multiclavula mucida	false negative
 186	Atheliales	false negative
-186	Athalia arachnoidea	false negative
-186	basidiolichen	false negative
-186	Polyporus squamosus	false negative
+186	Fibulorhizoctonia	false negative
+186	Hygrophorus flavodiscus	false negative
+186	Kuehneromyces rostratus	false negative
+186	Dictyonema glabratum	false negative
+186	Gloeophyllum sepiarium	false negative
+186	Piloderma lanatum	false negative
+186	Albatrellus skamanius	false negative
+186	Athalia decipiens	false negative
+186	Exidia uvapsassa	false negative
+186	Pterula echo	false negative
+186	Sistotrema eximum	false negative
+186	Fomitiporia mediterranea	false negative
+186	Xerocomus chryseriteron	false negative
+186	Byssocorticium pulchrum	false negative
+186	Hygrophorus pudorinus	false negative
+186	Hygrophoropsis aurantiaca	false negative
 192	H.volcanii	false negative
-198	Anolis cristatellus	false positive
 198	Vrba	false positive
+198	Anolis cristatellus	false positive
 198	Anolis crustatellus	false negative
 202	Becker	false positive
 202	Elena	false positive
-209	Escherichia coli cells	false positive
-209	E. coli cells	false positive
-209	S. sclerotiorum	false positive
-209	Markus	false positive
-209	Lectin elegans	false positive
-209	X. chrysenteron	false positive
-209	A. gossypii	false positive
 209	S. macrospora	false positive
+209	Escherichia coli cells	false positive
+209	Lectin elegans	false positive
+209	A. gossypii	false positive
+209	X. chrysenteron	false positive
+209	Markus	false positive
+209	S. sclerotiorum	false positive
+209	E. coli cells	false positive
 209	arthropoda	false negative
-215	Anticorbula may	false positive
 215	Corbulomima	false positive
-215	P. ledaeformis	false positive
 215	Temminck	false positive
 215	Pachydon may	false positive
 215	Selection��mya arenaria	false positive
+215	Anticorbula may	false positive
 215	Corbulidae may	false positive
-215	Corbicula	false negative
-215	Mesodesma	false negative
-215	corbulomima	false negative
-215	Pachydon iquitensis	false negative
-215	Notocorbula	false negative
-215	Corbulamella	false negative
-215	Tiza	false negative
-215	Pachydon tenuis	false negative
-215	Pachydon trigonalis	false negative
-215	Crototricolpites	false negative
-215	Potamocorbula	false negative
-215	Pachydon cuneatus	false negative
-215	Anticorbula miocaenica	false negative
-215	Pachydon ellipticus	false negative
-215	P. tenuis	false negative
-215	C. linduensi	false negative
-215	Pachydon maaikeae	false negative
-215	Lentidium	false negative
-215	Tivella	false negative
-215	Mya	false negative
-215	Ostomya carinata	false negative
-215	Erodona	false negative
-215	Pachydon ledaeformis	false negative
-215	Corbula speciosa	false negative
-215	Mya arenaria	false negative
-215	Psiladiporites	false negative
-215	Juliacorbula	false negative
-215	Anticorbula mencheri	false negative
-215	Pachydon amazonensis	false negative
+215	P. ledaeformis	false positive
 215	Posidonidae	false negative
-215	Dreissiniidae	false negative
-215	Pachydon cebada	false negative
+215	Lentidium	false negative
+215	Pachydon ellipticus	false negative
 215	Caestocorbula	false negative
+215	Pachydon iquitensis	false negative
+215	Pachydon cuneatus	false negative
+215	Notocorbula	false negative
+215	Pachydon amazonensis	false negative
+215	Mesodesma	false negative
+215	Erodona	false negative
+215	Potamocorbula	false negative
+215	C. linduensi	false negative
+215	Pachydon ledaeformis	false negative
+215	Corbicula	false negative
+215	Corbulamella	false negative
+215	Psiladiporites	false negative
+215	Pachydon cebada	false negative
+215	Pachydon trigonalis	false negative
+215	Mya	false negative
+215	P. tenuis	false negative
+215	Juliacorbula	false negative
+215	Tivella	false negative
+215	Mya arenaria	false negative
+215	Crototricolpites	false negative
+215	Anticorbula miocaenica	false negative
+215	Pachydon tenuis	false negative
+215	Dreissiniidae	false negative
+215	Pachydon maaikeae	false negative
+215	Corbula speciosa	false negative
+215	Anticorbula mencheri	false negative
+215	corbulomima	false negative
+215	Ostomya carinata	false negative
+215	Tiza	false negative
 219	Phyllis	false positive
 219	Beier	false positive
-225	Acropora palmata corals	false positive
-225	A. spinosa compared	false positive
+225	Topo	false positive
+225	Aspera	false positive
 225	Prada	false positive
+225	A. spinosa compared	false positive
 225	Mega	false positive
 225	Spinosa	false positive
-225	Aspera	false positive
+225	Acropora palmata corals	false positive
 225	Iliana	false positive
-225	Topo	false positive
 225	Acropora palmata	false negative
 225	A. paula	false negative
-231	Iochrominae	false negative
 231	Capsiceae	false negative
-231	Nolana	false negative
-231	Nicotiana	false negative
-231	Solanum	false negative
 231	Lycium	false negative
-241	Aelurodon compared	false positive
-241	Canis	false positive
+231	Nolana	false negative
+231	Solanum	false negative
+231	Iochrominae	false negative
+231	Nicotiana	false negative
 241	Crania	false positive
-241	Morphological	false positive
+241	Canis	false positive
 241	Miacis	false positive
+241	Morphological	false positive
 241	Raia	false positive
-241	Miacis cognitus	false negative
+241	Aelurodon compared	false positive
+241	M. coryphaeus	false negative
 241	Borophaginae	false negative
-241	Ictitherinae	false negative
+241	Hesperocyoninae	false negative
 241	Canis cipio	false negative
 241	Percrocutidae	false negative
-241	M. coryphaeus	false negative
-241	Hesperocyoninae	false negative
-252	Rhinusa florum	false positive
-252	L. genistifolia	false positive
-252	Linaria dalmatica ssp. macedonica	false positive
-252	L�dalmatica macedonica	false positive
-252	Speciosae	false positive
+241	Ictitherinae	false negative
+241	Miacis cognitus	false negative
 252	Mecinini	false positive
 252	Cabi	false positive
 252	R. griseohirta	false positive
-252	L. g. artvinensis	false negative
+252	Linaria dalmatica ssp. macedonica	false positive
+252	Rhinusa florum	false positive
+252	Speciosae	false positive
+252	L. genistifolia	false positive
+252	L�dalmatica macedonica	false positive
 252	R. florum	false negative
 252	Linaria dalmatica ssp. Macedonica	false negative
+252	L. g. artvinensis	false negative
+252	L. g. confertiflora	false negative
+252	L. g. sofiana	false negative
 252	L. d. macedonica	false negative
 252	Pancrustacea	false negative
-252	L. g. sofiana	false negative
-252	L. g. confertiflora	false negative
-258	Lactoridaceae	false positive
+258	Celtis	false positive
 258	Eudicots	false positive
 258	Pamela	false positive
-258	Celtis	false positive
-258	Mirabilis	false negative
-258	Platanus	false negative
-258	Garrya	false negative
-258	Coriaria	false negative
-258	Humulus	false negative
-258	Abobra	false negative
-258	Tetragonia	false negative
-258	Capparis	false negative
-258	Bourreria	false negative
-258	Nandina	false negative
-258	Lobelia	false negative
-258	Citrus	false negative
-258	Aucuba	false negative
-258	Piper	false negative
-258	Sinofranchetia	false negative
+258	Lactoridaceae	false positive
 258	Morus	false negative
-258	Phacelia	false negative
-258	Campanula	false negative
-258	Nepenthes	false negative
-258	Lactoris	false negative
+258	Chloranthus	false negative
+258	Hydrophyllum	false negative
+258	Mirabilis	false negative
+258	Phytolacca	false negative
+258	Plumbago	false negative
+258	Simmondsia	false negative
+258	Nelumbo	false negative
+258	Citrus	false negative
 258	Datisca	false negative
+258	Kalenchoe	false negative
+258	Penthorum	false negative
+258	Urtica	false negative
 258	Sedum	false negative
 258	Ranunculus	false negative
-258	Haloragis	false negative
-258	Akebia	false negative
-258	Dudleya	false negative
-258	Ceanothus	false negative
-258	Poncirus	false negative
+258	Lactoris	false negative
+258	Nepenthes	false negative
 258	Cocoloba	false negative
-258	Brassica	false negative
-258	Urtica	false negative
+258	Abobra	false negative
+258	Ceanothus	false negative
 258	Piperaceae	false negative
-258	Eucommia	false negative
-258	Simmondsia	false negative
-258	Plumbago	false negative
-258	Dicentra	false negative
-258	Nelumbo	false negative
+258	Hydrastis	false negative
+258	Capparis	false negative
+258	Floerkea	false negative
 258	Decaisnea	false negative
-258	Asarum	false negative
-258	Kalenchoe	false negative
-258	Ailanthus	false negative
-258	Illiciales	false negative
-258	Penthorum	false negative
-258	Phytolacca	false negative
-258	Hydrophyllum	false negative
-258	Tetracarpaea	false negative
-258	Chloranthus	false negative
 258	Saururaceae	false negative
+258	Akebia	false negative
+258	Poncirus	false negative
+258	Phacelia	false negative
 258	Saruma	false negative
+258	Dudleya	false negative
+258	Sinofranchetia	false negative
+258	Nandina	false negative
+258	Aucuba	false negative
+258	Tetragonia	false negative
+258	Garrya	false negative
+258	Humulus	false negative
+258	Eucommia	false negative
+258	Brassica	false negative
+258	Bourreria	false negative
+258	Austrobaileya	false negative
+258	Glaucidium	false negative
+258	Asarum	false negative
+258	Ailanthus	false negative
 258	Myrica	false negative
 258	Roussea	false negative
-258	Floerkea	false negative
-258	Hydrastis	false negative
-258	Glaucidium	false negative
-258	Austrobaileya	false negative
+258	Illiciales	false negative
+258	Lobelia	false negative
 258	Placospermum	false negative
-264	Magnolia	false positive
-264	Locationsofthe��sampledmagnolia stellata	false positive
-264	Tokai	false positive
-264	M. obovata	false positive
+258	Platanus	false negative
+258	Dicentra	false negative
+258	Coriaria	false negative
+258	Campanula	false negative
+258	Haloragis	false negative
+258	Tetracarpaea	false negative
+258	Piper	false negative
 264	Stellata	false positive
+264	Magnolia	false positive
+264	M. obovata	false positive
+264	Tokai	false positive
+264	Locationsofthe��sampledmagnolia stellata	false positive
 268	Anolis may	false positive
-268	A. garmani	false negative
 268	A. cybotes	false negative
+268	A. garmani	false negative
 274	Orbiculariae	false negative
 291	Insects	false positive
 291	A. m. capensis	false negative
@@ -657,570 +657,570 @@ data_package	name	error_type
 297	Loris	false positive
 297	Propithecus	false positive
 297	Lorinae	false negative
-297	Galagoninae	false negative
 297	P. potto	false negative
+297	Galagoninae	false negative
 297	Perodictinae	false negative
 297	Lemuriformes	false negative
 301	Insects	false positive
 301	Plantago lanceolata	false negative
 304	Elena	false positive
+307	Momar	false positive
 307	G. palpalis palpalis	false positive
 307	Mega	false positive
 307	Nigerian	false positive
 307	G. pallidipes	false positive
-307	Momar	false positive
+307	fuscipes	false negative
+307	tachinoides	false negative
+307	morsitans	false negative
+307	G. m. morsitans	false negative
 307	G. p. palpalis	false negative
 307	gambiensis	false negative
-307	T. b. brucei	false negative
-307	G. m. morsitans	false negative
-307	tachinoides	false negative
-307	pallicera	false negative
 307	Glossina p. palpalis	false negative
-307	palpalis	false negative
-307	morsitans	false negative
-307	fuscipes	false negative
-307	G. p. gambiensis	false negative
 307	G. f. fuscipes	false negative
-313	Morphological	false positive
+307	palpalis	false negative
+307	T. b. brucei	false negative
+307	pallicera	false negative
+307	G. p. gambiensis	false negative
 313	Andreas	false positive
-313	Tamiasciurus may	false positive
+313	Morphological	false positive
 313	Sylvia	false positive
-313	T. hudsoncisus	false negative
-313	T. douglasii	false negative
+313	Tamiasciurus may	false positive
 313	T. hudsonicus mogollensis	false negative
+313	T. douglasii	false negative
+313	T. hudsoncisus	false negative
 317	Papio papio ursinus	false positive
 317	Trina	false positive
 317	Papio cynocephalus anubis	false positive
 317	P. anubis	false negative
 317	R. kipunji	false negative
-323	T. truncatus may	false positive
-323	Mega	false positive
 323	Susana	false positive
+323	T. truncatus may	false positive
 323	Cascadia	false positive
-329	H. gardneri may	false positive
-329	Taxon	false positive
-329	Morphological	false positive
-329	Morphological data	false positive
+323	Mega	false positive
 329	Eichhornia paniculata	false positive
+329	Morphological	false positive
+329	Taxon	false positive
 329	Eichhornia azurea	false positive
+329	H. gardneri may	false positive
+329	Morphological data	false positive
 329	E. heterosperma	false negative
-329	H. zosterifolia	false negative
-329	E. diversifolia	false negative
-329	P. sagittata	false negative
-329	M. hastata	false negative
-329	M. cyanea	false negative
-329	H. dubia	false negative
-329	P. rotundifolia	false negative
 329	Eichhornia meyeri	false negative
-329	P. cordata v. cordata	false negative
-329	Eichhomia paniculata	false negative
-329	P. cordata v. lancifolia	false negative
-329	H. oblongifolia	false negative
-329	M. vaginalis	false negative
-329	Eichhomia azurea	false negative
-329	Pontederia cordata v. ovalis	false negative
+329	P. rotundifolia	false negative
+329	E. diversifolia	false negative
 329	Monochoria korsakovii	false negative
+329	H. zosterifolia	false negative
+329	M. hastata	false negative
+329	M. vaginalis	false negative
+329	H. dubia	false negative
+329	P. cordata v. cordata	false negative
+329	M. cyanea	false negative
+329	P. cordata v. lancifolia	false negative
+329	Eichhomia paniculata	false negative
+329	P. sagittata	false negative
+329	Eichhomia azurea	false negative
+329	H. oblongifolia	false negative
+329	Pontederia cordata v. ovalis	false negative
 329	Pontederia cordata var. ovalis	false negative
 329	E. crassipes	false negative
-333	Oreorchis	false positive
 333	C. bentleyi var. involuta	false positive
-333	Aplectrutn hyemale	false positive
-333	Polystichum	false positive
-333	Corallorhizinae	false positive
 333	Corallorhiza striata var. involuta	false positive
-333	C. striata plex	false positive
 333	C. involuta	false positive
-333	C. striata leyi	false positive
-333	Striata	false positive
-333	Piper�a unalascensis	false positive
-333	Corallorhiza striata var. striata	false positive
-333	Natrona	false positive
-333	Aplectrum hyemale	false positive
-333	C. bulbosa	false positive
-333	Corallorhiza striata var. vreelandii	false positive
-333	C. striata habitat	false positive
-333	C. striata may	false positive
-333	C. striata var. vreelandii	false positive
 333	Corallorhiza maculata vars	false positive
-333	Morphological	false positive
+333	C. striata var. vreelandii	false positive
+333	C. striata may	false positive
+333	Corallorhizinae	false positive
+333	Aplectrutn hyemale	false positive
+333	C. bulbosa	false positive
+333	Polystichum	false positive
 333	Corallorhiza bentleyi	false positive
+333	Striata	false positive
+333	Corallorhiza striata var. vreelandii	false positive
+333	Corallorhiza striata var. striata	false positive
+333	C. striata leyi	false positive
+333	Oreorchis	false positive
+333	Morphological	false positive
+333	C. striata plex	false positive
+333	Natrona	false positive
+333	Piper�a unalascensis	false positive
+333	C. striata habitat	false positive
+333	Aplectrum hyemale	false positive
 333	Polystichum x scopulinum	false negative
-333	var. involuta	false negative
-333	Aplectrum hymale	false negative
-333	Piperia unalascensis	false negative
 333	striata	false negative
-333	var. vreelandii	false negative
-333	Corallorhiza maculata var. maculata	false negative
 333	occidentalis	false negative
-340	A. affinis	false positive
-340	Cardioglossa aims	false positive
-340	Cardioglossa	false positive
-340	Taxon	false positive
-340	A. xenochirus	false positive
+333	Piperia unalascensis	false negative
+333	Corallorhiza maculata var. maculata	false negative
+333	var. involuta	false negative
+333	var. vreelandii	false negative
+333	Aplectrum hymale	false negative
 340	A. variabilis	false positive
-340	Mega	false positive
+340	A. affinis	false positive
 340	Arthroleptis may	false positive
+340	Taxon	false positive
+340	Mega	false positive
+340	Cardioglossa	false positive
 340	A. sylvaticus may	false positive
-340	Arthroleptis xenochirus	false negative
-340	C. manengouba	false negative
-340	Breviceps mossambicus	false negative
-340	Leptodactylon bicolor	false negative
-340	Cardioglossa elegans	false negative
-340	Callulina kreffti	false negative
-340	amphibians	false negative
-340	Cardioglossa occidentalis	false negative
+340	A. xenochirus	false positive
+340	Cardioglossa aims	false positive
 340	Afrixalus paradorsalis	false negative
+340	H castaneus	false negative
+340	Hemisus marmoratus	false negative
+340	Callulina kreffti	false negative
+340	Cardiglossa	false negative
+340	Arthroleptini	false negative
+340	Breviceps mossambicus	false negative
+340	Cardioglossa elegans	false negative
+340	amphibians	false negative
+340	Arthroleptis ëëpoecilonotusî	false negative
 340	Astylosternus batesi	false negative
+340	C. manengouba	false negative
+340	Leptodactylon bicolor	false negative
+340	Cardioglossa occidentalis	false negative
+340	Scotobleps gabonicus	false negative
 340	Leptopelis kivuensis	false negative
 340	C. manengoba	false negative
-340	H castaneus	false negative
 340	Kassina senegalensis	false negative
+340	Arthroleptis xenochirus	false negative
 340	Trichobatrachus robustus	false negative
-340	Arthroleptis ëëpoecilonotusî	false negative
-340	Arthroleptini	false negative
-340	Scotobleps gabonicus	false negative
-340	Hemisus marmoratus	false negative
-340	Cardiglossa	false negative
+346	Schaeffer	false positive
+346	Triassic	false positive
+346	Haemulon saurus plumieri	false positive
 346	Negaprion	false positive
 346	Archosargus	false positive
+346	Xenacanthus	false positive
 346	Sphyrna probatocephalus tiburo	false positive
-346	Haemulon saurus plumieri	false positive
 346	Callinectes	false positive
 346	Elops	false positive
-346	Triassic	false positive
 346	Heraeus	false positive
-346	Schaeffer	false positive
-346	Xenacanthus	false positive
-346	Ginglymostomidae	false negative
-346	Cladodous	false negative
-346	C. leucas	false negative
-346	Elasmobranchii	false negative
-346	Sphendous	false negative
 346	I.oxyrinchus	false negative
+346	Ginglymostomidae	false negative
+346	Elasmobranchii	false negative
+346	C. leucas	false negative
+346	Sphendous	false negative
+346	Cladodous	false negative
 346	Chondrichthyes	false negative
-350	Sin Nombre hantavirus	false negative
 350	Puumala	false negative
 350	hantavirus	false negative
 350	Puumala hantavirus	false negative
 350	Calabazo hantavirus	false negative
+350	Sin Nombre hantavirus	false negative
 356	Myanmar	false positive
+356	Paa	false positive
+356	Mega	false positive
 356	N. quadranus	false positive
 356	N. yunnanensis may	false positive
-356	Mega	false positive
-356	Paa	false positive
 356	Nanorana (Paa) bourreti	false negative
-366	M. edulis locus	false positive
-366	Mytilus experiments	false positive
-366	Mytilus data	false positive
 366	Edulis	false positive
+366	M. edulis locus	false positive
 366	Melanogaster	false positive
+366	Mytilus data	false positive
+366	Mytilus experiments	false positive
 366	D. Melanogaster	false negative
 379	Systella rufus turrita	false positive
-379	Glauia terrea	false negative
-379	Stiphra robusta	false negative
-379	Phyllium bioculatum	false negative
-379	Gomphocerippus rufus	false negative
-379	Pyrgomorpha conica	false negative
-379	Euschmidtia cruciformis	false negative
-379	Ruspolia nitidula	false negative
-379	cockroaches	false negative
-379	Grylloblatta rothi	false negative
-379	Paratettix cucullatus	false negative
-379	Acridomorphoidea	false negative
-379	SystellaR	false negative
-379	Prosphena scudderi	false negative
-379	Oedipoda coerulescens	false negative
-379	Cylindraustralia kochii	false negative
-379	Agathemera crassa	false negative
-379	Pneumora inanis	false negative
-379	Neotridactylus australis	false negative
-379	Tettigonia viridissima	false negative
-379	Xyrolnotidae	false negative
 379	Hemideina crassidens	false negative
 379	Acrida turrita	false negative
-379	Bullacris membracioides	false negative
-379	Gromphadorhina portentosa	false negative
-379	Eumasticoidea	false negative
-379	Cyphoderris monstrosus	false negative
-379	Homeomastax dentata	false negative
+379	Pneumora inanis	false negative
 379	Prosarthria teretrirostris	false negative
-383	Glires	false positive
+379	Homeomastax dentata	false negative
+379	Euschmidtia cruciformis	false negative
+379	Xyrolnotidae	false negative
+379	Cylindraustralia kochii	false negative
+379	Agathemera crassa	false negative
+379	Acridomorphoidea	false negative
+379	Stiphra robusta	false negative
+379	Cyphoderris monstrosus	false negative
+379	cockroaches	false negative
+379	SystellaR	false negative
+379	Bullacris membracioides	false negative
+379	Glauia terrea	false negative
+379	Phyllium bioculatum	false negative
+379	Gomphocerippus rufus	false negative
+379	Grylloblatta rothi	false negative
+379	Tettigonia viridissima	false negative
+379	Eumasticoidea	false negative
+379	Oedipoda coerulescens	false negative
+379	Pyrgomorpha conica	false negative
+379	Paratettix cucullatus	false negative
+379	Neotridactylus australis	false negative
+379	Ruspolia nitidula	false negative
+379	Gromphadorhina portentosa	false negative
+379	Prosphena scudderi	false negative
 383	Macroscelida	false positive
-383	Morphological data	false positive
+383	Glires	false positive
 383	Caballus	false positive
-383	Xenarthra	false negative
-383	E. Caballus	false negative
-383	Bos	false negative
-383	Mus	false negative
-383	Dugong	false negative
+383	Morphological data	false positive
 383	Hyrax	false negative
-383	Homo	false negative
+383	E. Caballus	false negative
 383	Afrotheria	false negative
-383	Paenungulata	false negative
+383	Mus	false negative
 383	Loxodonta	false negative
+383	Dugong	false negative
+383	Homo	false negative
+383	Bos	false negative
+383	Paenungulata	false negative
+383	Xenarthra	false negative
 385	Firmicutes bacteria	false positive
-385	Clostridium	false negative
+385	Firmicutes	false negative
+385	Bacillus brevis	false negative
 385	Pestivirus	false negative
 385	human immunovirus	false negative
-385	Bacillus brevis	false negative
+385	Clostridium	false negative
 385	Bacillus	false negative
-385	Firmicutes	false negative
 389	Taxon	false positive
 399	Andreas	false positive
-405	Procellaria westlandica may	false positive
-405	Puf�nus griseus	false positive
-405	Puf�nus huttoni	false positive
-405	Pu. huttoni may	false positive
 405	Penguins	false positive
-405	P. westlandica	false negative
-405	H. spadix	false negative
-405	P. inexpectata	false negative
-405	H. falsus pacificus	false negative
+405	Puf�nus griseus	false positive
+405	Pu. huttoni may	false positive
+405	Procellaria westlandica may	false positive
+405	Puf�nus huttoni	false positive
+405	E. minor	false negative
+405	P. huttoni	false negative
 405	Trabeculus flemingi	false negative
 405	Ea. minor	false negative
-405	Puffinus griseus	false negative
-405	P. huttoni	false negative
-405	E. minor	false negative
-405	Pe. marina	false negative
-405	M. antipodes	false negative
-405	Ha. hopkinsi	false negative
-405	P. marina	false negative
 405	T. flemingi	false negative
+405	P. marina	false negative
 405	P. griseus	false negative
-415	Sergey	false positive
+405	Puffinus griseus	false negative
+405	M. antipodes	false negative
+405	H. spadix	false negative
+405	Ha. hopkinsi	false negative
+405	P. westlandica	false negative
+405	H. falsus pacificus	false negative
+405	P. inexpectata	false negative
+405	Pe. marina	false negative
 415	Schaeffer	false positive
 415	Pupal	false positive
-422	S. richardsoni	false positive
-422	S. fulvus	false positive
-422	S. beecheyi	false positive
-422	Otospermophilus	false positive
-422	S. tridecemlineatus	false positive
-422	M. vancouverensis	false positive
-422	S. undulatus	false positive
-422	Elena	false positive
-422	Marmota monax marmota	false positive
-422	M. camtschatica may	false positive
-422	M. flaviventris	false positive
+415	Sergey	false positive
 422	Nov. flaviventris caligata	false positive
-422	Callospermophilus	false positive
-422	S. lateralis	false positive
-422	Spermophilus columbianus	false positive
+422	S. undulatus	false positive
+422	Otospermophilus	false positive
 422	Petromarmota may	false positive
+422	Spermophilus columbianus	false positive
+422	S. fulvus	false positive
+422	S. tridecemlineatus	false positive
+422	Marmota monax marmota	false positive
+422	M. flaviventris	false positive
+422	S. richardsoni	false positive
+422	Callospermophilus	false positive
+422	Elena	false positive
+422	S. lateralis	false positive
+422	M. camtschatica may	false positive
+422	M. vancouverensis	false positive
 422	Ictidomys	false positive
-422	camtschatica	false negative
-422	M. (P.) flaviventris	false negative
-422	M. s. caliginosus	false negative
-422	M. (M.) monax	false negative
-422	menzbieri	false negative
-422	S. (Ictidomys) tridecemlineatus	false negative
-422	Sciurus carolinensis	false negative
-422	olympus	false negative
-422	M. (P.) caligata	false negative
-422	Spermophilus (Spermophilus) columbianus	false negative
-422	broweri	false negative
-422	caligata	false negative
-422	S. (S.) undulatus	false negative
-422	M. (P). olympus	false negative
-422	M. (Marmota) marmota	false negative
+422	S. beecheyi	false positive
 422	M. (Marmota)	false negative
-422	monax	false negative
-422	himalyana	false negative
-422	bobak	false negative
-422	flaviventris	false negative
-422	S. (S.) fulvus	false negative
-422	S. (Otospermophilus) beecheyi	false negative
-422	vancouverensis	false negative
-422	M. b. centralis	false negative
-422	M. (P.) vancouverensis	false negative
-422	sibirica	false negative
-422	M. b. baibacina	false negative
-422	S. (Callospermophilus) lateralis	false negative
-422	caudata	false negative
-422	baibacina	false negative
+422	M. (P.) flaviventris	false negative
+422	menzbieri	false negative
 422	S. (S.) richardsoni	false negative
-432	Khabditella axei	false positive
-432	E. coli	false positive
-432	Elegans	false positive
-432	Morphological	false positive
-432	Rhabditis myriophila-rhabditella axei	false positive
+422	M. (P.) caligata	false negative
+422	bobak	false negative
+422	baibacina	false negative
+422	S. (Callospermophilus) lateralis	false negative
+422	M. (M.) monax	false negative
+422	Sciurus carolinensis	false negative
+422	M. b. baibacina	false negative
+422	vancouverensis	false negative
+422	himalyana	false negative
+422	sibirica	false negative
+422	monax	false negative
+422	camtschatica	false negative
+422	S. (Ictidomys) tridecemlineatus	false negative
+422	caudata	false negative
+422	S. (Otospermophilus) beecheyi	false negative
+422	Spermophilus (Spermophilus) columbianus	false negative
+422	caligata	false negative
+422	M. s. caliginosus	false negative
+422	flaviventris	false negative
+422	broweri	false negative
+422	M. (P). olympus	false negative
+422	olympus	false negative
+422	M. b. centralis	false negative
+422	S. (S.) fulvus	false negative
+422	M. (Marmota) marmota	false negative
+422	M. (P.) vancouverensis	false negative
+422	S. (S.) undulatus	false negative
 432	Mesorhabditis	false positive
-432	C. elei	false positive
+432	Khabditella axei	false positive
 432	C. elegans may	false positive
-432	Rh. axei	false negative
-432	Cephalobina	false negative
-432	C. remanei vulgaris	false negative
+432	Morphological	false positive
+432	Elegans	false positive
+432	E. coli	false positive
+432	Rhabditis myriophila-rhabditella axei	false positive
+432	C. elei	false positive
 432	Eurhabditis	false negative
+432	Cephalobina	false negative
+432	Rh. axei	false negative
+432	C. remanei vulgaris	false negative
+438	Antadu atigua primaeva	false positive
 438	S. albovittata	false positive
 438	Taxon	false positive
-438	Nudi	false positive
-438	White-tip scutellum	false positive
-438	Antadu atigua primaeva	false positive
-438	Phytogeny	false positive
 438	Picture-winged planitibia grimshawi	false positive
+438	Nudi	false positive
+438	Phytogeny	false positive
+438	White-tip scutellum	false positive
+438	D. iki	false negative
 438	adiastola	false negative
-438	fasciculasetae	false negative
 438	Atelidrosophila	false negative
 438	grimshawi	false negative
-438	D. iki	false negative
 438	planitibia	false negative
-438	hawaiiensis	false negative
 438	D. bipolita	false negative
-448	A. tigrinum	false positive
-448	Caballo tecus	false positive
-448	Acca	false positive
-448	Darda canica	false positive
-448	Perotnyscus	false positive
-448	Morphological	false positive
+438	fasciculasetae	false negative
+438	hawaiiensis	false negative
 448	Aztecus	false positive
+448	Acca	false positive
+448	A. tigrinum	false positive
+448	Morphological	false positive
 448	P. aztecus data	false positive
-448	P. boylii rowleyi	false negative
-448	P. gossypinus	false negative
-448	P. keeni	false negative
-448	P. leucopus	false negative
-448	Peromyscus a. aztecus	false negative
-448	Troglodytes brunneicollis	false negative
-448	P. a. oaxacensis	false negative
-448	P. a. aztecus	false negative
-448	P. a. cordillerae	false negative
+448	Darda canica	false positive
+448	Caballo tecus	false positive
+448	Perotnyscus	false positive
 448	T. musculus	false negative
-448	A. trigrinum	false negative
-448	P. melanotis	false negative
+448	P. a. aztecus	false negative
 448	P. a. evides	false negative
+448	P. melanotis	false negative
+448	Peromyscus a. aztecus	false negative
+448	P. boylii rowleyi	false negative
+448	Troglodytes brunneicollis	false negative
+448	P. leucopus	false negative
+448	P. gossypinus	false negative
+448	P. a. oaxacensis	false negative
+448	A. trigrinum	false negative
+448	P. keeni	false negative
+448	P. a. cordillerae	false negative
 454	Morphological	false positive
 454	Morphological data	false positive
-454	S. j. minor	false negative
 454	S. minor	false negative
-454	S. oberon	false negative
-454	S. j. immucronatus	false negative
-454	Sceloporus j. sugillatus	false negative
-454	minor	false negative
-454	oberon	false negative
-454	Sceloporus j. cyanostictus	false negative
-454	S. j. jarrovii	false negative
-454	erythrocyaneus	false negative
-454	S. megalepidurus	false negative
-454	S. j. oberon	false negative
 454	Sceloporus j. oberon	false negative
-454	S. j. sugillatus	false negative
-454	S. j. erthrocyaneus	false negative
-454	S. j. cyanostictus	false negative
 454	sugillatus	false negative
+454	S. j. oberon	false negative
+454	S. j. jarrovii	false negative
+454	S. j. cyanostictus	false negative
 454	torquatus	false negative
+454	S. j. immucronatus	false negative
+454	oberon	false negative
+454	S. oberon	false negative
+454	erythrocyaneus	false negative
 454	jarrovii	false negative
-456	Eucidaris tribubides	false positive
-456	Echinoids	false positive
-456	Taxon	false positive
-456	Morphological	false positive
-456	Larvae	false positive
+454	minor	false negative
+454	S. j. erthrocyaneus	false negative
+454	S. j. sugillatus	false negative
+454	Sceloporus j. sugillatus	false negative
+454	Sceloporus j. cyanostictus	false negative
+454	S. megalepidurus	false negative
+454	S. j. minor	false negative
 456	Brisoster latifrons	false positive
+456	Morphological	false positive
+456	Taxon	false positive
+456	Larvae	false positive
+456	Eucidaris tribubides	false positive
 456	Ophiopholis acukata	false positive
+456	Echinoids	false positive
+456	Phoronida	false negative
 456	Sipunculida	false negative
-456	Nemertea	false negative
 456	Spantangoida	false negative
 456	Mollusca	false negative
-456	Phoronida	false negative
-457	Merope	false positive
-457	Anagapetus	false positive
-457	Taxon	false positive
-457	Nyctiophylax	false positive
+456	Nemertea	false negative
 457	Protoptilinae	false positive
+457	Merope	false positive
+457	Taxon	false positive
 457	Wormaldia plus	false positive
+457	Anagapetus	false positive
+457	Nyctiophylax	false positive
 457	Arctopsyche	false positive
-457	Heterobathmia pseuderiocrania	false negative
-457	Catocola	false negative
-457	Parapsyche elsis	false negative
-457	Psilotreta frontalis	false negative
-457	Anagapetus debilis	false negative
-457	Arctopsyche grandis	false negative
-457	Rhyacophila brunnea	false negative
-457	Arctopysche	false negative
-457	Anomalopsychidae	false negative
-457	Ptilocolepus granulatus	false negative
-457	Chimarra rossi	false negative
-457	Helicophidae	false negative
-457	Cheumatopsyche oxa	false negative
-457	Taschorema evansi	false negative
-457	Goeru stylata	false negative
-457	Ernodes articularis	false negative
-457	Tasmanthrus angustipennis	false negative
-457	Helicopsychidae	false negative
-457	Cyrnellus fraternus	false negative
-457	Atriplectides dubius	false negative
-457	Cyrnus trimaculatus	false negative
-457	Philopotamus montanus	false negative
-457	Rhyacophila fuscula	false negative
-457	Tinodes waeneri	false negative
-457	Atriplectidae	false negative
-457	Neophylax concinnus	false negative
-457	Macrostemum zebratum	false negative
-457	Cochliopsyche vasquezi	false negative
-457	Brachycentridae	false negative
-457	Panorpa latipennis	false negative
-457	Anisocentropus bicoloratus	false negative
-457	Agathiphaga queenslandensis	false negative
-457	Phylloicus aeneus	false negative
-457	Ceraclea resurgens	false negative
-457	Oxethira	false negative
-457	Protoptila tenebrosa	false negative
-457	Gumaga okinawaensis	false negative
-457	Pseudoneureclipsis thuparama	false negative
-457	Agarodes distinctus	false negative
-457	Chimarrhodella ulmeri	false negative
-457	Homoplectra doringa	false negative
-457	Brysopterix	false negative
-457	Archaeopsylla erinacei	false negative
-457	Molanna uniophila	false negative
-457	Dicosmoecus atripes	false negative
-457	Oeconesus maori	false negative
-457	Austrheithrus ronewa	false negative
-457	Psuedoneureclipsis	false negative
-457	insects	false negative
-457	Limnephoidea	false negative
-457	Dipseudopsis varians	false negative
-457	Phryganopsyche latipennis	false negative
-457	Oxyethira rossi	false negative
-457	Tasimiidae	false negative
-457	Brachycentrus americanus	false negative
-457	Limnephilus externus	false negative
-457	Olinga feredayi	false negative
-457	Phrygansidae	false negative
-457	Apsilochorema gisbum	false negative
-457	Chathamlidae	false negative
-457	Nyctiophylax affinis	false negative
-457	Polycentropus interruptus	false negative
-457	Molannidae	false negative
 457	Contulma talamanca	false negative
-457	Calocidae	false negative
-457	Ecnomus tenellus	false negative
+457	Apsilochorema gisbum	false negative
+457	Psuedoneureclipsis	false negative
+457	Helicophidae	false negative
 457	Odontoceridae	false negative
-457	Leptonema salvini	false negative
-457	Alloecella grisea	false negative
-457	Pangullia faziana	false negative
-457	Wormalida triangulifera	false negative
-457	Pangulia	false negative
-457	Brevitentoria	false negative
-457	Oeconesidae	false negative
-457	Baraeidae	false negative
-457	Banksiola crotchi	false negative
-457	Leptoceridae	false negative
-457	Philaniscus plebeius	false negative
-457	Micropterix calthella	false negative
-457	Philorheithridae	false negative
-457	Trichovespula macrocera	false negative
+457	Phryganea cinerea	false negative
 457	Siphonaptera	false negative
-457	Triplectides flintorum	false negative
-457	Lymantria	false negative
 457	Agapetus pinatus	false negative
-457	Leptocerus americanus	false negative
+457	Ceraclea resurgens	false negative
+457	Phylloicus aeneus	false negative
+457	Anagapetus debilis	false negative
+457	Micropterix calthella	false negative
+457	Phryganopsyche latipennis	false negative
+457	Protoptila tenebrosa	false negative
+457	Stenopsychodes mjoebergi	false negative
+457	Limnephilus externus	false negative
+457	Brachycentrus americanus	false negative
+457	Nyctiophylax affinis	false negative
+457	Lymantria	false negative
+457	Arctopsyche grandis	false negative
+457	Ernodes articularis	false negative
+457	Alloecella grisea	false negative
+457	Cochliopsyche vasquezi	false negative
+457	Pseudoneureclipsis thuparama	false negative
+457	Stenopsyche marmorata	false negative
+457	Banksiola crotchi	false negative
+457	Brachycentridae	false negative
+457	Oeconesus maori	false negative
+457	Tinodes waeneri	false negative
+457	Chimarra feria	false negative
+457	Oxethira	false negative
+457	Trichovespula macrocera	false negative
+457	Homoplectra doringa	false negative
+457	Molannidae	false negative
+457	Cyrnus trimaculatus	false negative
+457	Polycentropus interruptus	false negative
+457	Molanna uniophila	false negative
+457	Tasmanthrus angustipennis	false negative
+457	Philopotamus montanus	false negative
+457	Cyrnellus fraternus	false negative
+457	Triplectides flintorum	false negative
+457	Sthenopsis purpurascens	false negative
+457	insects	false negative
+457	Catocola	false negative
+457	Ptilocolepus granulatus	false negative
+457	Chimarrhodella ulmeri	false negative
+457	Anisocentropus bicoloratus	false negative
+457	Chimarra rossi	false negative
+457	Anomalopsychidae	false negative
+457	Austrheithrus ronewa	false negative
+457	Taschorema evansi	false negative
+457	Agathaphaga	false negative
+457	Goeru stylata	false negative
+457	Rhyacophila brunnea	false negative
+457	Wormaldia gabriella	false negative
+457	Calocidae	false negative
+457	Rhyacophila fuscula	false negative
+457	Brevitentoria	false negative
+457	Archaeopsylla erinacei	false negative
+457	Neophylax concinnus	false negative
+457	Atriplectidae	false negative
+457	Parapsyche elsis	false negative
+457	Spicipalpia	false negative
+457	Phylocentropus placidus	false negative
+457	Hydropsyche occidentalis	false negative
+457	Micropteryx (Lepidoptera)	false negative
+457	Integripalpia	false negative
+457	Agathiphaga queenslandensis	false negative
+457	Lepidostomatidae	false negative
 457	Beraea pullata	false negative
+457	Phrygansidae	false negative
+457	Paduniella mahanawana	false negative
+457	Plectrotarsus tasmanicus	false negative
+457	Pangulia	false negative
+457	Baraeidae	false negative
+457	Cheumatopsyche oxa	false negative
+457	Pangullia faziana	false negative
+457	Panorpa latipennis	false negative
+457	Dipseudopsis varians	false negative
+457	Helicopsyche borealis	false negative
+457	Wormalida triangulifera	false negative
+457	Helicopsychidae	false negative
+457	Leptocerus americanus	false negative
+457	Lepidostoma togatum	false negative
+457	Chathamlidae	false negative
+457	Gumaga okinawaensis	false negative
+457	Limnephoidea	false negative
+457	Philorheithridae	false negative
+457	Macrostemum zebratum	false negative
+457	Oeconesidae	false negative
+457	Tasimiidae	false negative
+457	Glossosoma nigrior	false negative
+457	Oxyethira rossi	false negative
 457	Plenitentoria	false negative
 457	Psychomyia pusilla	false negative
-457	Hydropsyche occidentalis	false negative
-457	Palaeagapetus nearcticus	false negative
-457	Integripalpia	false negative
-457	Dolophilodes distinctus	false negative
-457	Lepidostoma togatum	false negative
-457	Agathaphaga	false negative
-457	Phylocentropus placidus	false negative
-457	Helicopsyche borealis	false negative
-457	Spicipalpia	false negative
-457	Wormaldia gabriella	false negative
-457	Plectrotarsus tasmanicus	false negative
-457	Chimarra feria	false negative
-457	Sthenopsis purpurascens	false negative
-457	Lepidostomatidae	false negative
-457	Glossosoma nigrior	false negative
-457	Stenopsychodes mjoebergi	false negative
-457	Stenopsyche marmorata	false negative
-457	Diplectrona modesta	false negative
-457	Sericostomatidae	false negative
-457	Micropteryx (Lepidoptera)	false negative
+457	Arctopysche	false negative
+457	Philaniscus plebeius	false negative
+457	Leptoceridae	false negative
+457	Olinga feredayi	false negative
 457	Apatania zonella	false negative
-457	Paduniella mahanawana	false negative
-457	Calamoceratidae	false negative
-457	Phryganea cinerea	false negative
+457	Dolophilodes distinctus	false negative
 457	Caloca saneva	false negative
-481	D. mojavensis may	false positive
+457	Leptonema salvini	false negative
+457	Brysopterix	false negative
+457	Atriplectides dubius	false negative
+457	Agarodes distinctus	false negative
+457	Heterobathmia pseuderiocrania	false negative
+457	Diplectrona modesta	false negative
+457	Palaeagapetus nearcticus	false negative
+457	Calamoceratidae	false negative
+457	Dicosmoecus atripes	false negative
+457	Ecnomus tenellus	false negative
+457	Sericostomatidae	false negative
+457	Psilotreta frontalis	false negative
 481	E. cacticida	false positive
+481	Devt versus agria	false positive
 481	Ferocactus	false positive
 481	Drosophila	false positive
-481	Devt versus agria	false positive
-481	Opuntia	false negative
+481	D. mojavensis may	false positive
 481	Ferocactus cylindraceous	false negative
+481	Opuntia	false negative
 483	Procambarus acutus	false positive
-483	spirulina	false negative
 483	Impatiens	false negative
 483	Procambrus acutus	false negative
-487	Transvaal	false positive
-487	Stenopelmus ru�nasus	false positive
-487	Car	false positive
-487	Aedeagal apodemes	false positive
-487	Adriana	false positive
-487	Taxon	false positive
-487	Curculionids	false positive
-487	Curculionoidea plus	false positive
-487	Bagous	false positive
-487	Morphological	false positive
-487	Larvae	false positive
-487	Tesserocerini plus	false positive
-487	Molytinae�incertae sedis	false positive
-487	Labral sensilla	false positive
+483	spirulina	false negative
 487	Car condensatus	false positive
+487	Curculionoidea plus	false positive
+487	Aedeagal apodemes	false positive
+487	Curculionids	false positive
+487	Car	false positive
+487	Tesserocerini plus	false positive
+487	Morphological	false positive
+487	Taxon	false positive
+487	Stenopelmus ru�nasus	false positive
+487	Bagous	false positive
+487	Larvae	false positive
+487	Transvaal	false positive
+487	Adriana	false positive
+487	Molytinae�incertae sedis	false positive
 487	Pseudomopsis in�ata	false positive
+487	Labral sensilla	false positive
 487	Spiculum ventrale	false positive
-487	Bagoinae	false negative
 487	Anthonominae	false negative
+487	Ocladiinae	false negative
 487	Bronchus	false negative
 487	Bagous myriophyllae	false negative
-487	Gonipterinae	false negative
+487	Tanysphyrus	false negative
 487	Nymphaceae	false negative
+487	Erirhininae	false negative
 487	Rhytirrhininae	false negative
-487	Stenopelmus rufinasus	false negative
 487	Trypodendron	false negative
-487	Ceutorhynchinae	false negative
+487	Bagoinae	false negative
+487	Tesserocerini	false negative
 487	Bagoini	false negative
 487	Myrmex floridanus	false negative
-487	Ocladiinae	false negative
-487	Pseudomopsis inflata	false negative
-487	Amycterinae	false negative
-487	Tanysphyrus	false negative
+487	Ceutorhynchinae	false negative
 487	Derelominae	false negative
-487	Erirhininae	false negative
-487	Tesserocerini	false negative
+487	Gonipterinae	false negative
 487	Mecininae	false negative
-497	Nigerian	false positive
+487	Stenopelmus rufinasus	false negative
+487	Amycterinae	false negative
+487	Pseudomopsis inflata	false negative
 497	Mis-sense gata	false positive
+497	Nigerian	false positive
 497	M.m.domesticus	false negative
 503	Chaoborus cues	false positive
 505	C. melampygus may	false positive
 505	Ulua	false positive
+514	Olga	false positive
 514	Morphological	false positive
 514	Katerina	false positive
-514	Olga	false positive
 520	Carine	false positive
-530	Arizona	false positive
-530	Getula	false positive
-530	Lampropeltis	false positive
 530	Stilosoma vetustum	false positive
-530	L.getula	false negative
+530	Lampropeltis	false positive
+530	Getula	false positive
+530	Arizona	false positive
 530	Lampropeltini	false negative
 530	Stilosoma (Lampropeltis) vetustum	false negative
-536	A. unicolor unicolor	false positive
-536	A. californica nevadae	false positive
+530	L.getula	false negative
 536	A. californica grisea	false positive
-536	A. californica cyanotis	false positive
-536	A. griscomi griscomi	false positive
-536	A. californica texana	false positive
 536	A. unicolor concolor	false positive
-536	A. californica woodhouseii	false positive
-536	A. californica sumichrasti	false positive
+536	A. californica cyanotis	false positive
 536	A. unicolor guerrerensis	false positive
+536	A. unicolor unicolor	false positive
+536	A. griscomi griscomi	false positive
+536	A. californica sumichrasti	false positive
 536	Aphelocoma compared	false positive
-536	A. californica obscura	false negative
+536	A. californica nevadae	false positive
+536	A. californica woodhouseii	false positive
+536	A. californica texana	false positive
+536	A. californica caurina	false negative
 536	A. woodh.	false negative
+536	A. californica obscura	false negative
 536	A. arizonae	false negative
 536	A. coerul.	false negative
-536	A. californica caurina	false negative
 536	A. griscomi	false negative
 553	Rana arvalis breeding	false positive
 563	Ammonites	false positive
@@ -1228,1333 +1228,1126 @@ data_package	name	error_type
 563	Pinna	false negative
 585	Mega	false positive
 585	P. t. verus	false negative
-595	Nigerian	false positive
-595	Bassa	false positive
-595	Valeria	false positive
-595	Gata	false positive
-602	Taxon	false positive
 602	Triassic	false positive
+602	Taxon	false positive
 602	Coccoliths	false positive
 612	Magnoliids	false positive
-612	Secale cereale	false negative
-612	Lactuca sativa	false negative
-612	Malvaceae	false negative
-612	Arachis hypogaea	false negative
-612	Nuphar advena	false negative
-612	Hordeum vulgare	false negative
-612	Gnetum gnemon	false negative
-612	Coffea arabica	false negative
-612	Hevea brasiliensis	false negative
-612	Welwitschia mirabilis	false negative
-612	Oryza sativa	false negative
-612	Populus nigra	false negative
-612	Triphysaria versicolor	false negative
-612	Brassica napus	false negative
-612	Triticum monococcum	false negative
-612	Asteraceae	false negative
-612	Nicotiana tabacum	false negative
-612	Theobroma cacao	false negative
-612	Petunia hybrida	false negative
-612	Populus deltoides	false negative
-612	Lycopersicon esculentum	false negative
-612	Elaeis guineensis	false negative
-612	Citrus clementina	false negative
-612	Capsicum annutum	false negative
-612	Aspergales	false negative
-612	Bruguiera gymnorhiza	false negative
-612	Picea sitchensis	false negative
-612	Liriodendron tulipifera	false negative
-612	Malus domestica	false negative
-612	Persea americana	false negative
-612	Plumbago zeylanica	false negative
-612	Saruma henryi	false negative
-612	Thellungiella halophila	false negative
-612	Lamiales	false negative
-612	Ananas comosus	false negative
-612	Juglans regia	false negative
-612	Gossypium raimondii	false negative
-612	Populus balsamifera	false negative
-612	Sorghum bicolor	false negative
-612	Saccharum offcinarum	false negative
-612	Sorgum halepense	false negative
-612	Limonium biocolor	false negative
-612	Beta vulgaris	false negative
-612	Asparagus officinalis	false negative
-612	Helianthus argophyllus	false negative
-612	Medicago sativa	false negative
-612	Yucca filamentosa	false negative
-612	Rosaceae	false negative
-612	Solanum tuberosum	false negative
-612	Oryza minuta	false negative
-612	Zea mays	false negative
-612	Populus alba	false negative
-612	Salvia milliorrhiza	false negative
-612	Allium cepa	false negative
-612	Pennisetum glaucum	false negative
-612	Apium graveolens	false negative
-612	Panicum virgatum	false negative
-612	Nicotiana sylvestris	false negative
-612	Nicotiana benthamiana	false negative
-612	Marchantia polymorpha	false negative
-612	Cryptomeria japonica	false negative
-612	Lycoris longituba	false negative
-612	Vitis shuttleworthii	false negative
-612	Glycine soja	false negative
-612	Rutaceae	false negative
-612	Lotus corniculatus	false negative
-612	Pseudotsuga menziesii	false negative
-612	Vaccinium corymbosum	false negative
-612	Gossypium arboreum	false negative
-612	Medicago truncatula	false negative
-612	Rosa chinensis	false negative
-612	Poncirus trifoliata	false negative
-612	Vitis aestivalis	false negative
-612	Populus euphratica	false negative
-612	Lupinus albus	false negative
-612	Ipomoea nil	false negative
-612	Euphorbia esula	false negative
-612	Pinus pinaster	false negative
-612	Fragaria ananassa	false negative
-612	Arabidopsis thaliana	false negative
-612	Cucumis sativus	false negative
-612	Mentha piperita	false negative
-612	Prunis dulcis	false negative
-612	Populus euramericana	false negative
-612	Mimulus guttatus	false negative
-612	Vitis riparia	false negative
-612	Sesamum indicum	false negative
-612	Helianthus paradoxus	false negative
-612	Amborella trichopoda	false negative
-612	Citrus sinensis	false negative
-612	Leymus chinensis	false negative
 612	Brassicaceae	false negative
+612	Arabidopsis thaliana	false negative
+612	Nicotiana sylvestris	false negative
+612	Poncirus trifoliata	false negative
+612	Populus balsamifera	false negative
+612	Rosaceae	false negative
+612	Arachis hypogaea	false negative
+612	Rutaceae	false negative
+612	Pseudotsuga menziesii	false negative
+612	Mesembryanthemum crystallinum	false negative
+612	Cryptomeria japonica	false negative
+612	Saccharum offcinarum	false negative
+612	Coffea arabica	false negative
+612	Camellia sinensis	false negative
+612	Asteraceae	false negative
+612	Solanales	false negative
+612	Pinus pinaster	false negative
 612	Zinnia elegans	false negative
-612	Euphorbia tirucalli	false negative
-612	Ricinus communis	false negative
-612	Manihot esculenta	false negative
+612	Brassica rapa	false negative
+612	Oryza minuta	false negative
+612	Plumbago zeylanica	false negative
+612	Ribes americanum	false negative
+612	Limonium biocolor	false negative
+612	Populus alba	false negative
+612	Gossypium arboreum	false negative
+612	Pennisetum glaucum	false negative
+612	Physcomitrella patens	false negative
 612	Selaginella lepidophylla	false negative
-612	Descurainia sophia	false negative
-612	Phaseolus vulgaris	false negative
+612	Populus nigra	false negative
+612	Saruma henryi	false negative
+612	Vaccinium corymbosum	false negative
+612	Bruguiera gymnorhiza	false negative
+612	Panax ginseng	false negative
+612	Picea sitchensis	false negative
+612	Allium cepa	false negative
+612	Ipomoea batatas	false negative
+612	Mimulus guttatus	false negative
+612	Vitis shuttleworthii	false negative
+612	Ricinus communis	false negative
+612	Malus domestica	false negative
+612	Betula pendula	false negative
+612	Nicotiana tabacum	false negative
+612	Hevea brasiliensis	false negative
+612	Juglans regia	false negative
+612	Lycopersicon esculentum	false negative
+612	Nicotiana benthamiana	false negative
+612	Euphorbia esula	false negative
+612	Fabaceae	false negative
+612	Brassica napus	false negative
+612	Gerbera hybridcultivar	false negative
+612	Lupinus albus	false negative
+612	Prunus persica	false negative
 612	Sorghum propinquum	false negative
+612	Triphysaria versicolor	false negative
+612	Gnetum gnemon	false negative
+612	Elaeis guineensis	false negative
+612	Petunia hybrida	false negative
+612	Phaseolus vulgaris	false negative
+612	Salvia milliorrhiza	false negative
+612	Populus euphratica	false negative
+612	Picea glauca	false negative
+612	Oryza sativa	false negative
+612	Prunus armeniaca	false negative
+612	Rosa chinensis	false negative
+612	Gossypium hirsutum	false negative
+612	Hordeum vulgare	false negative
+612	Lamiales	false negative
+612	Leymus chinensis	false negative
+612	Sorghum bicolor	false negative
+612	Pisum sativum	false negative
+612	Medicago truncatula	false negative
+612	Descurainia sophia	false negative
+612	Persea americana	false negative
+612	Puccinellia tenuiflora	false negative
+612	Helianthus annuus	false negative
+612	Ginkgo biloba	false negative
+612	Thellungiella halophila	false negative
+612	Triticum aestivum	false negative
+612	Schedonorus arundinaceus	false negative
+612	Citrus sinensis	false negative
+612	Stevia rebaudiana	false negative
+612	Malvaceae	false negative
+612	Panicum virgatum	false negative
+612	Solanum tuberosum	false negative
+612	Nuphar advena	false negative
+612	Glycine max	false negative
+612	Triticum trugidum	false negative
+612	Welwitschia mirabilis	false negative
+612	Amborella trichopoda	false negative
+612	Helianthus argophyllus	false negative
+612	Populus deltoides	false negative
+612	Secale cereale	false negative
+612	Nympheales	false negative
+612	Beta vulgaris	false negative
+612	Linum usifatissimum	false negative
+612	Populus euramericana	false negative
+612	Avicennia marina	false negative
+612	Triticum monococcum	false negative
+612	Hedyotis terminalis	false negative
+612	Helianthus paradoxus	false negative
+612	Populus trichocarpa	false negative
+612	Ceratopteris richardii	false negative
+612	Sesamum indicum	false negative
+612	Avena sativa	false negative
+612	Citrus clementina	false negative
+612	Yucca filamentosa	false negative
+612	Sorgum halepense	false negative
+612	Manihot esculenta	false negative
+612	Mentha piperita	false negative
+612	Cucumis sativus	false negative
+612	Gossypium raimondii	false negative
+612	Fragaria ananassa	false negative
+612	Marchantia polymorpha	false negative
+612	Euphorbia tirucalli	false negative
+612	Apium graveolens	false negative
+612	Zea mays	false negative
+612	Lotus corniculatus	false negative
+612	Theobroma cacao	false negative
+612	Ananas comosus	false negative
+612	Medicago sativa	false negative
+612	Liriodendron tulipifera	false negative
+612	Eschscholzia californica	false negative
+612	Ipomoea nil	false negative
+612	Lycoris longituba	false negative
+612	Vitis aestivalis	false negative
+612	Tortula ruralis	false negative
+612	Capsicum annutum	false negative
+612	Antirrhinum majus	false negative
+612	Phaseolus coccineus	false negative
+612	Vitis riparia	false negative
+612	Asparagus officinalis	false negative
+612	Prunis dulcis	false negative
+612	Pinus taeda	false negative
+612	Lactuca sativa	false negative
+612	Aspergales	false negative
+612	Hedyotis centranthoides	false negative
 612	Tamarix androssowii	false negative
 612	Robinia pseudoacacia	false negative
-612	Populus trichocarpa	false negative
-612	Prunus persica	false negative
-612	Puccinellia tenuiflora	false negative
-612	Hedyotis centranthoides	false negative
-612	Gerbera hybridcultivar	false negative
-612	Pinus taeda	false negative
-612	Eschscholzia californica	false negative
-612	Gossypium hirsutum	false negative
-612	Ginkgo biloba	false negative
-612	Ribes americanum	false negative
-612	Betula pendula	false negative
-612	Physcomitrella patens	false negative
-612	Picea glauca	false negative
-612	Prunus armeniaca	false negative
-612	Stevia rebaudiana	false negative
-612	Pisum sativum	false negative
-612	Mesembryanthemum crystallinum	false negative
-612	Schedonorus arundinaceus	false negative
-612	Triticum trugidum	false negative
-612	Tortula ruralis	false negative
-612	Nympheales	false negative
-612	Hedyotis terminalis	false negative
-612	Antirrhinum majus	false negative
-612	Avena sativa	false negative
-612	Camellia sinensis	false negative
-612	Linum usifatissimum	false negative
+612	Glycine soja	false negative
 612	Populus tomentiglandulosa	false negative
-612	Phaseolus coccineus	false negative
-612	Ipomoea batatas	false negative
-612	Solanales	false negative
-612	Helianthus annuus	false negative
-612	Ceratopteris richardii	false negative
-612	Brassica rapa	false negative
-612	Glycine max	false negative
-612	Avicennia marina	false negative
-612	Triticum aestivum	false negative
-612	Fabaceae	false negative
-612	Panax ginseng	false negative
 634	Soler	false positive
 634	U. crassus	false negative
-645	Malurus	false positive
-645	Pharmacia	false positive
 645	Sagala	false positive
 645	Lada	false positive
-645	Malurus cyaneuss	false negative
+645	Pharmacia	false positive
+645	Malurus	false positive
 645	Z. silvanus	false negative
+645	Malurus cyaneuss	false negative
 645	Pica pica	false negative
 645	Zosterops (poliogaster) silvanus	false negative
-651	B. stricta cross	false positive
 651	Stricta	false positive
+651	B. stricta cross	false positive
 651	Apetala	false positive
 651	Brassica	false negative
 667	Andreas	false positive
 667	Geneta	false negative
+677	Olga	false positive
+677	Nepe	false positive
 677	Gyps	false positive
-677	Guillermo	false positive
 677	Mega	false positive
 677	Neophron percnopterus	false positive
-677	Nepe	false positive
-677	Olga	false positive
+677	Guillermo	false positive
 677	Nephron percnopterus	false negative
 684	Lamprologus	false positive
-684	Mega	false positive
-684	E. cyanostictus	false positive
 684	Lepidiolamprologus profundicola	false positive
-684	A. calvus	false negative
-684	L. sp. ëmeeli-boulengeri'	false negative
+684	E. cyanostictus	false positive
+684	Mega	false positive
 684	L. profundicola	false negative
+684	N. cunningtoni	false negative
+684	N. savoryi	false negative
+684	L. signatus	false negative
+684	A. calvus	false negative
+684	J. ornatus	false negative
+684	L. ornatipinnis	false negative
+684	Lepidiolamprologus sp meeli-boulengeri	false negative
+684	L. cf. ocellatus	false negative
+684	N. calliurus	false negative
 684	N. moorii	false negative
 684	L. attenuatus	false negative
-684	L. elongatus	false negative
-684	N. calliurus	false negative
-684	N. savoryi	false negative
-684	N. modestus	false negative
-684	L. ornatipinnis	false negative
-684	L. cf. ocellatus	false negative
-684	J. ornatus	false negative
-684	N. cunningtoni	false negative
 684	Lamprologini	false negative
+684	L. elongatus	false negative
 684	N. brevis	false negative
-684	N. tetracanthus	false negative
-684	Lepidiolamprologus sp meeli-boulengeri	false negative
-684	L. signatus	false negative
+684	N. modestus	false negative
+684	L. sp. ëmeeli-boulengeri'	false negative
 684	Lepidolamprologus profundicola	false negative
-700	M. huetii plus	false positive
-700	Mercuriolis huetii	false positive
+684	N. tetracanthus	false negative
 700	Mercurialis huetii	false positive
+700	Mercuriolis huetii	false positive
+700	M. huetii plus	false positive
 700	Mercurialis huetti	false negative
-726	Cervus	false positive
-726	A. taeniorhynchus may	false positive
-726	Culex quinquefasciatus	false positive
+726	Galapagos	false positive
 726	Galapagos archipelago	false positive
+726	Culex quinquefasciatus	false positive
+726	Cervus	false positive
 726	Pamela	false positive
 726	Isla	false positive
-726	Galapagos	false positive
+726	A. taeniorhynchus may	false positive
 726	Anophles nili	false negative
-733	S. x baxteri	false negative
-733	plant	false negative
-733	Plant	false negative
 733	ragwort	false negative
-743	Cymbella ventricosa	false positive
-743	Bacillariaceae	false positive
-743	Bacillariophyceae	false positive
-743	Krammer	false positive
+733	Plant	false negative
+733	plant	false negative
+733	S. x baxteri	false negative
+743	Epithemiaceae	false positive
+743	Hustedt	false positive
 743	Topo	false positive
 743	Pinnularia	false positive
-743	Quercus	false positive
 743	Naviculaceae	false positive
-743	Hustedt	false positive
-743	Epithemiaceae	false positive
-743	Cymbella ventricosa/turgida	false negative
-743	Aulacoseira granulata v. angustissima	false negative
-743	Sellaphora cf. minima	false negative
+743	Cymbella ventricosa	false positive
+743	Krammer	false positive
+743	Quercus	false positive
+743	Bacillariaceae	false positive
+743	Bacillariophyceae	false positive
 743	Pinnularia neomaior	false negative
-749	F. s. catus	false negative
-749	F. s catus/lybica	false negative
+743	Cymbella ventricosa/turgida	false negative
+743	Sellaphora cf. minima	false negative
+743	Aulacoseira granulata v. angustissima	false negative
 749	F. s. lybica	false negative
+749	F. s catus/lybica	false negative
+749	F. s. catus	false negative
 759	Insects	false positive
 759	Psychoidea	false negative
 765	Franca	false positive
-765	Marsupalia	false negative
-765	Homo sapiens	false negative
-765	Euarchontoglires	false negative
-765	Laurasiatheria	false negative
-765	Tupaia belangeri	false negative
 765	B. taurus	false negative
+765	G. gorilla	false negative
+765	H. sapiens	false negative
+765	Laurasiatheria	false negative
+765	G. gallus	false negative
+765	C. jacchus	false negative
 765	O. anatinus	false negative
 765	Canis familiaris	false negative
-765	C. jacchus	false negative
-765	G. gorilla	false negative
-765	Placentalia	false negative
-765	D. novemcinctus	false negative
-765	L. africana	false negative
-765	P. p. abelii	false negative
-765	drosophila	false negative
-765	Pongo pygmaeus	false negative
-765	M. mulatta	false negative
-765	E. caballus	false negative
-765	H. sapiens	false negative
-765	Afrotheria	false negative
-765	M. musculus	false negative
 765	C. l. familiaris	false negative
+765	D. novemcinctus	false negative
+765	Afrotheria	false negative
+765	E. caballus	false negative
+765	Marsupalia	false negative
+765	drosophila	false negative
+765	M. mulatta	false negative
+765	Homo sapiens	false negative
+765	L. africana	false negative
+765	R. norvegicus	false negative
 765	Mus musculus	false negative
+765	Placentalia	false negative
+765	M. musculus	false negative
+765	E. europaeus	false negative
 765	Xenarthra	false negative
 765	M. domesticus	false negative
-765	P. troglodytes	false negative
-765	G. gallus	false negative
 765	T. vulpecula	false negative
-765	E. europaeus	false negative
-765	R. norvegicus	false negative
-792	Cascadia	false positive
+765	P. troglodytes	false negative
+765	Tupaia belangeri	false negative
+765	Pongo pygmaeus	false negative
+765	Euarchontoglires	false negative
+765	P. p. abelii	false negative
+792	Galapagos	false positive
+792	Janice	false positive
+792	Diane	false positive
 792	Sergio	false positive
 792	Physeter macropcephalus	false positive
-792	Diane	false positive
-792	Janice	false positive
-792	Galapagos	false positive
+792	Cascadia	false positive
 798	S. frugiperda	false positive
 798	Ravi	false positive
-798	Cleome	false negative
-798	H. zea	false negative
-798	Cleome viscosa	false negative
 798	s. frugiperda	false negative
-808	Suara	false positive
-808	Europaea list	false positive
+798	Cleome viscosa	false negative
+798	H. zea	false negative
+798	Cleome	false negative
 808	Mollusca	false positive
+808	Suara	false positive
 808	Beata	false positive
+808	Europaea list	false positive
 815	Scomber vernalis	false positive
 818	Morphological	false positive
 825	Drosophila chromosomes	false positive
-825	Drosophila sechellia	false positive
 825	D. sechellia mate	false positive
 825	Mauritiana	false positive
+825	Drosophila sechellia	false positive
 825	D. Sechellia	false negative
-825	Drosophila Mauritiana	false negative
 825	moths	false negative
+825	Drosophila Mauritiana	false negative
 831	Leja	false positive
-831	Hd��predominantly domesticus	false positive
 831	Predominantly domesticus	false positive
-831	musculus	false negative
-831	M. m. domesticus	false negative
+831	Hd��predominantly domesticus	false positive
 831	domesticus	false negative
 831	M. m. musculus	false negative
+831	M. m. domesticus	false negative
 831	M. musculus	false negative
+831	musculus	false negative
 835	Solis	false positive
 835	Gata	false positive
 851	Cervus	false positive
 857	Ravi	false positive
 868	Ctenochromis	false positive
-868	Lacerta agillis	false negative
 868	H. formosa	false negative
+868	Lacerta agillis	false negative
 868	Ctenochromis hoeri	false negative
 874	Cervus	false positive
 884	L. humile colonies	false positive
 884	Heinze	false positive
 917	G. gallus chromosome	false positive
+917	Morphological	false positive
 917	Mila	false positive
 917	Gallus gallus chromosome	false positive
-917	Morphological	false positive
-917	G. gallus	false negative
 917	Gallus gallus	false negative
 917	Passeriformes	false negative
-923	Morphological	false positive
-923	H. occidentalis	false positive
+917	G. gallus	false negative
 923	Neofelis may	false positive
 923	Megantereon	false positive
-923	Prionodontidae	false negative
-923	Homotheriini	false negative
-923	P. onca	false negative
-923	Viverridae	false negative
-923	P. concolor	false negative
-923	L. canadensis	false negative
-923	P. tigris	false negative
-923	Eupleridae	false negative
-923	Machairodontinae	false negative
-923	Smilodontini	false negative
-923	Nandinia	false negative
-923	A. jubatus	false negative
-923	Felinae	false negative
-923	P. pardus	false negative
-923	C. aurata	false negative
-923	Homotherini	false negative
-923	Caniformia	false negative
-923	S. fatalis	false negative
-923	Neofelis	false negative
-923	P. leo	false negative
-923	L. pardalis	false negative
-923	Hyaenidae	false negative
+923	H. occidentalis	false positive
+923	Morphological	false positive
 923	P. temminckii	false negative
-923	Metailurini	false negative
-923	C. caracal	false negative
+923	P. leo	false negative
+923	P. concolor	false negative
+923	P. tigris	false negative
+923	Hyaenidae	false negative
+923	L. pardalis	false negative
+923	Viverridae	false negative
+923	Caniformia	false negative
 923	Herpestidae	false negative
 923	Feliformia	false negative
-929	Paradoxus	false positive
+923	Machairodontinae	false negative
+923	L. canadensis	false negative
+923	Prionodontidae	false negative
+923	Eupleridae	false negative
+923	Homotherini	false negative
+923	C. caracal	false negative
+923	S. fatalis	false negative
+923	Smilodontini	false negative
+923	Metailurini	false negative
+923	Nandinia	false negative
+923	Homotheriini	false negative
+923	P. onca	false negative
+923	P. pardus	false negative
+923	Neofelis	false negative
+923	A. jubatus	false negative
+923	C. aurata	false negative
+923	Felinae	false negative
 929	Valle	false positive
-929	Saccharomyces paradoxus	false positive
 929	S. cerevisiae cells	false positive
-929	Mata	false positive
 929	S. cerevisiae may	false positive
+929	Paradoxus	false positive
+929	Mata	false positive
+929	Saccharomyces paradoxus	false positive
 929	Saccharomyces Paradoxus	false negative
-929	Homobasidiomycota	false negative
 929	Saccharomyces Cerevisiae	false negative
-933	T. grallator volcano	false positive
-933	Theridion	false positive
-933	S. caduca	false positive
+929	Homobasidiomycota	false negative
 933	Grallator	false positive
+933	Theridion	false positive
+933	T. grallator volcano	false positive
+933	S. caduca	false positive
 933	Theridion Grallator	false negative
 939	Morphological	false positive
 939	Anex	false positive
-946	Morphological	false positive
 946	Gelada	false positive
+946	Morphological	false positive
 946	Xenopus gilli	false positive
 946	X. largeni loci	false positive
-946	Pipa carvallhoi	false negative
 946	X. cf. boumbaensis	false negative
-949	Pseudomonas	false positive
-949	Luria	false positive
-949	Aeruginosa	false positive
-949	Larvae	false positive
+946	Pipa carvallhoi	false negative
 949	Pallen	false positive
+949	Luria	false positive
+949	Larvae	false positive
+949	Pseudomonas	false positive
+949	Aeruginosa	false positive
 956	Foraminiferal	false positive
 956	Uvigerina peregrine	false positive
 956	foraminifera	false negative
 966	Hine	false positive
 972	Janice	false positive
 972	Valle	false positive
+972	Ips	false positive
+972	D. jeffreyi	false positive
 972	C. polonica	false positive
 972	Tria	false positive
-972	D. jeffreyi	false positive
-972	Ips	false positive
 972	Ips typographu	false negative
 972	Pinus contorta Dougl. ex Loud. var. latifolia Engelm.	false negative
 978	Primates	false positive
 982	Unassigned	false positive
 988	Marcus	false positive
-999	Dorota	false positive
 999	Ianthe	false positive
+999	Dorota	false positive
 999	Mega	false positive
-1005	Caiman	false positive
-1005	C. porosus may	false positive
 1005	Crocodylus may	false positive
-1005	novaeguineae	false negative
-1005	niloticus	false negative
-1005	Paleosuchus palpebrosus	false negative
-1005	siamensis	false negative
-1005	acutus	false negative
-1005	johnstoni	false negative
-1005	megarhinus	false negative
-1005	lloydi	false negative
-1005	Paleosuchus trigonatus	false negative
-1005	C. acutus	false negative
-1005	palustris	false negative
-1005	moreletii	false negative
-1005	pigotti	false negative
-1005	Gavialinae	false negative
-1005	Chiromantis	false negative
-1005	O. t. tetraspis	false negative
-1005	O. t. osborni	false negative
-1005	porosus	false negative
-1005	C. moreletii	false negative
-1005	Crocodylus robustus	false negative
-1005	mindorensis	false negative
-1005	intermedius	false negative
+1005	C. porosus may	false positive
+1005	Caiman	false positive
+1005	Caiman latirostris	false negative
 1005	C. intermedius	false negative
 1005	Alligator mississippiensis	false negative
-1005	Alligator sinensis	false negative
-1005	Caiman latirostris	false negative
+1005	palustris	false negative
 1005	rhombifer	false negative
-1005	Alligator	false negative
+1005	niloticus	false negative
+1005	johnstoni	false negative
+1005	lloydi	false negative
 1005	Tomistoma schlegelii	false negative
+1005	siamensis	false negative
+1005	moreletii	false negative
+1005	intermedius	false negative
+1005	O. t. tetraspis	false negative
+1005	C. moreletii	false negative
+1005	pigotti	false negative
+1005	mindorensis	false negative
+1005	O. t. osborni	false negative
+1005	Crocodylus robustus	false negative
+1005	Chiromantis	false negative
+1005	Gavialinae	false negative
+1005	porosus	false negative
+1005	Paleosuchus palpebrosus	false negative
 1005	C. rhombifer	false negative
+1005	C. acutus	false negative
+1005	Alligator	false negative
+1005	megarhinus	false negative
+1005	acutus	false negative
+1005	Alligator sinensis	false negative
+1005	novaeguineae	false negative
+1005	Paleosuchus trigonatus	false negative
 1011	Taxon	false positive
-1011	Rhododendron	false negative
-1011	Sphagnum	false negative
-1011	Pelargonium	false negative
-1011	Zamia	false negative
-1011	Sequoia	false negative
-1011	Geranium	false negative
-1011	Oenotherna	false negative
 1011	Trifolium	false negative
-1011	Nicotiana	false negative
-1011	Acacia	false negative
-1011	Brassica	false negative
-1011	S. alba	false negative
+1011	Rhododendron	false negative
+1011	Sequoia	false negative
 1011	Araucaria	false negative
+1011	Zamia	false negative
+1011	Pelargonium	false negative
+1011	S. alba	false negative
+1011	Sphagnum	false negative
+1011	Oenotherna	false negative
+1011	Acacia	false negative
+1011	Geranium	false negative
+1011	Brassica	false negative
+1011	Nicotiana	false negative
 1027	Topo	false positive
 1031	T. c. attwateri	false negative
+1038	B. bimaculatus	false positive
 1038	Bombus species�bombus bifarius	false positive
 1038	Solter	false positive
-1038	B. bimaculatus	false positive
-1038	B. b nearcticus	false negative
-1038	B. o. nigroscutatus	false negative
-1038	Apis melifera	false negative
-1038	B. b. bifarius	false negative
 1038	B. o. occidentalis	false negative
+1038	B. b. bifarius	false negative
+1038	B. b nearcticus	false negative
+1038	B. o. proximus	false negative
+1038	Apis melifera	false negative
+1038	B. o. nigroscutatus	false negative
 1038	B. b. vancouverensis	false negative
 1038	B. impatiens	false negative
-1038	B. o. proximus	false negative
-1044	N. giraulti�nasonia longicornis	false positive
-1044	Tirana	false positive
-1044	C. ohridella mines	false positive
-1044	Cameraria ohridella versus	false positive
-1044	Morphological	false positive
 1044	Cameraria versus	false positive
+1044	N. giraulti�nasonia longicornis	false positive
+1044	Cameraria ohridella versus	false positive
 1044	Cabi	false positive
+1044	Morphological	false positive
+1044	Tirana	false positive
 1044	Ribes	false positive
-1044	P. froelichiella	false negative
-1044	P. quercifoliella	false negative
-1044	Drosophila simulans	false negative
+1044	C. ohridella mines	false positive
 1044	Drosophila melanogaster	false negative
-1044	N. giraulti	false negative
+1044	P. froelichiella	false negative
 1044	Nasonia longicornis	false negative
+1044	Drosophila simulans	false negative
+1044	P. quercifoliella	false negative
+1044	N. giraulti	false negative
 1048	Ferme experimentale	false positive
 1048	Martina	false positive
-1048	Bacillus	false negative
 1048	Rhodospirales	false negative
+1048	Bacillus	false negative
 1060	Arabis holboelli	false negative
-1060	B. lemmonii	false negative
-1060	B. cobrensis	false negative
 1060	B. vivariensis	false negative
+1060	B. cobrensis	false negative
+1060	B. lemmonii	false negative
+1070	A. alexandri may	false positive
+1070	Casella	false positive
 1070	Aphelocoma californica may	false positive
 1070	Ortega	false positive
-1070	A. alexandri may	false positive
 1070	P. edulis may	false positive
-1070	Casella	false positive
-1070	T. minimus	false negative
 1070	Juniperus osteosperma	false negative
+1070	T. minimus	false negative
 1076	Taxon level	false positive
-1076	M. nayaritense versus	false positive
 1076	Cordula	false positive
 1076	Verena	false positive
-1076	mayfieldii	false negative
-1076	strigosum	false negative
-1076	pringlei	false negative
-1076	sericeum	false negative
+1076	M. nayaritense versus	false positive
 1076	nayaritense	false negative
 1076	American Daisies	false negative
-1076	Nicotiana	false negative
+1076	sericeum	false negative
+1076	pringlei	false negative
+1076	strigosum	false negative
+1076	mayfieldii	false negative
 1076	longicorne	false negative
+1076	Nicotiana	false negative
 1076	Lineariloba	false negative
 1080	Drosphila melanogaster	false negative
 1087	Rhizoglyphus means	false positive
 1087	Marisa	false positive
-1087	Rhizoglyphus echinopus (Fumouze&Robin)	false negative
 1087	Rhizoglyphus	false negative
-1093	Taxon	false positive
-1093	Araneus	false positive
+1087	Rhizoglyphus echinopus (Fumouze&Robin)	false negative
 1093	Navarro	false positive
+1093	Araneus	false positive
+1093	Taxon	false positive
 1093	Sorex Araneus	false negative
 1103	Morphological	false positive
 1103	Mega	false positive
 1103	Batrachuperus sp1	false negative
 1103	Ambystoma	false negative
 1103	Triturus	false negative
-1109	Salmo trutta pose	false positive
 1109	Ikaros	false positive
+1109	Salmo trutta pose	false positive
 1109	Corinna	false positive
-1109	O. c. clarkii	false negative
 1109	O. c. lewisii	false negative
+1109	O. c. clarkii	false negative
+1109	O. m. gairdneri	false negative
+1109	O. m. irideus	false negative
 1109	Spartina spp.	false negative
 1109	O. c. bouveri	false negative
-1109	O. m. irideus	false negative
-1109	O. m. gairdneri	false negative
 1113	Galliform	false negative
 1119	Trichoplusia	false positive
 1119	Quercus species	false negative
 1119	Trichoplusia ni	false negative
 1142	Morphological	false positive
+1142	N. confinis	false negative
+1142	N. humifusa	false negative
+1142	N. adansonii	false negative
 1142	N. invaniana	false negative
 1142	N. laxa	false negative
-1142	N. rupicola	false negative
-1142	N. johnstonii	false negative
-1142	N. elegans	false negative
-1142	N. humifusa	false negative
-1142	N. aticoana	false negative
-1142	N. adansonii	false negative
-1142	N. confinis	false negative
 1142	N. ivaniana	false negative
+1142	N. elegans	false negative
+1142	N. johnstonii	false negative
+1142	N. rupicola	false negative
+1142	N. aticoana	false negative
 1146	Galago	false positive
 1146	Gorilla	false negative
-1158	Pocillopora colonies	false positive
 1158	Pocillopora data	false positive
-1158	Isla	false positive
+1158	Pocillopora colonies	false positive
 1158	Symbiodinium may	false positive
+1158	Isla	false positive
 1158	Plasmodium spp.	false negative
 1158	Zooxanthellae	false negative
 1158	Symbiodinium spp.	false negative
 1158	Plasmodium	false negative
 1175	Cerris	false positive
-1175	palmeri	false negative
-1175	mexicana	false negative
-1175	muehlenbergii	false negative
-1175	calliprinos	false negative
-1175	taginea	false negative
-1175	ilex	false negative
-1175	acutissima	false negative
-1175	ithaburensis	false negative
-1175	suber	false negative
-1175	agrifolia	false negative
-1175	phillyreodies	false negative
-1175	tomentella	false negative
-1175	parvula	false negative
-1175	diversifolia	false negative
 1175	ballota	false negative
-1175	trojana	false negative
-1175	cerris	false negative
-1175	fusiformis	false negative
-1175	virginiana	false negative
-1175	buckeyi	false negative
-1175	faginea	false negative
-1175	glauca	false negative
-1175	serrata	false negative
-1175	gambelii	false negative
-1175	chrysolepis	false negative
-1175	pungens	false negative
-1175	margarettia	false negative
-1175	phillyreoides	false negative
-1175	margarettiae	false negative
-1175	itex	false negative
-1175	vaseyana	false negative
-1175	buckleyi	false negative
-1175	berberidifolia	false negative
-1175	crassipes	false negative
-1175	candicans	false negative
-1175	turbinella	false negative
-1175	variabilis	false negative
-1175	prinoides	false negative
-1175	sinuata	false negative
-1175	robur	false negative
-1175	cyclobalanopsis	false negative
-1175	mongolica	false negative
-1175	alba	false negative
-1175	obtusata	false negative
-1175	greggii	false negative
-1175	garryana	false negative
-1175	grisea	false negative
-1175	rugosa	false negative
 1175	Q. ilex	false negative
-1175	castaneifolia	false negative
-1175	canariensis	false negative
-1175	coccifera	false negative
-1175	oblongifolia	false negative
-1175	gravesii	false negative
-1175	oleoides	false negative
-1175	douglasii	false negative
+1175	greggii	false negative
+1175	trojana	false negative
 1175	infectoria	false negative
-1175	brandegeei	false negative
-1175	mohriana	false negative
-1175	crassifolia	false negative
-1175	engelmannii	false negative
-1175	macrocarpa	false negative
-1175	lobata	false negative
+1175	castaneifolia	false negative
+1175	cerris	false negative
+1175	palmeri	false negative
+1175	phillyreoides	false negative
+1175	berberidifolia	false negative
+1175	serrata	false negative
+1175	oleoides	false negative
+1175	phillyreodies	false negative
+1175	crassipes	false negative
+1175	agrifolia	false negative
+1175	virginiana	false negative
+1175	cyclobalanopsis	false negative
+1175	fusiformis	false negative
+1175	ithaburensis	false negative
+1175	oblongifolia	false negative
+1175	suber	false negative
+1175	turbinella	false negative
+1175	chrysolepis	false negative
+1175	sinuata	false negative
+1175	pungens	false negative
+1175	mongolica	false negative
+1175	vaseyana	false negative
+1175	muehlenbergii	false negative
 1175	garriana	false negative
+1175	buckleyi	false negative
+1175	lobata	false negative
+1175	prinoides	false negative
+1175	diversifolia	false negative
+1175	gambelii	false negative
+1175	canariensis	false negative
+1175	mohriana	false negative
+1175	robur	false negative
+1175	margarettiae	false negative
+1175	obtusata	false negative
+1175	gravesii	false negative
+1175	buckeyi	false negative
+1175	garryana	false negative
+1175	macrocarpa	false negative
+1175	tomentella	false negative
+1175	mexicana	false negative
+1175	grisea	false negative
+1175	ilex	false negative
+1175	parvula	false negative
+1175	crassifolia	false negative
+1175	glauca	false negative
+1175	candicans	false negative
+1175	itex	false negative
+1175	faginea	false negative
+1175	rugosa	false negative
+1175	variabilis	false negative
+1175	calliprinos	false negative
+1175	engelmannii	false negative
+1175	margarettia	false negative
+1175	alba	false negative
+1175	douglasii	false negative
+1175	taginea	false negative
+1175	coccifera	false negative
+1175	brandegeei	false negative
+1175	acutissima	false negative
 1179	Canda	false positive
 1179	Corinna	false positive
+1179	Leptinotarsa decemlineata (Say)	false negative
+1179	Pterostichus melanarius (Illiger)	false negative
 1179	Poecilus cupreus (Linnaeus)	false negative
 1179	Tenebrio molitor Linnaeus	false negative
-1179	Pterostichus melanarius (Illiger)	false negative
-1179	Leptinotarsa decemlineata (Say)	false negative
-1185	Vieira	false positive
+1185	Natalia	false positive
 1185	Bruna	false positive
 1185	Melissa	false positive
-1185	Natalia	false positive
-1185	A. purpurea Nutt.	false negative
+1185	Vieira	false positive
 1185	Schyzachyrium	false negative
-1191	Varroa compared	false positive
+1185	A. purpurea Nutt.	false negative
 1191	Andreas	false positive
+1191	Varroa compared	false positive
 1191	Varroa mite	false positive
-1191	varroa	false negative
+1191	A. m. carnica	false negative
+1191	Kashmir bee virus	false negative
 1191	cloudy wing virus	false negative
-1191	deformed wing virus	false negative
 1191	V. destructor	false negative
 1191	black queen cell virus	false negative
-1191	Kashmir bee virus	false negative
-1191	A. m. carnica	false negative
-1191	slow paralysis virus	false negative
+1191	varroa	false negative
 1191	acute bee paralysis virus	false negative
+1191	deformed wing virus	false negative
+1191	slow paralysis virus	false negative
 1195	Morphological	false positive
 1201	Aves	false negative
 1201	Cupressus spp.	false negative
 1207	Drosophila cells	false positive
 1207	Elisa	false positive
+1218	Korarchaeum	false positive
 1218	Korarchaeum cryptophilum	false positive
 1218	Korarchaeum cryptofilum	false positive
-1218	Korarchaeum	false positive
-1218	Methanothermobacter thermautotrophicus	false negative
-1218	Methanocorpusculum labreanum	false negative
-1218	Picrophilus torridus	false negative
-1218	Thermococcus kodakaraensis	false negative
-1218	Halobacterium salinarium	false negative
-1218	Aquifex aeolicus	false negative
-1218	archaea	false negative
-1218	Candidus Korarchaeum	false negative
-1218	Agrobacterium tumefaciens	false negative
-1218	Pyrococcus abyssi	false negative
-1218	C. Korarchaeum	false negative
-1218	Methanocokrpusculum labreanum	false negative
-1218	Sulfolobus acidocaldarius	false negative
-1218	Methanopyrus kandleri	false negative
-1218	Methanococcoides burtonii	false negative
-1218	Korarchaea	false negative
-1218	Candidatus Korarchaeum	false negative
-1218	Staphylothermus marinus	false negative
-1218	Crenarchaea	false negative
-1218	Mycobacterium tuberculosis	false negative
-1218	Methanococcus maripaludis	false negative
-1218	Thermotoga maritima	false negative
-1218	C. Korarchaeum cryptophilum	false negative
-1218	Methanosarcina barkeri	false negative
-1218	Euryarchaea	false negative
 1218	Thermofilum pendens	false negative
-1218	Candidatus Korarchaeum cryptofilum	false negative
-1218	Methanococcoides	false negative
-1218	Methanospirillum hungatei	false negative
-1218	Thaumarchaea	false negative
-1218	Eukarya	false negative
-1218	Eukaryotes	false negative
 1218	Halorubrum lacusprofundi	false negative
-1218	Thermoplasma volcanium	false negative
-1218	Cytophaga hutchinsonii	false negative
 1218	Thermophilum pendens	false negative
+1218	C. Korarchaeum	false negative
+1218	Thaumarchaea	false negative
+1218	Agrobacterium tumefaciens	false negative
+1218	Crenarchaea	false negative
+1218	Picrophilus torridus	false negative
+1218	archaea	false negative
+1218	Korarchaea	false negative
+1218	Methanococcus maripaludis	false negative
+1218	Methanopyrus kandleri	false negative
+1218	Eukaryotes	false negative
+1218	Methanocorpusculum labreanum	false negative
+1218	Candidatus Korarchaeum cryptofilum	false negative
+1218	Mycobacterium tuberculosis	false negative
+1218	Thermotoga maritima	false negative
+1218	Methanococcoides burtonii	false negative
+1218	Thermoplasma volcanium	false negative
+1218	Halobacterium salinarium	false negative
+1218	Methanothermobacter thermautotrophicus	false negative
+1218	Candidatus Korarchaeum	false negative
+1218	Methanocokrpusculum labreanum	false negative
+1218	Pyrococcus abyssi	false negative
+1218	Eukarya	false negative
+1218	Aquifex aeolicus	false negative
+1218	Cytophaga hutchinsonii	false negative
+1218	Methanosarcina barkeri	false negative
+1218	Thermococcus kodakaraensis	false negative
 1218	Haloarcula marismortui	false negative
+1218	Sulfolobus acidocaldarius	false negative
 1218	Methanosaeta thermophila	false negative
+1218	C. Korarchaeum cryptophilum	false negative
+1218	Euryarchaea	false negative
+1218	Methanospirillum hungatei	false negative
 1218	C. Korarchaeum cryptofilum	false negative
+1218	Methanococcoides	false negative
 1218	Bacillus subtilis	false negative
+1218	Staphylothermus marinus	false negative
+1218	Candidus Korarchaeum	false negative
 1228	H. purcelli	false positive
+1228	Bufonids	false negative
 1228	H. versicolor	false negative
+1228	bufonids	false negative
 1228	P. crucifer	false negative
 1228	R. aurora	false negative
 1228	B. boreas	false negative
-1228	Bufonids	false negative
-1228	bufonids	false negative
-1234	Becker	false positive
-1234	Mita	false positive
-1234	B. mori gene	false positive
 1234	B. mori may	false positive
+1234	B. mori gene	false positive
+1234	Mita	false positive
+1234	Becker	false positive
 1234	Caenorhabditis worms	false negative
-1234	Drosophila flies	false negative
 1234	lepidoptera	false negative
+1234	Drosophila flies	false negative
 1250	Dario	false positive
-1257	Xenops minutus	false positive
-1257	Napo	false positive
-1257	Euphonia	false positive
-1257	Lepidocolaptes albolineatus	false positive
-1257	Incertae sedis	false positive
-1257	Myrmotherula menetriesii	false positive
-1257	Hemitriccus zosterops	false positive
-1257	Todirostrum pictum�todirostrum chrysocrotaphum	false positive
-1257	Tolmomyias poliocephalus	false positive
-1257	Microbates collaris	false positive
-1257	Platyrinchus coronatus	false positive
-1257	Automolus infuscatus	false positive
-1257	Glyphorynchus spirurus	false positive
-1257	Thamnophilus murinus	false positive
-1257	Celeus undatus�celeus grammicus	false positive
-1257	Notharchus	false positive
-1257	Pyrilia caica�pyrilia barrabandi	false positive
 1257	Psophia crepitans	false positive
-1257	Myrmothera campanisona	false positive
-1257	Tachyphonus surinamus	false positive
+1257	Automolus infuscatus	false positive
+1257	Notharchus	false positive
 1257	Onychorhynchus coronatus	false positive
-1257	Schistocichla leucostigma	false positive
-1257	Phoenicircus	false positive
-1257	Iodopleura fusca�iodopleura isabellae	false positive
-1257	Epinecrophylla	false positive
-1257	Sittasomus griseicapillus	false positive
-1257	Thalurania furcata	false positive
-1257	Tyranneutes	false positive
-1257	Phaethornis superciliosus	false positive
-1257	Terenotriccus erythrurus	false positive
-1257	Synallaxis rutilans	false positive
-1257	Willisornis poecilinotus	false positive
-1257	Dendrocolaptes picumnus	false positive
-1257	Ramphastos vitellinus	false positive
-1257	Ancia	false positive
-1257	Celeus torquatus	false positive
-1257	Selenidera	false positive
-1257	Grallaria varia	false positive
-1257	Piprites chloris	false positive
-1257	Galbula dea	false positive
-1257	Ramphastos tucanus	false positive
-1257	Tolmomyias assimilis	false positive
-1257	Schiffornis turdinus	false positive
-1257	Celeus elegans	false positive
-1257	Hylophilus ochraceiceps	false positive
-1257	Frederickena	false positive
-1257	Polioptila guianensis	false positive
-1257	Hemithraupis flavicollis	false positive
-1257	Zimmerius acer�zimmerius	false positive
-1257	Myrmotherula	false positive
-1257	Microcerculus bambla	false positive
-1257	Thamnophilus amazonicus	false positive
-1257	Dendrocincla fuliginosa	false positive
-1257	Galbula albirostris	false positive
-1257	Trogon rufus	false positive
-1257	Gymnopithys	false positive
-1257	Monasa	false positive
-1257	Dendrocolaptes certhia	false positive
-1257	Xiphorhynchus	false positive
-1257	Momotus momota	false positive
-1257	Pithys albifrons	false positive
 1257	Cymbilaimus lineatus	false positive
-1257	Dendrocincla merula	false positive
-1257	Lepidothrix	false positive
-1257	Cercomacra cinerascens	false positive
-1257	Piculus flavigula	false positive
-1257	Brotogeris	false positive
-1257	Myrmoborus myotherinus	false positive
-1257	Topaza	false positive
-1257	Percnostola rufifrons	false positive
-1257	Veniliornis cassini�veniliornis	false positive
-1257	Automolus rubiginosus	false positive
-1257	Pteroglossus aracari�pteroglossus pluricinctus	false positive
-1257	Tangara mexicana	false positive
-1257	Hypocnemis	false positive
-1257	Pheugopedius coraya	false positive
-1257	Cercomacra tyrannina	false positive
+1257	Thamnophilus amazonicus	false positive
 1257	Myrmotherula axillaris	false positive
-1257	Pyrilia barrabandi	false negative
-1257	R. v. culminatus	false negative
-1257	C. l. intermedius	false negative
-1257	Todirostrum chrysocrotaphum	false negative
-1257	Onychorhynchus coronatus coronatus	false negative
-1257	Capito auratus	false negative
-1257	Pyrilia caica	false negative
-1257	Phoenicircus nigricollis	false negative
-1257	Tangara mexicana mexicana	false negative
-1257	Phaethornis superciliosus superciliosus	false negative
-1257	Pheugopedius coraya coraya	false negative
-1257	Lepidothrix coronatac	false negative
-1257	B. cyanoptera	false negative
-1257	G. a. chalcocephala	false negative
-1257	Glyphorynchus spirurus spirurus	false negative
-1257	H. z. zosterops	false negative
-1257	Piprites chloris chlorion	false negative
-1257	R. t. cuvieri	false negative
-1257	Frederickena viridis	false negative
-1257	Selenidera piperivora	false negative
-1257	Hemithraupis flavicollis flavicollis	false negative
-1257	M. a. melaena	false negative
-1257	Schistocichla leucostigma leucostigma	false negative
-1257	Phaethornis s. superciliosus	false negative
-1257	Epinecrophylla haematonota	false negative
-1257	C. e. jumanus	false negative
-1257	Automolus rubiginosus obscurus	false negative
-1257	Cymbilaimus lineatus lineatus	false negative
-1257	Celeus torquatus torquatus	false negative
-1257	M. c. dissors	false negative
-1257	O. c. castelnaui	false negative
-1257	H. f. aurigularis	false negative
-1257	Synallaxis rutilans dissors	false negative
-1257	T. m. murinus	false negative
-1257	T. a. cinereiceps	false negative
-1257	Monasa atra	false negative
-1257	Epinecrophylla gutturalis	false negative
-1257	Gymnopithys rufigula	false negative
-1257	Terenotriccus erythrurus erythrurus	false negative
-1257	Myrmotherula menetriesii cinereiventris	false negative
-1257	P. c. ochroptera-napensis	false negative
-1257	Notharchus macrorhynchos	false negative
-1257	Brotogeris chrysopterus	false negative
-1257	D. c. radiolatus	false negative
-1257	D. m. bartletti	false negative
-1257	Hypocnemis flavescens	false negative
-1257	Cercomacra tyrannina saturatior	false negative
-1257	D. p. validus	false negative
-1257	T. f. nigrofasciata	false negative
-1257	Trogon rufus rufus	false negative
-1257	X. m. remoratus	false negative
-1257	Hylophilus hypoxanthus	false negative
-1257	Dendrocincla fuliginosa fuliginosa	false negative
-1257	Willisornis poecilinotus poecilinotus	false negative
-1257	M. m. elegans	false negative
-1257	Xiphorhynchus pardalotus	false negative
-1257	Thalurania furcata furcata	false negative
-1257	M. m. pallida	false negative
-1257	Gymnopithys leucaspis	false negative
-1257	P. c. griseipectus	false negative
-1257	G. v. cinereiceps	false negative
-1257	Schiffornis turdinus turdinus	false negative
-1257	Dendrocolaptes certhia certhia	false negative
-1257	Monasa morphoeus	false negative
-1257	Lepidothrix serena	false negative
-1257	T. r. sulphureus	false negative
-1257	Thamnophilus amazonicus divaricatus	false negative
+1257	Frederickena	false positive
+1257	Celeus elegans	false positive
+1257	Veniliornis cassini�veniliornis	false positive
+1257	Pheugopedius coraya	false positive
+1257	Xiphorhynchus	false positive
+1257	Percnostola rufifrons	false positive
+1257	Trogon rufus	false positive
+1257	Monasa	false positive
+1257	Myrmoborus myotherinus	false positive
+1257	Tolmomyias poliocephalus	false positive
+1257	Galbula albirostris	false positive
+1257	Dendrocolaptes certhia	false positive
+1257	Cercomacra cinerascens	false positive
+1257	Phoenicircus	false positive
+1257	Tyranneutes	false positive
+1257	Lepidocolaptes albolineatus	false positive
+1257	Hypocnemis	false positive
+1257	Glyphorynchus spirurus	false positive
+1257	Hemitriccus zosterops	false positive
+1257	Dendrocincla fuliginosa	false positive
+1257	Zimmerius acer�zimmerius	false positive
+1257	Myrmotherula menetriesii	false positive
+1257	Polioptila guianensis	false positive
+1257	Pyrilia caica�pyrilia barrabandi	false positive
+1257	Selenidera	false positive
+1257	Incertae sedis	false positive
+1257	Hylophilus ochraceiceps	false positive
+1257	Phaethornis superciliosus	false positive
+1257	Microcerculus bambla	false positive
+1257	Euphonia	false positive
+1257	Todirostrum pictum�todirostrum chrysocrotaphum	false positive
+1257	Xenops minutus	false positive
+1257	Myrmothera campanisona	false positive
+1257	Celeus undatus�celeus grammicus	false positive
+1257	Myrmotherula	false positive
+1257	Gymnopithys	false positive
+1257	Galbula dea	false positive
+1257	Schistocichla leucostigma	false positive
+1257	Willisornis poecilinotus	false positive
+1257	Grallaria varia	false positive
+1257	Piculus flavigula	false positive
+1257	Thalurania furcata	false positive
+1257	Brotogeris	false positive
+1257	Pteroglossus aracari�pteroglossus pluricinctus	false positive
+1257	Terenotriccus erythrurus	false positive
+1257	Pithys albifrons	false positive
+1257	Tachyphonus surinamus	false positive
+1257	Dendrocolaptes picumnus	false positive
+1257	Platyrinchus coronatus	false positive
+1257	Thamnophilus murinus	false positive
+1257	Dendrocincla merula	false positive
+1257	Cercomacra tyrannina	false positive
+1257	Synallaxis rutilans	false positive
+1257	Piprites chloris	false positive
+1257	Tolmomyias assimilis	false positive
+1257	Ancia	false positive
+1257	Schiffornis turdinus	false positive
+1257	Napo	false positive
+1257	Hemithraupis flavicollis	false positive
+1257	Lepidothrix	false positive
+1257	Tangara mexicana	false positive
+1257	Ramphastos vitellinus	false positive
+1257	Momotus momota	false positive
+1257	Ramphastos tucanus	false positive
+1257	Epinecrophylla	false positive
+1257	Iodopleura fusca�iodopleura isabellae	false positive
+1257	Celeus torquatus	false positive
+1257	Sittasomus griseicapillus	false positive
+1257	Topaza	false positive
+1257	Automolus rubiginosus	false positive
+1257	Microbates collaris	false positive
 1257	A. r. venezuelanus	false negative
-1257	Xiphorhynchus guttatus polystictus	false negative
-1257	Euphonia cayennensis	false negative
-1257	Tolmomyias assimilis neglectus	false negative
-1257	Notharchus hyperrhynchus	false negative
-1257	Pteroglossus aracari	false negative
-1257	Lepidocolaptes albolineatus albolineatus	false negative
-1257	Myrmoborus myotherinus ardesiacus	false negative
-1257	P. c. tschudii	false negative
-1257	Microbates collaris torquatus	false negative
-1257	Ramphastos vitellinus vitellinus	false negative
-1257	Topaza pella	false negative
-1257	Pteroglossus pluricinctus	false negative
-1257	Hemitriccus zosterops rothschildi	false negative
-1257	Polioptila guianensis guianensis	false negative
-1257	W. p. duidae	false negative
-1257	Cercomacra cinerascens immaculata	false negative
-1257	Thamnophilus murinus cayennensis	false negative
-1257	Willisornis p. poecilinotus	false negative
-1257	Iodopleura fusca	false negative
-1257	C. c. cinerascens	false negative
-1257	A. i. badius	false negative
-1257	S. g. amazonus	false negative
-1257	S. r. confinis	false negative
-1257	Tyranneutes stolzmanni	false negative
-1257	T. e. venezuelensis	false negative
-1257	Dendrocolaptes picumnus picumnus	false negative
-1257	Automolus infuscatus cervicalis	false negative
-1257	G. s. rufigularis	false negative
-1257	P. s. insolitus	false negative
-1257	Tolmomyias poliocephalus sclateri-klagesi	false negative
-1257	Piculus flavigula flavigula	false negative
-1257	Todirostrum pictum	false negative
-1257	C. t. tyrannina	false negative
-1257	Hypocnemis cantator	false negative
-1257	G. d. brunneiceps	false negative
-1257	Euphonia rufiventris	false negative
-1257	X. ocellatus	false negative
-1257	L. a. duidae	false negative
-1257	P. g. facilis	false negative
-1257	S. t. amazonus	false negative
-1257	T. m. media	false negative
-1257	Celeus grammicus	false negative
-1257	Iodopleura isabellae	false negative
-1257	Myrmotherula hauxwelli	false negative
-1257	Lepidothrix coronata	false negative
-1257	Hylophilus ochraceiceps luteifrons	false negative
-1257	T. s. brevipes	false negative
-1257	Tyranneutes virescens	false negative
-1257	Ramphastos tucanus tucanus	false negative
-1257	M. m. microstephanus	false negative
-1257	M. c. collaris	false negative
-1257	Veniliornis cassini	false negative
-1257	Brotogeris chrysoptera	false negative
-1257	P. c. coronatus	false negative
-1257	X. g. guttatoides	false negative
-1257	Galbula dea dea	false negative
-1257	Myrmothera campanisona campanisona	false negative
-1257	Grallaria varia varia	false negative
-1257	Schiffornis t. turdinus	false negative
-1257	C. t. occidentalis	false negative
-1257	Momotus momota momota	false negative
 1257	Galbula albirostris albirostris	false negative
-1257	Zimmerius gracilipes	false negative
-1257	Capito niger	false negative
-1257	Xenops minutus ruficaudus	false negative
-1257	Veniliornis affinis	false negative
-1257	P. a. peruvianus	false negative
-1257	Psophia crepitans crepitans	false negative
-1257	Celeus elegans elegans	false negative
-1257	Tachyphonus surinamus surinamus	false negative
-1257	Veniliornis affinise	false negative
-1257	Hylophilus muscicapinus	false negative
-1257	Platyrinchus coronatus gumia	false negative
-1257	B. cyanopterus	false negative
-1257	Frederickena unduligera	false negative
-1257	Topaza pyra	false negative
-1257	Microcerculus bambla bambla	false negative
-1257	Brotogeris cyanoptera	false negative
-1257	Percnostola rufifrons rufifrons	false negative
-1257	P. r. minor	false negative
-1257	Pithys a. albifrons	false negative
-1257	T. a. examinatus	false negative
-1257	H. flavescens	false negative
-1257	Xiphorhynchus ocellatus	false negative
-1257	D. f. phaeochroa	false negative
-1257	Monasa morphoeuse	false negative
-1257	P.a. peruvianus	false negative
-1257	Myrmotherula guttata	false negative
-1257	M. b. albigularis-caurensis	false negative
-1257	Zimmerius gracilipese	false negative
-1257	S. l. infuscata	false negative
-1257	Phoenicircus carnifex	false negative
+1257	Thalurania furcata furcata	false negative
 1257	Celeus undatus	false negative
-1257	Myrmotherula axillaris axillaris	false negative
+1257	Hypocnemis flavescens	false negative
+1257	Selenidera piperivora	false negative
+1257	Terenotriccus erythrurus erythrurus	false negative
+1257	Epinecrophylla haematonota	false negative
 1257	Zimmerius acer	false negative
-1257	P. f. magnus	false negative
+1257	Gymnopithys leucaspis	false negative
+1257	G. d. brunneiceps	false negative
+1257	Euphonia cayennensis	false negative
+1257	S. t. amazonus	false negative
+1257	L. a. duidae	false negative
+1257	Celeus elegans elegans	false negative
+1257	Schistocichla leucostigma leucostigma	false negative
+1257	Dendrocolaptes picumnus picumnus	false negative
+1257	Iodopleura fusca	false negative
+1257	Thamnophilus murinus cayennensis	false negative
+1257	Hylophilus hypoxanthus	false negative
+1257	Pteroglossus pluricinctus	false negative
+1257	D. p. validus	false negative
+1257	Capito auratus	false negative
+1257	Veniliornis affinis	false negative
+1257	Frederickena unduligera	false negative
 1257	T. p. poliocephalus	false negative
+1257	P. c. griseipectus	false negative
+1257	Schiffornis t. turdinus	false negative
+1257	P. c. ochroptera-napensis	false negative
+1257	Automolus rubiginosus obscurus	false negative
+1257	Gymnopithys rufigula	false negative
+1257	Veniliornis cassini	false negative
+1257	C. e. jumanus	false negative
+1257	B. cyanopterus	false negative
+1257	Ramphastos tucanus tucanus	false negative
+1257	R. t. cuvieri	false negative
+1257	T. r. sulphureus	false negative
 1257	Selenidera nattereri	false negative
-1257	Dendrocincla merula merula	false negative
-1257	H. o. ferrugineifrons	false negative
+1257	Celeus torquatus torquatus	false negative
+1257	Glyphorynchus spirurus spirurus	false negative
 1257	Sittasomus griseicapillus axillaris	false negative
+1257	C. c. cinerascens	false negative
+1257	Todirostrum pictum	false negative
+1257	D. c. radiolatus	false negative
+1257	Percnostola rufifrons rufifrons	false negative
+1257	T. m. murinus	false negative
+1257	A. i. badius	false negative
+1257	Lepidocolaptes albolineatus albolineatus	false negative
+1257	Tachyphonus surinamus surinamus	false negative
+1257	Dendrocincla fuliginosa fuliginosa	false negative
+1257	Platyrinchus coronatus gumia	false negative
+1257	Pithys a. albifrons	false negative
+1257	B. cyanoptera	false negative
+1257	Capito niger	false negative
+1257	Iodopleura isabellae	false negative
+1257	Pyrilia barrabandi	false negative
+1257	S. g. amazonus	false negative
+1257	Ramphastos vitellinus vitellinus	false negative
+1257	Myrmotherula menetriesii cinereiventris	false negative
+1257	Microbates collaris torquatus	false negative
+1257	Monasa atra	false negative
+1257	T. a. examinatus	false negative
+1257	M. a. melaena	false negative
+1257	T. f. nigrofasciata	false negative
+1257	T. a. cinereiceps	false negative
+1257	Galbula dea dea	false negative
+1257	Zimmerius gracilipese	false negative
+1257	Euphonia rufiventris	false negative
+1257	Hypocnemis cantator	false negative
+1257	Xiphorhynchus pardalotus	false negative
+1257	Schiffornis turdinus turdinus	false negative
+1257	M. c. dissors	false negative
+1257	Thamnophilus amazonicus divaricatus	false negative
+1257	Tolmomyias assimilis neglectus	false negative
+1257	Xenops minutus ruficaudus	false negative
+1257	Piculus flavigula flavigula	false negative
+1257	Tolmomyias poliocephalus sclateri-klagesi	false negative
+1257	Onychorhynchus coronatus coronatus	false negative
+1257	Lepidothrix serena	false negative
+1257	Hylophilus muscicapinus	false negative
+1257	M. m. microstephanus	false negative
+1257	X. g. guttatoides	false negative
+1257	P. s. insolitus	false negative
+1257	Lepidothrix coronatac	false negative
+1257	Topaza pyra	false negative
+1257	P. r. minor	false negative
+1257	T. s. brevipes	false negative
+1257	Phaethornis s. superciliosus	false negative
+1257	Psophia crepitans crepitans	false negative
+1257	Lepidothrix coronata	false negative
+1257	Veniliornis affinise	false negative
+1257	S. r. confinis	false negative
+1257	Epinecrophylla gutturalis	false negative
+1257	Monasa morphoeuse	false negative
+1257	C. t. tyrannina	false negative
+1257	Grallaria varia varia	false negative
+1257	Myrmothera campanisona campanisona	false negative
+1257	Tyranneutes stolzmanni	false negative
+1257	C. l. intermedius	false negative
+1257	Tyranneutes virescens	false negative
+1257	Hemitriccus zosterops rothschildi	false negative
+1257	Hylophilus ochraceiceps luteifrons	false negative
+1257	M. c. collaris	false negative
+1257	Phoenicircus nigricollis	false negative
+1257	Willisornis poecilinotus poecilinotus	false negative
+1257	Cercomacra cinerascens immaculata	false negative
+1257	P. f. magnus	false negative
+1257	T. m. media	false negative
+1257	Polioptila guianensis guianensis	false negative
+1257	H. o. ferrugineifrons	false negative
+1257	X. ocellatus	false negative
+1257	D. m. bartletti	false negative
+1257	Willisornis p. poecilinotus	false negative
+1257	Todirostrum chrysocrotaphum	false negative
+1257	Phoenicircus carnifex	false negative
+1257	Phaethornis superciliosus superciliosus	false negative
+1257	X. m. remoratus	false negative
+1257	T. e. venezuelensis	false negative
+1257	O. c. castelnaui	false negative
+1257	M. m. pallida	false negative
+1257	Monasa morphoeus	false negative
+1257	Microcerculus bambla bambla	false negative
+1257	Pheugopedius coraya coraya	false negative
+1257	Xiphorhynchus ocellatus	false negative
+1257	Notharchus macrorhynchos	false negative
+1257	P. c. coronatus	false negative
+1257	Tangara mexicana mexicana	false negative
+1257	P. g. facilis	false negative
+1257	H. f. aurigularis	false negative
+1257	Notharchus hyperrhynchus	false negative
+1257	C. t. occidentalis	false negative
+1257	P. c. tschudii	false negative
+1257	H. flavescens	false negative
+1257	Xiphorhynchus guttatus polystictus	false negative
+1257	Hemithraupis flavicollis flavicollis	false negative
+1257	D. f. phaeochroa	false negative
+1257	M. b. albigularis-caurensis	false negative
+1257	Cercomacra tyrannina saturatior	false negative
+1257	Celeus grammicus	false negative
+1257	Myrmotherula guttata	false negative
+1257	G. v. cinereiceps	false negative
+1257	Momotus momota momota	false negative
+1257	Myrmotherula axillaris axillaris	false negative
+1257	Brotogeris chrysoptera	false negative
+1257	Pyrilia caica	false negative
+1257	Cymbilaimus lineatus lineatus	false negative
+1257	H. z. zosterops	false negative
+1257	R. v. culminatus	false negative
+1257	Brotogeris cyanoptera	false negative
+1257	Automolus infuscatus cervicalis	false negative
+1257	Dendrocolaptes certhia certhia	false negative
+1257	G. s. rufigularis	false negative
+1257	Trogon rufus rufus	false negative
+1257	Myrmoborus myotherinus ardesiacus	false negative
+1257	M. m. elegans	false negative
+1257	P.a. peruvianus	false negative
+1257	W. p. duidae	false negative
+1257	Pteroglossus aracari	false negative
+1257	Dendrocincla merula merula	false negative
+1257	Piprites chloris chlorion	false negative
+1257	Frederickena viridis	false negative
+1257	Topaza pella	false negative
+1257	S. l. infuscata	false negative
+1257	Zimmerius gracilipes	false negative
+1257	Myrmotherula hauxwelli	false negative
+1257	P. a. peruvianus	false negative
+1257	Synallaxis rutilans dissors	false negative
+1257	Brotogeris chrysopterus	false negative
+1257	G. a. chalcocephala	false negative
 1261	Texas medians	false positive
 1277	Lauria	false positive
 1277	Drosophila	false positive
 1277	Beier	false positive
-1277	Ochthebius Urbanelliae	false negative
-1277	Cirella	false negative
 1277	Drosophila serrata	false negative
-1292	Acropora millepora colonies	false positive
-1292	Leucetta	false positive
-1292	Seriatopora hystrix colonies	false positive
+1277	Cirella	false negative
+1277	Ochthebius Urbanelliae	false negative
 1292	Acropora beds	false positive
+1292	Acropora millepora colonies	false positive
+1292	Seriatopora hystrix colonies	false positive
+1292	Leucetta	false positive
 1292	Acropora spp.	false negative
-1292	T. maxima	false negative
 1292	Leucetta ëchagosensis'	false negative
+1292	T. maxima	false negative
 1292	Cnidaria	false negative
 1293	Morphological	false positive
 1293	S. pelliserpentis data	false positive
 1293	Fucus	false negative
-1293	D. antarctica	false negative
 1293	S. aorangi	false negative
+1293	D. antarctica	false negative
+1310	Morphological	false positive
 1310	L. amethystina may	false positive
 1310	Lactarius	false positive
-1310	Morphological	false positive
-1310	Amethystina	false positive
-1310	Quercus	false positive
-1310	Alnus	false positive
 1310	Vaccinium	false positive
-1310	Laccaria amethystina (Huds.) Cooke	false negative
-1310	Laccaria spp.	false negative
+1310	Alnus	false positive
+1310	Quercus	false positive
+1310	Amethystina	false positive
+1310	Alnus spp.	false negative
 1310	Laccaria Amethystina	false negative
 1310	Quercus spp.	false negative
-1310	Lactarius spp.	false negative
-1310	Alnus spp.	false negative
-1310	Rhizopogon spp.	false negative
-1310	Fagus sylvatica L.	false negative
 1310	Vaccinium spp.	false negative
-1316	Sergey	false positive
+1310	Lactarius spp.	false negative
+1310	Laccaria spp.	false negative
+1310	Fagus sylvatica L.	false negative
+1310	Rhizopogon spp.	false negative
+1310	Laccaria amethystina (Huds.) Cooke	false negative
 1316	Jessica	false positive
 1316	Drosophila medium	false positive
-1326	Acanthopagrus	false positive
-1326	Pachymetopon	false positive
-1326	Rhabdosargus	false positive
-1326	Chrysoblephus blochii lithognathus	false positive
-1326	Cheimerius	false positive
-1326	Lithognathus	false positive
-1326	Pagellus	false positive
-1326	Polysteganus	false positive
+1316	Sergey	false positive
 1326	Diplodus cervinus	false positive
-1326	Chrysoblephus	false positive
 1326	Gata	false positive
-1326	D. s. capensis	false negative
+1326	Chrysoblephus	false positive
+1326	Pachymetopon	false positive
+1326	Acanthopagrus	false positive
+1326	Chrysoblephus blochii lithognathus	false positive
+1326	Polysteganus	false positive
+1326	Cheimerius	false positive
+1326	Pagellus	false positive
+1326	Rhabdosargus	false positive
+1326	Lithognathus	false positive
 1326	Pagellus borgaraveo	false negative
-1326	D. c. hottentotus	false negative
 1326	P. borgaraveo	false negative
-1332	Bolitoglossa	false positive
-1332	Dejean	false positive
-1332	Crotalus	false positive
-1332	Hypsiboas	false positive
-1332	Leptodactylus wagneri�podicipinus	false positive
-1332	Asmentionedinfouquetetal������a�����c��rhinella dapsilis	false positive
-1332	L. wagneri	false positive
+1326	D. s. capensis	false negative
+1326	D. c. hottentotus	false negative
 1332	Anaxyrus	false positive
-1332	Allobates hodli	false positive
+1332	Leptodactylus wagneri	false positive
+1332	Adelophryne	false positive
 1332	Dendropsophus	false positive
+1332	Dejean	false positive
+1332	Allobates hodli	false positive
+1332	Leptodactylus wagneri�podicipinus	false positive
+1332	P. bracki	false positive
+1332	L. validus	false positive
+1332	Asmentionedinfouquetetal������a�����c��rhinella dapsilis	false positive
+1332	Hypsiboas	false positive
 1332	Physalaemus	false positive
 1332	A. femoralis	false positive
-1332	L. validus	false positive
-1332	Leptodactylus wagneri	false positive
-1332	P. bracki	false positive
+1332	L. wagneri	false positive
+1332	Crotalus	false positive
 1332	Engystomops	false positive
-1332	Adelophryne	false positive
-1332	P. zeuctotylus	false negative
-1332	Bufo ocellatus	false negative
-1332	Rhaebo guttatus	false negative
-1332	Eleutherod. martinicensis	false negative
+1332	Bolitoglossa	false positive
 1332	Leptodactylus wagneri B	false negative
-1332	Dendropsophus leucophyllatus	false negative
-1332	Rhinella margaritifera s.l.	false negative
-1332	Hypsiboas aff. crepitans	false negative
-1332	Ischnocnema parva	false negative
-1332	Rhinella sp.	false negative
-1332	Adelophryne cf. gutturosa	false negative
-1332	Anomeloglossus baeobatrachus	false negative
-1332	Pristimantis fenestratus	false negative
-1332	Scinax boesemani	false negative
-1332	Leptodactylus didymus	false negative
-1332	Al. sp.	false negative
-1332	P. chiastonotus	false negative
-1332	Leptodactylus gr. wagneri B	false negative
-1332	Physalaemus cf. ephipiffer	false negative
-1332	Leptodactylus sp. gr. wagneri B	false negative
-1332	R cf. margaritifera	false negative
-1332	Pseudis paradoxa	false negative
-1332	Dendrosophus minusculus	false negative
-1332	Rhinella castaenotica	false negative
-1332	Scinax ruber x-signatus	false negative
-1332	An. degranvillei	false negative
-1332	Rhinella spp.	false negative
-1332	Scinax nasicus	false negative
-1332	Le. wagneri B	false negative
 1332	Hypsiboas boans	false negative
-1332	An. sp. Brownsberg	false negative
-1332	Crotalus durissus	false negative
-1332	Hylini	false negative
 1332	Myersiohyla kanaima	false negative
-1332	Rhinella catsaneotica	false negative
-1332	Anomaloglossus sp.	false negative
-1332	Rhinella hoogmoedi	false negative
-1332	L. wagneri B	false negative
-1332	Trachycephalus typhonius	false negative
-1332	Dendrosophus minusculus ss	false negative
-1332	Le. didymus	false negative
-1332	Dendrosophus sp. aff. minusculus	false negative
-1332	Leptodactylus wagneri C	false negative
-1332	Engystomops aff. petersi	false negative
-1332	R. castaneotica sensu siricio	false negative
-1332	Lophiohylini	false negative
-1332	Leptodactylus sp. gr. wagneri C	false negative
-1332	Bolitoglossa sp.	false negative
-1332	Scarthyla goinorum	false negative
-1332	R. martyi	false negative
-1332	Dendropsophus aff. brevifrons	false negative
-1332	Pitcairnia	false negative
 1332	Scinax ruber	false negative
-1332	An. sp.	false negative
+1332	Scarthyla goinorum	false negative
+1332	Scinax nasicus	false negative
+1332	Rhinella spp.	false negative
+1332	Physalaemus cf. ephipiffer	false negative
+1332	P. zeuctotylus	false negative
+1332	Anomaloglossus sp.	false negative
+1332	An. sp. Brownsberg	false negative
+1332	Lophiohylini	false negative
+1332	Pseudis paradoxa	false negative
+1332	Pristimantis fenestratus	false negative
+1332	Bolitoglossa sp.	false negative
+1332	Hylini	false negative
 1332	Rhinella castaneotica s.l.	false negative
+1332	R. castaneotica sensu siricio	false negative
+1332	An. sp.	false negative
+1332	P. chiastonotus	false negative
+1332	Eleutherod. martinicensis	false negative
+1332	Le. wagneri B	false negative
+1332	Leptodactylus sp. gr. wagneri C	false negative
+1332	Anomeloglossus baeobatrachus	false negative
+1332	Ischnocnema parva	false negative
+1332	Dendropsophus leucophyllatus	false negative
+1332	R cf. margaritifera	false negative
+1332	Leptodactylus sp. gr. wagneri B	false negative
+1332	Leptodactylus gr. wagneri B	false negative
+1332	Al. sp.	false negative
+1332	Dendrosophus minusculus ss	false negative
+1332	An. degranvillei	false negative
+1332	Adelophryne cf. gutturosa	false negative
+1332	Hypsiboas aff. crepitans	false negative
+1332	Dendrosophus sp. aff. minusculus	false negative
+1332	Le. didymus	false negative
+1332	Scinax ruber x-signatus	false negative
+1332	Rhinella hoogmoedi	false negative
+1332	Pitcairnia	false negative
+1332	Rhinella catsaneotica	false negative
 1332	Scinax nebulosus	false negative
-1332	Anomaloglossus sp. Brownsberg	false negative
+1332	Crotalus durissus	false negative
+1332	Bufo ocellatus	false negative
+1332	Rhinella castaenotica	false negative
+1332	L. wagneri B	false negative
+1332	Engystomops aff. petersi	false negative
 1332	Rhinella cf. castaneotica	false negative
+1332	Leptodactylus didymus	false negative
+1332	R. martyi	false negative
 1332	Rhinella dapsilis	false negative
+1332	Dendrosophus minusculus	false negative
+1332	Leptodactylus wagneri C	false negative
+1332	Rhaebo guttatus	false negative
+1332	Trachycephalus typhonius	false negative
+1332	Rhinella margaritifera s.l.	false negative
+1332	Dendropsophus aff. brevifrons	false negative
+1332	Rhinella sp.	false negative
+1332	Scinax boesemani	false negative
+1332	Anomaloglossus sp. Brownsberg	false negative
 1338	Mega	false positive
 1349	Disa ophrydea ferruginea	false positive
 1349	Disa	false positive
 1349	D. ferruginea data	false positive
 1349	Disa ferruginea	false negative
-1359	Taxon	false positive
-1359	Jime	false positive
 1359	Elaeocarpaceae	false positive
+1359	Jime	false positive
 1359	Oxalis flora	false positive
-1359	O. penicillata	false negative
-1359	Oxalis laxa	false negative
-1359	O. loricata	false negative
-1359	O. nahuelhuapiensis	false negative
-1359	O. purpurascens	false negative
-1359	Oxalis ortgiesii	false negative
-1359	Oxalis enneaphylla	false negative
-1359	Oxalis triangularis	false negative
-1359	Geissois	false negative
-1359	Callicoma	false negative
-1359	O. dumetorum	false negative
-1359	O. barrelieri	false negative
-1359	O. hirta	false negative
-1359	O. matancillae	false negative
-1359	O. spiralis	false negative
-1359	O. atacamensis	false negative
-1359	O. triangularis	false negative
-1359	Oxalis brasiliensis	false negative
-1359	O. ricardii	false negative
-1359	Weinmannia	false negative
-1359	Oxalis hypsophila	false negative
-1359	O. laciniata	false negative
-1359	Codia	false negative
-1359	Oxalis laciniata	false negative
-1359	O. bulbocastanum	false negative
-1359	Oxalis aurea flava	false negative
-1359	O. cinerea	false negative
-1359	Oxalis johnstonii	false negative
-1359	Brunellia	false negative
-1359	Oxalis acetosella	false negative
-1359	Tetratheca	false negative
-1359	Oxalis glabra	false negative
-1359	O. incana	false negative
-1359	Pancheria	false negative
-1359	Ceratopetalum	false negative
-1359	Oxalis spiralis	false negative
-1359	Oxalis knuthiana	false negative
-1359	O. brasiliensis	false negative
-1359	O. arbuscula	false negative
-1359	O. virgata	false negative
-1359	Oxalis penicillata	false negative
-1359	Oxalis vulcanicola	false negative
-1359	O. laxa	false negative
-1359	Connarus	false negative
-1359	Oxalis megalorrhiza	false negative
-1359	O. stricta	false negative
-1359	O. ortgiesii	false negative
-1359	Elaeocarpus	false negative
-1359	O. hypsophila	false negative
-1359	O. gigantea	false negative
-1359	Oxalis ornithopus	false negative
-1359	Oxalis dentata	false negative
-1359	O. knuthiana	false negative
-1359	O. debilis	false negative
-1359	Cunonciaceae	false negative
-1359	Hooglandia	false negative
-1359	O. latifolia	false negative
-1359	O. pes caprae	false negative
-1359	Oxalis squamata	false negative
-1359	Oxalis adenophylla	false negative
-1359	Petenaea	false negative
-1359	Cephalotus	false negative
-1359	Oxalis magellanica	false negative
-1359	tuberosa	false negative
-1359	Oxalis latifolia	false negative
-1359	O. arenaria	false negative
-1359	Peripentadenia	false negative
-1359	Thamnoxys	false negative
-1359	Oxalis valdiviensis	false negative
-1359	Oxalis dumetorum	false negative
-1359	Oxalis micrantha	false negative
-1359	Tremandra	false negative
-1359	Oxalis virgosa	false negative
-1359	Oxalis novemfoliolata	false negative
-1359	Oxalis debilis	false negative
-1359	O. aurea flava	false negative
-1359	Oxalis ricardii	false negative
-1359	Pseudoweinmannia	false negative
-1359	Sloanea	false negative
-1359	O. aurea-flava	false negative
-1359	Oxalis corniculata	false negative
-1359	O. pycnophylla	false negative
-1359	Afrostyrax	false negative
-1359	Oxalis caesia	false negative
-1359	Anodopetalum	false negative
-1359	Oxalis nahuelhuapiensis	false negative
-1359	Oxalis pes caprae	false negative
-1359	Acsmithia	false negative
-1359	Byrsocarpus	false negative
-1359	Oxalis barrelieri	false negative
-1359	Pullea	false negative
-1359	Oxalis hirta	false negative
-1359	O. vulcanicola	false negative
-1359	Caldcluvia	false negative
-1359	Oxalis lomana	false negative
-1359	O. compacta	false negative
-1359	Oxalis virgata	false negative
-1359	Platytheca	false negative
-1359	Oxalis cinerea	false negative
-1359	Oxalis compacta	false negative
-1359	Oxalis stricta	false negative
-1359	Oxalis bulbocastanum	false negative
-1359	Oxalis purpurascens	false negative
-1359	Spiraeanthemum	false negative
-1359	O. glabra	false negative
-1359	O. lomana	false negative
-1359	Oxalis arbuscula	false negative
-1359	Oxalis boliviana	false negative
-1359	Oxalis holosericea	false negative
-1359	Oxalis tuberosa	false negative
-1359	O. johnstonii	false negative
-1359	Oxalis fontana	false negative
-1359	O. paposana	false negative
-1359	Vesselowskya	false negative
-1359	Oxalis pycnophylla	false negative
-1359	O. perdicaria	false negative
-1359	O. ornithopus	false negative
-1359	O. squarrosa	false negative
-1359	O. squamata	false negative
-1359	Crinodendron	false negative
-1359	Dubouzetia	false negative
-1359	Oxalis tetraphylla	false negative
-1359	Gillbeea	false negative
-1359	O. micrantha	false negative
-1359	O. dentata	false negative
-1359	O. gyrorhiza	false negative
-1359	Aristotelia	false negative
-1359	Sericolea	false negative
-1359	Oxalis squarrosa	false negative
-1359	Davidsonia	false negative
-1359	Vallea	false negative
-1359	O. valdiviensis	false negative
-1359	Oxalis morenoensis	false negative
-1359	O. platycaulis	false negative
-1359	O. caesia	false negative
-1359	Cunonia	false negative
-1359	Bauera	false negative
-1359	O. erythrorhiza	false negative
-1359	Oxalis atacamensis	false negative
-1359	Elaeocarpacea	false negative
-1359	O. tetraphylla	false negative
-1359	Oxalis tortuosa	false negative
-1359	O. fontana	false negative
-1359	Oxalis loricata	false negative
-1359	Oxalis rosea	false negative
-1359	Oxalis pachyrrhiza	false negative
-1359	Oxalis incana	false negative
-1359	O. corniculata	false negative
-1359	Oxalis arenaria	false negative
-1359	O. adenophylla	false negative
-1359	O. holosericea	false negative
-1359	Oxalis gigantea	false negative
-1359	O. boliviana	false negative
-1359	Platylophus	false negative
-1359	Rourea	false negative
-1359	Oxalis paposana	false negative
-1359	Oxalis rigida	false negative
-1359	Oxalis gyrorhiza	false negative
-1359	O. enneaphylla	false negative
-1359	O. rigida	false negative
-1359	O. virgosa	false negative
-1359	Oxalis platycaulis	false negative
-1359	O. pachyrrhiza	false negative
+1359	Taxon	false positive
 1359	Aceratium	false negative
-1359	Spiraeopsis	false negative
-1359	Oxalis matancillae	false negative
-1371	M. arion caterpillar	false positive
-1371	Polyommatus bellargus	false positive
-1371	Lysandra	false positive
-1371	M. sabuleti colonies	false positive
-1371	Maculinea caterpillar	false positive
-1371	M. sabuleti	false negative
-1371	Polyommatus (Lysandra) bellargus	false negative
-1381	Hetaerina americana Fabricius	false negative
-1381	Odonata	false negative
-1392	Georgina	false positive
-1392	Tripotheus albus	false negative
-1392	T. albus	false negative
-1398	Phalaris arundinacea	false positive
-1398	S. alterniflora may	false positive
-1398	M-spartina alterniflora	false positive
-1398	Z. marina	false negative
-1398	Scirpus mariqueter Wang et Tang	false negative
-1398	S. anglica C.E. Hubbard	false negative
-1398	Arabidopsis thaliana	false negative
-1398	Spartina alterniflora Loisel.	false negative
-1398	Phalaris arundinacea L.	false negative
-1404	Dinoflagellates	false positive
-1404	Chlorophylla	false positive
-1404	Coregonus	false positive
-1404	Penguins	false positive
-1404	Ltd hangoei	false positive
-1404	Arec	false positive
-1404	Coregonus sp.	false negative
-1404	S. aff. hangoei	false negative
-1404	Scrippsiella aff. hangoei	false negative
-1414	Lolium multiflorum cross	false positive
-1414	N. occultans hyphae	false positive
-1420	Serra	false positive
-1420	Nuria	false positive
-1420	T. baccata L.	false negative
-1420	T. x media	false negative
-1420	Taxus baccata (Frense 2006)	false negative
-1420	Cephalotaxus	false negative
-1437	Prosapia	false positive
-1437	Prosapia sp. n.	false negative
-1441	Morphological	false positive
-1441	Laupala may	false positive
-1441	L. eukolea nymphs	false positive
-1441	cerasina	false negative
-1441	pacifica	false negative
-1447	F. excelsior	false negative
-1457	Peron	false positive
-1457	Armigera	false positive
-1457	Serra	false positive
-1457	H. erythrogramma may	false positive
-1457	H. e. erythrogramma	false negative
-1457	Heliocidaris erythrogramma armigera	false negative
-1457	Heliocidaris e. erythrogramma	false negative
-1457	H. e. armigera	false negative
-1457	Heliocidaris erythrogramma (VALENCIENNES1846)	false negative
-1463	Lerista bougainvilli via	false positive
-1463	Egernia	false positive
-1463	Niveoscincus	false positive
-1463	Lerista bougainvilli	false negative
-1463	Niveoscincus orocrypta	false negative
-1463	M. musculus	false negative
-1463	Egernia kingie	false negative
-1469	Morphological	false positive
-1469	Melissa	false positive
-1473	Vaccinium vitis-idea	false negative
-1473	Vaccinium sp.	false negative
-1480	Taxon	false positive
-1480	Ap. sp.	false negative
-1480	Aporrectodea sp.	false negative
-1480	Ap. longa ? nocturna	false negative
-1480	Lumbricus terrestris ? castaneus	false negative
-1508	Valle	false positive
-1519	Dion	false positive
-1519	A. tumefaciens cells	false positive
-1523	Rhinolophus ferrumequinum	false positive
-1523	Azuma	false positive
-1523	Eleutherococcus spinosus var. japonicus	false positive
-1523	Kalopanax septemlobus	false positive
-1523	Juglans mandshurica	false positive
-1523	Kalopanax	false positive
-1523	Tasmannia lanceolata	false positive
-1523	Taxus wallichiana	false positive
-1523	E. spinosus var. japonicus	false positive
-1523	Metasequoia	false positive
-1523	Araliaceae	false positive
-1523	Dysosma versipellis	false positive
-1523	Glyptostrobus	false positive
-1523	Panax ginseng	false positive
-1523	K. septemlobus	false positive
+1359	Oxalis pachyrrhiza	false negative
+1359	O. valdiviensis	false negative
+1359	Codia	false negative
+1359	O. virgata	false negative
+1359	O. paposana	false negative
+1359	O. aurea-flava	false negative
+1359	Oxalis aurea flava	false negative
+1359	Elaeocarpacea	false negative
+1359	O. squarrosa	false negative
+1359	Oxalis corniculata	false negative
+1359	O. boliviana	false negative
+1359	Oxalis brasiliensis	false negative
+1359	Spiraeanthemum	false negative
+1359	Oxalis laciniata	false negative
+1359	Anodopetalum	false negative
+1359	Oxalis atacamensis	false negative
+1359	Tremandra	false negative
+1359	O. matancillae	false negative
+1359	Oxalis magellanica	false negative
+1359	Elaeocarpus	false negative
+1359	Oxalis latifolia	false negative
+1359	Davidsonia	false negative
+1359	O. bulbocastanum	false negative
+1359	Oxalis squarrosa	false negative
+1359	O. rigida	false negative
+1359	Oxalis tetraphylla	false negative
+1359	O. vulcanicola	false negative
+1359	Vallea	false negative
+1359	O. penicillata	false negative
+1359	O. triangularis	false negative
+1359	Dubouzetia	false negative
+1359	O. atacamensis	false negative
+1359	Oxalis loricata	false negative
+1359	Pancheria	false negative
+1359	O. gigantea	false negative
+1359	Cunonciaceae	false negative
+1359	Oxalis megalorrhiza	false negative
+1359	Oxalis nahuelhuapiensis	false negative
+1359	Oxalis micrantha	false negative
+1359	Oxalis rigida	false negative
+1359	O. barrelieri	false negative
+1359	Oxalis dentata	false negative
+1359	O. lomana	false negative
+1359	Peripentadenia	false negative
+1359	O. corniculata	false negative
+1359	O. caesia	false negative
+1359	O. platycaulis	false negative
+1359	O. ricardii	false negative
+1359	O. pycnophylla	false negative
+1359	O. stricta	false negative
+1359	Vesselowskya	false negative
