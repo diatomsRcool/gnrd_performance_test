@@ -2,9 +2,9 @@
 
 This repository shows the analysis and results for a test of GNFinder performance as a tool for finding taxonomic names in text and adding them to metadata.
 
-The code for GNFinder is here.
+The code for GNFinder is [here](https://github.com/gnames/gnfinder).
 
-Folder dryad-paper is a nested repository containing the text files that were read by GNFinder and the csv and json output. The name of the subfolder is a number that matches the data package identifier.
+dryad-paper is a nested repository containing the text files that were read by GNFinder and the csv and json output. The name of the subfolder is a number that matches the data package identifier.
 
 GNRD_performance_text.ipynb is a Jupyter notebook showing how the performance metrics were calculated from the results in dryad-paper.
 
